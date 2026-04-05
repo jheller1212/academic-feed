@@ -207,7 +207,7 @@ async function scrapeFeed(
   try {
     const feed = await parser.parseURL(feedConfig.url)
     const now = new Date()
-    const fiveDaysAgo = new Date(now.getTime() - 5 * 24 * 60 * 60 * 1000)
+    const thirtyDaysAgo = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000)
 
     const articles: Article[] = []
 
@@ -215,7 +215,7 @@ async function scrapeFeed(
       if (!item.title || !item.link) continue
 
       const pubDate = item.pubDate ? new Date(item.pubDate) : now
-      if (pubDate < fiveDaysAgo) continue
+      if (pubDate < thirtyDaysAgo) continue
 
       const body = item.contentSnippet || item.content || item.summary || ''
       const { topics, score } = matchTopics(item.title, body)
@@ -294,7 +294,7 @@ async function main() {
   }
 
   // Merge: new articles take priority, keep old ones up to 14 days
-  const twoWeeksAgo = new Date(Date.now() - 14 * 24 * 60 * 60 * 1000)
+  const twoWeeksAgo = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000)
   const existingById = new Map(existing.map((a: Article) => [a.id, a]))
   for (const article of unique) {
     existingById.set(article.id, article)

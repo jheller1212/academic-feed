@@ -4,7 +4,15 @@ import { markSeen, markUsed, getAllStates, getApiKey, setApiKey } from './store'
 import { generateLinkedInPost } from './generate'
 
 type Filter = 'all' | 'new' | 'seen' | 'used'
+type TimeRange = 'all' | '3d' | '7d' | '14d'
 type SortBy = 'relevance' | 'date' | 'source'
+
+const TIME_RANGES: Record<TimeRange, { label: string; days: number }> = {
+  '3d': { label: 'Last 3 days', days: 3 },
+  '7d': { label: 'Last week', days: 7 },
+  '14d': { label: 'Last 2 weeks', days: 14 },
+  'all': { label: 'All time', days: Infinity },
+}
 
 function timeAgo(dateStr: string): string {
   const diff = Date.now() - new Date(dateStr).getTime()
@@ -276,6 +284,7 @@ export default function App() {
   const [articles, setArticles] = useState<Article[]>([])
   const [states, setStates] = useState<Record<string, ArticleState>>({})
   const [filter, setFilter] = useState<Filter>('all')
+  const [timeRange, setTimeRange] = useState<TimeRange>('7d')
   const [topicFilter, setTopicFilter] = useState<string | null>(null)
   const [sortBy, setSortBy] = useState<SortBy>('relevance')
   const [loading, setLoading] = useState(true)
@@ -381,6 +390,11 @@ export default function App() {
     if (filter === 'seen' && !state.seen) return false
     if (filter === 'used' && !state.used) return false
     if (topicFilter && !a.topics.includes(topicFilter)) return false
+    if (timeRange !== 'all') {
+      const days = TIME_RANGES[timeRange].days
+      const cutoff = Date.now() - days * 24 * 60 * 60 * 1000
+      if (new Date(a.publishedAt).getTime() < cutoff) return false
+    }
     return true
   })
 
@@ -499,6 +513,15 @@ export default function App() {
                 <option key={t} value={t}>
                   {t}
                 </option>
+              ))}
+            </select>
+            <select
+              value={timeRange}
+              onChange={(e) => setTimeRange(e.target.value as TimeRange)}
+              className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
+            >
+              {Object.entries(TIME_RANGES).map(([key, { label }]) => (
+                <option key={key} value={key}>{label}</option>
               ))}
             </select>
             <select
