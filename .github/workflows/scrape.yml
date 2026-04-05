@@ -1,0 +1,34 @@
+name: Scrape Academic Feeds
+
+on:
+  schedule:
+    # Runs daily at 7:00 AM UTC (9:00 AM CET)
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run scraper
+        run: npm run scrape
+
+      - name: Commit updated articles
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/articles.json
+          git diff --cached --quiet || git commit -m "chore: update articles $(date -u +%Y-%m-%d)"
+          git push
