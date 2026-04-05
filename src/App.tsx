@@ -4,24 +4,37 @@ import { markSeen, markUsed, getAllStates, getApiKey, setApiKey } from './store'
 import { generateLinkedInPost } from './generate'
 
 type Filter = 'all' | 'new' | 'seen' | 'used'
-type SortBy = 'date' | 'source'
+type SortBy = 'relevance' | 'date' | 'source'
 
 function timeAgo(dateStr: string): string {
   const diff = Date.now() - new Date(dateStr).getTime()
-  const hours = Math.floor(diff / (1000 * 60 * 60))
-  if (hours < 1) return 'just now'
+  const mins = Math.floor(diff / (1000 * 60))
+  if (mins < 1) return 'just now'
+  if (mins < 60) return `${mins}m ago`
+  const hours = Math.floor(mins / 60)
   if (hours < 24) return `${hours}h ago`
   const days = Math.floor(hours / 24)
   return `${days}d ago`
 }
 
-function Badge({ text, variant }: { text: string; variant: 'topic' | 'new' | 'seen' | 'used' | 'source' }) {
+function formatDate(dateStr: string): string {
+  return new Date(dateStr).toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'short',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+  })
+}
+
+function Badge({ text, variant }: { text: string; variant: 'topic' | 'new' | 'seen' | 'used' | 'source' | 'pick' }) {
   const colors = {
     topic: 'bg-blue-100 text-blue-700',
     new: 'bg-green-100 text-green-700 font-semibold',
     seen: 'bg-gray-100 text-gray-500',
     used: 'bg-purple-100 text-purple-700',
     source: 'bg-amber-100 text-amber-700',
+    pick: 'bg-orange-100 text-orange-700 font-semibold',
   }
   return (
     <span className={`inline-block px-2 py-0.5 rounded-full text-xs ${colors[variant]}`}>
@@ -30,14 +43,33 @@ function Badge({ text, variant }: { text: string; variant: 'topic' | 'new' | 'se
   )
 }
 
+function RelevanceBar({ score, max }: { score: number; max: number }) {
+  const pct = Math.min(100, Math.round((score / max) * 100))
+  return (
+    <div className="flex items-center gap-2">
+      <div className="w-16 h-1.5 bg-gray-200 rounded-full overflow-hidden">
+        <div
+          className="h-full bg-orange-400 rounded-full"
+          style={{ width: `${pct}%` }}
+        />
+      </div>
+      <span className="text-xs text-gray-400">{score}</span>
+    </div>
+  )
+}
+
 function ArticleCard({
   article,
   state,
+  rank,
+  maxScore,
   onGeneratePost,
   onMarkSeen,
 }: {
   article: Article
   state: ArticleState
+  rank?: number
+  maxScore: number
   onGeneratePost: (article: Article) => void
   onMarkSeen: (id: string) => void
 }) {
@@ -56,16 +88,21 @@ function ArticleCard({
           ? 'bg-purple-50/50 border-purple-200'
           : state.seen
             ? 'bg-gray-50 border-gray-200'
-            : 'bg-white border-gray-200 shadow-sm hover:shadow-md'
+            : rank
+              ? 'bg-white border-orange-200 shadow-sm hover:shadow-md'
+              : 'bg-white border-gray-200 shadow-sm hover:shadow-md'
       }`}
     >
       <div className="flex flex-wrap items-center gap-2 mb-2">
+        {rank && <Badge text={`#${rank} Pick`} variant="pick" />}
         {statusBadge}
         <Badge text={article.source} variant="source" />
         <span className="text-xs text-gray-400">{timeAgo(article.publishedAt)}</span>
+        <div className="flex-1" />
+        <RelevanceBar score={article.relevanceScore ?? 0} max={maxScore} />
       </div>
 
-      <h3 className="font-semibold text-base sm:text-lg leading-snug mb-2">
+      <h3 className="font-semibold text-base sm:text-lg leading-snug mb-1">
         <a
           href={article.url}
           target="_blank"
@@ -78,6 +115,12 @@ function ArticleCard({
           {article.title}
         </a>
       </h3>
+
+      {article.whyItMatters && (
+        <p className="text-sm text-orange-700 bg-orange-50 rounded px-2 py-1 mb-2 italic">
+          {article.whyItMatters}
+        </p>
+      )}
 
       <p className="text-sm text-gray-600 mb-3 line-clamp-3">{article.summary}</p>
 
@@ -218,9 +261,10 @@ export default function App() {
   const [states, setStates] = useState<Record<string, ArticleState>>({})
   const [filter, setFilter] = useState<Filter>('all')
   const [topicFilter, setTopicFilter] = useState<string | null>(null)
-  const [sortBy, setSortBy] = useState<SortBy>('date')
+  const [sortBy, setSortBy] = useState<SortBy>('relevance')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [showAllArticles, setShowAllArticles] = useState(false)
 
   // Post generation
   const [generatingArticle, setGeneratingArticle] = useState<Article | null>(null)
@@ -300,9 +344,21 @@ export default function App() {
     }
   }
 
-  // Filtering & sorting
+  // Derived data
   const allTopics = [...new Set(articles.flatMap((a) => a.topics))].sort()
+  const maxScore = Math.max(...articles.map((a) => a.relevanceScore ?? 0), 1)
+  const lastScraped = articles[0]?.scrapedAt
 
+  // Top 10 picks (unseen, highest relevance)
+  const topPicks = articles
+    .filter((a) => {
+      const s = states[a.id]
+      return !s || (!s.seen && !s.used)
+    })
+    .sort((a, b) => (b.relevanceScore ?? 0) - (a.relevanceScore ?? 0))
+    .slice(0, 10)
+
+  // Filtered & sorted list for "all articles" view
   const filtered = articles.filter((a) => {
     const state = states[a.id] || { seen: false, used: false }
     if (filter === 'new' && (state.seen || state.used)) return false
@@ -314,6 +370,7 @@ export default function App() {
 
   const sorted = [...filtered].sort((a, b) => {
     if (sortBy === 'source') return a.source.localeCompare(b.source)
+    if (sortBy === 'relevance') return (b.relevanceScore ?? 0) - (a.relevanceScore ?? 0)
     return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
   })
 
@@ -333,10 +390,26 @@ export default function App() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-6 sm:py-10">
       <header className="mb-6">
-        <h1 className="text-2xl sm:text-3xl font-bold">Academic Feed</h1>
-        <p className="text-gray-500 mt-1">
-          {articles.length} articles &middot; {newCount} new
-        </p>
+        <div className="flex items-start justify-between">
+          <div>
+            <h1 className="text-2xl sm:text-3xl font-bold">Academic Feed</h1>
+            <p className="text-gray-500 mt-1">
+              {articles.length} articles &middot; {newCount} new
+            </p>
+          </div>
+          <button
+            onClick={() => setShowApiKeyPrompt(true)}
+            className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 hover:bg-gray-200 text-gray-500"
+            title="Set Claude API key"
+          >
+            API Key
+          </button>
+        </div>
+        {lastScraped && (
+          <p className="text-xs text-gray-400 mt-2">
+            Last updated: {formatDate(lastScraped)} ({timeAgo(lastScraped)})
+          </p>
+        )}
       </header>
 
       {error && (
@@ -345,66 +418,102 @@ export default function App() {
         </div>
       )}
 
-      {/* Filters */}
-      <div className="flex flex-wrap gap-2 mb-4">
-        {(['all', 'new', 'seen', 'used'] as Filter[]).map((f) => (
+      {/* Top Picks Section */}
+      {!showAllArticles && topPicks.length > 0 && (
+        <section className="mb-8">
+          <h2 className="text-lg font-bold mb-3">Today's Top Picks</h2>
+          <p className="text-sm text-gray-500 mb-4">
+            Ranked by relevance to academic life, PhD/postdoc experience, and emerging trends. Pick one to draft a LinkedIn post.
+          </p>
+          <div className="space-y-3">
+            {topPicks.map((article, i) => (
+              <ArticleCard
+                key={article.id}
+                article={article}
+                state={states[article.id] || { seen: false, used: false }}
+                rank={i + 1}
+                maxScore={maxScore}
+                onGeneratePost={handleGeneratePost}
+                onMarkSeen={handleMarkSeen}
+              />
+            ))}
+          </div>
           <button
-            key={f}
-            onClick={() => setFilter(f)}
-            className={`px-3 py-1.5 rounded-lg text-sm capitalize transition-colors ${
-              filter === f ? 'bg-blue-600 text-white' : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
-            }`}
+            onClick={() => setShowAllArticles(true)}
+            className="mt-4 w-full py-2 text-sm text-gray-500 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors"
           >
-            {f}
+            Show all {articles.length} articles
           </button>
-        ))}
-        <div className="w-px bg-gray-200 mx-1" />
-        <select
-          value={topicFilter || ''}
-          onChange={(e) => setTopicFilter(e.target.value || null)}
-          className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
-        >
-          <option value="">All topics</option>
-          {allTopics.map((t) => (
-            <option key={t} value={t}>
-              {t}
-            </option>
-          ))}
-        </select>
-        <select
-          value={sortBy}
-          onChange={(e) => setSortBy(e.target.value as SortBy)}
-          className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
-        >
-          <option value="date">Newest first</option>
-          <option value="source">By source</option>
-        </select>
-        <div className="flex-1" />
-        <button
-          onClick={() => setShowApiKeyPrompt(true)}
-          className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 hover:bg-gray-200 text-gray-500"
-          title="Set Claude API key"
-        >
-          API Key
-        </button>
-      </div>
+        </section>
+      )}
 
-      {/* Article list */}
-      <div className="space-y-3">
-        {sorted.length === 0 ? (
-          <p className="text-center text-gray-400 py-12">No articles match your filters.</p>
-        ) : (
-          sorted.map((article) => (
-            <ArticleCard
-              key={article.id}
-              article={article}
-              state={states[article.id] || { seen: false, used: false }}
-              onGeneratePost={handleGeneratePost}
-              onMarkSeen={handleMarkSeen}
-            />
-          ))
-        )}
-      </div>
+      {/* All Articles Section */}
+      {(showAllArticles || topPicks.length === 0) && (
+        <section>
+          {showAllArticles && (
+            <button
+              onClick={() => setShowAllArticles(false)}
+              className="mb-4 text-sm text-blue-600 hover:text-blue-800"
+            >
+              &larr; Back to Top Picks
+            </button>
+          )}
+
+          {/* Filters */}
+          <div className="flex flex-wrap gap-2 mb-4">
+            {(['all', 'new', 'seen', 'used'] as Filter[]).map((f) => (
+              <button
+                key={f}
+                onClick={() => setFilter(f)}
+                className={`px-3 py-1.5 rounded-lg text-sm capitalize transition-colors ${
+                  filter === f ? 'bg-blue-600 text-white' : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
+                }`}
+              >
+                {f}
+              </button>
+            ))}
+            <div className="w-px bg-gray-200 mx-1" />
+            <select
+              value={topicFilter || ''}
+              onChange={(e) => setTopicFilter(e.target.value || null)}
+              className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
+            >
+              <option value="">All topics</option>
+              {allTopics.map((t) => (
+                <option key={t} value={t}>
+                  {t}
+                </option>
+              ))}
+            </select>
+            <select
+              value={sortBy}
+              onChange={(e) => setSortBy(e.target.value as SortBy)}
+              className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
+            >
+              <option value="relevance">Most relevant</option>
+              <option value="date">Newest first</option>
+              <option value="source">By source</option>
+            </select>
+          </div>
+
+          <div className="space-y-3">
+            {sorted.length === 0 ? (
+              <p className="text-center text-gray-400 py-12">No articles match your filters.</p>
+            ) : (
+              sorted.map((article) => (
+                <ArticleCard
+                  key={article.id}
+                  article={article}
+                  state={states[article.id] || { seen: false, used: false }}
+                  maxScore={maxScore}
+                  onGeneratePost={handleGeneratePost}
+                  onMarkSeen={handleMarkSeen}
+                />
+              ))
+            )}
+          </div>
+        </section>
+      )}
 
       {/* Post generation modal */}
       {generatingArticle && !showApiKeyPrompt && (
@@ -423,7 +532,8 @@ export default function App() {
       {showApiKeyPrompt && <ApiKeyPrompt onSave={handleSaveApiKey} />}
 
       <footer className="mt-12 text-center text-xs text-gray-400">
-        Academic Feed &middot; Last scraped: {articles[0]?.scrapedAt ? timeAgo(articles[0].scrapedAt) : 'never'}
+        Academic Feed &middot; Updates every 3 hours
+        {lastScraped && <> &middot; Last scraped: {formatDate(lastScraped)}</>}
       </footer>
     </div>
   )

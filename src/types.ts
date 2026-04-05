@@ -2,6 +2,8 @@ export interface Article {
   id: string
   title: string
   summary: string
+  whyItMatters: string
+  relevanceScore: number
   url: string
   source: string
   publishedAt: string

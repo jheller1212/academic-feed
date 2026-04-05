@@ -1,36 +1,140 @@
 [
   {
-    "id": "21d7b9d4cece",
-    "title": "DefensePredictor: A machine learning model to discover prokaryotic immune systems",
-    "summary": "Science, Volume 392, Issue 6793, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adv7924?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
+    "id": "38fec5f886f7",
+    "title": "Neuroscience explains why teens are so vulnerable to Big Tech social media platforms",
+    "summary": "In a landmark decision, a Los Angeles jury has found that social media company Meta and video streaming service YouTube harmed a young user with addictive design features that led to mental health distress, including body dysmorphia, depression and suicidal thoughts. Commentators have referred to this as social media’s “Big Tobacco” moment and further lawsuits are pending. The verdict has escalated calls for more regulation of social media platforms across jurisdictions. Countries like Australia",
+    "whyItMatters": "Academic wellbeing is an institutional issue, not a personal one. This matters for the culture we build. From The Conversation.",
+    "relevanceScore": 11,
+    "url": "https://theconversation.com/neuroscience-explains-why-teens-are-so-vulnerable-to-big-tech-social-media-platforms-278521",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T16:53:38.000Z",
+    "scrapedAt": "2026-04-05T18:58:53.510Z",
     "topics": [
-      "AI & Tech in Academia"
+      "Mental Health & Wellbeing"
     ]
   },
   {
-    "id": "789fc9d8a410",
-    "title": "Flexible, abstract rhythm perception in bumble bees",
-    "summary": "Science, Volume 392, Issue 6793, Page 93-95, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adz2894?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
+    "id": "5681dd94ce1e",
+    "title": "Danielle Smith’s immigration referendum fuels an ‘us versus them’ divide in Alberta",
+    "summary": "In 2023, Alberta Premier Danielle Smith mused that she would like to see the province’s population to grow 10 million people. But by 2026, faced with an astronomical budget deficit of $9.4 billion, Smith recently said the “federal experiments in open borders” have contributed to Alberta’s current fiscal woes. Smith is inviting a public debate on immigration, proposing five immigration-related questions in an October referendum. Leading questions The immigration referendum questions are replete w",
+    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From The Conversation.",
+    "relevanceScore": 10,
+    "url": "https://theconversation.com/danielle-smiths-immigration-referendum-fuels-an-us-versus-them-divide-in-alberta-278577",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T16:54:09.000Z",
+    "scrapedAt": "2026-04-05T18:58:53.510Z",
     "topics": [
-      "Science Policy"
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "386d86272a95",
+    "title": "Men’s wellbeing groups are growing - and helping fill gaps in mental health support",
+    "summary": "Pressure on mental health services across the UK is leaving many men without timely support when they need it most. Men in the UK die by suicide at more than three times the rate of women. There’s a link between poor mental health and suicide, which means men’s wellbeing needs urgent attention. Yet long NHS waiting lists for psychological support mean that many men are unable to access help when they need it. In Wales, the mental health charity Mind Cymru reports that more than 2,000 people with",
+    "whyItMatters": "Academic wellbeing is an institutional issue, not a personal one. This matters for the culture we build. From The Conversation.",
+    "relevanceScore": 10,
+    "url": "https://theconversation.com/mens-wellbeing-groups-are-growing-and-helping-fill-gaps-in-mental-health-support-276933",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T12:43:53.000Z",
+    "scrapedAt": "2026-04-05T18:58:53.510Z",
+    "topics": [
+      "Mental Health & Wellbeing"
+    ]
+  },
+  {
+    "id": "23766194b4ea",
+    "title": "Mix-and-match synthesis of 3D small molecules",
+    "summary": "No summary available",
+    "whyItMatters": "Directly relevant to early-career academics navigating doctoral life. From Nature.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-00809-0",
+    "source": "Nature",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "topics": [
+      "PhD Life"
+    ]
+  },
+  {
+    "id": "af3d3983b500",
+    "title": "Weekend reads: Half of social science ‘doesn’t replicate’; ‘Scientific ghosts: Life after retraction’; multisensory learning paper retracted",
+    "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In case you missed the news, the Hijacked Journal Checker now has more than 400 entries. The Retraction Watch Database has over 64,000 retractions. Our list of COVID-19 retractions … Continue reading Weekend reads: Half of social science ‘doesn’t replicate’; ‘Scientific ghosts: Life after retraction’; multisensory learning paper retracted",
+    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From Retraction Watch.",
+    "relevanceScore": 8,
+    "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
+    "source": "Retraction Watch",
+    "publishedAt": "2026-04-04T10:00:00.000Z",
+    "scrapedAt": "2026-04-05T18:58:51.864Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "6cac4caf2d79",
+    "title": "What a US attorney general actually does – a law professor spells it out",
+    "summary": "U.S. Attorney General Pam Bondi answers questions from the media at the U.S. Capitol on March 18, 2026. Matt McClain/Getty Images President Donald Trump fired Attorney General Pam Bondi on April 2, 2026, only 14 months after she was sworn into office, making her time in the role the shortest in 60 years. While much recent attention has focused on Trump’s decision to fire Bondi, there has been less attention on what the attorney general actually does, or what happens when the attorney general get",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/what-a-us-attorney-general-actually-does-a-law-professor-spells-it-out-279949",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-03T15:21:01.000Z",
+    "scrapedAt": "2026-04-05T18:58:53.510Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "1ff50c11367e",
+    "title": "Guest post: Should universities investigate questionable papers students and faculty wrote elsewhere?",
+    "summary": "I am a research ethicist and often get asked by my university to investigate when potential concerns are raised about our staff or students. One example involved the recent case of the alleged paper mill and self-citation activities by Hitler Louis and Innocent Benjamin. The matter raised significant questions about who within the research community … Continue reading Guest post: Should universities investigate questionable papers students and faculty wrote elsewhere?",
+    "whyItMatters": "Relevant to academic life. From Retraction Watch.",
+    "relevanceScore": 8,
+    "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
+    "source": "Retraction Watch",
+    "publishedAt": "2026-04-03T12:00:00.000Z",
+    "scrapedAt": "2026-04-05T18:58:51.864Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "a4fd2df5d6d8",
+    "title": "What to Know About AI and Mental Health",
+    "summary": "What to Know About AI and Mental Health Elizabeth Redden Fri, 04/03/2026 - 03:00 AM Many students are turning to AI for their mental health needs—a fact campuses ignore at their peril. Byline(s) Jessi Gold",
+    "whyItMatters": "Academic wellbeing is an institutional issue, not a personal one. This matters for the culture we build. From Inside Higher Ed.",
+    "relevanceScore": 8,
+    "url": "https://www.insidehighered.com/opinion/views/2026/04/03/what-know-about-ai-and-campus-mental-health-opinion",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-03T07:00:00.000Z",
+    "scrapedAt": "2026-04-05T18:58:49.900Z",
+    "topics": [
+      "Mental Health & Wellbeing"
+    ]
+  },
+  {
+    "id": "21d7b9d4cece",
+    "title": "DefensePredictor: A machine learning model to discover prokaryotic immune systems",
+    "summary": "Science, Volume 392, Issue 6793, April 2026.",
+    "whyItMatters": "AI is reshaping how research is done and taught — this has implications for every academic. From Science.",
+    "relevanceScore": 6,
+    "url": "https://www.science.org/doi/abs/10.1126/science.adv7924?af=R",
+    "source": "Science",
+    "publishedAt": "2026-04-05T18:58:50.961Z",
+    "scrapedAt": "2026-04-05T18:58:50.961Z",
+    "topics": [
+      "AI & Tech in Academia"
     ]
   },
   {
     "id": "50ad36ca04b5",
     "title": "Protein and genomic language models uncover the unexplored diversity of bacterial immunity",
     "summary": "Science, Volume 392, Issue 6793, April 2026.",
+    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From Science.",
+    "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.adv8275?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
+    "publishedAt": "2026-04-05T18:58:50.961Z",
+    "scrapedAt": "2026-04-05T18:58:50.961Z",
     "topics": [
       "Research Culture"
     ]
@@ -39,301 +143,180 @@
     "id": "3dfc63ed605c",
     "title": "Harnessing viral strategies to reverse cognitive dysfunction through the integrated stress response",
     "summary": "Science, Volume 392, Issue 6793, April 2026.",
+    "whyItMatters": "Academic wellbeing is an institutional issue, not a personal one. This matters for the culture we build. From Science.",
+    "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.aea8782?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
+    "publishedAt": "2026-04-05T18:58:50.961Z",
+    "scrapedAt": "2026-04-05T18:58:50.961Z",
     "topics": [
       "Mental Health & Wellbeing"
-    ]
-  },
-  {
-    "id": "3950697fa784",
-    "title": "A SWI/SNF-specific Ig-like domain, SWIFT, is a transcription factor binding platform",
-    "summary": "Science, Volume 392, Issue 6793, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeb3627?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "54c59840067f",
-    "title": "Strategies for achieving healthy, sustainable, and equitable dietary transitions",
-    "summary": "Science, Volume 392, Issue 6793, Page 37-43, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adr7162?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "cac362e14a37",
-    "title": "In Other Journals",
-    "summary": "Science, Volume 392, Issue 6793, Page 47-48, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeh6472?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "Academic Life"
-    ]
-  },
-  {
-    "id": "c3321f36a19e",
-    "title": "Mitochondria power immunity against cancer",
-    "summary": "Science, Volume 392, Issue 6793, Page 24-25, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeg4325?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "1a5e450ec4c5",
-    "title": "Fight against neonatal mortality is losing steam",
-    "summary": "Science, Volume 392, Issue 6793, Page 10-11, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeh6874?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "d9e938500638",
-    "title": "Agency for patient care research is in dire straits",
-    "summary": "Science, Volume 392, Issue 6793, Page 11-12, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeh6875?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "fe89066bacd3",
-    "title": "Two years after it emerged, ‘cow flu’ still baffles scientists",
-    "summary": "Science, Volume 392, Issue 6793, Page 12-14, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeh6876?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "Academic Life"
-    ]
-  },
-  {
-    "id": "f66407e334e0",
-    "title": "Scientists brace for expansion of Alzheimer’s blood tests",
-    "summary": "Science, Volume 392, Issue 6793, Page 14-15, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeh6877?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "Academic Life"
     ]
   },
   {
     "id": "f86c3eebecb8",
     "title": "Higher education must bridge the AI gap",
     "summary": "Science, Volume 392, Issue 6793, Page 5-5, April 2026.",
+    "whyItMatters": "Relevant to academic life. From Science.",
+    "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh5777?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "Academic Life",
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "c6d2a8acf94a",
-    "title": "Digital child safety at the frontier: From evidence to action",
-    "summary": "Science, Volume 392, Issue 6793, Page 30-32, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aec7804?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "a95c8d3085fb",
-    "title": "Turning tumors against themselves",
-    "summary": "Science, Volume 392, Issue 6793, Page 44-45, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aef9967?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "de4afae44010",
-    "title": "In Science Journals",
-    "summary": "Science, Volume 392, Issue 6793, Page 46-48, April 2026.",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeh6471?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:19:25.317Z",
-    "scrapedAt": "2026-04-05T18:19:25.317Z",
+    "publishedAt": "2026-04-05T18:58:50.961Z",
+    "scrapedAt": "2026-04-05T18:58:50.961Z",
     "topics": [
       "Academic Life"
-    ]
-  },
-  {
-    "id": "73d2e552e0c4",
-    "title": "Massive budget cuts for US science proposed again by Trump administration",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-01105-7",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia",
-      "Science Policy"
-    ]
-  },
-  {
-    "id": "23766194b4ea",
-    "title": "Mix-and-match synthesis of 3D small molecules",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-00809-0",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "PhD Life"
-    ]
-  },
-  {
-    "id": "2f82c8a1d4ee",
-    "title": "Breakthrough computer chip tech could help meet ‘monumental demand’ driven by AI",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-01050-5",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "4d101bd8b842",
-    "title": "Structural modifications in strain-engineered bilayer nickelate thin films",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/s41586-026-10446-2",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "35701c2cdbaa",
-    "title": "These scientists chased a jet to learn more about ‘lean-burn’ contrails",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-01052-3",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "Academic Life",
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "e4b39ea5f1c7",
-    "title": "Moiré engineering of Cooper-pair density modulation states",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/s41586-026-10325-w",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "b77ebd91b635",
-    "title": "Evidence of the pair-instability gap from black-hole masses",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/s41586-026-10359-0",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "06a4775d2714",
-    "title": "Expansion of outer cortical CUX2 neurons requires adaptations for DNA repair",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/s41586-026-10290-4",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
     ]
   },
   {
     "id": "4d984d66d60b",
     "title": "AhR inhibition promotes axon regeneration via a stress–growth switch",
     "summary": "No summary available",
+    "whyItMatters": "Academic wellbeing is an institutional issue, not a personal one. This matters for the culture we build. From Nature.",
+    "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10295-z",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
     "topics": [
       "Mental Health & Wellbeing"
-    ]
-  },
-  {
-    "id": "9713662d2f74",
-    "title": "Substantial aircraft contrail formation at low soot emission levels",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/s41586-026-10286-0",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
     ]
   },
   {
     "id": "5bcd709be05d",
     "title": "Investigating the reproducibility of the social and behavioural sciences",
     "summary": "No summary available",
+    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From Nature.",
+    "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10203-5",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
     "topics": [
       "Research Culture"
+    ]
+  },
+  {
+    "id": "44c8aab3519c",
+    "title": "An enteric neuron ionotropic receptor regulates salt stress resistance",
+    "summary": "No summary available",
+    "whyItMatters": "Academic wellbeing is an institutional issue, not a personal one. This matters for the culture we build. From Nature.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/s41586-026-10348-3",
+    "source": "Nature",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "topics": [
+      "Mental Health & Wellbeing"
+    ]
+  },
+  {
+    "id": "54723e040098",
+    "title": "Reproducibility and robustness of economics and political science research",
+    "summary": "No summary available",
+    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From Nature.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/s41586-026-10251-x",
+    "source": "Nature",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "1e9dea693fd5",
+    "title": "Half of social-science studies fail replication test in years-long project",
+    "summary": "No summary available",
+    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From Nature.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/d41586-026-00955-5",
+    "source": "Nature",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "f778c0e74f6f",
+    "title": "‘Replication games’ test the robustness of social-science studies",
+    "summary": "No summary available",
+    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From Nature.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/d41586-026-00684-9",
+    "source": "Nature",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "cb83d5ebb562",
+    "title": "AI’s fluency in other languages hides a Western worldview that can mislead users − a scholar of Indonesian society explains",
+    "summary": "AI models derive their assumptions from English-language sources based in the United States. Weiquan Lin/Moment via Getty Images A friend in Indonesia recently told me about a conversation he had with ChatGPT. He had typed a question in Indonesian – Bahasa Indonesia – about how to handle a difficult family dispute. The chatbot responded fluently, in perfect Indonesian, with advice about communication strategies and conflict resolution. The grammar was flawless. The tone was appropriate. And yet ",
+    "whyItMatters": "AI is reshaping how research is done and taught — this has implications for every academic. From The Conversation.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/ais-fluency-in-other-languages-hides-a-western-worldview-that-can-mislead-users-a-scholar-of-indonesian-society-explains-276865",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T12:45:58.000Z",
+    "scrapedAt": "2026-04-05T18:58:53.510Z",
+    "topics": [
+      "AI & Tech in Academia"
+    ]
+  },
+  {
+    "id": "1a3f8e989b21",
+    "title": "Iran’s Revolutionary Guard would fiercely resist a US ground invasion. History proves it",
+    "summary": "Saeediex/Shutterstock The Iranian Revolutionary Guard Corps (IRGC) has long exerted a strong, often underestimated power in the Middle East. With around 190,000 members, plus an estimated 450,000 reserves in the Basij paramilitary, the largest component of Iran’s Armed Forces also controls much of the country’s politics, intelligence and economy. After an Israeli airstrike assassinated the Islamic Republic’s Supreme Leader Ayatollah Ali Khamenei on February 28, US President Donald Trump called o",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
+    "relevanceScore": 5,
+    "url": "https://theconversation.com/irans-revolutionary-guard-would-fiercely-resist-a-us-ground-invasion-history-proves-it-279796",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-04T07:21:06.000Z",
+    "scrapedAt": "2026-04-05T18:58:53.510Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "2c780925a18b",
+    "title": "Bumblebees can perceive rhythm, despite their brains being the size of a sesame seed",
+    "summary": "ClickerHappy/Pexels Humans are creatures of rhythms. As far as we know, humans have always sung and always danced. We can recognise a song by its rhythm alone, regardless of whether it is played fast or slow. We seem to have an almost effortless capacity to pick up on rhythmic patterns, and we have presumed this ability to require the very large and powerful human brain. But our new research, published today in the journal Science, shows humans are not alone in mastering rhythm. Even the bumbleb",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
+    "relevanceScore": 4,
+    "url": "https://theconversation.com/bumblebees-can-perceive-rhythm-despite-their-brains-being-the-size-of-a-sesame-seed-279659",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T18:07:35.000Z",
+    "scrapedAt": "2026-04-05T18:58:53.510Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "789fc9d8a410",
+    "title": "Flexible, abstract rhythm perception in bumble bees",
+    "summary": "Science, Volume 392, Issue 6793, Page 93-95, April 2026.",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From Science.",
+    "relevanceScore": 3,
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz2894?af=R",
+    "source": "Science",
+    "publishedAt": "2026-04-05T18:58:50.961Z",
+    "scrapedAt": "2026-04-05T18:58:50.961Z",
+    "topics": [
+      "Science Policy"
     ]
   },
   {
     "id": "b4e1b3b6e1aa",
     "title": "Stoichiometric FeTe is a superconductor",
     "summary": "No summary available",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From Nature.",
+    "relevanceScore": 3,
     "url": "https://www.nature.com/articles/s41586-026-10321-0",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
     "topics": [
       "Science Policy"
     ]
@@ -342,10 +325,12 @@
     "id": "fca1578e270c",
     "title": "Nanoscale transfer-printed full-colour ultrahigh-resolution quantum dot LEDs",
     "summary": "No summary available",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From Nature.",
+    "relevanceScore": 3,
     "url": "https://www.nature.com/articles/s41586-026-10333-w",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
     "topics": [
       "Science Policy"
     ]
@@ -354,296 +339,28 @@
     "id": "ad36ba0a78a1",
     "title": "Angle evolution of the superconducting phase diagram in twisted bilayer WSe2",
     "summary": "No summary available",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From Nature.",
+    "relevanceScore": 3,
     "url": "https://www.nature.com/articles/s41586-026-10357-2",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
     "topics": [
       "Science Policy"
-    ]
-  },
-  {
-    "id": "44c8aab3519c",
-    "title": "An enteric neuron ionotropic receptor regulates salt stress resistance",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/s41586-026-10348-3",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "Mental Health & Wellbeing"
-    ]
-  },
-  {
-    "id": "5ff025e5a377",
-    "title": "Deconstruction of a spino-brain–spinal cord circuit that drives chronic pain",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/s41586-026-10296-y",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "8eec3881c7c4",
-    "title": "General scales unlock AI evaluation with explanatory and predictive power",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/s41586-026-10303-2",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "54723e040098",
-    "title": "Reproducibility and robustness of economics and political science research",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/s41586-026-10251-x",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "Research Culture"
-    ]
-  },
-  {
-    "id": "6cc0a738595a",
-    "title": "Super-potent opioids could be safer-than-expected alternatives to conventional painkillers",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-00806-3",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "ce0cd399f230",
-    "title": "Daily briefing: The countdown to NASA’s Artemis II Moon mission launch",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-01097-4",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "ad333f23eb96",
-    "title": "Cutting aircraft soot emissions is not enough to curb contrail clouds",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-00931-z",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "1e9dea693fd5",
-    "title": "Half of social-science studies fail replication test in years-long project",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-00955-5",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "Research Culture",
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "f778c0e74f6f",
-    "title": "‘Replication games’ test the robustness of social-science studies",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-00684-9",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "Research Culture"
-    ]
-  },
-  {
-    "id": "0364a50685ea",
-    "title": "Huge meta-research project puts claims in social-science papers to the test",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-00805-4",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
     ]
   },
   {
     "id": "504db0eb930a",
     "title": "Author Correction: Signatures of ambient pressure superconductivity in thin film La3Ni2O7",
     "summary": "No summary available",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From Nature.",
+    "relevanceScore": 3,
     "url": "https://www.nature.com/articles/s41586-026-10335-8",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
+    "publishedAt": "2026-04-05T18:58:49.517Z",
+    "scrapedAt": "2026-04-05T18:58:49.517Z",
     "topics": [
       "Science Policy"
-    ]
-  },
-  {
-    "id": "8d403ecea285",
-    "title": "AI used in warfare needs a strong ethical framework",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-01008-7",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "b946be44582f",
-    "title": "The hidden costs of ‘helpful’ AI",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-00966-2",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "0412ea11b6b9",
-    "title": "Daily briefing: Are boys really in crisis? What the science says",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-01055-0",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "7a6754e26145",
-    "title": "Humanity is heading back to the Moon — why aren’t more scientists thrilled?",
-    "summary": "No summary available",
-    "url": "https://www.nature.com/articles/d41586-026-00987-x",
-    "source": "Nature",
-    "publishedAt": "2026-04-05T18:19:25.243Z",
-    "scrapedAt": "2026-04-05T18:19:25.243Z",
-    "topics": [
-      "Academic Life"
-    ]
-  },
-  {
-    "id": "af3d3983b500",
-    "title": "Weekend reads: Half of social science ‘doesn’t replicate’; ‘Scientific ghosts: Life after retraction’; multisensory learning paper retracted",
-    "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In case you missed the news, the Hijacked Journal Checker now has more than 400 entries. The Retraction Watch Database has over 64,000 retractions. Our list of COVID-19 retractions … Continue reading Weekend reads: Half of social science ‘doesn’t replicate’; ‘Scientific ghosts: Life after retraction’; multisensory learning paper retracted",
-    "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
-    "source": "Retraction Watch",
-    "publishedAt": "2026-04-04T10:00:00.000Z",
-    "scrapedAt": "2026-04-05T18:19:27.357Z",
-    "topics": [
-      "Academic Life",
-      "Research Culture"
-    ]
-  },
-  {
-    "id": "1ff50c11367e",
-    "title": "Guest post: Should universities investigate questionable papers students and faculty wrote elsewhere?",
-    "summary": "I am a research ethicist and often get asked by my university to investigate when potential concerns are raised about our staff or students. One example involved the recent case of the alleged paper mill and self-citation activities by Hitler Louis and Innocent Benjamin. The matter raised significant questions about who within the research community … Continue reading Guest post: Should universities investigate questionable papers students and faculty wrote elsewhere?",
-    "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
-    "source": "Retraction Watch",
-    "publishedAt": "2026-04-03T12:00:00.000Z",
-    "scrapedAt": "2026-04-05T18:19:27.357Z",
-    "topics": [
-      "Academic Life",
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "9d98098cd8d3",
-    "title": "Judge tosses lawsuit over controversial Paxil ‘Study 329’",
-    "summary": "A judge has dismissed a legal challenge aimed at forcing Elsevier to retract a long-criticized study that concluded the antidepressant Paxil was safe and effective for teens. The 2001 paper, published in the Journal of the American Academy of Child & Adolescent Psychiatry (JAACAP), has faced scrutiny for more than 20 years by critics who … Continue reading Judge tosses lawsuit over controversial Paxil ‘Study 329’",
-    "url": "https://retractionwatch.com/2026/04/02/judge-lawsuit-controversial-adolescents-paxil-study-329/",
-    "source": "Retraction Watch",
-    "publishedAt": "2026-04-02T17:18:57.000Z",
-    "scrapedAt": "2026-04-05T18:19:27.357Z",
-    "topics": [
-      "Academic Life",
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "e8ee8759a058",
-    "title": "MIT researchers measure traffic emissions, to the block, in real-time",
-    "summary": "A new study pieces together existing data sources in order to develop a detailed, dynamic picture of auto emissions.",
-    "url": "https://news.mit.edu/2026/mit-researchers-measure-traffic-emissions-block-real-time-0402",
-    "source": "MIT News",
-    "publishedAt": "2026-04-02T09:00:00.000Z",
-    "scrapedAt": "2026-04-05T18:19:27.347Z",
-    "topics": [
-      "Academic Life",
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "0f4464fe2120",
-    "title": "Evaluating the ethics of autonomous systems",
-    "summary": "MIT researchers developed a testing framework that pinpoints situations where AI decision-support systems are not treating people and communities fairly.",
-    "url": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
-    "source": "MIT News",
-    "publishedAt": "2026-04-02T04:00:00.000Z",
-    "scrapedAt": "2026-04-05T18:19:27.347Z",
-    "topics": [
-      "Academic Life",
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "a76cb9a11d8e",
-    "title": "Biology journal ghosts researcher after holding paper hostage",
-    "summary": "In a story readers might find familiar, a researcher was asked to pay when he demanded a journal retract an article he had never seen but supposedly wrote — and the journal ghosted him when he refused. In February, Evgenios Agathokleous, an environmental resources researcher at Nanjing University of Information Science & Technology in China, … Continue reading Biology journal ghosts researcher after holding paper hostage",
-    "url": "https://retractionwatch.com/2026/04/01/european-journal-experimental-biology-fee-demand-prime-scholars/",
-    "source": "Retraction Watch",
-    "publishedAt": "2026-04-01T17:20:21.000Z",
-    "scrapedAt": "2026-04-05T18:19:27.357Z",
-    "topics": [
-      "Academic Life",
-      "AI & Tech in Academia"
-    ]
-  },
-  {
-    "id": "ef7a6802aa3d",
-    "title": "Two physicists and a curious host walk into a studio…",
-    "summary": "On GBH’s new show The Curiosity Desk, MIT LIGO researchers revel in the beauties of fundamental discovery science and MIT astronomers talk planetary defense.",
-    "url": "https://news.mit.edu/2026/two-physicists-and-curious-host-walk-studio",
-    "source": "MIT News",
-    "publishedAt": "2026-03-31T23:00:00.000Z",
-    "scrapedAt": "2026-04-05T18:19:27.347Z",
-    "topics": [
-      "Academic Life"
-    ]
-  },
-  {
-    "id": "7868664dde9a",
-    "title": "BMJ retracts cardiac stem cell paper, removes authors months after sleuths flag data ‘mismatch’",
-    "summary": "The BMJ has retracted a paper on stem cell therapy for heart failure after sleuths flagged the work for “serious” inconsistencies in data. Published in October, the paper reported the results of a phase III clinical trial of more than 400 patients in Shiraz, Iran, looking at whether stem cell therapy lowers the risk of … Continue reading BMJ retracts cardiac stem cell paper, removes authors months after sleuths flag data ‘mismatch’",
-    "url": "https://retractionwatch.com/2026/03/31/bmj-retracts-cardiac-stem-cell-paper-removes-authors-months-after-sleuths-flag-data-mismatch/",
-    "source": "Retraction Watch",
-    "publishedAt": "2026-03-31T21:43:10.000Z",
-    "scrapedAt": "2026-04-05T18:19:27.357Z",
-    "topics": [
-      "Academic Life",
-      "AI & Tech in Academia"
     ]
   }
 ]
