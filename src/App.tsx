@@ -289,7 +289,6 @@ export default function App() {
   const [sortBy, setSortBy] = useState<SortBy>('relevance')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
-  const [showAllArticles, setShowAllArticles] = useState(false)
 
   // Post generation
   const [generatingArticle, setGeneratingArticle] = useState<Article | null>(null)
@@ -374,16 +373,7 @@ export default function App() {
   const maxScore = Math.max(...articles.map((a) => a.relevanceScore ?? 0), 1)
   const lastScraped = articles[0]?.scrapedAt
 
-  // Top 10 picks (unseen, highest relevance)
-  const topPicks = articles
-    .filter((a) => {
-      const s = states[a.id]
-      return !s || (!s.seen && !s.used)
-    })
-    .sort((a, b) => (b.relevanceScore ?? 0) - (a.relevanceScore ?? 0))
-    .slice(0, 10)
-
-  // Filtered & sorted list for "all articles" view
+  // Filtered & sorted article list
   const filtered = articles.filter((a) => {
     const state = states[a.id] || { seen: false, used: false }
     if (filter === 'new' && (state.seen || state.used)) return false
@@ -448,111 +438,70 @@ export default function App() {
         </div>
       )}
 
-      {/* Top Picks Section */}
-      {!showAllArticles && topPicks.length > 0 && (
-        <section className="mb-8">
-          <h2 className="text-lg font-bold mb-3">Today's Top Picks</h2>
-          <p className="text-sm text-gray-500 mb-4">
-            Ranked by relevance to academic life, PhD/postdoc experience, and emerging trends. Pick one to draft a LinkedIn post.
-          </p>
-          <div className="space-y-3">
-            {topPicks.map((article, i) => (
-              <ArticleCard
-                key={article.id}
-                article={article}
-                state={states[article.id] || { seen: false, used: false }}
-                rank={i + 1}
-                maxScore={maxScore}
-                onGeneratePost={handleGeneratePost}
-                onMarkSeen={handleMarkSeen}
-              />
-            ))}
-          </div>
+      {/* Filters — always visible */}
+      <div className="flex flex-wrap gap-2 mb-4">
+        {(['all', 'new', 'seen', 'used'] as Filter[]).map((f) => (
           <button
-            onClick={() => setShowAllArticles(true)}
-            className="mt-4 w-full py-2 text-sm text-gray-500 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors"
+            key={f}
+            onClick={() => setFilter(f)}
+            className={`px-3 py-1.5 rounded-lg text-sm capitalize transition-colors ${
+              filter === f ? 'bg-blue-600 text-white' : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
+            }`}
           >
-            Show all {articles.length} articles
+            {f}
           </button>
-        </section>
-      )}
+        ))}
+        <div className="w-px bg-gray-200 mx-1" />
+        <select
+          value={topicFilter || ''}
+          onChange={(e) => setTopicFilter(e.target.value || null)}
+          className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
+        >
+          <option value="">All topics</option>
+          {allTopics.map((t) => (
+            <option key={t} value={t}>
+              {t}
+            </option>
+          ))}
+        </select>
+        <select
+          value={timeRange}
+          onChange={(e) => setTimeRange(e.target.value as TimeRange)}
+          className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
+        >
+          {Object.entries(TIME_RANGES).map(([key, { label }]) => (
+            <option key={key} value={key}>{label}</option>
+          ))}
+        </select>
+        <select
+          value={sortBy}
+          onChange={(e) => setSortBy(e.target.value as SortBy)}
+          className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
+        >
+          <option value="relevance">Most relevant</option>
+          <option value="date">Newest first</option>
+          <option value="source">By source</option>
+        </select>
+      </div>
 
-      {/* All Articles Section */}
-      {(showAllArticles || topPicks.length === 0) && (
-        <section>
-          {showAllArticles && (
-            <button
-              onClick={() => setShowAllArticles(false)}
-              className="mb-4 text-sm text-blue-600 hover:text-blue-800"
-            >
-              &larr; Back to Top Picks
-            </button>
-          )}
-
-          {/* Filters */}
-          <div className="flex flex-wrap gap-2 mb-4">
-            {(['all', 'new', 'seen', 'used'] as Filter[]).map((f) => (
-              <button
-                key={f}
-                onClick={() => setFilter(f)}
-                className={`px-3 py-1.5 rounded-lg text-sm capitalize transition-colors ${
-                  filter === f ? 'bg-blue-600 text-white' : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
-                }`}
-              >
-                {f}
-              </button>
-            ))}
-            <div className="w-px bg-gray-200 mx-1" />
-            <select
-              value={topicFilter || ''}
-              onChange={(e) => setTopicFilter(e.target.value || null)}
-              className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
-            >
-              <option value="">All topics</option>
-              {allTopics.map((t) => (
-                <option key={t} value={t}>
-                  {t}
-                </option>
-              ))}
-            </select>
-            <select
-              value={timeRange}
-              onChange={(e) => setTimeRange(e.target.value as TimeRange)}
-              className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
-            >
-              {Object.entries(TIME_RANGES).map(([key, { label }]) => (
-                <option key={key} value={key}>{label}</option>
-              ))}
-            </select>
-            <select
-              value={sortBy}
-              onChange={(e) => setSortBy(e.target.value as SortBy)}
-              className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 border-0"
-            >
-              <option value="relevance">Most relevant</option>
-              <option value="date">Newest first</option>
-              <option value="source">By source</option>
-            </select>
-          </div>
-
-          <div className="space-y-3">
-            {sorted.length === 0 ? (
-              <p className="text-center text-gray-400 py-12">No articles match your filters.</p>
-            ) : (
-              sorted.map((article) => (
-                <ArticleCard
-                  key={article.id}
-                  article={article}
-                  state={states[article.id] || { seen: false, used: false }}
-                  maxScore={maxScore}
-                  onGeneratePost={handleGeneratePost}
-                  onMarkSeen={handleMarkSeen}
-                />
-              ))
-            )}
-          </div>
-        </section>
-      )}
+      {/* Article list */}
+      <div className="space-y-3">
+        {sorted.length === 0 ? (
+          <p className="text-center text-gray-400 py-12">No articles match your filters.</p>
+        ) : (
+          sorted.map((article, i) => (
+            <ArticleCard
+              key={article.id}
+              article={article}
+              state={states[article.id] || { seen: false, used: false }}
+              rank={sortBy === 'relevance' && i < 10 ? i + 1 : undefined}
+              maxScore={maxScore}
+              onGeneratePost={handleGeneratePost}
+              onMarkSeen={handleMarkSeen}
+            />
+          ))
+        )}
+      </div>
 
       {/* Post generation modal */}
       {generatingArticle && !showApiKeyPrompt && (

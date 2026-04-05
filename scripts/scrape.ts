@@ -16,84 +16,102 @@ interface Article {
   topics: string[]
 }
 
-// Higher-weight keywords indicate stronger relevance to Jonas's audience
+// Topics tuned for Jonas's LinkedIn audience:
+// - Academic life, PhD/postdoc experience, career navigation
+// - AI/tech preprints and their impact on academia
+// - Peer-reviewed research in marketing, management, consumer science, psychology
+// - LinkedIn-worthy insights about research culture
 const TOPICS_KEYWORDS: Record<string, { keywords: string[]; weight: number }> = {
-  'PhD Life': {
-    keywords: ['phd', 'doctoral', 'dissertation', 'graduate student', 'grad school', 'thesis', 'phd student', 'phd candidate'],
-    weight: 3,
-  },
-  'PostDoc Life': {
-    keywords: ['postdoc', 'post-doc', 'postdoctoral', 'early-career researcher', 'junior faculty', 'early career'],
-    weight: 3,
-  },
-  'Academic Life': {
+  'PhD & PostDoc Life': {
     keywords: [
-      'academia', 'academic life', 'professor', 'faculty', 'tenure', 'higher education',
-      'peer review', 'research funding', 'grant', 'sabbatical', 'university',
-      'teaching load', 'campus', 'scholarly', 'scientist', 'researcher',
-      'lab', 'career in science', 'career fulfilment', 'working scientist',
-      'procrastination', 'productivity', 'collaboration', 'mentoring',
+      'phd', 'doctoral', 'dissertation', 'graduate student', 'grad school', 'thesis',
+      'phd student', 'phd candidate', 'postdoc', 'post-doc', 'postdoctoral',
+      'early-career researcher', 'junior faculty', 'early career', 'doctoral student',
+      'doctoral training', 'phd life', 'supervisor', 'supervision',
     ],
-    weight: 2,
+    weight: 5,
   },
   'Academic Careers': {
     keywords: [
-      'academic career', 'job market', 'hiring', 'recruitment', 'career path', 'industry',
+      'academic career', 'job market', 'tenure', 'tenure track', 'faculty',
       'leaving academia', 'alt-ac', 'academic job', 'career column', 'career advice',
-      'career development', 'career transition', 'job search', 'CV', 'resume',
-      'interview', 'networking',
+      'career development', 'career transition', 'career fulfilment', 'working scientist',
+      'career in science', 'networking', 'publish or perish', 'adjunct', 'precari',
+      'hiring committee', 'academic cv', 'promotion',
+    ],
+    weight: 5,
+  },
+  'Academic Culture': {
+    keywords: [
+      'academia', 'academic life', 'higher education', 'university',
+      'peer review', 'research funding', 'grant', 'sabbatical',
+      'teaching load', 'scholarly', 'mentoring', 'mentor',
+      'open access', 'open science', 'reproducibility', 'replication', 'preprint',
+      'research integrity', 'misconduct', 'retraction', 'impact factor',
+      'work-life balance', 'burnout', 'imposter syndrome',
     ],
     weight: 3,
   },
-  'Mental Health & Wellbeing': {
+  'AI & Tech': {
     keywords: [
-      'burnout', 'mental health', 'wellbeing', 'work-life balance', 'stress', 'imposter syndrome',
-      'anxiety', 'depression', 'isolation',
+      'artificial intelligence', 'chatgpt', 'large language model', 'llm',
+      'machine learning', 'generative ai', 'ai tools', 'ai in education',
+      'ai in research', 'ai in academia', 'ai plagiarism', 'ai detection',
+      'edtech', 'online learning', 'deep learning', 'neural network',
+      'automation', 'ai ethics', 'ai bias', 'ai regulation',
     ],
-    weight: 2,
+    weight: 4,
   },
-  'Research Culture': {
+  'Marketing & Consumer Science': {
     keywords: [
-      'open access', 'open science', 'reproducibility', 'replication', 'preprint',
-      'research integrity', 'misconduct', 'retraction', 'dei', 'diversity', 'equity', 'inclusion',
+      'marketing', 'consumer', 'branding', 'advertising', 'persuasion',
+      'consumer behavior', 'consumer behaviour', 'consumer psychology',
+      'social media', 'linkedin', 'digital marketing', 'influencer',
+      'choice architecture', 'nudge', 'behavioral economics', 'behavioural economics',
+      'customer', 'brand', 'purchase', 'retail', 'e-commerce',
     ],
-    weight: 2,
+    weight: 5,
   },
-  'AI & Tech in Academia': {
+  'Psychology & Behavior': {
     keywords: [
-      'artificial intelligence', 'chatgpt', 'large language model',
-      'machine learning', 'online learning', 'edtech', 'ai tools',
-      'generative ai', 'ai plagiarism', 'ai detection', 'ai in education',
-      'ai in research', 'ai in academia',
+      'psychology', 'cognitive', 'decision making', 'decision-making',
+      'motivation', 'bias', 'heuristic', 'behavioral science', 'behavioural science',
+      'social psychology', 'judgment', 'attention', 'perception',
+      'emotion', 'well-being', 'wellbeing', 'mental health',
+      'personality', 'mindset', 'habit', 'self-control',
     ],
-    weight: 2,
+    weight: 4,
+  },
+  'Management & Organizations': {
+    keywords: [
+      'management', 'leadership', 'organizational', 'organisational',
+      'innovation', 'entrepreneurship', 'startup', 'strategy',
+      'teamwork', 'remote work', 'hybrid work', 'workplace',
+      'diversity', 'inclusion', 'equity', 'dei',
+    ],
+    weight: 3,
   },
   'Science Policy': {
     keywords: [
       'funding cut', 'nsf', 'nih', 'erc', 'horizon europe',
       'research policy', 'science policy', 'research budget', 'science funding',
     ],
-    weight: 1,
+    weight: 2,
   },
 }
 
-// Bonus keywords that boost relevance (things Jonas's audience cares about)
+// Bonus: things that make articles especially LinkedIn-worthy
 const BONUS_KEYWORDS = [
-  { pattern: 'marketing', weight: 2 },
-  { pattern: 'consumer', weight: 1 },
-  { pattern: 'social media', weight: 1 },
-  { pattern: 'linkedin', weight: 2 },
-  { pattern: 'career advice', weight: 2 },
-  { pattern: 'work culture', weight: 1 },
-  { pattern: 'publish or perish', weight: 3 },
-  { pattern: 'impact factor', weight: 2 },
-  { pattern: 'adjunct', weight: 2 },
-  { pattern: 'precari', weight: 2 },
-  { pattern: 'mentor', weight: 2 },
-  { pattern: 'supervision', weight: 1 },
+  { pattern: 'linkedin', weight: 5 },
+  { pattern: 'viral', weight: 2 },
+  { pattern: 'surprising', weight: 1 },
+  { pattern: 'counterintuitive', weight: 2 },
+  { pattern: 'debunk', weight: 2 },
+  { pattern: 'myth', weight: 1 },
   { pattern: 'europe', weight: 1 },
-  { pattern: 'netherlands', weight: 2 },
-  { pattern: 'dutch', weight: 2 },
+  { pattern: 'netherlands', weight: 3 },
+  { pattern: 'dutch', weight: 3 },
+  { pattern: 'maastricht', weight: 5 },
 ]
 
 function stripAuthorBios(text: string): string {
@@ -133,29 +151,32 @@ function matchTopics(title: string, body: string): { topics: string[]; score: nu
   return { topics: matched, score }
 }
 
-function generateWhyItMatters(title: string, topics: string[], source: string): string {
-  const topicStr = topics.join(', ')
-
-  // Generate contextual "why it matters" based on topics
-  if (topics.includes('PhD Life') || topics.includes('PostDoc Life')) {
-    return `Directly relevant to early-career academics navigating ${topics.includes('PhD Life') ? 'doctoral' : 'postdoctoral'} life. From ${source}.`
+function generateWhyItMatters(topics: string[], source: string): string {
+  if (topics.includes('Marketing & Consumer Science')) {
+    return `Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.`
   }
-  if (topics.includes('AI & Tech in Academia')) {
-    return `AI is reshaping how research is done and taught — this has implications for every academic. From ${source}.`
-  }
-  if (topics.includes('Science Policy')) {
-    return `Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From ${source}.`
-  }
-  if (topics.includes('Mental Health & Wellbeing')) {
-    return `Academic wellbeing is an institutional issue, not a personal one. This matters for the culture we build. From ${source}.`
-  }
-  if (topics.includes('Research Culture')) {
-    return `How we publish, review, and share research defines academic culture. This challenges the status quo. From ${source}.`
+  if (topics.includes('PhD & PostDoc Life')) {
+    return `Early-career academic life — resonates strongly with your LinkedIn audience.`
   }
   if (topics.includes('Academic Careers')) {
-    return `The academic job market is changing — this has real implications for career strategy. From ${source}.`
+    return `Academic career navigation — high engagement topic on LinkedIn.`
   }
-  return `Relevant to ${topicStr.toLowerCase()}. From ${source}.`
+  if (topics.includes('AI & Tech')) {
+    return `AI/tech development with academic implications — trending topic.`
+  }
+  if (topics.includes('Psychology & Behavior')) {
+    return `Behavioral science finding — the kind of insight that performs well on LinkedIn.`
+  }
+  if (topics.includes('Management & Organizations')) {
+    return `Management/org research — relevant to your academic audience.`
+  }
+  if (topics.includes('Academic Culture')) {
+    return `Research culture and how academia works — always gets engagement.`
+  }
+  if (topics.includes('Science Policy')) {
+    return `Policy shaping funding and careers — affects every academic.`
+  }
+  return `${topics.join(', ')} — from ${source}.`
 }
 
 function makeId(url: string): string {
@@ -232,7 +253,7 @@ async function scrapeFeed(
         id: makeId(item.link),
         title,
         summary,
-        whyItMatters: generateWhyItMatters(title, topics, feedConfig.source),
+        whyItMatters: generateWhyItMatters(topics, feedConfig.source),
         relevanceScore: score,
         url: item.link,
         source: feedConfig.source,
