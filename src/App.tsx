@@ -230,7 +230,7 @@ export default function App() {
   const [showApiKeyPrompt, setShowApiKeyPrompt] = useState(false)
 
   useEffect(() => {
-    fetch('/articles.json')
+    fetch(import.meta.env.BASE_URL + 'articles.json')
       .then((r) => {
         if (!r.ok) throw new Error('No articles yet — run the scraper first')
         return r.json()
