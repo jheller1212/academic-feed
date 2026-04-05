@@ -28,16 +28,20 @@ const TOPICS_KEYWORDS: Record<string, { keywords: string[]; weight: number }> = 
   },
   'Academic Life': {
     keywords: [
-      'academia', 'professor', 'faculty', 'tenure', 'higher education',
-      'peer review', 'research funding', 'grant', 'sabbatical',
-      'teaching load', 'campus', 'scholarly communication',
+      'academia', 'academic life', 'professor', 'faculty', 'tenure', 'higher education',
+      'peer review', 'research funding', 'grant', 'sabbatical', 'university',
+      'teaching load', 'campus', 'scholarly', 'scientist', 'researcher',
+      'lab', 'career in science', 'career fulfilment', 'working scientist',
+      'procrastination', 'productivity', 'collaboration', 'mentoring',
     ],
     weight: 2,
   },
   'Academic Careers': {
     keywords: [
       'academic career', 'job market', 'hiring', 'recruitment', 'career path', 'industry',
-      'leaving academia', 'alt-ac', 'academic job',
+      'leaving academia', 'alt-ac', 'academic job', 'career column', 'career advice',
+      'career development', 'career transition', 'job search', 'CV', 'resume',
+      'interview', 'networking',
     ],
     weight: 3,
   },
@@ -111,9 +115,8 @@ function matchTopics(title: string, body: string): { topics: string[]; score: nu
     const titleMatches = config.keywords.filter((kw) => lowerTitle.includes(kw)).length
     const bodyMatches = config.keywords.filter((kw) => lowerBody.includes(kw)).length
 
-    // Require a title match OR at least 3 body matches to qualify as a topic
-    // This prevents articles that merely mention academic terms from matching
-    if (titleMatches > 0 || bodyMatches >= 3) {
+    // Require a title match OR at least 2 body matches to qualify as a topic
+    if (titleMatches > 0 || bodyMatches >= 2) {
       matched.push(topic)
       score += config.weight * (titleMatches * 3 + bodyMatches)
     }

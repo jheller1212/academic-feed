@@ -1,5 +1,49 @@
 [
   {
+    "id": "ebe86e13b7e4",
+    "title": "As a ‘book scientist’ I work with microscopes, imaging technologies and AI to preserve ancient texts",
+    "summary": "Cultural heritage is constantly under threat. In recent years, we’ve witnessed the destruction of museums, archives and libraries around the world — from wildfires in California to bombing in Gaza and wars in Ukraine and Iran. Meanwhile, book scientists are working tirelessly with an array of technologies — including microscopes, multispectral imaging and artificial intelligence — to recover, understand and preserve many valuable ancient texts. This approach transforms what we can know about the",
+    "whyItMatters": "AI is reshaping how research is done and taught — this has implications for every academic. From The Conversation.",
+    "relevanceScore": 16,
+    "url": "https://theconversation.com/as-a-book-scientist-i-work-with-microscopes-imaging-technologies-and-ai-to-preserve-ancient-texts-278154",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-05T12:33:56.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life",
+      "AI & Tech in Academia"
+    ]
+  },
+  {
+    "id": "14bb016f0796",
+    "title": "Pentecostal churches are a place of everyday care, not just bizarre spectacle: southern African study",
+    "summary": "A growing brand of new Pentecostal churches in southern Africa is known to emphasise the prosperity gospel, deliverance, miracles and healing. Miracles, including people apparently rising from the dead, are just one of the contentious issues swirling around these churches. Pastors have been the subject of sensational media headlines for spraying congregants with insecticide or making them eat grass, selfies taken in heaven, or claims of fraud and rape. In response to these kinds of abuses, the S",
+    "whyItMatters": "Directly relevant to early-career academics navigating postdoctoral life. From The Conversation.",
+    "relevanceScore": 14,
+    "url": "https://theconversation.com/pentecostal-churches-are-a-place-of-everyday-care-not-just-bizarre-spectacle-southern-african-study-278564",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T12:57:46.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "PostDoc Life",
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "17add15e0bfc",
+    "title": "How procrastination can rob you of career fulfilment in science",
+    "summary": "No summary available",
+    "whyItMatters": "Relevant to academic life. From Nature.",
+    "relevanceScore": 12,
+    "url": "https://www.nature.com/articles/d41586-026-00551-7",
+    "source": "Nature",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
     "id": "38fec5f886f7",
     "title": "Neuroscience explains why teens are so vulnerable to Big Tech social media platforms",
     "summary": "In a landmark decision, a Los Angeles jury has found that social media company Meta and video streaming service YouTube harmed a young user with addictive design features that led to mental health distress, including body dysmorphia, depression and suicidal thoughts. Commentators have referred to this as social media’s “Big Tobacco” moment and further lawsuits are pending. The verdict has escalated calls for more regulation of social media platforms across jurisdictions. Countries like Australia",
@@ -8,9 +52,51 @@
     "url": "https://theconversation.com/neuroscience-explains-why-teens-are-so-vulnerable-to-big-tech-social-media-platforms-278521",
     "source": "The Conversation",
     "publishedAt": "2026-04-02T16:53:38.000Z",
-    "scrapedAt": "2026-04-05T18:58:53.510Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
     "topics": [
       "Mental Health & Wellbeing"
+    ]
+  },
+  {
+    "id": "6323811f705e",
+    "title": "Bypass the Strait of Hormuz with nuclear explosives? The US studied that in Panama and Colombia in the 1960s",
+    "summary": "A nuclear bomb explodes at Bikini Atoll in the Pacific Ocean in 1946, one of several U.S. test explosions. Photo12/Universal Images Group via Getty Images With the world struggling to get oil supplies moving from the Middle East, former House Speaker Newt Gingrich raised eyebrows with a social media post highlighting a radical idea: Use nuclear bombs to cut a new channel along a route that would avoid Iranian threats in the Strait of Hormuz. Gingrich’s March 15, 2026, post linked to an article t",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 11,
+    "url": "https://theconversation.com/bypass-the-strait-of-hormuz-with-nuclear-explosives-the-us-studied-that-in-panama-and-colombia-in-the-1960s-278851",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T12:45:46.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "1ff50c11367e",
+    "title": "Guest post: Should universities investigate questionable papers students and faculty wrote elsewhere?",
+    "summary": "I am a research ethicist and often get asked by my university to investigate when potential concerns are raised about our staff or students. One example involved the recent case of the alleged paper mill and self-citation activities by Hitler Louis and Innocent Benjamin. The matter raised significant questions about who within the research community … Continue reading Guest post: Should universities investigate questionable papers students and faculty wrote elsewhere?",
+    "whyItMatters": "Relevant to academic life. From Retraction Watch.",
+    "relevanceScore": 10,
+    "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
+    "source": "Retraction Watch",
+    "publishedAt": "2026-04-03T12:00:00.000Z",
+    "scrapedAt": "2026-04-05T20:33:37.799Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "f8e441d3107c",
+    "title": "What May (or May Not) Get University Employees Fired",
+    "summary": "What May (or May Not) Get University Employees Fired kjohnsonbowles… Fri, 04/03/2026 - 03:00 AM Stories of performance and behavioral issues abound in higher education. From a list of scenarios, could you guess how many ended with someone being fired? Byline(s) Kathy Johnson Bowles",
+    "whyItMatters": "Relevant to academic life. From Inside Higher Ed.",
+    "relevanceScore": 10,
+    "url": "https://www.insidehighered.com/opinion/columns/just-explain-it-me/2026/04/03/why-accountability-inconsistently-enforced",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-03T07:00:00.000Z",
+    "scrapedAt": "2026-04-05T20:33:34.724Z",
+    "topics": [
+      "Academic Life"
     ]
   },
   {
@@ -22,9 +108,38 @@
     "url": "https://theconversation.com/danielle-smiths-immigration-referendum-fuels-an-us-versus-them-divide-in-alberta-278577",
     "source": "The Conversation",
     "publishedAt": "2026-04-02T16:54:09.000Z",
-    "scrapedAt": "2026-04-05T18:58:53.510Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
     "topics": [
       "Research Culture"
+    ]
+  },
+  {
+    "id": "61f034c308e4",
+    "title": "For adults with ADHD – or even those with just some symptoms – using smart strategies to start and complete tasks can make all the difference",
+    "summary": "Take time to identify the goals that are most important to you. Luis Alvarez/DigitalVision via Getty Do you ever find yourself at the end of a nonstop day feeling like you haven’t made progress on the things that are actually important to you? If so, you’re not alone. If you are a person with attention-deficit/hyperactivity disorder, or ADHD, you might find it even harder to direct your effort toward what’s most important – especially if your goal is a ways in the future and you have lots of dis",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 10,
+    "url": "https://theconversation.com/for-adults-with-adhd-or-even-those-with-just-some-symptoms-using-smart-strategies-to-start-and-complete-tasks-can-make-all-the-difference-271332",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T12:46:10.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "cb83d5ebb562",
+    "title": "AI’s fluency in other languages hides a Western worldview that can mislead users − a scholar of Indonesian society explains",
+    "summary": "AI models derive their assumptions from English-language sources based in the United States. Weiquan Lin/Moment via Getty Images A friend in Indonesia recently told me about a conversation he had with ChatGPT. He had typed a question in Indonesian – Bahasa Indonesia – about how to handle a difficult family dispute. The chatbot responded fluently, in perfect Indonesian, with advice about communication strategies and conflict resolution. The grammar was flawless. The tone was appropriate. And yet ",
+    "whyItMatters": "AI is reshaping how research is done and taught — this has implications for every academic. From The Conversation.",
+    "relevanceScore": 10,
+    "url": "https://theconversation.com/ais-fluency-in-other-languages-hides-a-western-worldview-that-can-mislead-users-a-scholar-of-indonesian-society-explains-276865",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T12:45:58.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life",
+      "AI & Tech in Academia"
     ]
   },
   {
@@ -36,9 +151,23 @@
     "url": "https://theconversation.com/mens-wellbeing-groups-are-growing-and-helping-fill-gaps-in-mental-health-support-276933",
     "source": "The Conversation",
     "publishedAt": "2026-04-02T12:43:53.000Z",
-    "scrapedAt": "2026-04-05T18:58:53.510Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
     "topics": [
       "Mental Health & Wellbeing"
+    ]
+  },
+  {
+    "id": "a76cb9a11d8e",
+    "title": "Biology journal ghosts researcher after holding paper hostage",
+    "summary": "In a story readers might find familiar, a researcher was asked to pay when he demanded a journal retract an article he had never seen but supposedly wrote — and the journal ghosted him when he refused. In February, Evgenios Agathokleous, an environmental resources researcher at Nanjing University of Information Science & Technology in China, … Continue reading Biology journal ghosts researcher after holding paper hostage",
+    "whyItMatters": "Relevant to academic life. From Retraction Watch.",
+    "relevanceScore": 10,
+    "url": "https://retractionwatch.com/2026/04/01/european-journal-experimental-biology-fee-demand-prime-scholars/",
+    "source": "Retraction Watch",
+    "publishedAt": "2026-04-01T17:20:21.000Z",
+    "scrapedAt": "2026-04-05T20:33:37.799Z",
+    "topics": [
+      "Academic Life"
     ]
   },
   {
@@ -49,10 +178,25 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/d41586-026-00809-0",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "PhD Life"
+    ]
+  },
+  {
+    "id": "1a3f8e989b21",
+    "title": "Iran’s Revolutionary Guard would fiercely resist a US ground invasion. History proves it",
+    "summary": "Saeediex/Shutterstock The Iranian Revolutionary Guard Corps (IRGC) has long exerted a strong, often underestimated power in the Middle East. With around 190,000 members, plus an estimated 450,000 reserves in the Basij paramilitary, the largest component of Iran’s Armed Forces also controls much of the country’s politics, intelligence and economy. After an Israeli airstrike assassinated the Islamic Republic’s Supreme Leader Ayatollah Ali Khamenei on February 28, US President Donald Trump called o",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
+    "relevanceScore": 9,
+    "url": "https://theconversation.com/irans-revolutionary-guard-would-fiercely-resist-a-us-ground-invasion-history-proves-it-279796",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-04T07:21:06.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life",
+      "Science Policy"
     ]
   },
   {
@@ -64,7 +208,7 @@
     "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-04T10:00:00.000Z",
-    "scrapedAt": "2026-04-05T18:58:51.864Z",
+    "scrapedAt": "2026-04-05T20:33:37.799Z",
     "topics": [
       "Research Culture"
     ]
@@ -78,21 +222,21 @@
     "url": "https://theconversation.com/what-a-us-attorney-general-actually-does-a-law-professor-spells-it-out-279949",
     "source": "The Conversation",
     "publishedAt": "2026-04-03T15:21:01.000Z",
-    "scrapedAt": "2026-04-05T18:58:53.510Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
     "topics": [
       "Academic Life"
     ]
   },
   {
-    "id": "1ff50c11367e",
-    "title": "Guest post: Should universities investigate questionable papers students and faculty wrote elsewhere?",
-    "summary": "I am a research ethicist and often get asked by my university to investigate when potential concerns are raised about our staff or students. One example involved the recent case of the alleged paper mill and self-citation activities by Hitler Louis and Innocent Benjamin. The matter raised significant questions about who within the research community … Continue reading Guest post: Should universities investigate questionable papers students and faculty wrote elsewhere?",
-    "whyItMatters": "Relevant to academic life. From Retraction Watch.",
+    "id": "0f3c9565dc67",
+    "title": "Supreme Court ruling on Colorado conversion therapy case is not a clear win for conservatives",
+    "summary": "The U.S. Supreme Court found a Colorado law banning conversion therapy for gay and transgender minors likely violates free speech. Roberto Schmidt/Getty Images In an 8-1 decision authored by Justice Neil Gorsuch, the Supreme Court held on March 31, 2026, that a Colorado law prohibiting licensed counselors from performing “conversion therapy” on minors was likely unconstitutional as applied to talk therapy. Justice Elena Kagan filed a separate concurrence, joined by Justice Sonia Sotomayor. Justi",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
     "relevanceScore": 8,
-    "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
-    "source": "Retraction Watch",
-    "publishedAt": "2026-04-03T12:00:00.000Z",
-    "scrapedAt": "2026-04-05T18:58:51.864Z",
+    "url": "https://theconversation.com/supreme-court-ruling-on-colorado-conversion-therapy-case-is-not-a-clear-win-for-conservatives-279820",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-03T12:44:39.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
     "topics": [
       "Academic Life"
     ]
@@ -106,63 +250,94 @@
     "url": "https://www.insidehighered.com/opinion/views/2026/04/03/what-know-about-ai-and-campus-mental-health-opinion",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-03T07:00:00.000Z",
-    "scrapedAt": "2026-04-05T18:58:49.900Z",
+    "scrapedAt": "2026-04-05T20:33:34.724Z",
     "topics": [
       "Mental Health & Wellbeing"
     ]
   },
   {
-    "id": "21d7b9d4cece",
-    "title": "DefensePredictor: A machine learning model to discover prokaryotic immune systems",
-    "summary": "Science, Volume 392, Issue 6793, April 2026.",
-    "whyItMatters": "AI is reshaping how research is done and taught — this has implications for every academic. From Science.",
-    "relevanceScore": 6,
-    "url": "https://www.science.org/doi/abs/10.1126/science.adv7924?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:58:50.961Z",
-    "scrapedAt": "2026-04-05T18:58:50.961Z",
+    "id": "ad6e08eda2b0",
+    "title": "The nonprofit status of NCAA athletic departments is starting to raise questions",
+    "summary": "University of Michigan star forward Yaxel Lendeborg revealed that he'd been offered millions of dollars to transfer to another school. Gregory Shamus/Getty Images With all the talk of busted brackets, game-winning shots, point spreads and Cinderellas, it was easy to miss the eye-popping offer University of Michigan star forward Yaxel Lendeborg claimed to have received during the first weekend of March Madness. Lendeborg told The Associated Press that the University of Kentucky had dangled betwee",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/the-nonprofit-status-of-ncaa-athletic-departments-is-starting-to-raise-questions-278184",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T18:47:37.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
     "topics": [
-      "AI & Tech in Academia"
+      "Academic Life"
     ]
   },
   {
-    "id": "50ad36ca04b5",
-    "title": "Protein and genomic language models uncover the unexplored diversity of bacterial immunity",
-    "summary": "Science, Volume 392, Issue 6793, April 2026.",
-    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From Science.",
-    "relevanceScore": 6,
-    "url": "https://www.science.org/doi/abs/10.1126/science.adv8275?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:58:50.961Z",
-    "scrapedAt": "2026-04-05T18:58:50.961Z",
+    "id": "2c780925a18b",
+    "title": "Bumblebees can perceive rhythm, despite their brains being the size of a sesame seed",
+    "summary": "ClickerHappy/Pexels Humans are creatures of rhythms. As far as we know, humans have always sung and always danced. We can recognise a song by its rhythm alone, regardless of whether it is played fast or slow. We seem to have an almost effortless capacity to pick up on rhythmic patterns, and we have presumed this ability to require the very large and powerful human brain. But our new research, published today in the journal Science, shows humans are not alone in mastering rhythm. Even the bumbleb",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/bumblebees-can-perceive-rhythm-despite-their-brains-being-the-size-of-a-sesame-seed-279659",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T18:07:35.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
     "topics": [
-      "Research Culture"
+      "Academic Life",
+      "Science Policy"
     ]
   },
   {
-    "id": "3dfc63ed605c",
-    "title": "Harnessing viral strategies to reverse cognitive dysfunction through the integrated stress response",
-    "summary": "Science, Volume 392, Issue 6793, April 2026.",
-    "whyItMatters": "Academic wellbeing is an institutional issue, not a personal one. This matters for the culture we build. From Science.",
-    "relevanceScore": 6,
-    "url": "https://www.science.org/doi/abs/10.1126/science.aea8782?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:58:50.961Z",
-    "scrapedAt": "2026-04-05T18:58:50.961Z",
+    "id": "c02906244d26",
+    "title": "Effective storytelling can encourage climate action from policymakers and the public",
+    "summary": "Scientists know more about climate change than ever before. So why isn’t the world moving faster to address it? That was the question at the heart of a round table I recently moderated at Concordia University, and the answers were more practical and more urgent than many in the room expected. The session, entitled “Communicating Climate Research to Policy and the Public,” took place on March 10 and featured Concordia professor Damon Matthews, Montréal city councillor Peter McQueen and Dominique ",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/effective-storytelling-can-encourage-climate-action-from-policymakers-and-the-public-278522",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T16:52:44.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
     "topics": [
-      "Mental Health & Wellbeing"
+      "Academic Life"
     ]
   },
   {
-    "id": "f86c3eebecb8",
-    "title": "Higher education must bridge the AI gap",
-    "summary": "Science, Volume 392, Issue 6793, Page 5-5, April 2026.",
-    "whyItMatters": "Relevant to academic life. From Science.",
+    "id": "974664af29ed",
+    "title": "Why the manosphere has an antisemitism problem",
+    "summary": "Fitness content is big in the 'manosphere,' but extreme ideologies make appearances, too. ljubaphoto/E+ via Getty Images Toward the end of Netflix’s “Into the Manosphere,” documentary filmmaker Louis Theroux chats in Marbella, Spain, with British influencer Ed Matthews. “The people who run the world, they don’t have our best intentions,” says Matthews, speaking in the language of the manosphere – where some influencers and viewers believe they have tapped into a deeper truth about reality and po",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
+    "relevanceScore": 7,
+    "url": "https://theconversation.com/why-the-manosphere-has-an-antisemitism-problem-279384",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-03T12:43:07.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life",
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "92a1ba819aa8",
+    "title": "As oil shortages deepen, wartime rationing offers a guide for today’s governments",
+    "summary": "With global oil supply under pressure from the U.S.-Iran war, governments may need to bring back tools many assume belong to the past: rationing and price controls. Some countries are already moving in that direction. The Philippines has declared a national emergency in response to energy supply risks, while South Sudan has begun rationing electricity in its capital, Juba, and Mauritius has imposed restrictions aimed at reducing consumption and limiting waste. These developments echo historical ",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
+    "relevanceScore": 7,
+    "url": "https://theconversation.com/as-oil-shortages-deepen-wartime-rationing-offers-a-guide-for-todays-governments-279193",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T18:26:11.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life",
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "35701c2cdbaa",
+    "title": "These scientists chased a jet to learn more about ‘lean-burn’ contrails",
+    "summary": "No summary available",
+    "whyItMatters": "Relevant to academic life. From Nature.",
     "relevanceScore": 6,
-    "url": "https://www.science.org/doi/abs/10.1126/science.aeh5777?af=R",
-    "source": "Science",
-    "publishedAt": "2026-04-05T18:58:50.961Z",
-    "scrapedAt": "2026-04-05T18:58:50.961Z",
+    "url": "https://www.nature.com/articles/d41586-026-01052-3",
+    "source": "Nature",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "Academic Life"
     ]
@@ -175,8 +350,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10295-z",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "Mental Health & Wellbeing"
     ]
@@ -189,8 +364,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10203-5",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "Research Culture"
     ]
@@ -203,8 +378,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10348-3",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "Mental Health & Wellbeing"
     ]
@@ -217,8 +392,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10251-x",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "Research Culture"
     ]
@@ -231,8 +406,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/d41586-026-00955-5",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "Research Culture"
     ]
@@ -245,66 +420,290 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/d41586-026-00684-9",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "Research Culture"
     ]
   },
   {
-    "id": "cb83d5ebb562",
-    "title": "AI’s fluency in other languages hides a Western worldview that can mislead users − a scholar of Indonesian society explains",
-    "summary": "AI models derive their assumptions from English-language sources based in the United States. Weiquan Lin/Moment via Getty Images A friend in Indonesia recently told me about a conversation he had with ChatGPT. He had typed a question in Indonesian – Bahasa Indonesia – about how to handle a difficult family dispute. The chatbot responded fluently, in perfect Indonesian, with advice about communication strategies and conflict resolution. The grammar was flawless. The tone was appropriate. And yet ",
-    "whyItMatters": "AI is reshaping how research is done and taught — this has implications for every academic. From The Conversation.",
+    "id": "7a6754e26145",
+    "title": "Humanity is heading back to the Moon — why aren’t more scientists thrilled?",
+    "summary": "No summary available",
+    "whyItMatters": "Relevant to academic life. From Nature.",
     "relevanceScore": 6,
-    "url": "https://theconversation.com/ais-fluency-in-other-languages-hides-a-western-worldview-that-can-mislead-users-a-scholar-of-indonesian-society-explains-276865",
-    "source": "The Conversation",
-    "publishedAt": "2026-04-02T12:45:58.000Z",
-    "scrapedAt": "2026-04-05T18:58:53.510Z",
+    "url": "https://www.nature.com/articles/d41586-026-00987-x",
+    "source": "Nature",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "21d7b9d4cece",
+    "title": "DefensePredictor: A machine learning model to discover prokaryotic immune systems",
+    "summary": "Science, Volume 392, Issue 6793, April 2026.",
+    "whyItMatters": "AI is reshaping how research is done and taught — this has implications for every academic. From Science.",
+    "relevanceScore": 6,
+    "url": "https://www.science.org/doi/abs/10.1126/science.adv7924?af=R",
+    "source": "Science",
+    "publishedAt": "2026-04-05T20:33:34.594Z",
+    "scrapedAt": "2026-04-05T20:33:34.594Z",
     "topics": [
       "AI & Tech in Academia"
     ]
   },
   {
-    "id": "1a3f8e989b21",
-    "title": "Iran’s Revolutionary Guard would fiercely resist a US ground invasion. History proves it",
-    "summary": "Saeediex/Shutterstock The Iranian Revolutionary Guard Corps (IRGC) has long exerted a strong, often underestimated power in the Middle East. With around 190,000 members, plus an estimated 450,000 reserves in the Basij paramilitary, the largest component of Iran’s Armed Forces also controls much of the country’s politics, intelligence and economy. After an Israeli airstrike assassinated the Islamic Republic’s Supreme Leader Ayatollah Ali Khamenei on February 28, US President Donald Trump called o",
-    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
-    "relevanceScore": 5,
-    "url": "https://theconversation.com/irans-revolutionary-guard-would-fiercely-resist-a-us-ground-invasion-history-proves-it-279796",
-    "source": "The Conversation",
-    "publishedAt": "2026-04-04T07:21:06.000Z",
-    "scrapedAt": "2026-04-05T18:58:53.510Z",
-    "topics": [
-      "Science Policy"
-    ]
-  },
-  {
-    "id": "2c780925a18b",
-    "title": "Bumblebees can perceive rhythm, despite their brains being the size of a sesame seed",
-    "summary": "ClickerHappy/Pexels Humans are creatures of rhythms. As far as we know, humans have always sung and always danced. We can recognise a song by its rhythm alone, regardless of whether it is played fast or slow. We seem to have an almost effortless capacity to pick up on rhythmic patterns, and we have presumed this ability to require the very large and powerful human brain. But our new research, published today in the journal Science, shows humans are not alone in mastering rhythm. Even the bumbleb",
-    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
-    "relevanceScore": 4,
-    "url": "https://theconversation.com/bumblebees-can-perceive-rhythm-despite-their-brains-being-the-size-of-a-sesame-seed-279659",
-    "source": "The Conversation",
-    "publishedAt": "2026-04-02T18:07:35.000Z",
-    "scrapedAt": "2026-04-05T18:58:53.510Z",
-    "topics": [
-      "Science Policy"
-    ]
-  },
-  {
-    "id": "789fc9d8a410",
-    "title": "Flexible, abstract rhythm perception in bumble bees",
-    "summary": "Science, Volume 392, Issue 6793, Page 93-95, April 2026.",
-    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From Science.",
-    "relevanceScore": 3,
-    "url": "https://www.science.org/doi/abs/10.1126/science.adz2894?af=R",
+    "id": "50ad36ca04b5",
+    "title": "Protein and genomic language models uncover the unexplored diversity of bacterial immunity",
+    "summary": "Science, Volume 392, Issue 6793, April 2026.",
+    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From Science.",
+    "relevanceScore": 6,
+    "url": "https://www.science.org/doi/abs/10.1126/science.adv8275?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-05T18:58:50.961Z",
-    "scrapedAt": "2026-04-05T18:58:50.961Z",
+    "publishedAt": "2026-04-05T20:33:34.594Z",
+    "scrapedAt": "2026-04-05T20:33:34.594Z",
     "topics": [
-      "Science Policy"
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "3dfc63ed605c",
+    "title": "Harnessing viral strategies to reverse cognitive dysfunction through the integrated stress response",
+    "summary": "Science, Volume 392, Issue 6793, April 2026.",
+    "whyItMatters": "Academic wellbeing is an institutional issue, not a personal one. This matters for the culture we build. From Science.",
+    "relevanceScore": 6,
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea8782?af=R",
+    "source": "Science",
+    "publishedAt": "2026-04-05T20:33:34.594Z",
+    "scrapedAt": "2026-04-05T20:33:34.594Z",
+    "topics": [
+      "Mental Health & Wellbeing"
+    ]
+  },
+  {
+    "id": "fe89066bacd3",
+    "title": "Two years after it emerged, ‘cow flu’ still baffles scientists",
+    "summary": "Science, Volume 392, Issue 6793, Page 12-14, April 2026.",
+    "whyItMatters": "Relevant to academic life. From Science.",
+    "relevanceScore": 6,
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeh6876?af=R",
+    "source": "Science",
+    "publishedAt": "2026-04-05T20:33:34.594Z",
+    "scrapedAt": "2026-04-05T20:33:34.594Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "f66407e334e0",
+    "title": "Scientists brace for expansion of Alzheimer’s blood tests",
+    "summary": "Science, Volume 392, Issue 6793, Page 14-15, April 2026.",
+    "whyItMatters": "Relevant to academic life. From Science.",
+    "relevanceScore": 6,
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeh6877?af=R",
+    "source": "Science",
+    "publishedAt": "2026-04-05T20:33:34.594Z",
+    "scrapedAt": "2026-04-05T20:33:34.594Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "f86c3eebecb8",
+    "title": "Higher education must bridge the AI gap",
+    "summary": "Science, Volume 392, Issue 6793, Page 5-5, April 2026.",
+    "whyItMatters": "Relevant to academic life. From Science.",
+    "relevanceScore": 6,
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeh5777?af=R",
+    "source": "Science",
+    "publishedAt": "2026-04-05T20:33:34.594Z",
+    "scrapedAt": "2026-04-05T20:33:34.594Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "856dd8266e58",
+    "title": "Sustainable neuroscience through open science",
+    "summary": "No summary available",
+    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From Nature Human Behaviour.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/s41562-026-02426-3",
+    "source": "Nature Human Behaviour",
+    "publishedAt": "2026-04-05T20:33:34.379Z",
+    "scrapedAt": "2026-04-05T20:33:34.379Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "9f3a007d7e50",
+    "title": "The effect of praise from peers on empathy and political inclusion towards racial or ethnic outgroups",
+    "summary": "No summary available",
+    "whyItMatters": "How we publish, review, and share research defines academic culture. This challenges the status quo. From Nature Human Behaviour.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/s41562-026-02413-8",
+    "source": "Nature Human Behaviour",
+    "publishedAt": "2026-04-05T20:33:34.379Z",
+    "scrapedAt": "2026-04-05T20:33:34.379Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "f9cb175dba7e",
+    "title": "Why Americans give: New research finds 5 distinct profiles for generosity",
+    "summary": "About 82% of Americans said in response to a survey that they give to charity or to people in need. Overearth/iStock via Getty Images Plus Given that fewer Americans are donating and volunteering and that people in the U.S. appear to be losing trust in one another, it may seem like generosity has eroded in the United States. The nation’s political, social and economic divides might only strengthen that impression. But my recent research suggests that this belief would be misguided. I’m a profess",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/why-americans-give-new-research-finds-5-distinct-profiles-for-generosity-279429",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-03T12:43:33.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "ca4b5cde3c0a",
+    "title": "Humans’ closest invertebrate ancestors date back much further than thought – how we discovered the fossils that show this",
+    "summary": "Artist's impression of Earth's earliest complex animals during the late Ediacaran period – before the 'Cambrian explosion'. Xiaodong Wang, CC BY-SA Animal life is extraordinarily diverse and complex, having colonised almost all environments on Earth – from hostile hydrothermal vents in the deep sea to the skies across our continents. But the planet was not always teeming with complex animal life. For the first 3.7 billion years after it originated, life was small, simple and largely confined to ",
+    "whyItMatters": "Directly relevant to early-career academics navigating doctoral life. From The Conversation.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/humans-closest-invertebrate-ancestors-date-back-much-further-than-thought-how-we-discovered-the-fossils-that-show-this-279793",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T18:08:57.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "PhD Life"
+    ]
+  },
+  {
+    "id": "a7f33e436281",
+    "title": "I watched Artemis II lift off — and witnessed the first humans venture to the Moon since 1972",
+    "summary": "Even from a distance of several kilometres, the Artemis II rocket looked huge. Then, there was a moment that felt like an eternity, as around 2,600 metric tons of spacecraft lifted off. I was honoured to receive an invitation from the Canadian Space Agency to attend this historic launch at NASA’s Kennedy Space Center. I am a professor, an explorer and a planetary geologist. As a member of the First Artemis Lunar Surface Science Team, I have been supporting NASA in developing the geology training",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/i-watched-artemis-ii-lift-off-and-witnessed-the-first-humans-venture-to-the-moon-since-1972-279822",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T17:07:35.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "166c8dd504ba",
+    "title": "The Untold Stories of Women Football Fans: celebrating memories, calling out prejudice",
+    "summary": "It’s one of the clearest things about me. I’m black and white … I think I cried for a month when we lost the FA Cup Final in 1974. I was only ten and it was near my birthday as well. I was absolutely gutted. [Jo, Newcastle fan since the 1970s] Sexism in football, according to a recent BBC report is “a problem that isn’t going away”. When working on my book The Feminization of Sports Fandom, I discovered that the increasing opportunities for women to become football fans over the last three decad",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/the-untold-stories-of-women-football-fans-celebrating-memories-calling-out-prejudice-279703",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T15:34:55.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "d56ec8669497",
+    "title": "Better urban design could help save Florida’s threatened Big Cypress fox squirrel",
+    "summary": "The Big Cypress fox squirrel has had to adapt as its preferred habitat becomes more fragmented. LagunaticPhoto/iStock via Getty Images Plus Florida is home to a host of diverse wildlife you can’t find anywhere else. Most people know of manatees and Florida panthers. But you might never have heard of the Big Cypress fox squirrel, a subspecies found only in southwest Florida. At up to 2 feet, 3 inches (68.5 centimeters) long, including its tail, and weighing roughly 3 pounds (1.36 kilograms), the ",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/better-urban-design-could-help-save-floridas-threatened-big-cypress-fox-squirrel-276827",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T12:45:35.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "e8ee8759a058",
+    "title": "MIT researchers measure traffic emissions, to the block, in real-time",
+    "summary": "A new study pieces together existing data sources in order to develop a detailed, dynamic picture of auto emissions.",
+    "whyItMatters": "Relevant to academic life. From MIT News.",
+    "relevanceScore": 6,
+    "url": "https://news.mit.edu/2026/mit-researchers-measure-traffic-emissions-block-real-time-0402",
+    "source": "MIT News",
+    "publishedAt": "2026-04-02T09:00:00.000Z",
+    "scrapedAt": "2026-04-05T20:33:44.004Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "4705621db3fb",
+    "title": "US and Iran: A brief history of how decades of mistrust and bad blood led to open warfare",
+    "summary": "An Iranian walks past an anti-U.S. mural in Tehran on April 5, 2025. Atta Kenare/AFP via Getty Images With U.S. bombs raining down on Iran and Tehran’s leaders responding by hitting targets across the Persian Gulf and restricting transit through the Strait of Hormuz, it is fair to suggest that the present moment represents a low in relations between the two countries. But the bad blood isn’t new: The U.S. and Iran have been in conflict for decades – at least since the U.S. helped overthrow a dem",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 5,
+    "url": "https://theconversation.com/us-and-iran-a-brief-history-of-how-decades-of-mistrust-and-bad-blood-led-to-open-warfare-279712",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-04T12:54:45.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "f28594be7ea1",
+    "title": "A matter of taste: did Neanderthals really like Sapiens women?",
+    "summary": "Going by the headlines, the matter seems to be settled. El País announces that Neanderthal men “chose” Sapiens women. Science journal speaks of a “partner preference.” National Geographic is already imagining the “Romeos” of prehistory. The Telegraph suggests that Neanderthals “had designs on” Sapiens women. Within a few hours, a statistical analysis had been whipped up into a tale of desire. The “sex lives” of our ancestors were suddenly within clicking distance. This shift is not trivial. It t",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 5,
+    "url": "https://theconversation.com/a-matter-of-taste-did-neanderthals-really-like-sapiens-women-279905",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-03T13:39:36.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "b5862e364e7e",
+    "title": "Will row over Iran conflict spell the end of Nato?",
+    "summary": "This is the text from The Conversation UK’s World Affairs Briefing email. Sign up here to receive weekly analysis of the latest developments in international relations, direct to your inbox. Anybody who tuned in to Donald Trump’s prime-time speech to the American people last night hoping to hear that he plans an end to the US attacks on Iran and will focus instead on reaching an agreement over opening up the Strait of Hormuz would have been bitterly disappointed. I know I was. Instead of a strat",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 5,
+    "url": "https://theconversation.com/will-row-over-iran-conflict-spell-the-end-of-nato-279898",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T20:35:09.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "5eb6dad25f63",
+    "title": "Our modern vision evolved from an ancient one-eyed worm creature",
+    "summary": "LuckyStep/Shutterstock It’s easy to take our eyes for granted. But our recent research shows they took an incredible evolutionary journey to reach their current familiar form. It has long been known that our (vertebrate) eyes differ fundamentally from the ones of our distant relatives (invertebrates), because of their cell composition and how they develop before birth. However, answers to why or how these differences first emerged long remained elusive. Our study suggests that our eyes descend f",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 5,
+    "url": "https://theconversation.com/our-modern-vision-evolved-from-an-ancient-one-eyed-worm-creature-278120",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T14:11:40.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
+    ]
+  },
+  {
+    "id": "f4e766592221",
+    "title": "75 years after she led a student strike that helped end school segregation, Barbara Rose Johns now stands in the US Capitol where Robert E. Lee once did",
+    "summary": "A statue of civil rights activist Barbara Rose Johns is unveiled in Emancipation Hall at the U.S. Capitol on Dec. 16, 2025, in Washington. Chip Somodevilla/Getty Images The 250th anniversary of the Declaration of Independence isn’t the only important anniversary in 2026. This year also marks the 75th anniversary of an extraordinary case of student activism that helped lead to the Supreme Court’s decision outlawing segregated schools. In April 1951, 16-year-old Barbara Rose Johns organized a stud",
+    "whyItMatters": "Relevant to academic life. From The Conversation.",
+    "relevanceScore": 4,
+    "url": "https://theconversation.com/75-years-after-she-led-a-student-strike-that-helped-end-school-segregation-barbara-rose-johns-now-stands-in-the-us-capitol-where-robert-e-lee-once-did-273531",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T12:44:57.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Academic Life"
     ]
   },
   {
@@ -315,8 +714,8 @@
     "relevanceScore": 3,
     "url": "https://www.nature.com/articles/s41586-026-10321-0",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "Science Policy"
     ]
@@ -329,8 +728,8 @@
     "relevanceScore": 3,
     "url": "https://www.nature.com/articles/s41586-026-10333-w",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "Science Policy"
     ]
@@ -343,8 +742,8 @@
     "relevanceScore": 3,
     "url": "https://www.nature.com/articles/s41586-026-10357-2",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
     "topics": [
       "Science Policy"
     ]
@@ -357,8 +756,64 @@
     "relevanceScore": 3,
     "url": "https://www.nature.com/articles/s41586-026-10335-8",
     "source": "Nature",
-    "publishedAt": "2026-04-05T18:58:49.517Z",
-    "scrapedAt": "2026-04-05T18:58:49.517Z",
+    "publishedAt": "2026-04-05T20:33:37.254Z",
+    "scrapedAt": "2026-04-05T20:33:37.254Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "789fc9d8a410",
+    "title": "Flexible, abstract rhythm perception in bumble bees",
+    "summary": "Science, Volume 392, Issue 6793, Page 93-95, April 2026.",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From Science.",
+    "relevanceScore": 3,
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz2894?af=R",
+    "source": "Science",
+    "publishedAt": "2026-04-05T20:33:34.594Z",
+    "scrapedAt": "2026-04-05T20:33:34.594Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "224936f1ecb4",
+    "title": "Iran’s president appeals to Americans − but does his office still hold any real power?",
+    "summary": "Iranian President Masoud Pezeshkian attends the Quds Day march in Tehran on March 13, 2026. Hassan Ghaedi/Anadolu via Getty Images Iranian President Masoud Pezeshkian penned an open letter to “the people of the United States” on April 1, 2026, in which he implored Americans to “look beyond” misinformation that portrayed Iran as a threat to the world. It was, perhaps, his most prominent intervention during the current conflict. Despite being the president of a country in the midst of crisis, Peze",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
+    "relevanceScore": 3,
+    "url": "https://theconversation.com/irans-president-appeals-to-americans-but-does-his-office-still-hold-any-real-power-278705",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T20:08:57.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "fd31dcefbc4e",
+    "title": "Why Benjamin Netanyahu needs the Iran conflict to continue",
+    "summary": "Before Donald Trump delivered his prime-time address to the American people on April 1, many commentators predicted he would claim victory and signal that the US air campaign against Iran would be wound down – even without a deal with Tehran to open the Strait of Hormuz. As it turned out, Trump said he would double down on the violence, promising to hit Iran “extremely hard” in coming weeks. The White House simultaneously released a document headlined: President Trump’s Clear and Unchanging Obje",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
+    "relevanceScore": 2,
+    "url": "https://theconversation.com/why-benjamin-netanyahu-needs-the-iran-conflict-to-continue-279777",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T14:34:09.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "b6dd0fc27ca1",
+    "title": "SpaceX and OpenAI IPOs are unlikely to bring skyrocketing returns that Amazon and Apple did, as companies go public later in life and early investors cash out",
+    "summary": "SpaceX is among the many companies that hope their initial public offerings take off. AP Photo/John Raoux Elon Musk’s SpaceX is expected to soon become a public company in what may be the biggest initial public offering in history. But my new research suggests that investors who buy shares of the company are unlikely to see the explosive growth that past IPOs had. The rocket and satellite maker, which confidentially filed to go public on April 1, 2026, is reportedly planning to raise as much as ",
+    "whyItMatters": "Policy decisions shape funding, hiring, and what research gets done. This affects academic careers at every level. From The Conversation.",
+    "relevanceScore": 2,
+    "url": "https://theconversation.com/spacex-and-openai-ipos-are-unlikely-to-bring-skyrocketing-returns-that-amazon-and-apple-did-as-companies-go-public-later-in-life-and-early-investors-cash-out-276147",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-02T12:47:00.000Z",
+    "scrapedAt": "2026-04-05T20:33:39.724Z",
     "topics": [
       "Science Policy"
     ]

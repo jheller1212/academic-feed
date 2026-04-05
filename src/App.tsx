@@ -129,6 +129,17 @@ function ArticleCard({
           <Badge key={t} text={t} variant="topic" />
         ))}
         <div className="flex-1" />
+        <a
+          href={article.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-sm px-3 py-1.5 bg-gray-100 text-gray-600 rounded-lg hover:bg-gray-200 transition-colors"
+          onClick={() => {
+            if (!state.seen) onMarkSeen(article.id)
+          }}
+        >
+          Read article
+        </a>
         <button
           onClick={() => onGeneratePost(article)}
           className="text-sm px-3 py-1.5 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
@@ -225,13 +236,18 @@ function PostModal({
   )
 }
 
-function ApiKeyPrompt({ onSave }: { onSave: (key: string) => void }) {
+function ApiKeyPrompt({ onSave, onClose }: { onSave: (key: string) => void; onClose: () => void }) {
   const [key, setKey] = useState('')
 
   return (
     <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">
       <div className="bg-white rounded-2xl max-w-md w-full p-6">
-        <h2 className="font-bold text-lg mb-2">Claude API Key</h2>
+        <div className="flex justify-between items-start mb-2">
+          <h2 className="font-bold text-lg">Claude API Key</h2>
+          <button onClick={onClose} className="text-gray-400 hover:text-gray-600 text-2xl leading-none">
+            &times;
+          </button>
+        </div>
         <p className="text-sm text-gray-500 mb-4">
           Enter your Anthropic API key to generate LinkedIn posts. It's stored locally in your browser only.
         </p>
@@ -529,7 +545,15 @@ export default function App() {
       )}
 
       {/* API key prompt */}
-      {showApiKeyPrompt && <ApiKeyPrompt onSave={handleSaveApiKey} />}
+      {showApiKeyPrompt && (
+        <ApiKeyPrompt
+          onSave={handleSaveApiKey}
+          onClose={() => {
+            setShowApiKeyPrompt(false)
+            setGeneratingArticle(null)
+          }}
+        />
+      )}
 
       <footer className="mt-12 text-center text-xs text-gray-400">
         Academic Feed &middot; Updates every 3 hours
