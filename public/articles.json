@@ -54,7 +54,7 @@
     "url": "https://theconversation.com/we-teach-at-a-florida-university-that-agreed-to-cooperate-with-ice-and-we-worry-that-it-is-making-our-students-feel-less-safe-277911",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:01:40.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "PhD & PostDoc Life",
       "Academic Culture",
@@ -118,7 +118,7 @@
     "url": "https://theconversation.com/hosting-the-nfl-draft-is-less-about-weekend-beer-sales-and-more-about-long-term-brand-value-277465",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:06:53.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior",
@@ -220,13 +220,13 @@
   {
     "id": "0e37c2d41e98",
     "title": "Gradual Cognitive Externalization: From Modeling Cognition to Constituting It",
-    "summary": "arXiv:2604.04387v2 Announce Type: cross Abstract: Developers are publishing AI agent skills that replicate a colleague's communication style, encode a supervisor's mentoring heuristics, or preserve a person's behavioral repertoire beyond biological death. To explain why, we propose Gradual Cognitive Externalization (GCE), a framework arguing that ambient AI systems, through sustained causal coupling with users, transition from modeling cognitive functions to constituting part of users' cognitive",
+    "summary": "arXiv:2604.04387v2 Announce Type: replace-cross Abstract: Developers are publishing AI agent skills that replicate a colleague's communication style, encode a supervisor's mentoring heuristics, or preserve a person's behavioral repertoire beyond biological death. To explain why, we propose Gradual Cognitive Externalization (GCE), a framework arguing that ambient AI systems, through sustained causal coupling with users, transition from modeling cognitive functions to constituting part of users' c",
     "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
     "relevanceScore": 36,
     "url": "https://arxiv.org/abs/2604.04387",
     "source": "arXiv - Computers & Society",
-    "publishedAt": "2026-04-07T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.082Z",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
     "topics": [
       "PhD & PostDoc Life",
       "Academic Culture",
@@ -287,7 +287,7 @@
     "url": "https://theconversation.com/slopaganda-wars-how-and-why-the-us-and-iran-are-flooding-the-zone-with-viral-ai-generated-noise-280024",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T18:14:22.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -302,7 +302,7 @@
     "url": "https://theconversation.com/why-organisations-pick-the-wrong-leaders-278446",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T15:19:12.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -349,6 +349,36 @@
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "95bbb01b64d4",
+    "title": "Money’s tight but food prices are up. Here’s how to save on your grocery bill",
+    "summary": "fcafotodigital/Getty Images Another interest rate rise and a spike in fuel prices is placing increasing pressure on household budgets. Many households are also seeing the impact of the war in the Middle East on the price of groceries. Now the weekly food shop requires more planning, brand swaps and deciding whether to cut back on non-essentials. So how can you reduce grocery costs without compromising taste and nutrition? Plan meals around what’s on sale and in season Food prices fluctuate week ",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 28,
+    "url": "https://theconversation.com/moneys-tight-but-food-prices-are-up-heres-how-to-save-on-your-grocery-bill-279562",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T05:02:03.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
+    "topics": [
+      "Marketing & Consumer Science",
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "a01e60f7478a",
+    "title": "Context Collapse: Barriers to Adoption for Generative AI in Workplace Settings",
+    "summary": "arXiv:2604.05151v1 Announce Type: new Abstract: As generative AI technologies are pressed into service in workplace settings, current approaches to account for the contexts in which such technologies are used fall short of users' expectations and needs. This paper empirically demonstrates, through expert interviews, both how these tools fail to account for users' context and how users deploy concrete strategies address such failures. The paper analyzes how context is variously conceptualized by ",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 28,
+    "url": "https://arxiv.org/abs/2604.05151",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "AI & Tech",
+      "Management & Organizations"
     ]
   },
   {
@@ -465,7 +495,7 @@
     "url": "https://theconversation.com/why-starting-a-hobby-as-an-adult-can-feel-so-hard-and-why-you-should-embrace-beginnerhood-274718",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T17:02:38.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -600,7 +630,7 @@
     "url": "https://theconversation.com/a-womens-push-up-hack-is-trending-on-social-media-an-anatomist-explains-why-it-works-278363",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:13:29.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -628,8 +658,8 @@
     "relevanceScore": 21,
     "url": "https://www.nature.com/articles/s41586-026-10203-5",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior"
@@ -691,6 +721,62 @@
     "topics": [
       "PhD & PostDoc Life",
       "Academic Culture"
+    ]
+  },
+  {
+    "id": "4f8508670fb2",
+    "title": "A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems",
+    "summary": "arXiv:2604.05160v1 Announce Type: new Abstract: Students benefit from math problems contextualized to their interests. Large language models (LLMs) offer promise for efficient personalization at scale. However, LLM-generated personalized problems may often have problems such as unrealistic quantities and contexts, poor readability, limited authenticity with respect to students' experiences, and occasional mathematical inconsistencies. To alleviate these problems, we propose a multi-agent framewo",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2604.05160",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "a2ac2b01170b",
+    "title": "Reciprocal Trust and Distrust in Artificial Intelligence Systems: The Hard Problem of Regulation",
+    "summary": "arXiv:2604.05826v1 Announce Type: cross Abstract: Policy makers, scientists, and the public are increasingly confronted with thorny questions about the regulation of artificial intelligence (AI) systems. A key common thread concerns whether AI can be trusted and the factors that can make it more trustworthy in front of stakeholders and users. This is indeed crucial, as the trustworthiness of AI systems is fundamental for both democratic governance and for the development and deployment of AI. Th",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2604.05826",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "266c8ca0800e",
+    "title": "Hedging and Non-Affirmation: Quantifying LLM Alignment on Questions of Human Rights",
+    "summary": "arXiv:2502.19463v2 Announce Type: replace Abstract: Hedging and non-affirmation are behaviors exhibited by large language models (LLMs) that limit the clear endorsement of specific statements. While these behaviors are desirable in subjective contexts, they are undesirable in the context of human rights - which apply unambiguously to all groups. We present a systematic framework to measure these behaviors in unconstrained LLM responses regarding various identity groups. We evaluate six large pro",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2502.19463",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "dca67b356d30",
+    "title": "Moral Mazes in the Era of LLMs",
+    "summary": "arXiv:2603.20231v2 Announce Type: replace Abstract: Navigating complex social situations is an integral part of corporate life, ranging from giving critical feedback without hurting morale to rejecting requests without alienating teammates. Although large language models (LLMs) are permeating the workplace, it is unclear how well they can navigate these norms. To investigate this question, we created HR Simulator, a game where users roleplay as an HR officer and write emails to tackle challengin",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2603.20231",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "AI & Tech"
     ]
   },
   {
@@ -857,7 +943,7 @@
     "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-03T12:00:00.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.487Z",
+    "scrapedAt": "2026-04-08T07:44:12.708Z",
     "topics": [
       "Academic Careers"
     ]
@@ -870,8 +956,8 @@
     "relevanceScore": 18,
     "url": "https://www.science.org/doi/abs/10.1126/science.adz2894?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-08T02:55:06.105Z",
-    "scrapedAt": "2026-04-08T02:55:06.105Z",
+    "publishedAt": "2026-04-08T07:44:12.427Z",
+    "scrapedAt": "2026-04-08T07:44:12.427Z",
     "topics": [
       "Psychology & Behavior",
       "Science Policy"
@@ -885,10 +971,25 @@
     "relevanceScore": 18,
     "url": "https://www.nature.com/articles/d41586-026-01027-4",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "1ab40e865e27",
+    "title": "From joyrides to assault, ‘crimefluencer’ networks are coercing young people into breaking the law",
+    "summary": "You have probably never heard the term “crimefluencer”. These are members of decentralised online crime networks who take crime content and amplify it to build notoriety and status in their online communities. They also recruit content creators to film themselves or others committing crimes, with the vision shared across social media, forums, or messaging apps. Late last year, the Australian Federal Police (AFP) set up a taskforce to “identify, disrupt and dismantle those online ecosystems that ",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 18,
+    "url": "https://theconversation.com/from-joyrides-to-assault-crimefluencer-networks-are-coercing-young-people-into-breaking-the-law-280027",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T04:00:59.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
+    "topics": [
+      "Psychology & Behavior",
+      "Science Policy"
     ]
   },
   {
@@ -900,7 +1001,7 @@
     "url": "https://theconversation.com/your-brain-for-sale-the-new-frontier-of-neural-data-279771",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T11:10:06.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior"
@@ -930,7 +1031,7 @@
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.427Z",
+    "scrapedAt": "2026-04-08T07:44:12.752Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
@@ -945,7 +1046,7 @@
     "url": "https://theconversation.com/why-ai-shouldnt-be-used-even-to-decide-simple-court-cases-273535",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T15:20:08.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -966,6 +1067,34 @@
     ]
   },
   {
+    "id": "d77955da2eb4",
+    "title": "Understanding: reframing automation and assurance",
+    "summary": "arXiv:2604.05662v1 Announce Type: cross Abstract: Safety and assurance cases risk becoming detached from the understanding needed for responsible engineering and governance decisions. More broadly, the production and evaluation of critical socio-technical systems increasingly face an understanding challenge: pressures for increased tempo, reduced scrutiny, software complexity, and growing use of AI generated artefacts may produce outputs that appear coherent without supporting genuine human comp",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2604.05662",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "711d7030456d",
+    "title": "A Common Pool of Privacy Problems: Legal and Technical Lessons from a Large-Scale Web-Scraped Machine Learning Dataset",
+    "summary": "arXiv:2506.17185v2 Announce Type: replace-cross Abstract: We investigate the contents of web-scraped data for training AI systems, at sizes where human dataset curators and compilers no longer manually annotate every sample. Building off of prior privacy concerns in machine learning models, we ask: What are the legal privacy implications of web-scraped machine learning datasets? In an empirical study of a popular training dataset, we find significant presence of personally identifiable informati",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2506.17185",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
     "id": "5a41bf15eb2f",
     "title": "An Education in Psychology Offers Multiple Paths to Success",
     "summary": "An Education in Psychology Offers Multiple Paths to Success Susan H. Greenberg Tue, 04/07/2026 - 12:50 PM Study promotes an overly narrow view of psychology careers. Byline(s) Letters to the Editor",
@@ -974,7 +1103,7 @@
     "url": "https://www.insidehighered.com/opinion/letters/2026/04/07/education-psychology-offers-multiple-paths-success",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-07T16:50:12.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.202Z",
+    "scrapedAt": "2026-04-08T07:44:12.661Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -988,7 +1117,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/04/07/2-csu-campuses-receive-77m-support-mental-health-la",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-07T07:00:00.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.202Z",
+    "scrapedAt": "2026-04-08T07:44:12.661Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -1198,8 +1327,8 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/d41586-026-00551-7",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Academic Careers"
     ]
@@ -1212,8 +1341,8 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/d41586-026-00809-0",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -1226,8 +1355,8 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/d41586-026-01023-8",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -1240,10 +1369,24 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/s41562-026-02432-5",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-08T02:55:05.723Z",
-    "scrapedAt": "2026-04-08T02:55:05.723Z",
+    "publishedAt": "2026-04-08T07:44:11.973Z",
+    "scrapedAt": "2026-04-08T07:44:11.973Z",
     "topics": [
       "Marketing & Consumer Science"
+    ]
+  },
+  {
+    "id": "97852e4bfbe6",
+    "title": "AI-Augmented Peer Review and Scientific Productivity: A Cross-Country Panel and SEM Analysis",
+    "summary": "arXiv:2604.05463v1 Announce Type: new Abstract: This study empirically investigates the impact of AI-augmented peer review systems on scientific productivity using panel data from OECD countries. While prior research has highlighted inefficiencies in traditional peer review, little empirical work has quantified the systemic impact of AI integration at the national level. We construct a novel AI Review Capability Index (AIRC) and examine its effects on research productivity, reproducibility, and ",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 15,
+    "url": "https://arxiv.org/abs/2604.05463",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "Academic Culture"
     ]
   },
   {
@@ -1255,7 +1398,7 @@
     "url": "https://theconversation.com/expecting-charity-shops-to-recycle-your-unwanted-clothes-is-creating-a-rubbish-pile-heres-how-to-help-to-avoid-that-278739",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T15:23:32.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -1269,7 +1412,7 @@
     "url": "https://theconversation.com/planting-trees-to-remove-carbon-can-harm-the-environment-or-protect-it-study-highlights-trade-offs-276335",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:24:34.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -1284,7 +1427,7 @@
     "url": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-07T12:12:17.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.487Z",
+    "scrapedAt": "2026-04-08T07:44:12.708Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1298,7 +1441,7 @@
     "url": "https://www.insidehighered.com/news/institutions/minority-serving-institutions/2026/04/07/new-bill-tightens-control-over-kentucky",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-07T07:00:00.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.202Z",
+    "scrapedAt": "2026-04-08T07:44:12.661Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1383,7 +1526,7 @@
     "url": "https://retractionwatch.com/2026/03/28/weekend-reads-illicit-ai-use-peer-reviews-commentary-talc-retracted-coauthorship-traded-commodity/",
     "source": "Retraction Watch",
     "publishedAt": "2026-03-28T10:00:00.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.487Z",
+    "scrapedAt": "2026-04-08T07:44:12.708Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1424,10 +1567,25 @@
     "relevanceScore": 14,
     "url": "https://www.science.org/doi/abs/10.1126/science.aea8782?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-08T02:55:06.105Z",
-    "scrapedAt": "2026-04-08T02:55:06.105Z",
+    "publishedAt": "2026-04-08T07:44:12.427Z",
+    "scrapedAt": "2026-04-08T07:44:12.427Z",
     "topics": [
       "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "4016d97efb94",
+    "title": "Should the government encourage people to work from home to save fuel?",
+    "summary": "Annie Spratt/Unsplash, CC BY-NC-SA The current fuel crisis, instigated by the war in the Middle East, has prompted countries to respond in different ways to ensure their fuel supply. One popular measure has been directing people to work from home to save fuel. Many countries in Asia, including Indonesia, Pakistan, Vietnam, Thailand, Sri Lanka and most recently, Malaysia, have implemented remote work orders for some workers or four-day work weeks. The Australian government has shown little appeti",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 14,
+    "url": "https://theconversation.com/should-the-government-encourage-people-to-work-from-home-to-save-fuel-279749",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T04:04:26.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
+    "topics": [
+      "Psychology & Behavior",
+      "Management & Organizations"
     ]
   },
   {
@@ -1439,7 +1597,7 @@
     "url": "https://theconversation.com/plagiarised-research-passed-automated-tests-and-i-detected-it-but-only-because-it-copied-my-work-279553",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T18:14:46.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior"
@@ -1482,8 +1640,8 @@
     "relevanceScore": 12,
     "url": "https://www.science.org/doi/abs/10.1126/science.adv7924?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-08T02:55:06.105Z",
-    "scrapedAt": "2026-04-08T02:55:06.105Z",
+    "publishedAt": "2026-04-08T07:44:12.427Z",
+    "scrapedAt": "2026-04-08T07:44:12.427Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1496,8 +1654,8 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/s41586-025-10078-y",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -1510,10 +1668,38 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/s41586-025-09844-9",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "638a6660a2c4",
+    "title": "Governance and Regulation of Artificial Intelligence in Developing Countries: A Case Study of Nigeria",
+    "summary": "arXiv:2604.06018v1 Announce Type: new Abstract: This study examines the perception of legal professionals on the governance of AI in developing countries, using Nigeria as a case study. The study focused on ethical risks, regulatory gaps, and institutional readiness. The study adopted a qualitative case study design. Data were collected through 27 semi-structured interviews with legal practitioners in Nigeria. A focus group discussion was also held with seven additional legal practitioners acros",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 12,
+    "url": "https://arxiv.org/abs/2604.06018",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "59d1a31908bf",
+    "title": "The Planetary Cost of AI Acceleration, Part II: The 10th Planetary Boundary and the 6.5-Year Countdown",
+    "summary": "arXiv:2604.04956v1 Announce Type: cross Abstract: The recent, super-exponential scaling of autonomous Large Language Model (LLM) agents signals a broader, fundamental paradigm shift from machines replacing the human hands (manual labor and mechanical processing) to machines delegating for the human minds (thinking, reasoning, and intention). This uncontrolled offloading and scaling of \"thinking\" itself has profound consequences for humanity's heat balance sheet, since thinking, or intelligence, ",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 12,
+    "url": "https://arxiv.org/abs/2604.04956",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "AI & Tech"
     ]
   },
   {
@@ -1525,7 +1711,7 @@
     "url": "https://theconversation.com/what-the-bachelorette-cancellation-reveals-about-gendered-expectations-and-violence-279725",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T15:33:22.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -1539,7 +1725,7 @@
     "url": "https://theconversation.com/ai-is-reengineering-drug-discovery-by-speeding-up-testing-and-scanning-petabytes-of-data-for-connections-between-diseases-274693",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:03:19.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1553,7 +1739,7 @@
     "url": "https://www.insidehighered.com/news/diversity/race-ethnicity/2026/04/07/mizzou-terminates-official-funding-black-student-council",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-07T07:00:00.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.202Z",
+    "scrapedAt": "2026-04-08T07:44:12.661Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1653,7 +1839,7 @@
     "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-04T10:00:00.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.487Z",
+    "scrapedAt": "2026-04-08T07:44:12.708Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1696,9 +1882,23 @@
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.427Z",
+    "scrapedAt": "2026-04-08T07:44:12.752Z",
     "topics": [
       "AI & Tech"
+    ]
+  },
+  {
+    "id": "26a4b2bbc2e3",
+    "title": "Does the Iran ceasefire mean the fuel crisis is over? Not even close",
+    "summary": "Engin Akyurt/Pexels, CC BY-NC-ND It might feel like a lifetime ago, but it was just last week analysts began talking about fuel rationing in Australia. This week, that prospect seems less likely. A temporary ceasefire in the Iran war has been announced, even as Prime Minister Anthony Albanese heads off to Singapore – a crucial refinery hub – to firm up fuel supplies. United States President Donald Trump has pledged a two-week ceasefire, while Iran has pledged safe passage for ships through the c",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 11,
+    "url": "https://theconversation.com/does-the-iran-ceasefire-mean-the-fuel-crisis-is-over-not-even-close-280145",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T06:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
+    "topics": [
+      "Marketing & Consumer Science"
     ]
   },
   {
@@ -1725,7 +1925,7 @@
     "url": "https://theconversation.com/the-government-has-boxed-itself-in-over-fuel-saving-strategies-but-there-is-a-way-out-280131",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T00:22:24.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -1739,7 +1939,7 @@
     "url": "https://theconversation.com/israels-death-penalty-law-has-little-to-do-with-criminal-justice-and-everything-to-do-with-ethno-nationalism-279969",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:05:55.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Management & Organizations",
       "Science Policy"
@@ -1754,7 +1954,7 @@
     "url": "https://theconversation.com/massive-eye-drop-recall-reflects-ongoing-issues-with-manufacturing-and-fda-inspection-279971",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:02:10.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -1824,7 +2024,7 @@
     "url": "https://www.science.org/content/blog-post/ai-predicting-compound-affinity-we-aren-t-there-yet",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-23T02:15:39.000Z",
-    "scrapedAt": "2026-04-08T02:55:10.913Z",
+    "scrapedAt": "2026-04-08T07:44:18.028Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1837,8 +2037,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.adv8275?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-08T02:55:06.105Z",
-    "scrapedAt": "2026-04-08T02:55:06.105Z",
+    "publishedAt": "2026-04-08T07:44:12.427Z",
+    "scrapedAt": "2026-04-08T07:44:12.427Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1851,8 +2051,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh5777?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-08T02:55:06.105Z",
-    "scrapedAt": "2026-04-08T02:55:06.105Z",
+    "publishedAt": "2026-04-08T07:44:12.427Z",
+    "scrapedAt": "2026-04-08T07:44:12.427Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1865,8 +2065,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41586-026-10251-x",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1879,8 +2079,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/d41586-026-00955-5",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1893,8 +2093,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/d41586-026-00684-9",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1907,8 +2107,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/d41586-026-01095-6",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1921,8 +2121,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41562-026-02426-3",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-08T02:55:05.723Z",
-    "scrapedAt": "2026-04-08T02:55:05.723Z",
+    "publishedAt": "2026-04-08T07:44:11.973Z",
+    "scrapedAt": "2026-04-08T07:44:11.973Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1935,8 +2135,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41562-026-02413-8",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-08T02:55:05.723Z",
-    "scrapedAt": "2026-04-08T02:55:05.723Z",
+    "publishedAt": "2026-04-08T07:44:11.973Z",
+    "scrapedAt": "2026-04-08T07:44:11.973Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1970,6 +2170,48 @@
     ]
   },
   {
+    "id": "2fd8f44231a3",
+    "title": "EduIllustrate: Towards Scalable Automated Generation Of Multimodal Educational Content",
+    "summary": "arXiv:2604.05005v1 Announce Type: new Abstract: Large language models are increasingly used as educational assistants, yet evaluation of their educational capabilities remains concentrated on question-answering and tutoring tasks. A critical gap exists for multimedia instructional content generation -- the ability to produce coherent, diagram-rich explanations that combine geometrically accurate visuals with step-by-step reasoning. We present EduIllustrate, a benchmark for evaluating LLMs on int",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 8,
+    "url": "https://arxiv.org/abs/2604.05005",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "77b3fb8710c8",
+    "title": "Algorithmic Monoculture and its Critics",
+    "summary": "arXiv:2604.06047v1 Announce Type: new Abstract: Algorithmic decision-making is replacing idiosyncratic human judgment in domains such as hiring, lending, and criminal justice. This shift promises increased consistency, but many scholars worry that it can go too far. They warn of the dangers of algorithmic monoculture, in which all decisions across a domain are made using a single algorithm. We systematically evaluate a range of objections to monoculture, formalizing and rigorously assessing fami",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 8,
+    "url": "https://arxiv.org/abs/2604.06047",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "981b3605a25d",
+    "title": "Does Travel Stage Matter? How Leisure Travellers Perceive Their Privacy Attitudes Towards Personal Data Sharing Before, During, and After Travel",
+    "summary": "arXiv:2603.01992v2 Announce Type: replace Abstract: People's attitudes towards personal data sharing have been extensively researched, however, limited research studied their evolving nature in across different stages of a leisure trip. This paper addresses this gap by exploring how leisure travellers' attitudes towards sharing personal data change before, during and after travel. Analysing data from an online survey with 318 participants, we found that participants' privacy attitudes towards sh",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 8,
+    "url": "https://arxiv.org/abs/2603.01992",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-08T04:00:00.000Z",
+    "scrapedAt": "2026-04-08T07:44:12.440Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
     "id": "7654478fdeea",
     "title": "Is sitting with your legs crossed actually bad for you?",
     "summary": "Most of us were told off at some point for how we sat. “Don’t cross your legs, you’ll ruin your knees.” “You’ll get varicose veins.” “Sit properly.” “Sit up straight.” It belongs to that familiar pile of health warnings many of us heard as kids, alongside cracking your knuckles or sitting too close to the television. But is crossing your legs actually bad for you? For most people, the answer is probably no. There is little evidence sitting with your legs crossed damages your back, wears out your",
@@ -1978,7 +2220,7 @@
     "url": "https://theconversation.com/is-sitting-with-your-legs-crossed-actually-bad-for-you-279090",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T01:36:01.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -1992,7 +2234,7 @@
     "url": "https://theconversation.com/the-dark-side-of-music-as-therapy-278919",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T16:03:27.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2006,7 +2248,7 @@
     "url": "https://theconversation.com/south-african-court-orders-eskom-to-disclose-r70-billion-coal-and-diesel-contracts-why-the-ruling-matters-279527",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:25:07.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2174,7 +2416,7 @@
     "url": "https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-02T02:44:26.000Z",
-    "scrapedAt": "2026-04-08T02:55:10.913Z",
+    "scrapedAt": "2026-04-08T07:44:18.028Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2201,8 +2443,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10321-0",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Science Policy"
     ]
@@ -2215,8 +2457,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10333-w",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Science Policy"
     ]
@@ -2229,8 +2471,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10357-2",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Science Policy"
     ]
@@ -2243,8 +2485,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/d41586-026-01029-2",
     "source": "Nature",
-    "publishedAt": "2026-04-08T02:55:05.761Z",
-    "scrapedAt": "2026-04-08T02:55:05.761Z",
+    "publishedAt": "2026-04-08T07:44:12.020Z",
+    "scrapedAt": "2026-04-08T07:44:12.020Z",
     "topics": [
       "Science Policy"
     ]
@@ -2356,7 +2598,7 @@
     "url": "https://retractionwatch.com/2026/03/31/duke-retaliation-jury-trial-brahmajothi-mulugu-mohamed-abou-donia-sexual-harassment/",
     "source": "Retraction Watch",
     "publishedAt": "2026-03-31T16:35:23.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.487Z",
+    "scrapedAt": "2026-04-08T07:44:12.708Z",
     "topics": [
       "Academic Culture"
     ]
@@ -2370,7 +2612,7 @@
     "url": "https://www.science.org/content/blog-post/beneficial-effects-liver-brain",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-18T02:10:22.000Z",
-    "scrapedAt": "2026-04-08T02:55:10.913Z",
+    "scrapedAt": "2026-04-08T07:44:18.028Z",
     "topics": [
       "Science Policy"
     ]
@@ -2384,7 +2626,7 @@
     "url": "https://theconversation.com/why-europe-can-still-face-a-gas-crisis-without-a-gas-shortage-278917",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:07:58.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Science Policy"
     ]
@@ -2398,7 +2640,7 @@
     "url": "https://theconversation.com/1776s-declaration-of-independence-inspired-washingtons-troops-to-fight-against-the-odds-and-also-helped-bring-in-powerful-allies-278368",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:04:10.000Z",
-    "scrapedAt": "2026-04-08T02:55:06.268Z",
+    "scrapedAt": "2026-04-08T07:44:12.588Z",
     "topics": [
       "Science Policy"
     ]
