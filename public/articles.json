@@ -166,7 +166,7 @@
     "url": "https://theconversation.com/why-americans-are-buying-22-smoothies-despite-feeling-terrible-about-the-economy-279425",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T12:18:47.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -240,7 +240,7 @@
     "url": "https://arxiv.org/abs/2604.04387",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "PhD & PostDoc Life",
       "Academic Culture",
@@ -293,6 +293,21 @@
     ]
   },
   {
+    "id": "a82f941e8642",
+    "title": "Canada’s cybersecurity sector has a pipeline problem — and a glass ceiling",
+    "summary": "Canada is facing a well-documented shortage of cybersecurity workers, with estimates suggesting a shortfall of 25,000 to 30,000 qualified professionals — a figure projected to grow to 100,000 by 2035. The persistence of this labour shortage weakens Canada’s capacity to defend itself against cybersecurity threats. One possible way to address the shortage is to expand the recruitment of skilled foreign workers. Although Immigration, Refugees and Citizenship Canada (IRCC) announced in 2025 that the",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 30,
+    "url": "https://theconversation.com/canadas-cybersecurity-sector-has-a-pipeline-problem-and-a-glass-ceiling-270764",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T13:56:25.000Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
+    "topics": [
+      "Academic Culture",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "f29377b6e0c3",
     "title": "Slopaganda wars: how (and why) the US and Iran are flooding the zone with viral AI-generated noise",
     "summary": "Tasnim News Agency / YouTube In early March, a week after the first US-Israeli strikes on Iran, the White House posted a video of real American attacks mixed with clips from popular movies, television series, video games and anime. Iran and its sympathisers responded to the strikes by flooding social media with outdated war footage allegedly from the current conflict alongside AI-generated content depicting attacks on Tel Aviv and US bases in the Persian Gulf. More recently, viral video clips re",
@@ -301,7 +316,7 @@
     "url": "https://theconversation.com/slopaganda-wars-how-and-why-the-us-and-iran-are-flooding-the-zone-with-viral-ai-generated-noise-280024",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T18:14:22.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -374,7 +389,7 @@
     "url": "https://theconversation.com/moneys-tight-but-food-prices-are-up-heres-how-to-save-on-your-grocery-bill-279562",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T05:02:03.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior"
@@ -389,7 +404,7 @@
     "url": "https://arxiv.org/abs/2604.05151",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "AI & Tech",
       "Management & Organizations"
@@ -527,6 +542,22 @@
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "fabb26b7fe29",
+    "title": "Babies: raw, nuanced, real – what this BBC drama gets right about recurrent miscarriage",
+    "summary": "I heard about the new BBC drama Babies the week before it aired and was keen to watch it, not least because miscarriage is so rarely portrayed on screen – particularly as a central storyline. I enjoyed it, insofar as that word can be applied to such a devastating subject. The series offers a raw, nuanced and deeply realistic account of recurrent miscarriage and it gets a great deal right. Lisa (Siobhán Cullen) and Stephen (Paapa Essiedu) are a young couple in their thirties navigating the heartb",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://theconversation.com/babies-raw-nuanced-real-what-this-bbc-drama-gets-right-about-recurrent-miscarriage-280134",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T14:46:32.000Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
+    "topics": [
+      "Academic Culture",
+      "Psychology & Behavior",
+      "Management & Organizations"
     ]
   },
   {
@@ -746,7 +777,7 @@
     "url": "https://theconversation.com/absinthe-what-the-ban-on-frances-aromatic-spirit-teaches-us-about-modern-day-blaming-and-shaming-279685",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T09:30:27.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior"
@@ -761,7 +792,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/04/08/after-inflation-faculty-salaries-declined-fall",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-08T07:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.884Z",
+    "scrapedAt": "2026-04-08T16:18:31.407Z",
     "topics": [
       "Academic Careers"
     ]
@@ -775,7 +806,7 @@
     "url": "https://arxiv.org/abs/2604.05160",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "AI & Tech"
     ]
@@ -789,7 +820,7 @@
     "url": "https://arxiv.org/abs/2604.05826",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "AI & Tech"
     ]
@@ -803,7 +834,7 @@
     "url": "https://arxiv.org/abs/2502.19463",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "AI & Tech"
     ]
@@ -817,7 +848,7 @@
     "url": "https://arxiv.org/abs/2603.20231",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "AI & Tech"
     ]
@@ -986,7 +1017,7 @@
     "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-03T12:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:16.135Z",
+    "scrapedAt": "2026-04-08T16:18:31.683Z",
     "topics": [
       "Academic Careers"
     ]
@@ -999,8 +1030,8 @@
     "relevanceScore": 18,
     "url": "https://www.science.org/doi/abs/10.1126/science.adz2894?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-08T13:46:15.775Z",
-    "scrapedAt": "2026-04-08T13:46:15.775Z",
+    "publishedAt": "2026-04-08T16:18:31.383Z",
+    "scrapedAt": "2026-04-08T16:18:31.383Z",
     "topics": [
       "Psychology & Behavior",
       "Science Policy"
@@ -1014,8 +1045,8 @@
     "relevanceScore": 18,
     "url": "https://www.nature.com/articles/d41586-026-01027-4",
     "source": "Nature",
-    "publishedAt": "2026-04-08T13:46:15.627Z",
-    "scrapedAt": "2026-04-08T13:46:15.627Z",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1029,7 +1060,7 @@
     "url": "https://theconversation.com/from-joyrides-to-assault-crimefluencer-networks-are-coercing-young-people-into-breaking-the-law-280027",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T04:00:59.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Psychology & Behavior",
       "Science Policy"
@@ -1074,10 +1105,24 @@
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.928Z",
+    "scrapedAt": "2026-04-08T16:18:31.429Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
+    ]
+  },
+  {
+    "id": "55c22a420be0",
+    "title": "Does listening to audiobooks improve learning?",
+    "summary": "Whether it’s documents in textbooks or fiction studied in literature classes, reading print remains a pillar in learning. But the audiobook craze opens up new possibilities. Could listening to literary works become part of the curriculum as opposed to reading them? Is reading comprehension the same for listening to a text as it is for reading a book?’ Reading vs listening: seemingly limited differences A meta-analysis published in the Review of Educational Research and taking into account the re",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 17,
+    "url": "https://theconversation.com/does-listening-to-audiobooks-improve-learning-267817",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T15:46:11.000Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
+    "topics": [
+      "Psychology & Behavior"
     ]
   },
   {
@@ -1118,7 +1163,7 @@
     "url": "https://www.insidehighered.com/news/student-success/academic-life/2026/04/08/5-questions-dual-enrollment",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-08T07:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.884Z",
+    "scrapedAt": "2026-04-08T16:18:31.407Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1132,7 +1177,7 @@
     "url": "https://arxiv.org/abs/2604.05662",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1146,7 +1191,7 @@
     "url": "https://arxiv.org/abs/2506.17185",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1384,8 +1429,8 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/d41586-026-00551-7",
     "source": "Nature",
-    "publishedAt": "2026-04-08T13:46:15.627Z",
-    "scrapedAt": "2026-04-08T13:46:15.627Z",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
     "topics": [
       "Academic Careers"
     ]
@@ -1398,10 +1443,38 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/d41586-026-00809-0",
     "source": "Nature",
-    "publishedAt": "2026-04-08T13:46:15.627Z",
-    "scrapedAt": "2026-04-08T13:46:15.627Z",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
     "topics": [
       "PhD & PostDoc Life"
+    ]
+  },
+  {
+    "id": "6f748626cda6",
+    "title": "When career anxiety becomes gameplay: lessons from China’s ‘young-faculty simulator’",
+    "summary": "No summary available",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 15,
+    "url": "https://www.nature.com/articles/d41586-026-00224-5",
+    "source": "Nature",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
+    "topics": [
+      "Academic Careers"
+    ]
+  },
+  {
+    "id": "fe1c7b12cf63",
+    "title": "Social media users experience more political hostility in less economically equal and less democratic societies",
+    "summary": "No summary available",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 15,
+    "url": "https://www.nature.com/articles/s41562-026-02432-5",
+    "source": "Nature Human Behaviour",
+    "publishedAt": "2026-04-08T16:18:31.115Z",
+    "scrapedAt": "2026-04-08T16:18:31.115Z",
+    "topics": [
+      "Marketing & Consumer Science"
     ]
   },
   {
@@ -1419,34 +1492,6 @@
     ]
   },
   {
-    "id": "6f748626cda6",
-    "title": "When career anxiety becomes gameplay: lessons from China’s ‘young-faculty simulator’",
-    "summary": "No summary available",
-    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
-    "relevanceScore": 15,
-    "url": "https://www.nature.com/articles/d41586-026-00224-5",
-    "source": "Nature",
-    "publishedAt": "2026-04-08T13:46:15.627Z",
-    "scrapedAt": "2026-04-08T13:46:15.627Z",
-    "topics": [
-      "Academic Careers"
-    ]
-  },
-  {
-    "id": "fe1c7b12cf63",
-    "title": "Social media users experience more political hostility in less economically equal and less democratic societies",
-    "summary": "No summary available",
-    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
-    "relevanceScore": 15,
-    "url": "https://www.nature.com/articles/s41562-026-02432-5",
-    "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-08T13:46:15.585Z",
-    "scrapedAt": "2026-04-08T13:46:15.585Z",
-    "topics": [
-      "Marketing & Consumer Science"
-    ]
-  },
-  {
     "id": "f610ddad33db",
     "title": "From a vaccine mascot to business leadership, lessons for the US from Brazil’s public health system in building public trust and keeping it",
     "summary": "Business leaders and community groups across Brazil stepped in to counter the government's anti-vaccine messaging and to help develop and distribute vaccines. Wang Tiancong/Xinhua via Getty Images Public health institutions are under threat by populist governments across the globe. From Budapest to Jakarta, Indonesia, public health agencies are being stripped of funding and independence. Meanwhile, disinformation has sown distrust in scientific experts. The results are already visible through th",
@@ -1455,7 +1500,7 @@
     "url": "https://theconversation.com/from-a-vaccine-mascot-to-business-leadership-lessons-for-the-us-from-brazils-public-health-system-in-building-public-trust-and-keeping-it-267611",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T12:18:03.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1469,7 +1514,7 @@
     "url": "https://arxiv.org/abs/2604.05463",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1512,7 +1557,7 @@
     "url": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-07T12:12:17.000Z",
-    "scrapedAt": "2026-04-08T13:46:16.135Z",
+    "scrapedAt": "2026-04-08T16:18:31.683Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1611,7 +1656,7 @@
     "url": "https://retractionwatch.com/2026/03/28/weekend-reads-illicit-ai-use-peer-reviews-commentary-talc-retracted-coauthorship-traded-commodity/",
     "source": "Retraction Watch",
     "publishedAt": "2026-03-28T10:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:16.135Z",
+    "scrapedAt": "2026-04-08T16:18:31.683Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1652,8 +1697,8 @@
     "relevanceScore": 14,
     "url": "https://www.science.org/doi/abs/10.1126/science.aea8782?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-08T13:46:15.775Z",
-    "scrapedAt": "2026-04-08T13:46:15.775Z",
+    "publishedAt": "2026-04-08T16:18:31.383Z",
+    "scrapedAt": "2026-04-08T16:18:31.383Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -1667,7 +1712,7 @@
     "url": "https://theconversation.com/should-the-government-encourage-people-to-work-from-home-to-save-fuel-279749",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T04:04:26.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -1682,7 +1727,7 @@
     "url": "https://theconversation.com/plagiarised-research-passed-automated-tests-and-i-detected-it-but-only-because-it-copied-my-work-279553",
     "source": "The Conversation",
     "publishedAt": "2026-04-07T18:14:46.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior"
@@ -1725,8 +1770,22 @@
     "relevanceScore": 12,
     "url": "https://www.science.org/doi/abs/10.1126/science.adv7924?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-08T13:46:15.775Z",
-    "scrapedAt": "2026-04-08T13:46:15.775Z",
+    "publishedAt": "2026-04-08T16:18:31.383Z",
+    "scrapedAt": "2026-04-08T16:18:31.383Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "6910a75f4345",
+    "title": "Multiomics and deep learning dissect regulatory syntax in human development",
+    "summary": "No summary available",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 12,
+    "url": "https://www.nature.com/articles/s41586-026-10326-9",
+    "source": "Nature",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1768,7 +1827,7 @@
     "url": "https://theconversation.com/philadelphias-40-year-history-of-protecting-undocumented-immigrants-began-with-churches-hiding-refugees-from-el-salvador-278756",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T12:22:33.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1782,7 +1841,7 @@
     "url": "https://arxiv.org/abs/2604.06018",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1796,7 +1855,7 @@
     "url": "https://arxiv.org/abs/2604.04956",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1938,7 +1997,7 @@
     "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-04T10:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:16.135Z",
+    "scrapedAt": "2026-04-08T16:18:31.683Z",
     "topics": [
       "Academic Culture"
     ]
@@ -1981,7 +2040,7 @@
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.928Z",
+    "scrapedAt": "2026-04-08T16:18:31.429Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1995,7 +2054,7 @@
     "url": "https://theconversation.com/iran-ceasefire-has-brought-a-sudden-fall-in-oil-prices-but-this-pause-underscores-the-volatility-in-the-market-280076",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T12:33:44.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -2009,7 +2068,7 @@
     "url": "https://theconversation.com/does-the-iran-ceasefire-mean-the-fuel-crisis-is-over-not-even-close-280145",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T06:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -2038,7 +2097,7 @@
     "url": "https://theconversation.com/the-government-has-boxed-itself-in-over-fuel-saving-strategies-but-there-is-a-way-out-280131",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T00:22:24.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -2137,7 +2196,7 @@
     "url": "https://www.science.org/content/blog-post/ai-predicting-compound-affinity-we-aren-t-there-yet",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-23T02:15:39.000Z",
-    "scrapedAt": "2026-04-08T13:46:21.620Z",
+    "scrapedAt": "2026-04-08T16:18:37.124Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2150,8 +2209,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.adv8275?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-08T13:46:15.775Z",
-    "scrapedAt": "2026-04-08T13:46:15.775Z",
+    "publishedAt": "2026-04-08T16:18:31.383Z",
+    "scrapedAt": "2026-04-08T16:18:31.383Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2164,10 +2223,122 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh5777?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-08T13:46:15.775Z",
-    "scrapedAt": "2026-04-08T13:46:15.775Z",
+    "publishedAt": "2026-04-08T16:18:31.383Z",
+    "scrapedAt": "2026-04-08T16:18:31.383Z",
     "topics": [
       "Academic Culture"
+    ]
+  },
+  {
+    "id": "17b605d60ac5",
+    "title": "Representation without power in science isn’t equity",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-01095-6",
+    "source": "Nature",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "a7472ab6ad29",
+    "title": "Biodiversity resilience in a tropical rainforest",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41586-026-10365-2",
+    "source": "Nature",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "801297a9078a",
+    "title": "The importance of competition and facilitation for global tree diversity",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41586-026-10349-2",
+    "source": "Nature",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "3eff38f4500e",
+    "title": "Young tropical forests help to reverse biodiversity losses",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-00811-6",
+    "source": "Nature",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "856dd8266e58",
+    "title": "Sustainable neuroscience through open science",
+    "summary": "No summary available",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41562-026-02426-3",
+    "source": "Nature Human Behaviour",
+    "publishedAt": "2026-04-08T16:18:31.115Z",
+    "scrapedAt": "2026-04-08T16:18:31.115Z",
+    "topics": [
+      "Academic Culture"
+    ]
+  },
+  {
+    "id": "9f3a007d7e50",
+    "title": "The effect of praise from peers on empathy and political inclusion towards racial or ethnic outgroups",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41562-026-02413-8",
+    "source": "Nature Human Behaviour",
+    "publishedAt": "2026-04-08T16:18:31.115Z",
+    "scrapedAt": "2026-04-08T16:18:31.115Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "da9aadf48346",
+    "title": "Europe needs affordable, low-carbon homes – here’s how Barcelona is reimagining its housing system",
+    "summary": "An affordable housing development with an AA energy efficiency rating in Catalonia, Spain. Oliver Gordon IHRB, CC BY-NC-ND Across Europe, housing is in crisis. Limited social housing and a 93% rise in short-term rentals are driving prices up while wages stagnate, leaving millions unable to afford secure homes. Beyond the current geopolitical crisis, extreme temperatures continue to account for rising energy bills. As buildings account for 36% of EU CO₂ emissions, Europe needs to deliver more ene",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 9,
+    "url": "https://theconversation.com/europe-needs-affordable-low-carbon-homes-heres-how-barcelona-is-reimagining-its-housing-system-269136",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T14:51:51.000Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "0eee4b5c0438",
+    "title": "Credit and credibility: rating agency errors come with a cost",
+    "summary": "The rating agency S&P Global’s Africa Credit Rating Trends 2025 reviews the past year’s rating activities and analyses the continent’s prospects for 2026. It is an important document because it interprets underlying drivers of creditworthiness. It shapes how global investors and policymakers understand risk, opportunity and reform dynamics across the continent. But the document had some serious flaws in it. As someone who has been researching Africa’s capital markets and the institutions that go",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 9,
+    "url": "https://theconversation.com/credit-and-credibility-rating-agency-errors-come-with-a-cost-279672",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T14:16:24.000Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
+    "topics": [
+      "Psychology & Behavior"
     ]
   },
   {
@@ -2196,48 +2367,6 @@
     "scrapedAt": "2026-04-08T13:46:15.627Z",
     "topics": [
       "Academic Culture"
-    ]
-  },
-  {
-    "id": "17b605d60ac5",
-    "title": "Representation without power in science isn’t equity",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/d41586-026-01095-6",
-    "source": "Nature",
-    "publishedAt": "2026-04-08T13:46:15.627Z",
-    "scrapedAt": "2026-04-08T13:46:15.627Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "856dd8266e58",
-    "title": "Sustainable neuroscience through open science",
-    "summary": "No summary available",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41562-026-02426-3",
-    "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-08T13:46:15.585Z",
-    "scrapedAt": "2026-04-08T13:46:15.585Z",
-    "topics": [
-      "Academic Culture"
-    ]
-  },
-  {
-    "id": "9f3a007d7e50",
-    "title": "The effect of praise from peers on empathy and political inclusion towards racial or ethnic outgroups",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41562-026-02413-8",
-    "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-08T13:46:15.585Z",
-    "scrapedAt": "2026-04-08T13:46:15.585Z",
-    "topics": [
-      "Management & Organizations"
     ]
   },
   {
@@ -2283,6 +2412,20 @@
     ]
   },
   {
+    "id": "3da55fed5e2c",
+    "title": "Why some children with learning difficulties get identified – and others don’t",
+    "summary": "Kristina Igumnova26/Shutterstock Two children sit in different schools. Both struggle to read. Both have similar low scores on national tests. But while one gets a diagnosis of specific learning difficulties and a package of support, the other is left to fall behind. My colleagues and I have carried out new research analysing the records of around 540,000 primary school children across England. It reveals a troubling picture. Whether a child gets identified with specific learning difficulties – ",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/why-some-children-with-learning-difficulties-get-identified-and-others-dont-276433",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T14:53:38.000Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
     "id": "2fd8f44231a3",
     "title": "EduIllustrate: Towards Scalable Automated Generation Of Multimodal Educational Content",
     "summary": "arXiv:2604.05005v1 Announce Type: new Abstract: Large language models are increasingly used as educational assistants, yet evaluation of their educational capabilities remains concentrated on question-answering and tutoring tasks. A critical gap exists for multimedia instructional content generation -- the ability to produce coherent, diagram-rich explanations that combine geometrically accurate visuals with step-by-step reasoning. We present EduIllustrate, a benchmark for evaluating LLMs on int",
@@ -2291,7 +2434,7 @@
     "url": "https://arxiv.org/abs/2604.05005",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2305,7 +2448,7 @@
     "url": "https://arxiv.org/abs/2604.06047",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2319,7 +2462,7 @@
     "url": "https://arxiv.org/abs/2603.01992",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-08T04:00:00.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.741Z",
+    "scrapedAt": "2026-04-08T16:18:31.254Z",
     "topics": [
       "Science Policy"
     ]
@@ -2333,7 +2476,7 @@
     "url": "https://theconversation.com/is-sitting-with-your-legs-crossed-actually-bad-for-you-279090",
     "source": "The Conversation",
     "publishedAt": "2026-04-08T01:36:01.000Z",
-    "scrapedAt": "2026-04-08T13:46:15.840Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2529,9 +2672,23 @@
     "url": "https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-02T02:44:26.000Z",
-    "scrapedAt": "2026-04-08T13:46:21.620Z",
+    "scrapedAt": "2026-04-08T16:18:37.124Z",
     "topics": [
       "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "0464cf3a3700",
+    "title": "Light in the dark: the search for new treatments for hereditary blindness",
+    "summary": "Francesco Sgura/Shutterstock One night, Tomás realised something was seriously wrong. He went for a stroll, along the same paths near his village that he had walked along countless times with his friends, their cheerful voices echoing in the still of the night. There were no streetlights, and the paths were illuminated solely by moonlight. This had never been a problem before, but all of a sudden Tomás realised that he couldn’t clearly make out the edges of the path. He stopped, hesitated, and t",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 7,
+    "url": "https://theconversation.com/light-in-the-dark-the-search-for-new-treatments-for-hereditary-blindness-280072",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-08T14:04:48.000Z",
+    "scrapedAt": "2026-04-08T16:18:31.337Z",
+    "topics": [
+      "Management & Organizations"
     ]
   },
   {
@@ -2546,6 +2703,48 @@
     "scrapedAt": "2026-04-06T15:54:47.895Z",
     "topics": [
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "1a28bdef1ade",
+    "title": "How DNA forensics is transforming studies of ancient manuscripts",
+    "summary": "No summary available",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/d41586-026-01029-2",
+    "source": "Nature",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "aea3765ff90a",
+    "title": "Brain organoids are a transformative technology — but they need regulation",
+    "summary": "No summary available",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/d41586-026-01021-w",
+    "source": "Nature",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "2ae125bdca1f",
+    "title": "Superconductivity and electronic structures of nickelate thin film superstructures",
+    "summary": "No summary available",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/s41586-026-10352-7",
+    "source": "Nature",
+    "publishedAt": "2026-04-08T16:18:31.171Z",
+    "scrapedAt": "2026-04-08T16:18:31.171Z",
+    "topics": [
+      "Science Policy"
     ]
   },
   {
@@ -2583,34 +2782,6 @@
     "whyItMatters": "Policy shaping funding and careers — affects every academic.",
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10357-2",
-    "source": "Nature",
-    "publishedAt": "2026-04-08T13:46:15.627Z",
-    "scrapedAt": "2026-04-08T13:46:15.627Z",
-    "topics": [
-      "Science Policy"
-    ]
-  },
-  {
-    "id": "1a28bdef1ade",
-    "title": "How DNA forensics is transforming studies of ancient manuscripts",
-    "summary": "No summary available",
-    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
-    "relevanceScore": 6,
-    "url": "https://www.nature.com/articles/d41586-026-01029-2",
-    "source": "Nature",
-    "publishedAt": "2026-04-08T13:46:15.627Z",
-    "scrapedAt": "2026-04-08T13:46:15.627Z",
-    "topics": [
-      "Science Policy"
-    ]
-  },
-  {
-    "id": "aea3765ff90a",
-    "title": "Brain organoids are a transformative technology — but they need regulation",
-    "summary": "No summary available",
-    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
-    "relevanceScore": 6,
-    "url": "https://www.nature.com/articles/d41586-026-01021-w",
     "source": "Nature",
     "publishedAt": "2026-04-08T13:46:15.627Z",
     "scrapedAt": "2026-04-08T13:46:15.627Z",
@@ -2725,7 +2896,7 @@
     "url": "https://retractionwatch.com/2026/03/31/duke-retaliation-jury-trial-brahmajothi-mulugu-mohamed-abou-donia-sexual-harassment/",
     "source": "Retraction Watch",
     "publishedAt": "2026-03-31T16:35:23.000Z",
-    "scrapedAt": "2026-04-08T13:46:16.135Z",
+    "scrapedAt": "2026-04-08T16:18:31.683Z",
     "topics": [
       "Academic Culture"
     ]
@@ -2739,7 +2910,7 @@
     "url": "https://www.science.org/content/blog-post/beneficial-effects-liver-brain",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-18T02:10:22.000Z",
-    "scrapedAt": "2026-04-08T13:46:21.620Z",
+    "scrapedAt": "2026-04-08T16:18:37.124Z",
     "topics": [
       "Science Policy"
     ]
