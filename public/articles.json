@@ -242,7 +242,7 @@
     "url": "https://retractionwatch.com/2026/04/11/weekend-reads-llms-are-not-the-problem-cash-for-peer-review-doesnt-work-project-finds-many-flaws-few-retractions-in-vaping-literatur/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-11T10:00:00.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.855Z",
+    "scrapedAt": "2026-04-11T21:39:15.636Z",
     "topics": [
       "Academic Culture",
       "AI & Tech"
@@ -585,7 +585,7 @@
     "url": "https://theconversation.com/bait-sheds-light-on-british-pakistani-mental-health-struggles-rarely-seen-on-screen-280102",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T12:26:29.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -795,7 +795,7 @@
     "url": "https://www.insidehighered.com/news/government/state-policy/2026/04/10/bills-weakening-tenure-abolishing-faculty-senates-advance",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-10T07:00:00.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.353Z",
+    "scrapedAt": "2026-04-11T21:39:15.502Z",
     "topics": [
       "Academic Careers"
     ]
@@ -881,7 +881,7 @@
     "url": "https://theconversation.com/health-care-sticker-shock-has-become-the-norm-but-talking-to-your-doctor-about-costs-can-help-you-rein-it-in-262990",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T12:20:59.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior",
@@ -1210,7 +1210,7 @@
     "url": "https://theconversation.com/five-tips-to-make-your-memory-work-more-effectively-280327",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T14:42:24.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -1224,7 +1224,7 @@
     "url": "https://theconversation.com/feeling-distracted-how-hobbies-can-help-you-find-flow-state-and-save-your-brain-278738",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T14:08:31.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -1703,7 +1703,7 @@
     "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-03T12:00:00.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.855Z",
+    "scrapedAt": "2026-04-11T21:39:15.636Z",
     "topics": [
       "Academic Careers"
     ]
@@ -1716,8 +1716,8 @@
     "relevanceScore": 18,
     "url": "https://www.nature.com/articles/d41586-026-01027-4",
     "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1806,7 +1806,7 @@
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.606Z",
+    "scrapedAt": "2026-04-11T21:39:15.676Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
@@ -1864,7 +1864,7 @@
     "url": "https://theconversation.com/i-found-a-new-meteor-shower-and-it-comes-from-an-asteroid-getting-broken-down-by-the-sun-277557",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T12:23:02.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -1948,7 +1948,7 @@
     "url": "https://theconversation.com/drinking-water-contaminated-with-forever-chemicals-during-pregnancy-linked-to-an-increased-risk-of-childhood-asthma-new-study-278736",
     "source": "The Conversation",
     "publishedAt": "2026-04-09T19:55:30.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2277,20 +2277,6 @@
     ]
   },
   {
-    "id": "6f748626cda6",
-    "title": "When career anxiety becomes gameplay: lessons from China’s ‘young-faculty simulator’",
-    "summary": "No summary available",
-    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
-    "relevanceScore": 15,
-    "url": "https://www.nature.com/articles/d41586-026-00224-5",
-    "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
-    "topics": [
-      "Academic Careers"
-    ]
-  },
-  {
     "id": "fe1c7b12cf63",
     "title": "Social media users experience more political hostility in less economically equal and less democratic societies",
     "summary": "No summary available",
@@ -2298,10 +2284,24 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/s41562-026-02432-5",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-11T18:54:53.039Z",
-    "scrapedAt": "2026-04-11T18:54:53.039Z",
+    "publishedAt": "2026-04-11T21:39:14.918Z",
+    "scrapedAt": "2026-04-11T21:39:14.918Z",
     "topics": [
       "Marketing & Consumer Science"
+    ]
+  },
+  {
+    "id": "6f748626cda6",
+    "title": "When career anxiety becomes gameplay: lessons from China’s ‘young-faculty simulator’",
+    "summary": "No summary available",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 15,
+    "url": "https://www.nature.com/articles/d41586-026-00224-5",
+    "source": "Nature",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
+    "topics": [
+      "Academic Careers"
     ]
   },
   {
@@ -2341,7 +2341,7 @@
     "url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
     "source": "MIT News",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.606Z",
+    "scrapedAt": "2026-04-11T21:39:15.676Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2470,7 +2470,7 @@
     "url": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-07T12:12:17.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.855Z",
+    "scrapedAt": "2026-04-11T21:39:15.636Z",
     "topics": [
       "Academic Culture"
     ]
@@ -2611,7 +2611,7 @@
     "url": "https://theconversation.com/4-ways-the-war-in-iran-has-weakened-the-united-states-in-the-great-power-game-279069",
     "source": "The Conversation",
     "publishedAt": "2026-04-11T13:18:01.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -2699,7 +2699,7 @@
     "url": "https://theconversation.com/the-uk-could-make-migrants-wait-up-to-20-years-before-becoming-settled-making-it-one-of-the-longest-waits-in-the-world-279036",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T15:47:09.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Academic Culture"
     ]
@@ -2756,8 +2756,8 @@
     "relevanceScore": 12,
     "url": "https://www.science.org/doi/abs/10.1126/science.aec8444?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-11T18:54:53.219Z",
-    "scrapedAt": "2026-04-11T18:54:53.219Z",
+    "publishedAt": "2026-04-11T21:39:15.263Z",
+    "scrapedAt": "2026-04-11T21:39:15.263Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2770,8 +2770,8 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/s41586-026-10326-9",
     "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2785,7 +2785,7 @@
     "url": "https://theconversation.com/greeces-new-laws-crack-down-on-art-fakes-and-forgeries-an-expert-in-the-market-for-shady-art-explains-why-they-might-backfire-280386",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T16:29:05.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -2799,7 +2799,7 @@
     "url": "https://theconversation.com/children-going-through-family-courts-face-increased-risk-of-self-harm-new-research-finds-278263",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T09:12:36.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2827,7 +2827,7 @@
     "url": "https://theconversation.com/poetry-for-an-anxious-world-5-experts-share-poems-of-grief-hope-and-restoration-279859",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T01:20:10.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2841,7 +2841,7 @@
     "url": "https://theconversation.com/fixating-on-a-magic-number-of-childcare-hours-misses-whats-most-important-for-kids-development-280035",
     "source": "The Conversation",
     "publishedAt": "2026-04-09T18:18:57.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2855,7 +2855,7 @@
     "url": "https://retractionwatch.com/2026/04/09/could-a-national-database-of-scientific-misconduct-rulings-stop-repeat-offenders/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.855Z",
+    "scrapedAt": "2026-04-11T21:39:15.636Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3152,7 +3152,7 @@
     "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-04T10:00:00.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.855Z",
+    "scrapedAt": "2026-04-11T21:39:15.636Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3195,7 +3195,7 @@
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.606Z",
+    "scrapedAt": "2026-04-11T21:39:15.676Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3209,7 +3209,7 @@
     "url": "https://theconversation.com/as-a-philosopher-im-convinced-that-trump-isnt-lying-hes-doing-something-worse-279093",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T12:23:46.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -3266,7 +3266,7 @@
     "url": "https://theconversation.com/what-is-andrographis-the-cold-and-flu-ingredient-the-tga-says-can-be-fatal-280356",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T08:03:47.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -3393,7 +3393,7 @@
     "url": "https://www.science.org/content/blog-post/ai-predicting-compound-affinity-we-aren-t-there-yet",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-23T02:15:39.000Z",
-    "scrapedAt": "2026-04-11T18:54:57.143Z",
+    "scrapedAt": "2026-04-11T21:39:20.048Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3406,8 +3406,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg7825?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-11T18:54:53.219Z",
-    "scrapedAt": "2026-04-11T18:54:53.219Z",
+    "publishedAt": "2026-04-11T21:39:15.263Z",
+    "scrapedAt": "2026-04-11T21:39:15.263Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3420,78 +3420,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh7187?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-11T18:54:53.219Z",
-    "scrapedAt": "2026-04-11T18:54:53.219Z",
-    "topics": [
-      "Academic Culture"
-    ]
-  },
-  {
-    "id": "17b605d60ac5",
-    "title": "Representation without power in science isn’t equity",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/d41586-026-01095-6",
-    "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "a7472ab6ad29",
-    "title": "Biodiversity resilience in a tropical rainforest",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41586-026-10365-2",
-    "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "801297a9078a",
-    "title": "The importance of competition and facilitation for global tree diversity",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41586-026-10349-2",
-    "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "3eff38f4500e",
-    "title": "Young tropical forests help to reverse biodiversity losses",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/d41586-026-00811-6",
-    "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "091c7197b69f",
-    "title": "Should academic misconduct be catalogued? Proposed US database sparks debate",
-    "summary": "No summary available",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/d41586-026-01147-x",
-    "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
+    "publishedAt": "2026-04-11T21:39:15.263Z",
+    "scrapedAt": "2026-04-11T21:39:15.263Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3504,8 +3434,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41562-026-02426-3",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-11T18:54:53.039Z",
-    "scrapedAt": "2026-04-11T18:54:53.039Z",
+    "publishedAt": "2026-04-11T21:39:14.918Z",
+    "scrapedAt": "2026-04-11T21:39:14.918Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3518,10 +3448,80 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41562-026-02413-8",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-11T18:54:53.039Z",
-    "scrapedAt": "2026-04-11T18:54:53.039Z",
+    "publishedAt": "2026-04-11T21:39:14.918Z",
+    "scrapedAt": "2026-04-11T21:39:14.918Z",
     "topics": [
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "17b605d60ac5",
+    "title": "Representation without power in science isn’t equity",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-01095-6",
+    "source": "Nature",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "a7472ab6ad29",
+    "title": "Biodiversity resilience in a tropical rainforest",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41586-026-10365-2",
+    "source": "Nature",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "801297a9078a",
+    "title": "The importance of competition and facilitation for global tree diversity",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41586-026-10349-2",
+    "source": "Nature",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "3eff38f4500e",
+    "title": "Young tropical forests help to reverse biodiversity losses",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-00811-6",
+    "source": "Nature",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "091c7197b69f",
+    "title": "Should academic misconduct be catalogued? Proposed US database sparks debate",
+    "summary": "No summary available",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-01147-x",
+    "source": "Nature",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
+    "topics": [
+      "Academic Culture"
     ]
   },
   {
@@ -3533,7 +3533,7 @@
     "url": "https://theconversation.com/in-the-stranger-francois-ozon-captures-the-many-ambiguities-of-albert-camuss-novel-279718",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T12:23:08.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -3547,7 +3547,7 @@
     "url": "https://theconversation.com/i-was-in-georgia-in-the-late-1980s-i-observed-how-tradition-survived-harsh-sovietisation-and-rapid-transformation-276911",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T09:07:56.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Science Policy"
     ]
@@ -3575,7 +3575,7 @@
     "url": "https://theconversation.com/after-ceasefire-negotiating-a-lasting-deal-with-iran-would-require-overcoming-regional-rivalries-and-strategic-incoherence-280243",
     "source": "The Conversation",
     "publishedAt": "2026-04-09T21:19:40.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Science Policy"
     ]
@@ -3785,7 +3785,7 @@
     "url": "https://theconversation.com/doctors-can-refuse-to-treat-lgbtq-patients-in-several-states-these-religious-exemption-laws-lead-to-drops-in-hiv-testing-277828",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T12:22:40.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -3813,7 +3813,7 @@
     "url": "https://theconversation.com/artemis-ii-as-humans-return-to-the-moon-which-of-these-4-futures-will-we-choose-280267",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T01:30:10.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4177,7 +4177,7 @@
     "url": "https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-02T02:44:26.000Z",
-    "scrapedAt": "2026-04-11T18:54:57.143Z",
+    "scrapedAt": "2026-04-11T21:39:20.048Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4191,7 +4191,7 @@
     "url": "https://theconversation.com/may-elections-what-five-politics-experts-are-looking-out-for-279260",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T09:07:58.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4205,7 +4205,7 @@
     "url": "https://theconversation.com/pope-leos-visit-to-africa-theology-scholar-outlines-3-realities-the-catholic-church-must-face-280069",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T08:32:53.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4219,7 +4219,7 @@
     "url": "https://theconversation.com/who-checks-australian-theme-park-rides-and-roller-coasters-are-safe-a-risk-expert-explains-278063",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T03:11:54.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4233,7 +4233,7 @@
     "url": "https://theconversation.com/friday-essay-bollywood-helped-make-me-now-it-projects-modis-indian-nationalism-263722",
     "source": "The Conversation",
     "publishedAt": "2026-04-09T18:20:03.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Science Policy"
     ]
@@ -4288,8 +4288,8 @@
     "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.adt8343?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-11T18:54:53.219Z",
-    "scrapedAt": "2026-04-11T18:54:53.219Z",
+    "publishedAt": "2026-04-11T21:39:15.263Z",
+    "scrapedAt": "2026-04-11T21:39:15.263Z",
     "topics": [
       "Science Policy"
     ]
@@ -4302,8 +4302,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/d41586-026-01029-2",
     "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
     "topics": [
       "Science Policy"
     ]
@@ -4316,8 +4316,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/d41586-026-01021-w",
     "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
     "topics": [
       "Science Policy"
     ]
@@ -4330,8 +4330,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10352-7",
     "source": "Nature",
-    "publishedAt": "2026-04-11T18:54:53.107Z",
-    "scrapedAt": "2026-04-11T18:54:53.107Z",
+    "publishedAt": "2026-04-11T21:39:14.899Z",
+    "scrapedAt": "2026-04-11T21:39:14.899Z",
     "topics": [
       "Science Policy"
     ]
@@ -4345,7 +4345,7 @@
     "url": "https://theconversation.com/us-ceasefire-with-iran-whats-next-a-former-diplomat-explains-3-possible-scenarios-280232",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T16:31:23.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4527,7 +4527,7 @@
     "url": "https://www.science.org/content/blog-post/beneficial-effects-liver-brain",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-18T02:10:22.000Z",
-    "scrapedAt": "2026-04-11T18:54:57.143Z",
+    "scrapedAt": "2026-04-11T21:39:20.048Z",
     "topics": [
       "Science Policy"
     ]
@@ -4583,7 +4583,7 @@
     "url": "https://theconversation.com/how-reforms-under-patrice-talon-have-reshaped-the-electoral-competition-in-benin-280333",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T15:09:08.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Science Policy"
     ]
@@ -4597,7 +4597,7 @@
     "url": "https://theconversation.com/tobacco-is-still-one-of-the-worlds-top-killers-here-are-the-key-obstacles-to-enacting-generational-smoking-bans-278018",
     "source": "The Conversation",
     "publishedAt": "2026-04-10T12:21:26.000Z",
-    "scrapedAt": "2026-04-11T18:54:53.388Z",
+    "scrapedAt": "2026-04-11T21:39:15.573Z",
     "topics": [
       "Science Policy"
     ]
