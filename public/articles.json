@@ -85,7 +85,7 @@
     "url": "https://arxiv.org/abs/2604.08619",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.385Z",
+    "scrapedAt": "2026-04-13T16:18:34.554Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -256,7 +256,7 @@
     "url": "https://retractionwatch.com/2026/04/11/weekend-reads-llms-are-not-the-problem-cash-for-peer-review-doesnt-work-project-finds-many-flaws-few-retractions-in-vaping-literatur/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-11T10:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.946Z",
+    "scrapedAt": "2026-04-13T16:18:34.889Z",
     "topics": [
       "Academic Culture",
       "AI & Tech"
@@ -360,7 +360,7 @@
     "url": "https://theconversation.com/ais-have-personalities-heres-how-they-affect-you-more-deeply-than-you-may-realize-277359",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T12:44:12.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -443,6 +443,22 @@
     ]
   },
   {
+    "id": "e9adbcbeda46",
+    "title": "What fish redistribution in the Mediterranean is telling us about species’ climate resilience",
+    "summary": "In the last two decades, as a result of climate-driven sea warming, almost half of commercially relevant fish in the Mediterranean have been deserting their original habitats in their quest for higher latitudes, depths and cooler waters. KinoMasterskaya / Shutterstock, CC BY Over the past twenty years, nearly half of commercially important Mediterranean fish species have shifted their distribution due to climate change, causing marine species to move away from their historical locations. These s",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 35,
+    "url": "https://theconversation.com/what-fish-redistribution-in-the-mediterranean-is-telling-us-about-species-climate-resilience-277753",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T14:38:38.000Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
+    "topics": [
+      "PhD & PostDoc Life",
+      "Psychology & Behavior",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "67423afeb524",
     "title": "Artificial Intelligence and Cost Reduction in Public Higher Education: A Scoping Review of Emerging Evidence",
     "summary": "arXiv:2604.04741v1 Announce Type: new Abstract: Public higher education systems face increasing financial pressures from expanding student populations, rising operational costs, and persistent demands for equitable access. Artificial Intelligence (AI), including generative tools such as ChatGPT, learning analytics, intelligent tutoring systems, and predictive models, has been proposed as a means of enhancing efficiency and reducing costs. This study conducts a scoping review of the literature on",
@@ -458,6 +474,22 @@
     ]
   },
   {
+    "id": "410a8798d5f4",
+    "title": "Disputes over Africa’s ocean resources: here’s what could help avoid them",
+    "summary": "Over the last several decades, the oceans have become more crowded. Aquaculture, wind and wave energy, and oil and gas exploration are taking up more space. This growth threatens the health of ocean ecosystems and coastal communities’ access to food and livelihoods that they have relied on for centuries. It can also lead to conflicts. We define conflicts as events where the differing goals of two or more groups lead to clashes over marine resources or places. Conflicts can work against the goals",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 34,
+    "url": "https://theconversation.com/disputes-over-africas-ocean-resources-heres-what-could-help-avoid-them-278431",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T14:06:54.000Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
+    "topics": [
+      "Academic Culture",
+      "Psychology & Behavior",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "b53eb2432a7f",
     "title": "Is it anxiety or OCD? 2 psychology experts explain the difference",
     "summary": "apomares/Getty Anxiety itself is not a mental illness. It’s a normal, adaptive emotion that helps us respond to perceived threats. Anxiety is the automatic reaction that makes you jump back when you think you’ve seen a snake while bushwalking – before realising it’s a stick. It’s also (inconveniently) the sweaty palms and shaky voice you notice before a presentation or a first date, or the circling thoughts that keep you awake at 3am. Most of us have ways to cope with anxious thoughts and feelin",
@@ -466,7 +498,7 @@
     "url": "https://theconversation.com/is-it-anxiety-or-ocd-2-psychology-experts-explain-the-difference-277624",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T02:00:23.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -480,7 +512,7 @@
     "url": "https://theconversation.com/bouncing-back-is-a-myth-resilience-means-integrating-hard-experiences-into-your-life-story-not-ignoring-them-275069",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T12:44:59.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior"
@@ -524,8 +556,8 @@
     "relevanceScore": 30,
     "url": "https://www.nature.com/articles/d41586-026-00853-w",
     "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -657,7 +689,7 @@
     "url": "https://theconversation.com/cannabis-legalization-spurs-innovation-but-not-always-in-ways-that-benefit-patients-or-public-health-277422",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T12:48:30.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Academic Culture",
       "Marketing & Consumer Science",
@@ -673,7 +705,7 @@
     "url": "https://arxiv.org/abs/2603.03339",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.394Z",
+    "scrapedAt": "2026-04-13T16:18:34.550Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
@@ -852,7 +884,7 @@
     "url": "https://theconversation.com/a-new-ad-campaign-is-pushing-australians-to-use-less-petrol-has-this-happened-before-280038",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T01:29:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -901,6 +933,23 @@
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "95a330f7b108",
+    "title": "Delivery platform workers: a survey lifts the lid on extreme hardship",
+    "summary": "The familiar silhouette of bike and scooter delivery workers has become part of Paris’ urban landscape. For many city dwellers who rely on them to deliver meals to their door, these precarious workers remain largely “invisible” in surveys and public statistics. Yet, the availability of quality data about online platforms’ delivery drivers is a major issue. Legally, the transposition into French law of the European Directive (EU) 2024/2831 on the legal framework around platform work (which aims t",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 25,
+    "url": "https://theconversation.com/delivery-platform-workers-a-survey-lifts-the-lid-on-extreme-hardship-280174",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T14:58:50.000Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
+    "topics": [
+      "Academic Culture",
+      "Psychology & Behavior",
+      "Management & Organizations",
+      "Science Policy"
     ]
   },
   {
@@ -1246,6 +1295,21 @@
     ]
   },
   {
+    "id": "511717b90706",
+    "title": "Gamblers don’t understand ‘free bets’ - and the costs can be huge",
+    "summary": "Gorodenkoff/Shutterstock “Welcome bonus: get 150% up to £150 on your first deposit”. It’s the kind of offer that greets anyone who visits a British online betting site. What it doesn’t say is that if you decide to spend £50 on this offer, you’d need to stake an additional £750 of your own money before any winnings could be withdrawn. Recent research by colleagues and I asked nearly 600 UK bettors to work out the true cost of exactly that kind of offer. Nearly everyone got it wrong, underestimati",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 21,
+    "url": "https://theconversation.com/gamblers-dont-understand-free-bets-and-the-costs-can-be-huge-279873",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T14:30:38.000Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
+    "topics": [
+      "Academic Culture",
+      "Marketing & Consumer Science"
+    ]
+  },
+  {
     "id": "5bcd709be05d",
     "title": "Investigating the reproducibility of the social and behavioural sciences",
     "summary": "No summary available",
@@ -1327,7 +1391,7 @@
     "url": "https://theconversation.com/catwalk-the-art-of-the-fashion-show-reveals-a-spectacular-125-years-of-runway-history-280286",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T13:13:29.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Marketing & Consumer Science",
       "Management & Organizations",
@@ -1864,7 +1928,7 @@
     "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-03T12:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.946Z",
+    "scrapedAt": "2026-04-13T16:18:34.889Z",
     "topics": [
       "Academic Careers"
     ]
@@ -1878,7 +1942,7 @@
     "url": "https://theconversation.com/claude-mythos-and-project-glasswing-why-an-ai-superhacker-has-the-tech-world-on-alert-280374",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T08:02:39.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "AI & Tech",
       "Marketing & Consumer Science"
@@ -1893,7 +1957,7 @@
     "url": "https://theconversation.com/algorithms-dont-care-how-ai-worsens-the-double-burden-for-indonesias-female-gig-workers-279978",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T03:14:52.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Marketing & Consumer Science",
       "Management & Organizations"
@@ -1907,8 +1971,8 @@
     "relevanceScore": 18,
     "url": "https://www.nature.com/articles/d41586-026-01027-4",
     "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1997,7 +2061,7 @@
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.991Z",
+    "scrapedAt": "2026-04-13T16:18:34.927Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
@@ -2047,6 +2111,20 @@
     ]
   },
   {
+    "id": "9a8671680f12",
+    "title": "Video game nostalgia is powerful – but it only works if developers understand the psychology behind it",
+    "summary": "Nostalgia is a powerful emotion for gamers. Gorodenkoff/Shutterstock When thinking back to the gaming experiences of your youth, it’s easy to get misty-eyed. Depending on your generation, you might yearn for Dizzy on the Commodore 64, marathon GoldenEye sessions with friends or your first Minecraft world. And games publishers know this. Recognising the nostalgic appeal of games, there has been a recent slew of re-releases of beloved classics. Tomb Raider Remastered (2024), Croc: Legend of the Go",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 16,
+    "url": "https://theconversation.com/video-game-nostalgia-is-powerful-but-it-only-works-if-developers-understand-the-psychology-behind-it-277421",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T14:41:27.000Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
     "id": "7c586ccbdcb1",
     "title": "Verbalizing LLMs' assumptions to explain and control sycophancy",
     "summary": "arXiv:2604.03058v2 Announce Type: replace-cross Abstract: LLMs can be socially sycophantic, affirming users when they ask questions like \"am I in the wrong?\" rather than providing genuine assessment. We hypothesize that this behavior arises from incorrect assumptions about the user, like underestimating how often users are seeking information over reassurance. We present Verbalized Assumptions, a framework for eliciting these assumptions from LLMs. Verbalized Assumptions provide insight into LLM",
@@ -2055,7 +2133,7 @@
     "url": "https://arxiv.org/abs/2604.03058",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.394Z",
+    "scrapedAt": "2026-04-13T16:18:34.550Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2069,7 +2147,7 @@
     "url": "https://arxiv.org/abs/2604.08602",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.385Z",
+    "scrapedAt": "2026-04-13T16:18:34.554Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2083,7 +2161,7 @@
     "url": "https://arxiv.org/abs/2604.09200",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.394Z",
+    "scrapedAt": "2026-04-13T16:18:34.550Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2097,7 +2175,7 @@
     "url": "https://arxiv.org/abs/2604.09413",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.394Z",
+    "scrapedAt": "2026-04-13T16:18:34.550Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2111,7 +2189,7 @@
     "url": "https://arxiv.org/abs/2602.24176",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.394Z",
+    "scrapedAt": "2026-04-13T16:18:34.550Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2125,7 +2203,7 @@
     "url": "https://arxiv.org/abs/2510.22293",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.394Z",
+    "scrapedAt": "2026-04-13T16:18:34.550Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2538,6 +2616,20 @@
     ]
   },
   {
+    "id": "6f748626cda6",
+    "title": "When career anxiety becomes gameplay: lessons from China’s ‘young-faculty simulator’",
+    "summary": "No summary available",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 15,
+    "url": "https://www.nature.com/articles/d41586-026-00224-5",
+    "source": "Nature",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
+    "topics": [
+      "Academic Careers"
+    ]
+  },
+  {
     "id": "fe1c7b12cf63",
     "title": "Social media users experience more political hostility in less economically equal and less democratic societies",
     "summary": "No summary available",
@@ -2545,8 +2637,8 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/s41562-026-02432-5",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-13T13:54:22.189Z",
-    "scrapedAt": "2026-04-13T13:54:22.189Z",
+    "publishedAt": "2026-04-13T16:18:33.910Z",
+    "scrapedAt": "2026-04-13T16:18:33.910Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -2560,7 +2652,7 @@
     "url": "https://theconversation.com/how-ontarios-post-secondary-student-funding-changes-echo-ronald-reagan-reforms-279534",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T13:42:45.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Academic Culture",
       "Management & Organizations"
@@ -2575,23 +2667,9 @@
     "url": "https://theconversation.com/drones-and-other-uncrewed-capabilities-to-be-a-big-feature-of-new-national-defence-strategy-280461",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T13:01:38.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Management & Organizations"
-    ]
-  },
-  {
-    "id": "6f748626cda6",
-    "title": "When career anxiety becomes gameplay: lessons from China’s ‘young-faculty simulator’",
-    "summary": "No summary available",
-    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
-    "relevanceScore": 15,
-    "url": "https://www.nature.com/articles/d41586-026-00224-5",
-    "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
-    "topics": [
-      "Academic Careers"
     ]
   },
   {
@@ -2631,7 +2709,7 @@
     "url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
     "source": "MIT News",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.991Z",
+    "scrapedAt": "2026-04-13T16:18:34.927Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2760,7 +2838,7 @@
     "url": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-07T12:12:17.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.946Z",
+    "scrapedAt": "2026-04-13T16:18:34.889Z",
     "topics": [
       "Academic Culture"
     ]
@@ -2901,7 +2979,7 @@
     "url": "https://retractionwatch.com/2026/04/13/scientist-who-alleged-covid-cover-up-circulated-a-faked-nih-email-agency-says/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-13T11:34:39.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.946Z",
+    "scrapedAt": "2026-04-13T16:18:34.889Z",
     "topics": [
       "Academic Culture",
       "Science Policy"
@@ -2916,7 +2994,7 @@
     "url": "https://theconversation.com/what-neurodivergent-people-really-think-about-the-words-used-to-describe-them-271784",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T10:46:59.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -3034,7 +3112,7 @@
     "url": "https://theconversation.com/michael-winklers-debut-made-miles-franklin-history-griefdogg-is-just-as-perplexing-and-philosophical-275798",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T01:47:50.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -3134,8 +3212,8 @@
     "relevanceScore": 12,
     "url": "https://www.science.org/doi/abs/10.1126/science.aec8444?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-13T13:54:22.347Z",
-    "scrapedAt": "2026-04-13T13:54:22.347Z",
+    "publishedAt": "2026-04-13T16:18:34.380Z",
+    "scrapedAt": "2026-04-13T16:18:34.380Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3148,8 +3226,8 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/s41586-026-10326-9",
     "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3163,7 +3241,7 @@
     "url": "https://www.insidehighered.com/opinion/columns/tough-love/2026/04/13/higher-educations-huge-opportunity-column",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-13T07:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.510Z",
+    "scrapedAt": "2026-04-13T16:18:34.739Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3177,7 +3255,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/04/13/texas-tech-university-close-gender-sexuality-programs",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-13T07:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.510Z",
+    "scrapedAt": "2026-04-13T16:18:34.739Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3191,7 +3269,7 @@
     "url": "https://theconversation.com/as-artemis-ii-is-celebrated-the-world-faces-hard-questions-about-us-leadership-in-space-280371",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T04:55:53.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3275,7 +3353,7 @@
     "url": "https://retractionwatch.com/2026/04/09/could-a-national-database-of-scientific-misconduct-rulings-stop-repeat-offenders/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.946Z",
+    "scrapedAt": "2026-04-13T16:18:34.889Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3572,7 +3650,7 @@
     "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-04T10:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.946Z",
+    "scrapedAt": "2026-04-13T16:18:34.889Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3615,7 +3693,7 @@
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.991Z",
+    "scrapedAt": "2026-04-13T16:18:34.927Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3678,6 +3756,20 @@
     ]
   },
   {
+    "id": "3b7978817f95",
+    "title": "Food prices are already high in Canada. Will the Iran war make them worse?",
+    "summary": "Food prices in Canada have been rising at a faster rate than overall inflation for the past several years. In fact, food prices are 30 per cent higher than they were a decade ago. In the face of this pressure, consumers are increasingly worried about the impact of the war in Iran on food prices. While there is currently a ceasefire in place, it appears fragile, and oil and fertilizer prices will be slow to fall. The conflict will undoubtedly have an impact food prices, but in the short term it w",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 10,
+    "url": "https://theconversation.com/food-prices-are-already-high-in-canada-will-the-iran-war-make-them-worse-279161",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T15:22:40.000Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
+    "topics": [
+      "Marketing & Consumer Science"
+    ]
+  },
+  {
     "id": "bcbfc219a5af",
     "title": "School is an important place for teens to learn about gender equality – but research overlooks it",
     "summary": "antoniodiaz/Shutterstock In adolescence, beliefs about fairness, equality and social roles are still taking shape. This includes teens’ views about gender – whether they support gender equality and their beliefs about gender roles in society. Someone’s “gender attitudes” are how disposed they are to support gender equality. When this support is negative, we refer to it as sexism. Sexism is connected with gender inequality across societies, creating imbalances in parliamentary seats, salary gaps,",
@@ -3686,7 +3778,7 @@
     "url": "https://theconversation.com/school-is-an-important-place-for-teens-to-learn-about-gender-equality-but-research-overlooks-it-276299",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T09:27:12.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -3842,7 +3934,7 @@
     "url": "https://www.science.org/content/blog-post/ai-predicting-compound-affinity-we-aren-t-there-yet",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-23T02:15:39.000Z",
-    "scrapedAt": "2026-04-13T13:54:26.847Z",
+    "scrapedAt": "2026-04-13T16:18:39.029Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3855,8 +3947,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg7825?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-13T13:54:22.347Z",
-    "scrapedAt": "2026-04-13T13:54:22.347Z",
+    "publishedAt": "2026-04-13T16:18:34.380Z",
+    "scrapedAt": "2026-04-13T16:18:34.380Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3869,8 +3961,78 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh7187?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-13T13:54:22.347Z",
-    "scrapedAt": "2026-04-13T13:54:22.347Z",
+    "publishedAt": "2026-04-13T16:18:34.380Z",
+    "scrapedAt": "2026-04-13T16:18:34.380Z",
+    "topics": [
+      "Academic Culture"
+    ]
+  },
+  {
+    "id": "17b605d60ac5",
+    "title": "Representation without power in science isn’t equity",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-01095-6",
+    "source": "Nature",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "a7472ab6ad29",
+    "title": "Biodiversity resilience in a tropical rainforest",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41586-026-10365-2",
+    "source": "Nature",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "801297a9078a",
+    "title": "The importance of competition and facilitation for global tree diversity",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41586-026-10349-2",
+    "source": "Nature",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "3eff38f4500e",
+    "title": "Young tropical forests help to reverse biodiversity losses",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-00811-6",
+    "source": "Nature",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "091c7197b69f",
+    "title": "Should academic misconduct be catalogued? Proposed US database sparks debate",
+    "summary": "No summary available",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-01147-x",
+    "source": "Nature",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3883,8 +4045,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41562-026-02426-3",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-13T13:54:22.189Z",
-    "scrapedAt": "2026-04-13T13:54:22.189Z",
+    "publishedAt": "2026-04-13T16:18:33.910Z",
+    "scrapedAt": "2026-04-13T16:18:33.910Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3897,8 +4059,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41562-026-02413-8",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-13T13:54:22.189Z",
-    "scrapedAt": "2026-04-13T13:54:22.189Z",
+    "publishedAt": "2026-04-13T16:18:33.910Z",
+    "scrapedAt": "2026-04-13T16:18:33.910Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3912,7 +4074,7 @@
     "url": "https://theconversation.com/does-federated-unlearning-in-ai-improve-data-privacy-or-create-a-new-cybersecurity-risk-279640",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T13:02:18.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3926,79 +4088,9 @@
     "url": "https://theconversation.com/the-enduring-legacy-of-medieval-christian-depictions-of-islam-in-todays-political-discourse-272036",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T12:41:38.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Psychology & Behavior"
-    ]
-  },
-  {
-    "id": "17b605d60ac5",
-    "title": "Representation without power in science isn’t equity",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/d41586-026-01095-6",
-    "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "a7472ab6ad29",
-    "title": "Biodiversity resilience in a tropical rainforest",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41586-026-10365-2",
-    "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "801297a9078a",
-    "title": "The importance of competition and facilitation for global tree diversity",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41586-026-10349-2",
-    "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "3eff38f4500e",
-    "title": "Young tropical forests help to reverse biodiversity losses",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/d41586-026-00811-6",
-    "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "091c7197b69f",
-    "title": "Should academic misconduct be catalogued? Proposed US database sparks debate",
-    "summary": "No summary available",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/d41586-026-01147-x",
-    "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
-    "topics": [
-      "Academic Culture"
     ]
   },
   {
@@ -4010,7 +4102,7 @@
     "url": "https://arxiv.org/abs/2604.08727",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.394Z",
+    "scrapedAt": "2026-04-13T16:18:34.550Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4254,6 +4346,20 @@
     ]
   },
   {
+    "id": "559423c87b5b",
+    "title": "Jane Austen in pictures: two graphic biographies bring the novelist’s life to the page",
+    "summary": "To coincide with the 250th anniversary of her birth, last year saw the publication of two graphic biographies of Jane Austen. These books take different approaches to the novelist’s life. The Novel Life of Jane Austen: A Graphic Biography, by Janine Barchas and Isabel Greenberg, is a slim volume in a cartoony style that begins in 1796. Kate Evans’ painterly book Patchwork: A Graphic Biography of Jane Austen, meanwhile, starts with Austen’s birth. The latter also includes historic digressions to ",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/jane-austen-in-pictures-two-graphic-biographies-bring-the-novelists-life-to-the-page-278006",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T14:25:21.000Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
     "id": "0cad2954dfce",
     "title": "Artemis II crew brought a human eye and storytelling vision to the photos they took on their mission",
     "summary": "Astronaut Jeremy Hansen takes a picture through the camera shroud covering a window on the Orion spacecraft. NASA In early April 2026, the Artemis II mission captivated me and millions of people watching from across the world. The crew’s courage, skill and infectious wonder served as tangible proof of human persistence and technological achievement, all against the mysterious backdrop of space. People back on Earth got to witness the mission through remarkable photos of space captured by astrona",
@@ -4262,7 +4368,7 @@
     "url": "https://theconversation.com/artemis-ii-crew-brought-a-human-eye-and-storytelling-vision-to-the-photos-they-took-on-their-mission-280394",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T12:44:47.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4276,7 +4382,7 @@
     "url": "https://theconversation.com/25-million-people-lost-medicaid-after-the-covid-19-pandemic-and-state-policies-shaped-who-stayed-covered-277599",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T12:43:47.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4290,7 +4396,7 @@
     "url": "https://theconversation.com/do-you-taste-words-or-hear-colours-heres-the-neuroscience-behind-synaesthesia-277960",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T04:09:08.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4724,7 +4830,7 @@
     "url": "https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-02T02:44:26.000Z",
-    "scrapedAt": "2026-04-13T13:54:26.847Z",
+    "scrapedAt": "2026-04-13T16:18:39.029Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4835,8 +4941,50 @@
     "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.adt8343?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-13T13:54:22.347Z",
-    "scrapedAt": "2026-04-13T13:54:22.347Z",
+    "publishedAt": "2026-04-13T16:18:34.380Z",
+    "scrapedAt": "2026-04-13T16:18:34.380Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "1a28bdef1ade",
+    "title": "How DNA forensics is transforming studies of ancient manuscripts",
+    "summary": "No summary available",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/d41586-026-01029-2",
+    "source": "Nature",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "aea3765ff90a",
+    "title": "Brain organoids are a transformative technology — but they need regulation",
+    "summary": "No summary available",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/d41586-026-01021-w",
+    "source": "Nature",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "2ae125bdca1f",
+    "title": "Superconductivity and electronic structures of nickelate thin film superstructures",
+    "summary": "No summary available",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/s41586-026-10352-7",
+    "source": "Nature",
+    "publishedAt": "2026-04-13T16:18:33.987Z",
+    "scrapedAt": "2026-04-13T16:18:33.987Z",
     "topics": [
       "Science Policy"
     ]
@@ -4850,7 +4998,7 @@
     "url": "https://theconversation.com/gray-whales-are-dying-in-san-francisco-bay-at-an-alarming-rate-this-isnt-normal-280151",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T12:42:14.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4864,49 +5012,7 @@
     "url": "https://theconversation.com/the-conflict-in-the-middle-east-has-provided-a-true-test-of-the-resilience-of-the-global-economy-280385",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T12:13:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
-    "topics": [
-      "Science Policy"
-    ]
-  },
-  {
-    "id": "1a28bdef1ade",
-    "title": "How DNA forensics is transforming studies of ancient manuscripts",
-    "summary": "No summary available",
-    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
-    "relevanceScore": 6,
-    "url": "https://www.nature.com/articles/d41586-026-01029-2",
-    "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
-    "topics": [
-      "Science Policy"
-    ]
-  },
-  {
-    "id": "aea3765ff90a",
-    "title": "Brain organoids are a transformative technology — but they need regulation",
-    "summary": "No summary available",
-    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
-    "relevanceScore": 6,
-    "url": "https://www.nature.com/articles/d41586-026-01021-w",
-    "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
-    "topics": [
-      "Science Policy"
-    ]
-  },
-  {
-    "id": "2ae125bdca1f",
-    "title": "Superconductivity and electronic structures of nickelate thin film superstructures",
-    "summary": "No summary available",
-    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
-    "relevanceScore": 6,
-    "url": "https://www.nature.com/articles/s41586-026-10352-7",
-    "source": "Nature",
-    "publishedAt": "2026-04-13T10:51:18.919Z",
-    "scrapedAt": "2026-04-13T10:51:18.919Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Science Policy"
     ]
@@ -4920,7 +5026,7 @@
     "url": "https://arxiv.org/abs/2604.08693",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.394Z",
+    "scrapedAt": "2026-04-13T16:18:34.550Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5116,7 +5222,21 @@
     "url": "https://www.science.org/content/blog-post/beneficial-effects-liver-brain",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-18T02:10:22.000Z",
-    "scrapedAt": "2026-04-13T13:54:26.847Z",
+    "scrapedAt": "2026-04-13T16:18:39.029Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "0df1973b218e",
+    "title": "Nelson Mandela was a towering global symbol – but how effective was he as a president?",
+    "summary": "Nelson Mandela remains one of the most revered political leaders of modern times. He is widely credited with guiding South Africa through a peaceful transition from apartheid to democracy. He embodied racial reconciliation, and lent moral authority to a fragile new state. Yet admiration for Mandela the symbol has often obscured a more difficult question. How effective was Mandela in the day-to-day exercise of presidential power? Most assessments of political leaders focus on their impact in term",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 5,
+    "url": "https://theconversation.com/nelson-mandela-was-a-towering-global-symbol-but-how-effective-was-he-as-a-president-279599",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T14:03:10.000Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Science Policy"
     ]
@@ -5130,7 +5250,7 @@
     "url": "https://theconversation.com/chagos-islands-deal-shelved-legal-expert-explains-what-happens-next-280493",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T13:31:42.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Science Policy"
     ]
@@ -5186,7 +5306,7 @@
     "url": "https://theconversation.com/how-hidden-soil-fungi-steal-bacterial-dna-to-control-the-rain-279618",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T09:23:50.000Z",
-    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "scrapedAt": "2026-04-13T16:18:34.698Z",
     "topics": [
       "Science Policy"
     ]
