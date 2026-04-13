@@ -85,7 +85,7 @@
     "url": "https://arxiv.org/abs/2604.08619",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:18.964Z",
+    "scrapedAt": "2026-04-13T13:54:22.385Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -256,7 +256,7 @@
     "url": "https://retractionwatch.com/2026/04/11/weekend-reads-llms-are-not-the-problem-cash-for-peer-review-doesnt-work-project-finds-many-flaws-few-retractions-in-vaping-literatur/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-11T10:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.180Z",
+    "scrapedAt": "2026-04-13T13:54:22.946Z",
     "topics": [
       "Academic Culture",
       "AI & Tech"
@@ -348,6 +348,21 @@
     "scrapedAt": "2026-04-06T15:54:47.895Z",
     "topics": [
       "Marketing & Consumer Science",
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "f86dd18e875d",
+    "title": "AIs have ‘personalities’ – here’s how they affect you more deeply than you may realize",
+    "summary": "AI personas tap into the ways you respond to other people. Malte Mueller/fStop via Getty Images Many people are interacting with AI large language models, and most of them would say the models have different “personalities.” Some models come across as calm and useful. Others feel eager, flattering or strangely cold. You can ask two models the same question and walk away with two very different impressions, even when the factual content they return is similar. Artificial intelligence models do no",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 36,
+    "url": "https://theconversation.com/ais-have-personalities-heres-how-they-affect-you-more-deeply-than-you-may-realize-277359",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T12:44:12.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "AI & Tech",
       "Psychology & Behavior"
     ]
   },
@@ -451,8 +466,23 @@
     "url": "https://theconversation.com/is-it-anxiety-or-ocd-2-psychology-experts-explain-the-difference-277624",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T02:00:23.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "3d9da783f22a",
+    "title": "‘Bouncing back’ is a myth – resilience means integrating hard experiences into your life story, not ignoring them",
+    "summary": "Into each life some rain must fall. Anastasiia Voloshko/Moment via Getty Images When Maria looked at herself in the mirror for the first time after her mastectomy, she stood very still. One hand rested on the bathroom counter. The other hovered near the flat space where her breast had been. The scar was raw and angry. The loss was quiet but enormous. Her body felt foreign. In moments like these, people are often urged to be resilient – which can feel like being told to show no weakness, to push ",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 31,
+    "url": "https://theconversation.com/bouncing-back-is-a-myth-resilience-means-integrating-hard-experiences-into-your-life-story-not-ignoring-them-275069",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T12:44:59.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "Academic Culture",
       "Psychology & Behavior"
     ]
   },
@@ -619,6 +649,22 @@
     ]
   },
   {
+    "id": "5ef9291955ee",
+    "title": "Cannabis legalization spurs innovation, but not always in ways that benefit patients or public health",
+    "summary": "Even after legalization, researchers face significant barriers to studying cannabis. Visoot Uthairam/Moment via Getty Images Innovation in health care saves lives. But not all health innovations have enough evidence to actually benefit patients. Barriers to innovation are often higher in illicit or restricted markets, including cannabis, stem cells and cryptocurrencies. Researchers face higher costs, limited access to raw materials and data, and stricter regulations. Cannabis illustrates a parti",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 28,
+    "url": "https://theconversation.com/cannabis-legalization-spurs-innovation-but-not-always-in-ways-that-benefit-patients-or-public-health-277422",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T12:48:30.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "Academic Culture",
+      "Marketing & Consumer Science",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "12cec688084c",
     "title": "Offline-First LLM Architecture for Adaptive Learning in Low-Connectivity Environments",
     "summary": "arXiv:2603.03339v5 Announce Type: replace Abstract: Artificial intelligence (AI) and large language models (LLMs) are transforming educational technology by enabling conversational tutoring, personalized explanations, and inquiry-driven learning. However, most AI-based learning systems rely on continuous internet connectivity and cloud-based computation, limiting their use in bandwidth-constrained environments. This paper presents an offline-first large language model architecture designed for A",
@@ -627,7 +673,7 @@
     "url": "https://arxiv.org/abs/2603.03339",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:18.973Z",
+    "scrapedAt": "2026-04-13T13:54:22.394Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
@@ -806,7 +852,7 @@
     "url": "https://theconversation.com/a-new-ad-campaign-is-pushing-australians-to-use-less-petrol-has-this-happened-before-280038",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T01:29:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -1273,6 +1319,22 @@
     ]
   },
   {
+    "id": "f32da0801d26",
+    "title": "Catwalk: The Art of the Fashion Show reveals a spectacular 125 years of runway history",
+    "summary": "Fashion shows can often feel exclusive, reserved for the very rich, the very famous or the very well-connected. This perception has been aided by depictions of the catwalk in film and TV – think The Devil Wears Prada, Zoolander, Absolutely Fabulous – which simply confirm the widely held view of fashion as synonymous with artifice and superficiality. Yet, while the catwalk is undoubtedly a stage for pomp and social peacocking, it is also a serious business. It can make or break a collection’s suc",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 20,
+    "url": "https://theconversation.com/catwalk-the-art-of-the-fashion-show-reveals-a-spectacular-125-years-of-runway-history-280286",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T13:13:29.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "Marketing & Consumer Science",
+      "Management & Organizations",
+      "Science Policy"
+    ]
+  },
+  {
     "id": "c2d2e7b2bb19",
     "title": "Driven by social media, masculinism has moved from the fringes to the mainstream",
     "summary": "“Marc Lépine must have updated his list from the otherworld.” That sentence, written 10 years ago by a man on Twitter (now X), troubles me to this day. There was nothing trivial about the statement. It came from someone whose ideological leanings are close to the incel movement — “involuntary celibates” — which is part of the wider masculinist movement. He felt justified uttering these words after novelist Marie-Hélène Poitras and I published Les Superbes: une enquête sur le succès et les femmes",
@@ -1281,7 +1343,7 @@
     "url": "https://theconversation.com/driven-by-social-media-masculinism-has-moved-from-the-fringes-to-the-mainstream-277133",
     "source": "The Conversation",
     "publishedAt": "2026-04-12T11:46:26.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -1802,7 +1864,7 @@
     "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-03T12:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.180Z",
+    "scrapedAt": "2026-04-13T13:54:22.946Z",
     "topics": [
       "Academic Careers"
     ]
@@ -1816,7 +1878,7 @@
     "url": "https://theconversation.com/claude-mythos-and-project-glasswing-why-an-ai-superhacker-has-the-tech-world-on-alert-280374",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T08:02:39.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "AI & Tech",
       "Marketing & Consumer Science"
@@ -1831,7 +1893,7 @@
     "url": "https://theconversation.com/algorithms-dont-care-how-ai-worsens-the-double-burden-for-indonesias-female-gig-workers-279978",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T03:14:52.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Marketing & Consumer Science",
       "Management & Organizations"
@@ -1935,7 +1997,7 @@
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.158Z",
+    "scrapedAt": "2026-04-13T13:54:22.991Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
@@ -1993,7 +2055,7 @@
     "url": "https://arxiv.org/abs/2604.03058",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:18.973Z",
+    "scrapedAt": "2026-04-13T13:54:22.394Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2007,7 +2069,7 @@
     "url": "https://arxiv.org/abs/2604.08602",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:18.964Z",
+    "scrapedAt": "2026-04-13T13:54:22.385Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2021,7 +2083,7 @@
     "url": "https://arxiv.org/abs/2604.09200",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:18.973Z",
+    "scrapedAt": "2026-04-13T13:54:22.394Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2035,7 +2097,7 @@
     "url": "https://arxiv.org/abs/2604.09413",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:18.973Z",
+    "scrapedAt": "2026-04-13T13:54:22.394Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2049,7 +2111,7 @@
     "url": "https://arxiv.org/abs/2602.24176",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:18.973Z",
+    "scrapedAt": "2026-04-13T13:54:22.394Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2063,7 +2125,7 @@
     "url": "https://arxiv.org/abs/2510.22293",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:18.973Z",
+    "scrapedAt": "2026-04-13T13:54:22.394Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2476,6 +2538,49 @@
     ]
   },
   {
+    "id": "fe1c7b12cf63",
+    "title": "Social media users experience more political hostility in less economically equal and less democratic societies",
+    "summary": "No summary available",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 15,
+    "url": "https://www.nature.com/articles/s41562-026-02432-5",
+    "source": "Nature Human Behaviour",
+    "publishedAt": "2026-04-13T13:54:22.189Z",
+    "scrapedAt": "2026-04-13T13:54:22.189Z",
+    "topics": [
+      "Marketing & Consumer Science"
+    ]
+  },
+  {
+    "id": "85942a56047c",
+    "title": "How Ontario’s post-secondary student funding changes echo Ronald Reagan reforms",
+    "summary": "Ontario’s recent announcement of a tuition increase and major changes to grant and loan structures have prompted student protests at the provincial legislature. The province has said the changes are required for sustainability. But changes to financial aid will have significant implications for many students who rely on grants and loans. As The Toronto Star reports, the reforms have almost reversed the ratio of non-repayable grants and loans students can access. Education is a pillar of “social ",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 15,
+    "url": "https://theconversation.com/how-ontarios-post-secondary-student-funding-changes-echo-ronald-reagan-reforms-279534",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T13:42:45.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "Academic Culture",
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "d2eb9a868639",
+    "title": "Drones and other uncrewed capabilities to be a big feature of new National Defence Strategy",
+    "summary": "Drone and other autonomous military capabilities will be one of the central features of the 2026 National Defence Strategy and Integrated Investment Program to be unveiled by Defence Minister Richard Marles on Thursday. The government will invest between $12–15 billion in uncrewed and autonomous systems over the next decade to 2035–36. This includes up to $8.1 billion in air capabilities, up to $4.5 billion in maritime capabilities and up to $2.4 billion in land capabilities. The government says",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 15,
+    "url": "https://theconversation.com/drones-and-other-uncrewed-capabilities-to-be-a-big-feature-of-new-national-defence-strategy-280461",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T13:01:38.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "6f748626cda6",
     "title": "When career anxiety becomes gameplay: lessons from China’s ‘young-faculty simulator’",
     "summary": "No summary available",
@@ -2487,20 +2592,6 @@
     "scrapedAt": "2026-04-13T10:51:18.919Z",
     "topics": [
       "Academic Careers"
-    ]
-  },
-  {
-    "id": "fe1c7b12cf63",
-    "title": "Social media users experience more political hostility in less economically equal and less democratic societies",
-    "summary": "No summary available",
-    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
-    "relevanceScore": 15,
-    "url": "https://www.nature.com/articles/s41562-026-02432-5",
-    "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-13T10:51:18.869Z",
-    "scrapedAt": "2026-04-13T10:51:18.869Z",
-    "topics": [
-      "Marketing & Consumer Science"
     ]
   },
   {
@@ -2540,7 +2631,7 @@
     "url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
     "source": "MIT News",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.158Z",
+    "scrapedAt": "2026-04-13T13:54:22.991Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2669,7 +2760,7 @@
     "url": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-07T12:12:17.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.180Z",
+    "scrapedAt": "2026-04-13T13:54:22.946Z",
     "topics": [
       "Academic Culture"
     ]
@@ -2802,6 +2893,21 @@
     ]
   },
   {
+    "id": "b0da65286d46",
+    "title": "Scientist who alleged COVID cover-up circulated a faked NIH email, agency says",
+    "summary": "A scientist charged with research misconduct used a fake email communication with an NIH researcher’s address to support his claims of governmental retaliation, Retraction Watch has learned. Last month, we reported on the upholding of a proposed 15-year debarment by a U.S. Department of Health and Human Services appeals judge against Argentine chemist Ariel Fernández … Continue reading Scientist who alleged COVID cover-up circulated a faked NIH email, agency says",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 14,
+    "url": "https://retractionwatch.com/2026/04/13/scientist-who-alleged-covid-cover-up-circulated-a-faked-nih-email-agency-says/",
+    "source": "Retraction Watch",
+    "publishedAt": "2026-04-13T11:34:39.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.946Z",
+    "topics": [
+      "Academic Culture",
+      "Science Policy"
+    ]
+  },
+  {
     "id": "b9d91ffbf247",
     "title": "What neurodivergent people really think about the words used to describe them",
     "summary": "Vitalii Vodolazskyi/Shutterstock Labels like autism, attention deficit hyperactivity disorder (ADHD) and dyslexia are not new. But the way we understand them is changing. In recent years, researchers have increasingly worked with neurodivergent people rather than simply studying them from the outside. That change has brought better access to diagnosis, more inclusive approaches in schools and workplaces and a growing challenge to the idea that neurological difference is something to be fixed. La",
@@ -2810,7 +2916,7 @@
     "url": "https://theconversation.com/what-neurodivergent-people-really-think-about-the-words-used-to-describe-them-271784",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T10:46:59.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -2825,7 +2931,7 @@
     "url": "https://theconversation.com/want-to-talk-comics-today-that-often-means-going-online-277151",
     "source": "The Conversation",
     "publishedAt": "2026-04-12T11:45:18.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior"
@@ -2840,7 +2946,7 @@
     "url": "https://theconversation.com/4-ways-the-war-in-iran-has-weakened-the-united-states-in-the-great-power-game-279069",
     "source": "The Conversation",
     "publishedAt": "2026-04-11T13:18:01.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -2928,7 +3034,7 @@
     "url": "https://theconversation.com/michael-winklers-debut-made-miles-franklin-history-griefdogg-is-just-as-perplexing-and-philosophical-275798",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T01:47:50.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2942,7 +3048,7 @@
     "url": "https://theconversation.com/guns-over-people-rising-military-spending-is-eroding-quality-of-life-around-the-world-279601",
     "source": "The Conversation",
     "publishedAt": "2026-04-12T11:45:58.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2956,7 +3062,7 @@
     "url": "https://theconversation.com/africa-is-losing-health-workers-when-it-can-least-afford-to-a-pattern-rooted-in-colonial-history-279529",
     "source": "The Conversation",
     "publishedAt": "2026-04-12T07:11:43.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Psychology & Behavior",
       "Science Policy"
@@ -3028,8 +3134,8 @@
     "relevanceScore": 12,
     "url": "https://www.science.org/doi/abs/10.1126/science.aec8444?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-13T10:51:19.086Z",
-    "scrapedAt": "2026-04-13T10:51:19.086Z",
+    "publishedAt": "2026-04-13T13:54:22.347Z",
+    "scrapedAt": "2026-04-13T13:54:22.347Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3057,7 +3163,7 @@
     "url": "https://www.insidehighered.com/opinion/columns/tough-love/2026/04/13/higher-educations-huge-opportunity-column",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-13T07:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.106Z",
+    "scrapedAt": "2026-04-13T13:54:22.510Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3071,7 +3177,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/04/13/texas-tech-university-close-gender-sexuality-programs",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-13T07:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.106Z",
+    "scrapedAt": "2026-04-13T13:54:22.510Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3085,7 +3191,7 @@
     "url": "https://theconversation.com/as-artemis-ii-is-celebrated-the-world-faces-hard-questions-about-us-leadership-in-space-280371",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T04:55:53.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3169,7 +3275,7 @@
     "url": "https://retractionwatch.com/2026/04/09/could-a-national-database-of-scientific-misconduct-rulings-stop-repeat-offenders/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.180Z",
+    "scrapedAt": "2026-04-13T13:54:22.946Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3466,7 +3572,7 @@
     "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-04T10:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.180Z",
+    "scrapedAt": "2026-04-13T13:54:22.946Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3509,7 +3615,7 @@
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.158Z",
+    "scrapedAt": "2026-04-13T13:54:22.991Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3580,7 +3686,7 @@
     "url": "https://theconversation.com/school-is-an-important-place-for-teens-to-learn-about-gender-equality-but-research-overlooks-it-276299",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T09:27:12.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -3594,7 +3700,7 @@
     "url": "https://theconversation.com/how-to-protect-your-hobbies-in-a-culture-that-wants-to-exploit-them-277817",
     "source": "The Conversation",
     "publishedAt": "2026-04-12T11:45:12.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Academic Culture",
       "Science Policy"
@@ -3736,7 +3842,7 @@
     "url": "https://www.science.org/content/blog-post/ai-predicting-compound-affinity-we-aren-t-there-yet",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-23T02:15:39.000Z",
-    "scrapedAt": "2026-04-13T10:51:25.478Z",
+    "scrapedAt": "2026-04-13T13:54:26.847Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3749,8 +3855,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg7825?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-13T10:51:19.086Z",
-    "scrapedAt": "2026-04-13T10:51:19.086Z",
+    "publishedAt": "2026-04-13T13:54:22.347Z",
+    "scrapedAt": "2026-04-13T13:54:22.347Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3763,10 +3869,66 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh7187?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-13T10:51:19.086Z",
-    "scrapedAt": "2026-04-13T10:51:19.086Z",
+    "publishedAt": "2026-04-13T13:54:22.347Z",
+    "scrapedAt": "2026-04-13T13:54:22.347Z",
     "topics": [
       "Academic Culture"
+    ]
+  },
+  {
+    "id": "856dd8266e58",
+    "title": "Sustainable neuroscience through open science",
+    "summary": "No summary available",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41562-026-02426-3",
+    "source": "Nature Human Behaviour",
+    "publishedAt": "2026-04-13T13:54:22.189Z",
+    "scrapedAt": "2026-04-13T13:54:22.189Z",
+    "topics": [
+      "Academic Culture"
+    ]
+  },
+  {
+    "id": "9f3a007d7e50",
+    "title": "The effect of praise from peers on empathy and political inclusion towards racial or ethnic outgroups",
+    "summary": "No summary available",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41562-026-02413-8",
+    "source": "Nature Human Behaviour",
+    "publishedAt": "2026-04-13T13:54:22.189Z",
+    "scrapedAt": "2026-04-13T13:54:22.189Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "5e71bc1253bd",
+    "title": "Does ‘federated unlearning’ in AI improve data privacy, or create a new cybersecurity risk?",
+    "summary": "As the capacity of artificial intelligence (AI) increases at an exponential rate, so do concerns about the privacy of user data. Increasingly, organizations around the world are adopting something called federated unlearning that enables AI training without centralizing sensitive data. This allows hospitals, banks and government agencies to collaborate while keeping data local — an approach that’s regarded as a major advance in privacy. Federated unlearning promises that user data can be removed",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 9,
+    "url": "https://theconversation.com/does-federated-unlearning-in-ai-improve-data-privacy-or-create-a-new-cybersecurity-risk-279640",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T13:02:18.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "751e0608b22a",
+    "title": "The enduring legacy of medieval Christian depictions of Islam in today’s political discourse",
+    "summary": "A stained-glass window in the Cathedral of Brussels depicting the 'Siege of Jerusalem' by the Crusaders in the 11th century. Jorisvo/iStock / Getty Images Plus The war with Iran is not just a geopolitical conflict. We see religious rhetoric used to cast strategic interests as a moral or sacred matter. U.S. House Speaker Mike Johnson described Iran’s majority faith tradition, Shiite Islam, as a “misguided religion” while discussing the ongoing U.S. strikes against Iran on March 4, 2026. A complai",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 9,
+    "url": "https://theconversation.com/the-enduring-legacy-of-medieval-christian-depictions-of-islam-in-todays-political-discourse-272036",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T12:41:38.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "Psychology & Behavior"
     ]
   },
   {
@@ -3840,34 +4002,6 @@
     ]
   },
   {
-    "id": "856dd8266e58",
-    "title": "Sustainable neuroscience through open science",
-    "summary": "No summary available",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41562-026-02426-3",
-    "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-13T10:51:18.869Z",
-    "scrapedAt": "2026-04-13T10:51:18.869Z",
-    "topics": [
-      "Academic Culture"
-    ]
-  },
-  {
-    "id": "9f3a007d7e50",
-    "title": "The effect of praise from peers on empathy and political inclusion towards racial or ethnic outgroups",
-    "summary": "No summary available",
-    "whyItMatters": "Management/org research — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41562-026-02413-8",
-    "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-13T10:51:18.869Z",
-    "scrapedAt": "2026-04-13T10:51:18.869Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
     "id": "067058283abf",
     "title": "Communicate-Predict-Act: Evaluating Social Intelligence of Agents",
     "summary": "arXiv:2604.08727v1 Announce Type: new Abstract: As large language model (LLM) agents become more prevalent in real world social settings, social intelligence will play an increasingly critical role. But social intelligence is still a poorly defined construct, for humans and artificial agents. We introduce a multiplayer arena of mixed cooperative and competitive social games to study LLM social intelligence. The controllability of LLM based agents enables systematic evaluation, which also support",
@@ -3876,7 +4010,7 @@
     "url": "https://arxiv.org/abs/2604.08727",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:18.973Z",
+    "scrapedAt": "2026-04-13T13:54:22.394Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4120,6 +4254,34 @@
     ]
   },
   {
+    "id": "0cad2954dfce",
+    "title": "Artemis II crew brought a human eye and storytelling vision to the photos they took on their mission",
+    "summary": "Astronaut Jeremy Hansen takes a picture through the camera shroud covering a window on the Orion spacecraft. NASA In early April 2026, the Artemis II mission captivated me and millions of people watching from across the world. The crew’s courage, skill and infectious wonder served as tangible proof of human persistence and technological achievement, all against the mysterious backdrop of space. People back on Earth got to witness the mission through remarkable photos of space captured by astrona",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/artemis-ii-crew-brought-a-human-eye-and-storytelling-vision-to-the-photos-they-took-on-their-mission-280394",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T12:44:47.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "9b83987c1fc8",
+    "title": "25 million people lost Medicaid after the COVID-19 pandemic — and state policies shaped who stayed covered",
+    "summary": "Medicaid enrollment surged during the COVID-19 pandemic. SDI Productions/E+ via Getty Images During the COVID-19 pandemic, the number of people covered by Medicaid rose month after month – an unusual pattern for the government’s insurance program for people with low incomes and disabilities. Why? A policy of continuous coverage during the pandemic essentially halted Medicaid disenrollment to make it easier for people to stay insured during the public health emergency. By early 2023, enrollment h",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/25-million-people-lost-medicaid-after-the-covid-19-pandemic-and-state-policies-shaped-who-stayed-covered-277599",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T12:43:47.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
     "id": "c10d35e96b13",
     "title": "Do you taste words or hear colours? Here’s the neuroscience behind synaesthesia",
     "summary": "Vitally Gariev/Unsplash Have you ever tasted a word, or seen colours while listening to music? If you have, you may be among the 1% to 4% of people who have a fascinating trait known as synaesthesia. Synaesthesia is a neurological phenomenon where the activation of one sense, such as hearing, triggers the activation of another usually unrelated sense, such as sight. This means people with synaesthesia often experience additional sensations compared to the rest of us. We’ve devoted a lot of time ",
@@ -4128,7 +4290,7 @@
     "url": "https://theconversation.com/do-you-taste-words-or-hear-colours-heres-the-neuroscience-behind-synaesthesia-277960",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T04:09:08.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4142,7 +4304,7 @@
     "url": "https://theconversation.com/another-mp-jumps-to-carneys-liberals-igniting-concerns-about-the-health-of-canadas-democracy-280342",
     "source": "The Conversation",
     "publishedAt": "2026-04-12T13:49:55.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4562,7 +4724,7 @@
     "url": "https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-02T02:44:26.000Z",
-    "scrapedAt": "2026-04-13T10:51:25.478Z",
+    "scrapedAt": "2026-04-13T13:54:26.847Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4673,8 +4835,36 @@
     "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.adt8343?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-13T10:51:19.086Z",
-    "scrapedAt": "2026-04-13T10:51:19.086Z",
+    "publishedAt": "2026-04-13T13:54:22.347Z",
+    "scrapedAt": "2026-04-13T13:54:22.347Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "0d49ae265661",
+    "title": "Gray whales are dying in San Francisco Bay at an alarming rate – this isn’t normal",
+    "summary": "Gray whales have unique markings, making it possible to track each one in the bay. Jane Tyska/Digital First Media/East Bay Times via Getty Images At least six gray whales have died in San Francisco Bay from mid-March to early April 2026. These deaths follow a pattern over the past few years, and they are raising concerns among marine biologists like us that 2026 is becoming another dangerous year for a struggling population. The majority of eastern North Pacific gray whales migrate closely along",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/gray-whales-are-dying-in-san-francisco-bay-at-an-alarming-rate-this-isnt-normal-280151",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T12:42:14.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
+    "topics": [
+      "Academic Culture"
+    ]
+  },
+  {
+    "id": "7cdc9cf23eee",
+    "title": "The conflict in the Middle East has provided a true test of the resilience of the global economy",
+    "summary": "William Barton/Shutterstock The world economy survived the shocks of the Ukraine-Russia conflict, which has had limited impact on economic growth. But the escalation of hostilities in the Middle East has transformed what had been, until early 2026, a surprisingly benign outlook into a far more uncertain one. It has created the ultimate test for how resilient the world economy really is. Amid stalled ceasefire negotiations, the US president, Donald Trump, has threatened a blockade of vessels tran",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/the-conflict-in-the-middle-east-has-provided-a-true-test-of-the-resilience-of-the-global-economy-280385",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T12:13:00.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Science Policy"
     ]
@@ -4730,7 +4920,7 @@
     "url": "https://arxiv.org/abs/2604.08693",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-13T04:00:00.000Z",
-    "scrapedAt": "2026-04-13T10:51:18.973Z",
+    "scrapedAt": "2026-04-13T13:54:22.394Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4926,7 +5116,21 @@
     "url": "https://www.science.org/content/blog-post/beneficial-effects-liver-brain",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-18T02:10:22.000Z",
-    "scrapedAt": "2026-04-13T10:51:25.478Z",
+    "scrapedAt": "2026-04-13T13:54:26.847Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "af0b883604bb",
+    "title": "Chagos Islands deal shelved – legal expert explains what happens next",
+    "summary": "The UK government has shelved legislation to return the Chagos Islands to Mauritius, after the US government withdrew its support for the deal. Until and unless the US gives their consent, the UK will not be able to pass legislation, and the treaty between the UK and Mauritius to transfer sovereignty, signed in 2025, cannot be put into effect. This is because the agreement would require a 1966 British-American treaty on the Chagos Islands to be amended. Formal letters needed to be exchanged for ",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 5,
+    "url": "https://theconversation.com/chagos-islands-deal-shelved-legal-expert-explains-what-happens-next-280493",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-13T13:31:42.000Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Science Policy"
     ]
@@ -4982,7 +5186,7 @@
     "url": "https://theconversation.com/how-hidden-soil-fungi-steal-bacterial-dna-to-control-the-rain-279618",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T09:23:50.000Z",
-    "scrapedAt": "2026-04-13T10:51:19.038Z",
+    "scrapedAt": "2026-04-13T13:54:22.596Z",
     "topics": [
       "Science Policy"
     ]
