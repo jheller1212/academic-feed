@@ -54,7 +54,7 @@
     "url": "https://arxiv.org/abs/2512.23834",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior",
@@ -90,6 +90,20 @@
       "AI & Tech",
       "Psychology & Behavior",
       "Science Policy"
+    ]
+  },
+  {
+    "id": "e551de40bc4f",
+    "title": "Daily briefing: 14 things PhD students liked hearing from their supervisors",
+    "summary": "No summary available",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 45,
+    "url": "https://www.nature.com/articles/d41586-026-01232-1",
+    "source": "Nature",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
+    "topics": [
+      "PhD & PostDoc Life"
     ]
   },
   {
@@ -162,7 +176,7 @@
     "url": "https://arxiv.org/abs/2512.11811",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -239,7 +253,7 @@
     "url": "https://arxiv.org/abs/2604.10730",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior",
@@ -303,7 +317,7 @@
     "url": "https://arxiv.org/abs/2604.09620",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior",
@@ -319,7 +333,7 @@
     "url": "https://retractionwatch.com/2026/04/11/weekend-reads-llms-are-not-the-problem-cash-for-peer-review-doesnt-work-project-finds-many-flaws-few-retractions-in-vaping-literatur/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-11T10:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.413Z",
+    "scrapedAt": "2026-04-14T13:58:49.324Z",
     "topics": [
       "Academic Culture",
       "AI & Tech"
@@ -415,6 +429,22 @@
     ]
   },
   {
+    "id": "54562549d999",
+    "title": "Industries most exposed to AI are not only seeing productivity gains but jobs and wage growth too",
+    "summary": "Financial analysis is an industry that is seeing job growth even as AI is increasingly used. Orientfootage/iStock via Getty Images Forecasts of the impact of artificial intelligence range from the apocalyptic to the utopian. An October 2025 report from Senate Democrats, for example, predicted AI will destroy millions of U.S. jobs. A couple of years earlier, consultant company McKinsey forecast AI will add trillions to the global economy, while emphasizing job losses can be mitigated by training ",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 38,
+    "url": "https://theconversation.com/industries-most-exposed-to-ai-are-not-only-seeing-productivity-gains-but-jobs-and-wage-growth-too-224487",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-14T12:37:24.000Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
+    "topics": [
+      "AI & Tech",
+      "Marketing & Consumer Science",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "46cefeb40c1b",
     "title": "Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control",
     "summary": "arXiv:2604.03147v2 Announce Type: replace-cross Abstract: We present a method to identify a valence-arousal (VA) subspace within large language model representations. From 211k emotion-labeled texts, we derive emotion steering vectors, then learn VA axes as linear combinations of their top PCA components via ridge regression on the model's self-reported valence-arousal scores. The resulting VA subspace exhibits circular geometry consistent with established models of human emotion perception. Pro",
@@ -423,7 +453,7 @@
     "url": "https://arxiv.org/abs/2604.03147",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -438,7 +468,7 @@
     "url": "https://arxiv.org/abs/2601.17172",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -529,7 +559,7 @@
     "url": "https://theconversation.com/what-fish-redistribution-in-the-mediterranean-is-telling-us-about-species-climate-resilience-277753",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T14:38:38.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "PhD & PostDoc Life",
       "Psychology & Behavior",
@@ -560,7 +590,7 @@
     "url": "https://theconversation.com/disputes-over-africas-ocean-resources-heres-what-could-help-avoid-them-278431",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T14:06:54.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior",
@@ -634,8 +664,8 @@
     "relevanceScore": 30,
     "url": "https://www.nature.com/articles/d41586-026-00853-w",
     "source": "Nature",
-    "publishedAt": "2026-04-14T10:20:04.805Z",
-    "scrapedAt": "2026-04-14T10:20:04.805Z",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -767,7 +797,7 @@
     "url": "https://arxiv.org/abs/2604.09626",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech",
       "Marketing & Consumer Science"
@@ -782,7 +812,7 @@
     "url": "https://arxiv.org/abs/2604.09627",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -797,7 +827,7 @@
     "url": "https://arxiv.org/abs/2510.17516",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -1067,7 +1097,7 @@
     "url": "https://theconversation.com/delivery-platform-workers-a-survey-lifts-the-lid-on-extreme-hardship-280174",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T14:58:50.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior",
@@ -1372,6 +1402,21 @@
     ]
   },
   {
+    "id": "5a2f04ef8a7d",
+    "title": "Man convicted of causing his wife’s suicide – why this is a landmark moment for abuse victims",
+    "summary": "tonkid/shutterstock Kimberly Milne was 28 when she climbed over the barrier of a motorway bridge and jumped to her death. That night, witnesses saw her cowering from her husband, Lee Milne, in a retail park in Dundee, as he trapped her against a wall. CCTV footage showed her trying to get away while he shouted, drove a car at her and pulled her back into his orbit. In the year before her death, he had choked her, dragged her by the hair, hit her until she fell and lost consciousness, and apologi",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 22,
+    "url": "https://theconversation.com/man-convicted-of-causing-his-wifes-suicide-why-this-is-a-landmark-moment-for-abuse-victims-280480",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-14T10:46:45.000Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
+    "topics": [
+      "Marketing & Consumer Science",
+      "Psychology & Behavior"
+    ]
+  },
+  {
     "id": "8b3ffb4a4953",
     "title": "Trump administration’s lawsuits against Harvard and UCLA have roots in a decades-old fight over civil rights law",
     "summary": "Protesters gather outside a Boston courthouse in July 2025 to rally against the Trump administration's freezing of contracts and grants to Harvard University. Scott Eisen/Getty Images The Department of Justice announced in March 2026 that it is suing Harvard University and the University of California, Los Angeles. The lawsuits allege that both universities failed to adequately address antisemitism on campus, violating students’ civil rights. These cases follow earlier efforts by the Trump admin",
@@ -1403,6 +1448,22 @@
     ]
   },
   {
+    "id": "1117ae4ab456",
+    "title": "What if Texas’ destructive Tax Day flood had centered on inner Houston instead? It’s why cities should plan for the improbable",
+    "summary": "A couple battle floodwaters as they evacuate their Houston apartment complex on April 18, 2016. AP Photo/David J. Phillip Ten years ago, the infamous Tax Day storm swamped the Houston area with off-the-charts rainfall. Nearly 2 feet of rain fell in less than 15 hours in parts of the region, starting on April 17, 2016. The rain flooded thousands of homes and exceeded a 10,000-year event at some gauges. But the storm’s damage could have been much worse. The brunt of the deluge hit Waller County, w",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 21,
+    "url": "https://theconversation.com/what-if-texas-destructive-tax-day-flood-had-centered-on-inner-houston-instead-its-why-cities-should-plan-for-the-improbable-279964",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-14T12:38:06.000Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
+    "topics": [
+      "Psychology & Behavior",
+      "Management & Organizations",
+      "Science Policy"
+    ]
+  },
+  {
     "id": "511717b90706",
     "title": "Gamblers don’t understand ‘free bets’ – and the costs can be huge",
     "summary": "Gorodenkoff/Shutterstock “Welcome bonus: get 150% up to £150 on your first deposit”. It’s the kind of offer that greets anyone who visits a British online betting site. What it doesn’t say is that if you decide to spend £50 on this offer, you’d need to stake an additional £750 of your own money before any winnings could be withdrawn. Recent research by colleagues and I asked nearly 600 UK bettors to work out the true cost of exactly that kind of offer. Nearly everyone got it wrong, underestimati",
@@ -1411,7 +1472,7 @@
     "url": "https://theconversation.com/gamblers-dont-understand-free-bets-and-the-costs-can-be-huge-279873",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T14:30:38.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Academic Culture",
       "Marketing & Consumer Science"
@@ -1499,7 +1560,7 @@
     "url": "https://arxiv.org/abs/2604.02458",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1513,7 +1574,7 @@
     "url": "https://arxiv.org/abs/2604.11543",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.921Z",
+    "scrapedAt": "2026-04-14T13:58:49.091Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1527,7 +1588,7 @@
     "url": "https://arxiv.org/abs/2510.17853",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.921Z",
+    "scrapedAt": "2026-04-14T13:58:49.091Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1541,7 +1602,7 @@
     "url": "https://arxiv.org/abs/2604.09619",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1555,7 +1616,7 @@
     "url": "https://arxiv.org/abs/2604.09638",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1569,7 +1630,7 @@
     "url": "https://arxiv.org/abs/2604.10222",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1583,7 +1644,7 @@
     "url": "https://arxiv.org/abs/2604.11111",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1597,7 +1658,7 @@
     "url": "https://arxiv.org/abs/2604.09575",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -1611,7 +1672,7 @@
     "url": "https://arxiv.org/abs/2604.11312",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1625,7 +1686,7 @@
     "url": "https://arxiv.org/abs/2510.26163",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2162,7 +2223,7 @@
     "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-03T12:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.413Z",
+    "scrapedAt": "2026-04-14T13:58:49.324Z",
     "topics": [
       "Academic Careers"
     ]
@@ -2176,7 +2237,7 @@
     "url": "https://arxiv.org/abs/2604.07934",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.921Z",
+    "scrapedAt": "2026-04-14T13:58:49.091Z",
     "topics": [
       "PhD & PostDoc Life",
       "Academic Culture"
@@ -2213,6 +2274,21 @@
     ]
   },
   {
+    "id": "be3d0447971e",
+    "title": "Everyday sexist online language is not random, and that’s the problem",
+    "summary": "Online sexism is often dismissed as random — just a few bad comments or offensive jokes. But what appears scattered and spontaneous is increasingly structured, repeated and amplified in ways that make it far more influential. This shift can be understood through masculinism, an ideology that frames men as a disadvantaged group and defines feminism and gender equality as threats. While individual sexist comments may appear isolated, masculinism provides a shared narrative thread that connects the",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 18,
+    "url": "https://theconversation.com/everyday-sexist-online-language-is-not-random-and-thats-the-problem-274608",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-14T13:46:06.000Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
+    "topics": [
+      "Marketing & Consumer Science",
+      "Psychology & Behavior"
+    ]
+  },
+  {
     "id": "f1a48461b13b",
     "title": "Why the US needs a unified, mission-based strategy for health innovation",
     "summary": "No summary available",
@@ -2235,7 +2311,7 @@
     "url": "https://arxiv.org/abs/2604.10571",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2249,7 +2325,7 @@
     "url": "https://arxiv.org/abs/2511.04776",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2338,7 +2414,7 @@
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.136Z",
+    "scrapedAt": "2026-04-14T13:58:49.439Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
@@ -2396,7 +2472,7 @@
     "url": "https://arxiv.org/abs/2604.09827",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.921Z",
+    "scrapedAt": "2026-04-14T13:58:49.091Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2410,7 +2486,7 @@
     "url": "https://arxiv.org/abs/2604.09635",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2424,7 +2500,7 @@
     "url": "https://arxiv.org/abs/2604.11459",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2438,7 +2514,7 @@
     "url": "https://arxiv.org/abs/2602.15638",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2452,7 +2528,7 @@
     "url": "https://theconversation.com/video-game-nostalgia-is-powerful-but-it-only-works-if-developers-understand-the-psychology-behind-it-277421",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T14:41:27.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2956,10 +3032,25 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/d41586-026-00224-5",
     "source": "Nature",
-    "publishedAt": "2026-04-14T10:20:04.805Z",
-    "scrapedAt": "2026-04-14T10:20:04.805Z",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
     "topics": [
       "Academic Careers"
+    ]
+  },
+  {
+    "id": "6eff6e40220f",
+    "title": "Rural hospitals are closing across Pennsylvania and the US − the reasons probably aren’t what you think",
+    "summary": "Cuts to federal funding for Medicaid will disproportionately affect reimbursements to rural hospitals. Ricky Carioti/The Washington Post via Getty Images Some Pennsylvania hospitals are being pushed beyond the brink of closure. Taylor Hospital in Ridley Park closed in April 2025, Crozer-Chester Medical Center in Upland closed in May 2025, and Heritage Valley Kennedy Hospital, formerly the Ohio Valley Hospital, in Kennedy Township closed in June 2025. Rural hospitals are particularly vulnerable. ",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 15,
+    "url": "https://theconversation.com/rural-hospitals-are-closing-across-pennsylvania-and-the-us-the-reasons-probably-arent-what-you-think-275304",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-14T12:37:53.000Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
+    "topics": [
+      "Management & Organizations",
+      "Science Policy"
     ]
   },
   {
@@ -2985,7 +3076,7 @@
     "url": "https://arxiv.org/abs/2604.09623",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3056,7 +3147,7 @@
     "url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
     "source": "MIT News",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.136Z",
+    "scrapedAt": "2026-04-14T13:58:49.439Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -3185,7 +3276,7 @@
     "url": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-07T12:12:17.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.413Z",
+    "scrapedAt": "2026-04-14T13:58:49.324Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3326,7 +3417,7 @@
     "url": "https://arxiv.org/abs/2604.11566",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "Marketing & Consumer Science",
       "Science Policy"
@@ -3341,7 +3432,7 @@
     "url": "https://retractionwatch.com/2026/04/13/scientist-who-alleged-covid-cover-up-circulated-a-faked-nih-email-agency-says/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-13T11:34:39.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.413Z",
+    "scrapedAt": "2026-04-14T13:58:49.324Z",
     "topics": [
       "Academic Culture",
       "Science Policy"
@@ -3474,7 +3565,7 @@
     "url": "https://theconversation.com/google-promotes-teacher-approved-apps-for-kids-heres-what-parents-should-know-278663",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T20:09:15.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -3588,8 +3679,8 @@
     "relevanceScore": 12,
     "url": "https://www.science.org/doi/abs/10.1126/science.aec8444?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-14T10:20:04.868Z",
-    "scrapedAt": "2026-04-14T10:20:04.868Z",
+    "publishedAt": "2026-04-14T13:58:49.067Z",
+    "scrapedAt": "2026-04-14T13:58:49.067Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3602,10 +3693,24 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/s41586-026-10326-9",
     "source": "Nature",
-    "publishedAt": "2026-04-14T10:20:04.805Z",
-    "scrapedAt": "2026-04-14T10:20:04.805Z",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
     "topics": [
       "AI & Tech"
+    ]
+  },
+  {
+    "id": "78c5eb3cfee9",
+    "title": "More joy, less juggle? Why workplaces should get on board with the value of care",
+    "summary": "zEdward_Indy/Shutterstock The core premise of feminism is this: women can do anything. And yes, these days in developed economies, women without children earn about the same as men. The problem is not the opportunities available to them. It’s the opportunities that disappear as women become mothers. This disconnect between paid work and care work is evident. In my research on work and motherhood, I have often found that organisations give little thought to the tensions that arise between women’s",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 12,
+    "url": "https://theconversation.com/more-joy-less-juggle-why-workplaces-should-get-on-board-with-the-value-of-care-280179",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-14T10:43:23.000Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
+    "topics": [
+      "Management & Organizations"
     ]
   },
   {
@@ -3617,7 +3722,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/04/14/kansas-gov-signs-law-prohibiting-dei-crt-gen-ed",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-14T07:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.964Z",
+    "scrapedAt": "2026-04-14T13:58:49.279Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3631,7 +3736,7 @@
     "url": "https://www.insidehighered.com/opinion/columns/learning-innovation/2026/04/14/featured-gig-vice-provost-online-digital-learning",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-14T07:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.964Z",
+    "scrapedAt": "2026-04-14T13:58:49.279Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3645,7 +3750,7 @@
     "url": "https://arxiv.org/abs/2604.09590",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3659,7 +3764,7 @@
     "url": "https://theconversation.com/coalition-would-toughen-scrutiny-of-migrants-values-and-wants-new-assessment-of-those-from-gaza-280462",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T02:03:30.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3785,7 +3890,7 @@
     "url": "https://retractionwatch.com/2026/04/09/could-a-national-database-of-scientific-misconduct-rulings-stop-repeat-offenders/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.413Z",
+    "scrapedAt": "2026-04-14T13:58:49.324Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4082,7 +4187,7 @@
     "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-04T10:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.413Z",
+    "scrapedAt": "2026-04-14T13:58:49.324Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4125,7 +4230,7 @@
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.136Z",
+    "scrapedAt": "2026-04-14T13:58:49.439Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4139,7 +4244,7 @@
     "url": "https://theconversation.com/he-exposed-corruption-and-walked-across-hungary-now-peter-magyar-has-defeated-a-powerful-state-machine-280455",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T03:03:10.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -4210,7 +4315,7 @@
     "url": "https://theconversation.com/pope-leos-resolute-response-to-trump-attack-reveals-a-man-of-god-not-politics-280469",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T01:39:30.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -4224,7 +4329,7 @@
     "url": "https://theconversation.com/strait-of-hormuz-blockade-the-complex-regional-realities-the-us-ignores-at-its-peril-280427",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T23:53:12.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Academic Culture",
       "Science Policy"
@@ -4239,7 +4344,7 @@
     "url": "https://theconversation.com/food-prices-are-already-high-in-canada-will-the-iran-war-make-them-worse-279161",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T15:22:40.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -4409,7 +4514,7 @@
     "url": "https://www.science.org/content/blog-post/ai-predicting-compound-affinity-we-aren-t-there-yet",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-23T02:15:39.000Z",
-    "scrapedAt": "2026-04-14T10:20:10.132Z",
+    "scrapedAt": "2026-04-14T13:58:54.123Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4422,8 +4527,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg7825?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-14T10:20:04.868Z",
-    "scrapedAt": "2026-04-14T10:20:04.868Z",
+    "publishedAt": "2026-04-14T13:58:49.067Z",
+    "scrapedAt": "2026-04-14T13:58:49.067Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4436,8 +4541,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh7187?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-14T10:20:04.868Z",
-    "scrapedAt": "2026-04-14T10:20:04.868Z",
+    "publishedAt": "2026-04-14T13:58:49.067Z",
+    "scrapedAt": "2026-04-14T13:58:49.067Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4450,8 +4555,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/d41586-026-01095-6",
     "source": "Nature",
-    "publishedAt": "2026-04-14T10:20:04.805Z",
-    "scrapedAt": "2026-04-14T10:20:04.805Z",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4464,8 +4569,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41586-026-10365-2",
     "source": "Nature",
-    "publishedAt": "2026-04-14T10:20:04.805Z",
-    "scrapedAt": "2026-04-14T10:20:04.805Z",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4478,8 +4583,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41586-026-10349-2",
     "source": "Nature",
-    "publishedAt": "2026-04-14T10:20:04.805Z",
-    "scrapedAt": "2026-04-14T10:20:04.805Z",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4492,8 +4597,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/d41586-026-00811-6",
     "source": "Nature",
-    "publishedAt": "2026-04-14T10:20:04.805Z",
-    "scrapedAt": "2026-04-14T10:20:04.805Z",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4506,8 +4611,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/d41586-026-01147-x",
     "source": "Nature",
-    "publishedAt": "2026-04-14T10:20:04.805Z",
-    "scrapedAt": "2026-04-14T10:20:04.805Z",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4538,6 +4643,20 @@
     "scrapedAt": "2026-04-14T10:20:04.759Z",
     "topics": [
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "eeb4004a63ed",
+    "title": "Football is being spoiled by time-wasting – what can be done ahead of the World Cup?",
+    "summary": "Italian referee Marco Guida signals that he is taking account of time-wasting during a Serie A football match. Marco Iacobucci Epp/Shutterstock Football fans, broadcasters and even head coaches have been complaining this season about excessive time-wasting spoiling the flow of the men’s game. In the Premier League, the proportion of a match where the ball is in play is at a near-record low. Football’s world governing body Fifa has a target of 60 minutes of ball-in-play per game. Yet two Premier ",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 9,
+    "url": "https://theconversation.com/football-is-being-spoiled-by-time-wasting-what-can-be-done-ahead-of-the-world-cup-280501",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-14T10:18:34.000Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
+    "topics": [
+      "Psychology & Behavior"
     ]
   },
   {
@@ -4821,6 +4940,20 @@
     ]
   },
   {
+    "id": "816177fec195",
+    "title": "Why anatomy’s naughtiest mnemonics work so well",
+    "summary": "alvarog1970/Shutterstock.com Some lovers try positions that they can’t handle – I’m referring to the bones of the wrist, of course. The phrase is a classic mnemonic used to remember the eight carpal (wrist) bones – scaphoid, lunate, triquetrum, pisiform, trapezium, trapezoid, capitate and hamate – whose initials form the memorable sentence. One of the most curious features of anatomy education is that people often remember mnemonics for decades, long after the rest of their anatomical knowledge ",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/why-anatomys-naughtiest-mnemonics-work-so-well-279171",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-14T11:49:39.000Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
     "id": "2fd8f44231a3",
     "title": "EduIllustrate: Towards Scalable Automated Generation Of Multimodal Educational Content",
     "summary": "arXiv:2604.05005v2 Announce Type: replace Abstract: Large language models are increasingly used as educational assistants, yet evaluation of their educational capabilities remains concentrated on question-answering and tutoring tasks. A critical gap exists for multimedia instructional content generation -- the ability to produce coherent, diagram-rich explanations that combine geometrically accurate visuals with step-by-step reasoning. We present EduIllustrate, a benchmark for evaluating LLMs on",
@@ -4829,7 +4962,7 @@
     "url": "https://arxiv.org/abs/2604.05005",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4843,7 +4976,7 @@
     "url": "https://arxiv.org/abs/2604.10833",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4857,7 +4990,7 @@
     "url": "https://arxiv.org/abs/2604.10957",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4871,7 +5004,7 @@
     "url": "https://theconversation.com/jane-austen-in-pictures-two-graphic-biographies-bring-the-novelists-life-to-the-page-278006",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T14:25:21.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -5333,9 +5466,23 @@
     "url": "https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-02T02:44:26.000Z",
-    "scrapedAt": "2026-04-14T10:20:10.132Z",
+    "scrapedAt": "2026-04-14T13:58:54.123Z",
     "topics": [
       "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "086c4c174e29",
+    "title": "How debate about gender identity could undermine global efforts to protect victims of violence",
+    "summary": "A transgender woman takes part in an International Day For The Elimination Of Violence Against Women demonstration in El Salvador on Nov. 25, 2019. Camilo Freedman/APHOTOGRAFIA/Getty Images) Aided by the Trump administration, debate over gender identity has gone from being a touchstone of domestic culture wars to infiltrating the work of international groups – including those designed to protect vulnerable communities. In March 2026, at the 70th session of the U.N. Commission on the Status of Wo",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 7,
+    "url": "https://theconversation.com/how-debate-about-gender-identity-could-undermine-global-efforts-to-protect-victims-of-violence-267177",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-14T12:39:28.000Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
+    "topics": [
+      "Management & Organizations"
     ]
   },
   {
@@ -5347,7 +5494,7 @@
     "url": "https://theconversation.com/viktor-orbans-election-loss-shows-the-limits-of-his-propaganda-machine-280439",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T16:49:18.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5458,10 +5605,52 @@
     "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.adt8343?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-14T10:20:04.868Z",
-    "scrapedAt": "2026-04-14T10:20:04.868Z",
+    "publishedAt": "2026-04-14T13:58:49.067Z",
+    "scrapedAt": "2026-04-14T13:58:49.067Z",
     "topics": [
       "Science Policy"
+    ]
+  },
+  {
+    "id": "aea3765ff90a",
+    "title": "Brain organoids are a transformative technology — but they need regulation",
+    "summary": "No summary available",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/d41586-026-01021-w",
+    "source": "Nature",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "2ae125bdca1f",
+    "title": "Superconductivity and electronic structures of nickelate thin film superstructures",
+    "summary": "No summary available",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 6,
+    "url": "https://www.nature.com/articles/s41586-026-10352-7",
+    "source": "Nature",
+    "publishedAt": "2026-04-14T13:58:48.659Z",
+    "scrapedAt": "2026-04-14T13:58:48.659Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "046ef65f1695",
+    "title": "A justice department opinion arguing the Presidential Records Act is unconstitutional could revert the nation to a time when presidents freely burned their papers",
+    "summary": "At least one past president burned his papers. Stephen Hyun/Getty Images Prior to 1978, U.S. presidents could do what they pleased with the records from their time in office. They owned them. But in 1978, the Presidential Records Act established new rules for the official records of a president. Passed in the wake of Watergate, when President Richard Nixon tried to keep incriminating materials from being made public, the law changed who legally owned the papers: It was now the American public. U",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/a-justice-department-opinion-arguing-the-presidential-records-act-is-unconstitutional-could-revert-the-nation-to-a-time-when-presidents-freely-burned-their-papers-280078",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-14T12:39:40.000Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
+    "topics": [
+      "Academic Culture"
     ]
   },
   {
@@ -5479,34 +5668,6 @@
     ]
   },
   {
-    "id": "aea3765ff90a",
-    "title": "Brain organoids are a transformative technology — but they need regulation",
-    "summary": "No summary available",
-    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
-    "relevanceScore": 6,
-    "url": "https://www.nature.com/articles/d41586-026-01021-w",
-    "source": "Nature",
-    "publishedAt": "2026-04-14T10:20:04.805Z",
-    "scrapedAt": "2026-04-14T10:20:04.805Z",
-    "topics": [
-      "Science Policy"
-    ]
-  },
-  {
-    "id": "2ae125bdca1f",
-    "title": "Superconductivity and electronic structures of nickelate thin film superstructures",
-    "summary": "No summary available",
-    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
-    "relevanceScore": 6,
-    "url": "https://www.nature.com/articles/s41586-026-10352-7",
-    "source": "Nature",
-    "publishedAt": "2026-04-14T10:20:04.805Z",
-    "scrapedAt": "2026-04-14T10:20:04.805Z",
-    "topics": [
-      "Science Policy"
-    ]
-  },
-  {
     "id": "78cb2f0cea66",
     "title": "Visible, Trackable, Forkable: Opening the Process of Science",
     "summary": "arXiv:2604.10932v1 Announce Type: new Abstract: The way science is currently practiced shows conclusions but hides how they were reached. Researchers work privately, polish their results, publish a finished paper, and defend it. Errors are punished by retraction rather than corrected by amendment. Alternative directions are pursued through competing papers with no shared history. The reasoning, the dead ends, the trade-offs, the corrections: everything that would let others understand how a conc",
@@ -5515,7 +5676,7 @@
     "url": "https://arxiv.org/abs/2604.10932",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.921Z",
+    "scrapedAt": "2026-04-14T13:58:49.091Z",
     "topics": [
       "Academic Culture"
     ]
@@ -5529,7 +5690,7 @@
     "url": "https://arxiv.org/abs/2604.09630",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5543,7 +5704,7 @@
     "url": "https://theconversation.com/do-beaver-dams-really-make-flooding-worse-research-casts-doubt-on-beavers-as-flood-culprits-276848",
     "source": "The Conversation",
     "publishedAt": "2026-04-13T21:33:41.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5781,7 +5942,7 @@
     "url": "https://www.science.org/content/blog-post/beneficial-effects-liver-brain",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-18T02:10:22.000Z",
-    "scrapedAt": "2026-04-14T10:20:10.132Z",
+    "scrapedAt": "2026-04-14T13:58:54.123Z",
     "topics": [
       "Science Policy"
     ]
@@ -5865,7 +6026,7 @@
     "url": "https://arxiv.org/abs/2604.09669",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.921Z",
+    "scrapedAt": "2026-04-14T13:58:49.091Z",
     "topics": [
       "Science Policy"
     ]
@@ -5879,7 +6040,7 @@
     "url": "https://arxiv.org/abs/2510.03240",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.921Z",
+    "scrapedAt": "2026-04-14T13:58:49.091Z",
     "topics": [
       "Science Policy"
     ]
@@ -5893,7 +6054,7 @@
     "url": "https://arxiv.org/abs/2604.10959",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-14T04:00:00.000Z",
-    "scrapedAt": "2026-04-14T10:20:04.911Z",
+    "scrapedAt": "2026-04-14T13:58:49.103Z",
     "topics": [
       "Science Policy"
     ]
@@ -5901,13 +6062,13 @@
   {
     "id": "b681b5d164fb",
     "title": "Mark Carney secures majority after ‘unwinnable’ 2025 election victory, building new momentum",
-    "summary": "A year ago this month, Canadians delivered a result that seemed impossible just a few weeks earlier: another Liberal minority government, this time under newly chosen leader Mark Carney. Now, after three byelections, the Liberals have a majority for the first time since 2019. It’s been an astonishing reversal of fortune for the Liberals. For more than two years, the Conservatives had held a comfortable advantage in the polls. Many analysts treated a Conservative victory as all but inevitable. Ye",
+    "summary": "A year ago this month, Canadians delivered a result that seemed impossible just a few weeks earlier: another Liberal minority government, this time under newly chosen leader Mark Carney. Now, after winning three byelections, the Liberals have a majority for the first time since 2019. It’s been an astonishing reversal of fortune for the Liberals. For more than two years, the Conservatives had held a comfortable advantage in the polls. Many analysts treated a Conservative victory as all but inevit",
     "whyItMatters": "Policy shaping funding and careers — affects every academic.",
     "relevanceScore": 4,
     "url": "https://theconversation.com/mark-carney-secures-majority-after-unwinnable-2025-election-victory-building-new-momentum-279061",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T02:17:32.000Z",
-    "scrapedAt": "2026-04-14T10:20:05.031Z",
+    "scrapedAt": "2026-04-14T13:58:49.192Z",
     "topics": [
       "Science Policy"
     ]
