@@ -100,8 +100,8 @@
     "relevanceScore": 45,
     "url": "https://www.nature.com/articles/d41586-026-01232-1",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -309,6 +309,21 @@
     ]
   },
   {
+    "id": "4b073a9c3d1d",
+    "title": "PolicyLLM: Towards Excellent Comprehension of Public Policy for Large Language Models",
+    "summary": "arXiv:2604.12995v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly integrated into real-world decision-making, including in the domain of public policy. Yet, their ability to comprehend and reason about policy-related content remains underexplored. To fill this gap, we present \\textbf{\\textit{PolicyBench}}, the first large-scale cross-system benchmark (US-China) evaluating policy comprehension, comprising 21K cases across a broad spectrum of policy areas, capturing t",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 40,
+    "url": "https://arxiv.org/abs/2604.12995",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
+    "topics": [
+      "AI & Tech",
+      "Psychology & Behavior"
+    ]
+  },
+  {
     "id": "558c9569ba29",
     "title": "LLM Nepotism in Organizational Governance",
     "summary": "arXiv:2604.09620v1 Announce Type: new Abstract: Large language models are increasingly used to support organizational decisions from hiring to governance, raising fairness concerns in AI-assisted evaluation. Prior work has focused mainly on demographic bias and broader preference effects, rather than on whether evaluators reward expressed trust in AI itself. We study this phenomenon as LLM Nepotism, an attitude-driven bias channel in which favorable signals toward AI are rewarded even when they ",
@@ -333,7 +348,7 @@
     "url": "https://retractionwatch.com/2026/04/11/weekend-reads-llms-are-not-the-problem-cash-for-peer-review-doesnt-work-project-finds-many-flaws-few-retractions-in-vaping-literatur/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-11T10:00:00.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.138Z",
+    "scrapedAt": "2026-04-15T10:20:50.408Z",
     "topics": [
       "Academic Culture",
       "AI & Tech"
@@ -437,7 +452,7 @@
     "url": "https://theconversation.com/industries-most-exposed-to-ai-are-not-only-seeing-productivity-gains-but-jobs-and-wage-growth-too-224487",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T12:37:24.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "AI & Tech",
       "Marketing & Consumer Science",
@@ -582,6 +597,21 @@
     ]
   },
   {
+    "id": "9c1cfadeb3a5",
+    "title": "Over 80% of women face menopause symptoms – so why are workplaces still ignoring it?",
+    "summary": "Roman Samborskyi/Shutterstock Menopause has long been treated as something private, but the silence surrounding it is increasingly at odds with demographic reality. Women over 50 are the fastest-growing group in the workforce in many countries, and most will experience menopause during their working lives. Despite this, workplaces, policies and research continue to treat menopause as a personal matter rather than a structural one. The result is a profound mismatch between women’s lived experienc",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 34,
+    "url": "https://theconversation.com/over-80-of-women-face-menopause-symptoms-so-why-are-workplaces-still-ignoring-it-279265",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T09:31:47.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
+    "topics": [
+      "Psychology & Behavior",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "410a8798d5f4",
     "title": "Disputes over Africa’s ocean resources: here’s what could help avoid them",
     "summary": "Over the last several decades, the oceans have become more crowded. Aquaculture, wind and wave energy, and oil and gas exploration are taking up more space. This growth threatens the health of ocean ecosystems and coastal communities’ access to food and livelihoods that they have relied on for centuries. It can also lead to conflicts. We define conflicts as events where the differing goals of two or more groups lead to clashes over marine resources or places. Conflicts can work against the goals",
@@ -598,6 +628,36 @@
     ]
   },
   {
+    "id": "5e42c51b854f",
+    "title": "Narrative over Numbers: The Identifiable Victim Effect and its Amplification Under Alignment and Reasoning in Large Language Models",
+    "summary": "arXiv:2604.12076v1 Announce Type: cross Abstract: The Identifiable Victim Effect (IVE) $-$ the tendency to allocate greater resources to a specific, narratively described victim than to a statistically characterized group facing equivalent hardship $-$ is one of the most robust findings in moral psychology and behavioural economics. As large language models (LLMs) assume consequential roles in humanitarian triage, automated grant evaluation, and content moderation, a critical question arises: do",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 32,
+    "url": "https://arxiv.org/abs/2604.12076",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
+    "topics": [
+      "AI & Tech",
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "1825e809e71c",
+    "title": "Cross-Cultural Simulation of Citizen Emotional Responses to Bureaucratic Red Tape Using LLM Agents",
+    "summary": "arXiv:2604.12545v1 Announce Type: cross Abstract: Improving policymaking is a central concern in public administration. Prior human subject studies reveal substantial cross-cultural differences in citizens' emotional responses to red tape during policy implementation. While LLM agents offer opportunities to simulate human-like responses and reduce experimental costs, their ability to generate culturally appropriate emotional responses to red tape remains unverified. To address this gap, we propo",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 32,
+    "url": "https://arxiv.org/abs/2604.12545",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
+    "topics": [
+      "AI & Tech",
+      "Psychology & Behavior"
+    ]
+  },
+  {
     "id": "8b3ad16e952f",
     "title": "Does your school do mental health checks? They should be regular, not just a one-off",
     "summary": "Klaus Vedfelt/ Getty Images Students’ mental health is one of the biggest challenges facing schools. In Australia, half of all adult mental health challenges emerge before the age of 14. It is also estimated that more than 50% of children experiencing mental health challenges are not receiving professional help. Schools are increasingly being asked to help identify students who may be struggling and to help identify them early. One way schools do this is through mental health screening. Students",
@@ -606,7 +666,7 @@
     "url": "https://theconversation.com/does-your-school-do-mental-health-checks-they-should-be-regular-not-just-a-one-off-280571",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T19:41:33.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -678,8 +738,8 @@
     "relevanceScore": 30,
     "url": "https://www.nature.com/articles/d41586-026-00853-w",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -797,6 +857,21 @@
     "source": "The Conversation",
     "publishedAt": "2026-04-06T20:29:59.000Z",
     "scrapedAt": "2026-04-07T16:13:15.110Z",
+    "topics": [
+      "AI & Tech",
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "3a1311e7415e",
+    "title": "AI Fact-Checking in the Wild: A Field Evaluation of LLM-Written Community Notes on X",
+    "summary": "arXiv:2604.02592v2 Announce Type: replace Abstract: Large language models show promising capabilities for contextual fact-checking on social media: they can verify contested claims through deep research, synthesize evidence from multiple sources, and draft explanations at scale. However, prior work evaluates LLM fact-checking only in controlled settings using benchmarks or crowdworker judgments, leaving open how these systems perform in authentic platform environments. We present the first field",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 28,
+    "url": "https://arxiv.org/abs/2604.02592",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -1013,21 +1088,6 @@
     ]
   },
   {
-    "id": "3a1311e7415e",
-    "title": "AI Fact-Checking in the Wild: A Field Evaluation of LLM-Written Community Notes on X",
-    "summary": "arXiv:2604.02592v1 Announce Type: new Abstract: Large language models show promising capabilities for contextual fact-checking on social media: they can verify contested claims through deep research, synthesize evidence from multiple sources, and draft explanations at scale. However, prior work evaluates LLM fact-checking only in controlled settings using benchmarks or crowdworker judgments, leaving open how these systems perform in authentic platform environments. We present the first field eva",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 28,
-    "url": "https://arxiv.org/abs/2604.02592",
-    "source": "arXiv - Computers & Society",
-    "publishedAt": "2026-04-06T04:00:00.000Z",
-    "scrapedAt": "2026-04-07T02:53:53.174Z",
-    "topics": [
-      "AI & Tech",
-      "Psychology & Behavior"
-    ]
-  },
-  {
     "id": "8188c7983a63",
     "title": "Want a dog-friendly workplace? Here’s what you’ll need to get right",
     "summary": "skynesher/Getty Dogs are increasingly appearing in Australian workplaces. From “take your dog to work” days to permanent pet-friendly offices, the trend is often framed as an easy win for staff morale. Evidence suggests having dogs at work can reduce stress and improve social connection. But only if some important risks are managed properly, such as allergies, phobias, hygiene concerns and general safety. There’s another important distinction, reflected in the law: while pets are optional, assis",
@@ -1111,7 +1171,7 @@
     "url": "https://theconversation.com/when-ai-starts-shopping-for-you-fashion-may-be-entering-a-new-era-of-pricing-280142",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T19:41:22.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -1438,7 +1498,7 @@
     "url": "https://theconversation.com/trust-in-news-rises-after-years-of-decline-in-nz-whats-behind-the-shift-280253",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T18:41:40.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior"
@@ -1498,8 +1558,8 @@
     "relevanceScore": 21,
     "url": "https://www.nature.com/articles/d41586-026-01119-1",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "PhD & PostDoc Life",
       "Science Policy"
@@ -1514,7 +1574,7 @@
     "url": "https://theconversation.com/what-if-texas-destructive-tax-day-flood-had-centered-on-inner-houston-instead-its-why-cities-should-plan-for-the-improbable-279964",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T12:38:06.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations",
@@ -1607,6 +1667,35 @@
     "topics": [
       "PhD & PostDoc Life",
       "Academic Culture"
+    ]
+  },
+  {
+    "id": "71be0d07948a",
+    "title": "Can Persona-Prompted LLMs Emulate Subgroup Values? An Empirical Analysis of Generalisability and Fairness in Cultural Alignment",
+    "summary": "arXiv:2604.12851v1 Announce Type: new Abstract: Despite their global prevalence, many Large Language Models (LLMs) are aligned to a monolithic, often Western-centric set of values. This paper investigates the more challenging task of fine-grained value alignment: examining whether LLMs can emulate the distinct cultural values of demographic subgroups. Using Singapore as a case study and the World Values Survey (WVS), we examine the value landscape and show that even state-of-the-art models like ",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2604.12851",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "aaeada04874b",
+    "title": "Identifying and Mitigating Gender Cues in Academic Recommendation Letters: An Interpretability Case Study",
+    "summary": "arXiv:2604.12337v1 Announce Type: cross Abstract: Letters of recommendation (LoRs) can carry patterns of implicitly gendered language that can inadvertently influence downstream decisions, e.g. in hiring and admissions. In this work, we investigate the extent to which Transformer-based encoder models as well as Large Language Models (LLMs) can infer the gender of applicants in academic LoRs submitted to an U.S. medical-residency program after explicit identifiers like names and pronouns are de-g",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2604.12337",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
+    "topics": [
+      "AI & Tech",
+      "Psychology & Behavior"
     ]
   },
   {
@@ -2281,7 +2370,7 @@
     "url": "https://retractionwatch.com/2026/04/03/guest-post-should-universities-investigate-questionable-papers-students-faculty-wrote-elsewhere/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-03T12:00:00.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.138Z",
+    "scrapedAt": "2026-04-15T10:20:50.408Z",
     "topics": [
       "Academic Careers"
     ]
@@ -2340,7 +2429,7 @@
     "url": "https://theconversation.com/everyday-sexist-online-language-is-not-random-and-thats-the-problem-274608",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T13:46:06.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior"
@@ -2472,7 +2561,7 @@
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.173Z",
+    "scrapedAt": "2026-04-15T10:20:50.300Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
@@ -2522,6 +2611,48 @@
     ]
   },
   {
+    "id": "29e40ea53e86",
+    "title": "How Psychological Learning Paradigms Shaped and Constrained Artificial Intelligence",
+    "summary": "arXiv:2603.18203v4 Announce Type: replace-cross Abstract: Current artificial intelligence systems struggle with systematic compositional reasoning: the capacity to recombine known components in novel configurations. This paper argues that the failure is architectural, not merely a matter of scale or training data, and that its origins lie in the psychological learning theories from which AI paradigms were derived. The argument proceeds in three stages. First, drawing on the systematicity debate ",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2603.18203",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "c60beb315681",
+    "title": "BiasIG: Benchmarking Multi-dimensional Social Biases in Text-to-Image Models",
+    "summary": "arXiv:2604.11934v1 Announce Type: new Abstract: Text-to-Image (T2I) generative models have revolutionized content creation, yet they inherently risk amplifying societal biases. While sociological research provides systematic classifications of bias, existing T2I benchmarks largely conflate these nuances or focus narrowly on occupational stereotypes, leaving the multi-dimensional nature of generative bias inadequately measured. In this paper, we introduce BiasIG, a unified benchmark that quantifi",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2604.11934",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "2ac405585eb5",
+    "title": "Cognitive Comparability and the Limits of Governance: Evaluating Authority Under Radical Capability Asymmetry",
+    "summary": "arXiv:2604.02720v2 Announce Type: replace Abstract: Governance theory has quietly relied on a rough cognitive comparability between governors and governed. The assumption is load-bearing, and this paper tries to show why by making it testable. The vehicle is a six-dimension evaluation framework covering legitimacy, accountability, corrigibility, non-domination, subsidiarity, and institutional resilience, drawn from political legitimacy theory, principal-agent models, republican theory, and the A",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2604.02720",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
     "id": "e708ef936b8c",
     "title": "Searching for a ‘technofix’ to climate change has many dangers. Could radical humility save the planet?",
     "summary": "In 1989, environmentalist Bill McKibben announced to the world that nature was dead. Due to the rapid rate and scale of anthropogenic climate change, he argued, the idea of nature as an entity independent of human activity had become obsolete. Review: Brave New Wild: Can Technology Really Save the Planet? – Richard King (Monash University Publishing) A new book by Richard King, Brave New Wild: Can Technology Really Save the Planet?, conducts a postmortem on this idea of “nature”. And it describe",
@@ -2530,7 +2661,7 @@
     "url": "https://theconversation.com/searching-for-a-technofix-to-climate-change-has-many-dangers-could-radical-humility-save-the-planet-276046",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T19:42:36.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2544,7 +2675,7 @@
     "url": "https://theconversation.com/why-rural-hospitals-in-pennsylvania-and-across-the-country-are-closing-in-increasing-numbers-5-myths-about-rural-health-care-275304",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T12:37:53.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Management & Organizations",
       "Science Policy"
@@ -2767,20 +2898,6 @@
     "whyItMatters": "AI/tech development with academic implications — trending topic.",
     "relevanceScore": 16,
     "url": "https://arxiv.org/abs/2511.08605",
-    "source": "arXiv - Computers & Society",
-    "publishedAt": "2026-04-10T04:00:00.000Z",
-    "scrapedAt": "2026-04-11T02:46:18.927Z",
-    "topics": [
-      "AI & Tech"
-    ]
-  },
-  {
-    "id": "29e40ea53e86",
-    "title": "How Psychological Learning Paradigms Shaped and Constrained Artificial Intelligence",
-    "summary": "arXiv:2603.18203v3 Announce Type: replace-cross Abstract: Current artificial intelligence systems struggle with systematic compositional reasoning: the capacity to recombine known components in novel configurations. This paper argues that the failure is architectural, not merely a matter of scale or training data, and that its origins lie in the psychological learning theories from which AI paradigms were derived. The argument proceeds in three stages. First, drawing on the systematicity debate ",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 16,
-    "url": "https://arxiv.org/abs/2603.18203",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-10T04:00:00.000Z",
     "scrapedAt": "2026-04-11T02:46:18.927Z",
@@ -3119,8 +3236,8 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/d41586-026-00224-5",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "Academic Careers"
     ]
@@ -3133,8 +3250,8 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/s41562-026-02432-5",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-15T03:19:03.387Z",
-    "scrapedAt": "2026-04-15T03:19:03.387Z",
+    "publishedAt": "2026-04-15T10:20:49.885Z",
+    "scrapedAt": "2026-04-15T10:20:49.885Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -3234,7 +3351,7 @@
     "url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
     "source": "MIT News",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.173Z",
+    "scrapedAt": "2026-04-15T10:20:50.300Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -3363,7 +3480,7 @@
     "url": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-07T12:12:17.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.138Z",
+    "scrapedAt": "2026-04-15T10:20:50.408Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3519,7 +3636,7 @@
     "url": "https://retractionwatch.com/2026/04/13/scientist-who-alleged-covid-cover-up-circulated-a-faked-nih-email-agency-says/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-13T11:34:39.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.138Z",
+    "scrapedAt": "2026-04-15T10:20:50.408Z",
     "topics": [
       "Academic Culture",
       "Science Policy"
@@ -3652,7 +3769,7 @@
     "url": "https://theconversation.com/in-the-face-of-rampant-ai-is-data-poisoning-a-new-form-of-civil-disobedience-280146",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T00:28:48.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3780,8 +3897,8 @@
     "relevanceScore": 12,
     "url": "https://www.science.org/doi/abs/10.1126/science.aec8444?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-15T03:19:03.844Z",
-    "scrapedAt": "2026-04-15T03:19:03.844Z",
+    "publishedAt": "2026-04-15T10:20:50.045Z",
+    "scrapedAt": "2026-04-15T10:20:50.045Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3794,8 +3911,8 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/s41586-026-10326-9",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3809,7 +3926,7 @@
     "url": "https://retractionwatch.com/2026/04/14/bmj-group-journal-medical-genetics-retracts-special-issue-compromised-peer-review/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-14T18:53:53.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.138Z",
+    "scrapedAt": "2026-04-15T10:20:50.408Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4005,7 +4122,7 @@
     "url": "https://retractionwatch.com/2026/04/09/could-a-national-database-of-scientific-misconduct-rulings-stop-repeat-offenders/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.138Z",
+    "scrapedAt": "2026-04-15T10:20:50.408Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4302,7 +4419,7 @@
     "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-04T10:00:00.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.138Z",
+    "scrapedAt": "2026-04-15T10:20:50.408Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4345,7 +4462,7 @@
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.173Z",
+    "scrapedAt": "2026-04-15T10:20:50.300Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4430,7 +4547,7 @@
     "url": "https://theconversation.com/streaming-platforms-give-us-access-to-new-music-so-why-are-fewer-people-listening-to-it-278088",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T01:15:44.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -4643,7 +4760,7 @@
     "url": "https://www.science.org/content/blog-post/ai-predicting-compound-affinity-we-aren-t-there-yet",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-23T02:15:39.000Z",
-    "scrapedAt": "2026-04-15T03:19:08.821Z",
+    "scrapedAt": "2026-04-15T10:20:54.545Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4656,8 +4773,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg7825?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-15T03:19:03.844Z",
-    "scrapedAt": "2026-04-15T03:19:03.844Z",
+    "publishedAt": "2026-04-15T10:20:50.045Z",
+    "scrapedAt": "2026-04-15T10:20:50.045Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4670,8 +4787,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh7187?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-15T03:19:03.844Z",
-    "scrapedAt": "2026-04-15T03:19:03.844Z",
+    "publishedAt": "2026-04-15T10:20:50.045Z",
+    "scrapedAt": "2026-04-15T10:20:50.045Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4684,8 +4801,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41586-026-10365-2",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4698,8 +4815,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41586-026-10349-2",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4712,8 +4829,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/d41586-026-00811-6",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4726,8 +4843,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/d41586-026-01147-x",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4740,8 +4857,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41562-026-02426-3",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-15T03:19:03.387Z",
-    "scrapedAt": "2026-04-15T03:19:03.387Z",
+    "publishedAt": "2026-04-15T10:20:49.885Z",
+    "scrapedAt": "2026-04-15T10:20:49.885Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4754,8 +4871,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41562-026-02413-8",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-15T03:19:03.387Z",
-    "scrapedAt": "2026-04-15T03:19:03.387Z",
+    "publishedAt": "2026-04-15T10:20:49.885Z",
+    "scrapedAt": "2026-04-15T10:20:49.885Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4769,7 +4886,7 @@
     "url": "https://theconversation.com/how-to-feed-your-garden-birds-without-spreading-disease-280409",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T14:46:52.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -5083,6 +5200,62 @@
     ]
   },
   {
+    "id": "19fcb84aeb1c",
+    "title": "High Court takes an axe to Victoria’s political donations laws - and it will make federal MPs nervous",
+    "summary": "The High Court has taken an axe to the Victorian Electoral Act, chopping out the entirety of Part 12. It deals with election spending, caps on political donations, three different types of public funding (for election campaigns, party administration and policy development), along with the disclosure regime for donations. The Victorian parliament will be scrambling to reconstruct and reenact it in a constitutionally valid manner in the lead up to the Victorian election in November this year. What",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/high-court-takes-an-axe-to-victorias-political-donations-laws-and-it-will-make-federal-mps-nervous-280713",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T09:22:36.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "d2d15ffab868",
+    "title": "Injured your ACL? It’s more than just a knee injury",
+    "summary": "Paul Kane/Getty It’s an athlete’s worst fear. Hearing a loud “pop” and feeling severe pain are usually the first signs you’ve torn your anterior cruciate ligament, also known as the ACL. The ACL connects your shin and thigh bones, and is one of the key ligaments that help stabilise your knee joint. Research suggests ACL injuries are becoming increasingly common across all age groups. Children as young as ten are rupturing their ACLs, with many never regaining their pre-injury strength or ability",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/injured-your-acl-its-more-than-just-a-knee-injury-278080",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T04:08:48.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "2e9ea7c243cd",
+    "title": "Design and Deployment of a Course-Aware AI Tutor in an Introductory Programming Course",
+    "summary": "arXiv:2604.11836v1 Announce Type: new Abstract: Large Language Models (LLMs) have become part of how students solve programming tasks, offering immediate explanations and even full solutions. Previous work has highlighted that novice programmers often heavily rely on LLMs, thereby neglecting their own problem-solving skills. To address this challenge, we designed a course-specific online Python tutor that provides retrieval-augmented, course-aligned guidance without generating complete solutions",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 8,
+    "url": "https://arxiv.org/abs/2604.11836",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "68c1a66379d4",
+    "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
+    "summary": "arXiv:2604.12066v1 Announce Type: cross Abstract: Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a multi-agent teacher-in-the-loop system for personalizing middle school math problems. The teacher enters a base problem and desired topic, the LLM generates the problem, and then four AI agents evaluate the problem using criteria that each specializes in (mathematical accuracy, authenticity, readability, and realism). Eig",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 8,
+    "url": "https://arxiv.org/abs/2604.12066",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-15T04:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.016Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
     "id": "77f213730cad",
     "title": "How microplastics hurt the hidden helpers that keep our coasts healthy",
     "summary": "Yuxi You, CC BY-NC-ND Walk across a mudflat at low tide and you might notice small, neat mounds of sediment scattered across the surface. These so-called “chimneys” are the calling card of the humble bamboo worm (Macroclymenella stewartensis) which inhabits sandy sediments within New Zealand’s sheltered bays and estuaries. Despite their hidden lives and small size – most measure just a few centimetres long – these worms have an outsized influence on the health of our marine environment. But now ",
@@ -5091,7 +5264,7 @@
     "url": "https://theconversation.com/how-microplastics-hurt-the-hidden-helpers-that-keep-our-coasts-healthy-280266",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T00:30:19.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -5105,7 +5278,7 @@
     "url": "https://theconversation.com/why-anatomys-naughtiest-mnemonics-work-so-well-279171",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T11:49:39.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -5161,7 +5334,7 @@
     "url": "https://www.science.org/content/blog-post/answers-and-reasons-and-knowing-and-thinking",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-14T01:38:08.000Z",
-    "scrapedAt": "2026-04-15T03:19:08.821Z",
+    "scrapedAt": "2026-04-15T10:20:54.545Z",
     "topics": [
       "AI & Tech"
     ]
@@ -5637,7 +5810,7 @@
     "url": "https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-02T02:44:26.000Z",
-    "scrapedAt": "2026-04-15T03:19:08.821Z",
+    "scrapedAt": "2026-04-15T10:20:54.545Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -5651,7 +5824,7 @@
     "url": "https://theconversation.com/how-debate-about-gender-identity-could-undermine-global-efforts-to-protect-victims-of-violence-267177",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T12:39:28.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5776,8 +5949,8 @@
     "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.adt8343?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-15T03:19:03.844Z",
-    "scrapedAt": "2026-04-15T03:19:03.844Z",
+    "publishedAt": "2026-04-15T10:20:50.045Z",
+    "scrapedAt": "2026-04-15T10:20:50.045Z",
     "topics": [
       "Science Policy"
     ]
@@ -5790,8 +5963,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/d41586-026-01021-w",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "Science Policy"
     ]
@@ -5804,8 +5977,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/s41586-026-10352-7",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "Science Policy"
     ]
@@ -5818,10 +5991,24 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/d41586-026-01201-8",
     "source": "Nature",
-    "publishedAt": "2026-04-15T03:19:03.455Z",
-    "scrapedAt": "2026-04-15T03:19:03.455Z",
+    "publishedAt": "2026-04-15T10:20:49.946Z",
+    "scrapedAt": "2026-04-15T10:20:49.946Z",
     "topics": [
       "Science Policy"
+    ]
+  },
+  {
+    "id": "61b2c5e8b7a3",
+    "title": "Student-Led Effort Builds Career Pipeline",
+    "summary": "Student-Led Effort Builds Career Pipeline Joshua.Bay Wed, 04/15/2026 - 03:00 AM Stony Brook University students revived the National Association of Black Accountants chapter, creating access to mentorship, industry connections and internships. Byline(s) Joshua Bay",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 6,
+    "url": "https://www.insidehighered.com/news/student-success/life-after-college/2026/04/15/student-led-effort-builds-career-pipeline",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-15T07:00:00.000Z",
+    "scrapedAt": "2026-04-15T10:20:50.305Z",
+    "topics": [
+      "Academic Culture"
     ]
   },
   {
@@ -5833,7 +6020,7 @@
     "url": "https://theconversation.com/canada-is-producing-more-graduates-than-ever-so-why-is-it-harder-to-find-a-job-279178",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T18:19:10.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5847,7 +6034,7 @@
     "url": "https://theconversation.com/the-islamabad-talks-were-doomed-to-failure-and-hormuz-blockade-has-thrown-another-obstacle-to-any-iran-us-deal-280553",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T17:21:39.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5861,7 +6048,7 @@
     "url": "https://theconversation.com/a-justice-department-opinion-arguing-the-presidential-records-act-is-unconstitutional-could-revert-the-nation-to-a-time-when-presidents-freely-burned-their-papers-280078",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T12:39:40.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Academic Culture"
     ]
@@ -6155,7 +6342,7 @@
     "url": "https://www.science.org/content/blog-post/beneficial-effects-liver-brain",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-18T02:10:22.000Z",
-    "scrapedAt": "2026-04-15T03:19:08.821Z",
+    "scrapedAt": "2026-04-15T10:20:54.545Z",
     "topics": [
       "Science Policy"
     ]
@@ -6169,7 +6356,7 @@
     "url": "https://theconversation.com/what-is-the-digital-euro-a-guide-to-the-future-of-cash-in-europe-280055",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T17:23:36.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Science Policy"
     ]
@@ -6183,7 +6370,7 @@
     "url": "https://theconversation.com/the-national-gallerys-750m-new-wing-has-reignited-londons-art-turf-war-280481",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T15:02:12.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Science Policy"
     ]
@@ -6197,7 +6384,7 @@
     "url": "https://theconversation.com/european-digital-identity-wallets-how-secure-are-they-and-what-are-the-risks-280057",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T14:36:53.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Science Policy"
     ]
@@ -6281,7 +6468,7 @@
     "url": "https://theconversation.com/would-you-save-more-lives-or-more-years-of-life-a-global-study-reveals-how-people-really-think-280338",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T14:01:20.000Z",
-    "scrapedAt": "2026-04-15T03:19:04.011Z",
+    "scrapedAt": "2026-04-15T10:20:50.216Z",
     "topics": [
       "Science Policy"
     ]
