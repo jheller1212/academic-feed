@@ -100,8 +100,8 @@
     "relevanceScore": 45,
     "url": "https://www.nature.com/articles/d41586-026-01232-1",
     "source": "Nature",
-    "publishedAt": "2026-04-15T13:52:31.482Z",
-    "scrapedAt": "2026-04-15T13:52:31.482Z",
+    "publishedAt": "2026-04-15T19:26:45.213Z",
+    "scrapedAt": "2026-04-15T19:26:45.213Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -301,7 +301,7 @@
     "url": "https://theconversation.com/from-market-value-to-levelling-up-the-manosphere-is-shaped-by-a-financial-mindset-278565",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T12:36:54.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior"
@@ -332,7 +332,7 @@
     "url": "https://arxiv.org/abs/2604.12995",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -363,7 +363,7 @@
     "url": "https://retractionwatch.com/2026/04/11/weekend-reads-llms-are-not-the-problem-cash-for-peer-review-doesnt-work-project-finds-many-flaws-few-retractions-in-vaping-literatur/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-11T10:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.304Z",
+    "scrapedAt": "2026-04-15T19:26:45.820Z",
     "topics": [
       "Academic Culture",
       "AI & Tech"
@@ -620,7 +620,7 @@
     "url": "https://theconversation.com/over-80-of-women-face-menopause-symptoms-so-why-are-workplaces-still-ignoring-it-279265",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T09:31:47.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -651,7 +651,7 @@
     "url": "https://arxiv.org/abs/2604.12076",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -666,7 +666,7 @@
     "url": "https://arxiv.org/abs/2604.12545",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -681,7 +681,7 @@
     "url": "https://theconversation.com/does-your-school-do-mental-health-checks-they-should-be-regular-not-just-a-one-off-280571",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T19:41:33.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -701,6 +701,22 @@
     ]
   },
   {
+    "id": "cb41bc3892a1",
+    "title": "Canada cannot afford to lose international research talent — here’s what needs to change",
+    "summary": "The Canadian government launched the Global Impact+ Research Talent Initiative in December 2025 designed to entice international researchers to come to Canada. The initiative, which the government says will “invest up to $1.7 billion over 12 years to attract and support more than 1,000 leading international and expatriate researchers,” is a significant investment. This is especially important amid declining cross-country budgets for post-secondary education and research. But our work shows there",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 31,
+    "url": "https://theconversation.com/canada-cannot-afford-to-lose-international-research-talent-heres-what-needs-to-change-276799",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T16:21:32.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Academic Careers",
+      "Academic Culture",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "9b7a1640c119",
     "title": "Why women in groups face a ‘collaboration penalty’ that solo female stars like Taylor Swift and Coco Gauff escape",
     "summary": "Whether in sports, music or business, all-women teams earn less. Minnesota Lynx guard Renee Montgomery drives between Indiana Fever guards Layshia Clarendon, left, and Shenise Johnson at a WNBA game in Minneapolis. AP Photo/Stacy Bengs When Taylor Swift’s Eras Tour became the highest-grossing concert tour of all time in 2024, hauling in more than US$2 billion, it was hailed as a breakthrough for women in music. But Swift’s success, it turns out, didn’t translate into broader gains for female art",
@@ -709,7 +725,7 @@
     "url": "https://theconversation.com/why-women-in-groups-face-a-collaboration-penalty-that-solo-female-stars-like-taylor-swift-and-coco-gauff-escape-280317",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T12:42:40.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -768,8 +784,8 @@
     "relevanceScore": 30,
     "url": "https://www.nature.com/articles/d41586-026-00853-w",
     "source": "Nature",
-    "publishedAt": "2026-04-15T13:52:31.482Z",
-    "scrapedAt": "2026-04-15T13:52:31.482Z",
+    "publishedAt": "2026-04-15T19:26:45.213Z",
+    "scrapedAt": "2026-04-15T19:26:45.213Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -901,7 +917,7 @@
     "url": "https://arxiv.org/abs/2604.02592",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -1201,7 +1217,7 @@
     "url": "https://theconversation.com/when-ai-starts-shopping-for-you-fashion-may-be-entering-a-new-era-of-pricing-280142",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T19:41:22.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -1588,11 +1604,26 @@
     "relevanceScore": 21,
     "url": "https://www.nature.com/articles/d41586-026-01119-1",
     "source": "Nature",
-    "publishedAt": "2026-04-15T13:52:31.482Z",
-    "scrapedAt": "2026-04-15T13:52:31.482Z",
+    "publishedAt": "2026-04-15T19:26:45.213Z",
+    "scrapedAt": "2026-04-15T19:26:45.213Z",
     "topics": [
       "PhD & PostDoc Life",
       "Science Policy"
+    ]
+  },
+  {
+    "id": "b7bd0c421e31",
+    "title": "National Car Parks is in administration – some big companies are so dependent on debt that they can’t adjust to change",
+    "summary": "chrisdorney/Shutterstock When the UK’s biggest private car park company went into administration last month, some motorists might have been surprised. How could National Car Parks (NCP), a company that charged so much for parking, at so many prime sites across the country, run out of road? Maybe it was down to a drop in commuters and high street shoppers after COVID? Or perhaps the firm suffered from too many long leases and the rise of new parking apps? All of these reasons will have featured, ",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 21,
+    "url": "https://theconversation.com/national-car-parks-is-in-administration-some-big-companies-are-so-dependent-on-debt-that-they-cant-adjust-to-change-280092",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T15:46:25.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Marketing & Consumer Science",
+      "Management & Organizations"
     ]
   },
   {
@@ -1708,7 +1739,7 @@
     "url": "https://arxiv.org/abs/2604.12851",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1722,7 +1753,7 @@
     "url": "https://arxiv.org/abs/2604.12337",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -2406,6 +2437,21 @@
     ]
   },
   {
+    "id": "12c77f4f0326",
+    "title": "China’s Africa strategy is shifting and Iran conflict will speed it up",
+    "summary": "The global geoeconomic volatility wrought by the second Donald Trump US presidency and hostilities in the Middle East make the shift in China’s Africa strategy even more important for China and for Africa. China’s Africa strategy started to shift in 2019, towards investment. It is anchored in Hunan Province. The “Hunan Model” emerged because the “Angola Model” (building infrastructure and extracting resources) faced sustainability hurdles. Given the vulnerability of African countries to shocks, ",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 19,
+    "url": "https://theconversation.com/chinas-africa-strategy-is-shifting-and-iran-conflict-will-speed-it-up-280046",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T13:51:17.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Management & Organizations",
+      "Science Policy"
+    ]
+  },
+  {
     "id": "b7630a8cf9e3",
     "title": "Lishu: A Real-Source Research Workbench for Elite Business Journal Search, Analysis, and Writing Support",
     "summary": "arXiv:2604.07934v2 Announce Type: replace Abstract: This paper presents Lishu, a deployable web artifact for searching, monitoring, and interpreting literature from elite business and management journals. The system integrates the UTD-24 and Financial Times 50 (FT50) journal pools and combines Crossref, OpenAlex, Unpaywall, and optional CORE enrichment to support a broader research workflow than article retrieval alone. In the current implementation, users can search across curated journal pools",
@@ -2591,7 +2637,7 @@
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:33.712Z",
+    "scrapedAt": "2026-04-15T19:26:45.775Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
@@ -2649,7 +2695,7 @@
     "url": "https://theconversation.com/your-local-fishing-hole-is-getting-browner-changing-which-fish-species-thrive-and-which-ones-struggle-279259",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T12:41:22.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior"
@@ -2664,7 +2710,7 @@
     "url": "https://arxiv.org/abs/2603.18203",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2678,7 +2724,7 @@
     "url": "https://arxiv.org/abs/2604.11934",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2692,7 +2738,7 @@
     "url": "https://arxiv.org/abs/2604.02720",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2706,7 +2752,7 @@
     "url": "https://theconversation.com/searching-for-a-technofix-to-climate-change-has-many-dangers-could-radical-humility-save-the-planet-276046",
     "source": "The Conversation",
     "publishedAt": "2026-04-14T19:42:36.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -3274,6 +3320,20 @@
     ]
   },
   {
+    "id": "15678f8defb1",
+    "title": "Tumour promotion through the lens of evolution",
+    "summary": "No summary available",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 15,
+    "url": "https://www.nature.com/articles/s41586-026-10386-x",
+    "source": "Nature",
+    "publishedAt": "2026-04-15T19:26:45.213Z",
+    "scrapedAt": "2026-04-15T19:26:45.213Z",
+    "topics": [
+      "Academic Careers"
+    ]
+  },
+  {
     "id": "fe1c7b12cf63",
     "title": "Social media users experience more political hostility in less economically equal and less democratic societies",
     "summary": "No summary available",
@@ -3281,10 +3341,24 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/s41562-026-02432-5",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-15T13:52:31.405Z",
-    "scrapedAt": "2026-04-15T13:52:31.405Z",
+    "publishedAt": "2026-04-15T19:26:45.150Z",
+    "scrapedAt": "2026-04-15T19:26:45.150Z",
     "topics": [
       "Marketing & Consumer Science"
+    ]
+  },
+  {
+    "id": "626bb22d0cbb",
+    "title": "Canada urgently needs a civilian defence strategy — before the next crisis forces one",
+    "summary": "On April 9, 1917, my great-grandfather, A. Harold Carter, was a 16-year-old underage Canadian Expeditionary Force soldier from the 5th Canadian Mounted Rifles, 8th Brigade, 3rd Division. At 5:30 am, he went over the trench at Vimy Ridge. He was a scrawny, 5'4\" kid from London, Ont., who defied his mother and signed up two years earlier at age 14. He survived. Almost 109 years after the war that was to end all wars, Canada must once again consider training its citizens, as it did my great-grandfa",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 15,
+    "url": "https://theconversation.com/canada-urgently-needs-a-civilian-defence-strategy-before-the-next-crisis-forces-one-280194",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T15:02:16.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Management & Organizations"
     ]
   },
   {
@@ -3296,7 +3370,7 @@
     "url": "https://theconversation.com/ads-for-glp-1-drugs-are-flooding-the-internet-heres-how-to-know-if-its-safe-to-buy-them-online-277369",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T12:42:52.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -3410,7 +3484,7 @@
     "url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
     "source": "MIT News",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:33.712Z",
+    "scrapedAt": "2026-04-15T19:26:45.775Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -3539,7 +3613,7 @@
     "url": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-07T12:12:17.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.304Z",
+    "scrapedAt": "2026-04-15T19:26:45.820Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3695,7 +3769,7 @@
     "url": "https://retractionwatch.com/2026/04/13/scientist-who-alleged-covid-cover-up-circulated-a-faked-nih-email-agency-says/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-13T11:34:39.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.304Z",
+    "scrapedAt": "2026-04-15T19:26:45.820Z",
     "topics": [
       "Academic Culture",
       "Science Policy"
@@ -3828,7 +3902,7 @@
     "url": "https://theconversation.com/in-the-face-of-rampant-ai-is-data-poisoning-a-new-form-of-civil-disobedience-280146",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T00:28:48.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3956,10 +4030,52 @@
     "relevanceScore": 12,
     "url": "https://www.science.org/doi/abs/10.1126/science.aec8444?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-15T13:52:31.831Z",
-    "scrapedAt": "2026-04-15T13:52:31.831Z",
+    "publishedAt": "2026-04-15T19:26:45.379Z",
+    "scrapedAt": "2026-04-15T19:26:45.379Z",
     "topics": [
       "AI & Tech"
+    ]
+  },
+  {
+    "id": "125c69b0183a",
+    "title": "Bad influence: LLMs can transmit malicious traits using hidden signals",
+    "summary": "No summary available",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 12,
+    "url": "https://www.nature.com/articles/d41586-026-00906-0",
+    "source": "Nature",
+    "publishedAt": "2026-04-15T19:26:45.213Z",
+    "scrapedAt": "2026-04-15T19:26:45.213Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "b6324d8e26e8",
+    "title": "Feature selection leads to divergent neurobiological interpretations of brain-based machine learning biomarkers",
+    "summary": "No summary available",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 12,
+    "url": "https://www.nature.com/articles/s41562-026-02447-y",
+    "source": "Nature Human Behaviour",
+    "publishedAt": "2026-04-15T19:26:45.150Z",
+    "scrapedAt": "2026-04-15T19:26:45.150Z",
+    "topics": [
+      "AI & Tech"
+    ]
+  },
+  {
+    "id": "3efa1037c80a",
+    "title": "‘Canadian experience’ keeps skilled immigrants out of the labour market",
+    "summary": "Canada positions itself as a nation in need of skilled immigrants to address labour shortages, support an aging population and drive economic growth. But the reality of Canada’s labour market tells a different story. Upon arrival, the credentials of the talent attracted from abroad often face skepticism. The issue isn’t just about integration, it’s about the bigger problem of how Canada recognizes and values educational backgrounds, skills and professional experience. At the centre of that failu",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 12,
+    "url": "https://theconversation.com/canadian-experience-keeps-skilled-immigrants-out-of-the-labour-market-277036",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T14:01:13.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Academic Culture"
     ]
   },
   {
@@ -3985,7 +4101,7 @@
     "url": "https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T12:41:51.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3999,7 +4115,7 @@
     "url": "https://retractionwatch.com/2026/04/14/bmj-group-journal-medical-genetics-retracts-special-issue-compromised-peer-review/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-14T18:53:53.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.304Z",
+    "scrapedAt": "2026-04-15T19:26:45.820Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4195,7 +4311,7 @@
     "url": "https://retractionwatch.com/2026/04/09/could-a-national-database-of-scientific-misconduct-rulings-stop-repeat-offenders/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.304Z",
+    "scrapedAt": "2026-04-15T19:26:45.820Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4492,7 +4608,7 @@
     "url": "https://retractionwatch.com/2026/04/04/weekend-reads-half-social-science-doesnt-replicate-scientific-ghosts-multisensory-learning-paper-retracted/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-04T10:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.304Z",
+    "scrapedAt": "2026-04-15T19:26:45.820Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4535,9 +4651,23 @@
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:33.712Z",
+    "scrapedAt": "2026-04-15T19:26:45.775Z",
     "topics": [
       "AI & Tech"
+    ]
+  },
+  {
+    "id": "5326b1014af4",
+    "title": "US blockade of Strait of Hormuz ratchets up tensions with China ahead of Trump visit to Beijing",
+    "summary": "The Trump administration’s decision to carry out a naval blockade of the Strait of Hormuz has raised tensions in the Persian Gulf to new and more perilous levels. The move was announced by the US president, Donald Trump, after negotiations over a ceasefire with Iran broke down on April 11, partly due to Iran wanting to retain control of the vital Strait of Hormuz, through which one-fifth of the world’s oil transits. The blockade is designed to neutralise Iran’s efforts to close the strait to shi",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 11,
+    "url": "https://theconversation.com/us-blockade-of-strait-of-hormuz-ratchets-up-tensions-with-china-ahead-of-trump-visit-to-beijing-280674",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T15:03:58.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Marketing & Consumer Science"
     ]
   },
   {
@@ -4612,6 +4742,48 @@
     ]
   },
   {
+    "id": "d5f57d20cd5c",
+    "title": "Taskmaster returns: five lessons in creativity from TV’s most absurd challenges",
+    "summary": "The Bafta-winning comedy game show, Taskmaster, has returned to Channel 4 for its 21st series. Part of the show’s long-running appeal is its lighthearted exhibition of human creativity. Recently, I was part of the Warwick Business School Lead out Loud podcast with Alex Horne, the show’s creative mastermind and star, to talk about Taskmaster’s lessons for leadership. His creativity is an inspiration. The show is ripe with insights on how to be more creative in our daily tasks – even if they are m",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 10,
+    "url": "https://theconversation.com/taskmaster-returns-five-lessons-in-creativity-from-tvs-most-absurd-challenges-280383",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T15:29:01.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "d43f05e5f477",
+    "title": "All The President’s Men at 50: how a trusted US media covered politics in the 1970s",
+    "summary": "This month marks the 50th anniversary of a much-revered classic of American cinema, All The President’s Men. The 1976 movie starring Robert Redford and Dustin Hoffman was an adaptation of Bob Woodward and Carl Bernstein’s 1974 book of investigative journalism detailing their two-year unravelling of the Watergate conspiracy. The shocking scandal brought down a president and profoundly shook Americans’ trust in government. On June 17 1972, operatives working for President Richard Nixon’s Committee",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 10,
+    "url": "https://theconversation.com/all-the-presidents-men-at-50-how-a-trusted-us-media-covered-politics-in-the-1970s-280613",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T15:05:26.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Marketing & Consumer Science"
+    ]
+  },
+  {
+    "id": "6ad24bbc3f0a",
+    "title": "Inside Southeast Asia’s scam compounds: A trafficked worker tells of fraud, coercion and torture",
+    "summary": "I was recently in Phnom Penh, Cambodia, and approached a group of young men in front of the Indian embassy. I told them I was a University of Toronto researcher. I asked: “Are you from the scam compounds?” Scam compounds are industrial-scale complexes where trafficked workers are confined and forced to carry out online fraud. They were. One man in his early 30s named Akshit told me his story. Akshit was not your typical human trafficking victim. His English is perfect, he is educated, and he has",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 10,
+    "url": "https://theconversation.com/inside-southeast-asias-scam-compounds-a-trafficked-worker-tells-of-fraud-coercion-and-torture-280311",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T13:04:05.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
     "id": "ba84dee5cb65",
     "title": "Streaming platforms give us access to new music, so why are fewer people listening to it?",
     "summary": "Jonathan Raa/NurPhoto via Getty Images In September, the Australian Recording Industry Association (ARIA) excluded catalogue music (recordings more than two years old) from the Australian bestseller single and album charts. From a marketing perspective this decision is logical, as it creates room to expose new recordings to the market. However, it also obscures the reality of the new music economy in Australia. My latest research – which looks at new music releases in Australia from 2000 to 2024",
@@ -4620,7 +4792,7 @@
     "url": "https://theconversation.com/streaming-platforms-give-us-access-to-new-music-so-why-are-fewer-people-listening-to-it-278088",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T01:15:44.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -4833,7 +5005,7 @@
     "url": "https://www.science.org/content/blog-post/ai-predicting-compound-affinity-we-aren-t-there-yet",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-23T02:15:39.000Z",
-    "scrapedAt": "2026-04-15T13:52:38.653Z",
+    "scrapedAt": "2026-04-15T19:26:50.090Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4846,8 +5018,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg7825?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-15T13:52:31.831Z",
-    "scrapedAt": "2026-04-15T13:52:31.831Z",
+    "publishedAt": "2026-04-15T19:26:45.379Z",
+    "scrapedAt": "2026-04-15T19:26:45.379Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4860,10 +5032,38 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh7187?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-15T13:52:31.831Z",
-    "scrapedAt": "2026-04-15T13:52:31.831Z",
+    "publishedAt": "2026-04-15T19:26:45.379Z",
+    "scrapedAt": "2026-04-15T19:26:45.379Z",
     "topics": [
       "Academic Culture"
+    ]
+  },
+  {
+    "id": "9df50e98e9d3",
+    "title": "Retraction Note: The hidden fitness of the male zebra finch courtship song",
+    "summary": "No summary available",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41586-026-10483-x",
+    "source": "Nature",
+    "publishedAt": "2026-04-15T19:26:45.213Z",
+    "scrapedAt": "2026-04-15T19:26:45.213Z",
+    "topics": [
+      "Academic Culture"
+    ]
+  },
+  {
+    "id": "7b1cbdc9f520",
+    "title": "Waking at 3am every night? Here’s what may be going on",
+    "summary": "tigercat_lpg/Shutterstock It’s 3am. The room is dark, the house is silent, but your brain is suddenly wide awake. Many people find themselves waking at roughly the same time each night and start to wonder whether something is wrong with their sleep. Waking during the night is actually a normal part of sleep. Most people wake briefly several times, but usually fall back asleep so quickly they do not remember it the next morning. It becomes more of a problem when those awakenings last longer, or s",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 9,
+    "url": "https://theconversation.com/waking-at-3am-every-night-heres-what-may-be-going-on-278264",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T15:04:56.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Psychology & Behavior"
     ]
   },
   {
@@ -4945,7 +5145,7 @@
     "url": "https://theconversation.com/salty-drinking-water-could-be-increasing-your-blood-pressure-people-living-in-coastal-areas-are-most-at-risk-277820",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T12:42:26.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -5287,6 +5487,20 @@
     ]
   },
   {
+    "id": "1bbb45d97d08",
+    "title": "How commercial sand dredging is reshaping the largest lake in the UK – new study",
+    "summary": "Algal blooms on Lough Neagh have harmful effects on wildlife and water quality. Studio 70SN/Shutterstock At Lough Neagh in Northern Ireland, sand has been dredged commercially for decades. Large vessels remove sand from the lakebed and transport it to the shore. Because this happens underwater, the scale of the activity is largely invisible. Regulation has focused on where dredging is allowed and how much sand is removed. Sand is used by the construction industry to make concrete. Demand for san",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/how-commercial-sand-dredging-is-reshaping-the-largest-lake-in-the-uk-new-study-279732",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T16:09:25.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
     "id": "27d41114348a",
     "title": "How to tell if your dog is in pain (and what to do if they are)",
     "summary": "If your pooch is losing interest in exercise it could be a sign they're in pain. Elayne Massaini/Shutterstock If you live with a pet, you might feel like you can almost read each other’s minds. You might even have experienced your pet responding to your emotional state. Animals seem to have impressive skills at detecting our state of health too. However, new research suggests that many dog owners are not skilled in recognising pain in their pets as they might like to think. This could have signi",
@@ -5295,7 +5509,7 @@
     "url": "https://theconversation.com/how-to-tell-if-your-dog-is-in-pain-and-what-to-do-if-they-are-279864",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T11:13:22.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -5309,7 +5523,7 @@
     "url": "https://theconversation.com/high-court-takes-an-axe-to-victorias-political-donations-laws-and-it-will-make-federal-mps-nervous-280713",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T09:22:36.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -5323,7 +5537,7 @@
     "url": "https://theconversation.com/injured-your-acl-its-more-than-just-a-knee-injury-278080",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T04:08:48.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -5337,7 +5551,7 @@
     "url": "https://arxiv.org/abs/2604.11836",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "AI & Tech"
     ]
@@ -5351,7 +5565,7 @@
     "url": "https://arxiv.org/abs/2604.12066",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-15T04:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:31.910Z",
+    "scrapedAt": "2026-04-15T19:26:45.304Z",
     "topics": [
       "AI & Tech"
     ]
@@ -5365,7 +5579,7 @@
     "url": "https://theconversation.com/how-microplastics-hurt-the-hidden-helpers-that-keep-our-coasts-healthy-280266",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T00:30:19.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -5435,7 +5649,7 @@
     "url": "https://www.science.org/content/blog-post/answers-and-reasons-and-knowing-and-thinking",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-14T01:38:08.000Z",
-    "scrapedAt": "2026-04-15T13:52:38.653Z",
+    "scrapedAt": "2026-04-15T19:26:50.090Z",
     "topics": [
       "AI & Tech"
     ]
@@ -5911,7 +6125,7 @@
     "url": "https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-02T02:44:26.000Z",
-    "scrapedAt": "2026-04-15T13:52:38.653Z",
+    "scrapedAt": "2026-04-15T19:26:50.090Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -6050,8 +6264,8 @@
     "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.adt8343?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-15T13:52:31.831Z",
-    "scrapedAt": "2026-04-15T13:52:31.831Z",
+    "publishedAt": "2026-04-15T19:26:45.379Z",
+    "scrapedAt": "2026-04-15T19:26:45.379Z",
     "topics": [
       "Science Policy"
     ]
@@ -6064,10 +6278,24 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/d41586-026-01201-8",
     "source": "Nature",
-    "publishedAt": "2026-04-15T13:52:31.482Z",
-    "scrapedAt": "2026-04-15T13:52:31.482Z",
+    "publishedAt": "2026-04-15T19:26:45.213Z",
+    "scrapedAt": "2026-04-15T19:26:45.213Z",
     "topics": [
       "Science Policy"
+    ]
+  },
+  {
+    "id": "dd45ce665f45",
+    "title": "“Game-changer” breast cancer study retracted as Indiana researcher out of his post",
+    "summary": "A group of cancer researchers whose work has been questioned by sleuths has been hit with their third retraction in less than a year. Today, Science Translational Medicine (STM) withdrew a 2021 breast cancer study by former Indiana University researcher Yujing Li and 12 other authors for image falsification. The immunotherapy study had been described … Continue reading “Game-changer” breast cancer study retracted as Indiana researcher out of his post",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 6,
+    "url": "https://retractionwatch.com/2026/04/15/game-changer-breast-cancer-study-retracted-as-indiana-researcher-out-of-his-post/",
+    "source": "Retraction Watch",
+    "publishedAt": "2026-04-15T18:00:00.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.820Z",
+    "topics": [
+      "Academic Culture"
     ]
   },
   {
@@ -6079,7 +6307,7 @@
     "url": "https://theconversation.com/my-surname-makes-people-laugh-so-i-turned-it-into-a-research-communication-tool-280495",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T10:49:09.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Academic Culture"
     ]
@@ -6121,7 +6349,7 @@
     "url": "https://www.insidehighered.com/news/student-success/life-after-college/2026/04/15/student-led-effort-builds-career-pipeline",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-15T07:00:00.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.267Z",
+    "scrapedAt": "2026-04-15T19:26:45.536Z",
     "topics": [
       "Academic Culture"
     ]
@@ -6457,7 +6685,7 @@
     "url": "https://www.science.org/content/blog-post/beneficial-effects-liver-brain",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-18T02:10:22.000Z",
-    "scrapedAt": "2026-04-15T13:52:38.653Z",
+    "scrapedAt": "2026-04-15T19:26:50.090Z",
     "topics": [
       "Science Policy"
     ]
@@ -6471,7 +6699,7 @@
     "url": "https://theconversation.com/the-surprising-power-of-seashells-how-oyster-waste-can-recapture-rare-earth-elements-279494",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T10:52:35.000Z",
-    "scrapedAt": "2026-04-15T13:52:32.128Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Science Policy"
     ]
@@ -6584,6 +6812,34 @@
     "source": "The Conversation",
     "publishedAt": "2026-04-07T13:04:10.000Z",
     "scrapedAt": "2026-04-08T10:12:45.766Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "21b2b71a3810",
+    "title": "Why the US and Israel’s alliance endures – even when it strains",
+    "summary": "Israel and the US have maintained a close alliance for decades. Their recent joint air campaign in Iran has once again underscored the depth of this partnership. Yet while the strength of their relationship is widely acknowledged, the reasons behind it remain contested. At the centre of this debate lies the question of whether US support for Israel is driven primarily by domestic political forces, particularly lobbying organisations such as the American Israel Public Affairs Committee (Aipac), o",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 4,
+    "url": "https://theconversation.com/why-the-us-and-israels-alliance-endures-even-when-it-strains-278517",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T15:34:02.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
+    "id": "1c506678ff05",
+    "title": "China’s military support for Somalia is on the rise – what Taiwan and Somaliland have to do with it",
+    "summary": "China recently pledged to expand military support to Somalia in its fight against al-Shabaab militants. Beijing has promised equipment, training and closer security cooperation with Mogadishu. This marks a shift from China’s traditionally cautious and small presence in the country. Brendon J. Cannon has researched how external powers – including China – engage with sub-Saharan Africa. He explains how these dynamics are converging in Somalia. What form does China’s support in Somalia take? China’",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 4,
+    "url": "https://theconversation.com/chinas-military-support-for-somalia-is-on-the-rise-what-taiwan-and-somaliland-have-to-do-with-it-279600",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-15T13:51:27.000Z",
+    "scrapedAt": "2026-04-15T19:26:45.492Z",
     "topics": [
       "Science Policy"
     ]
