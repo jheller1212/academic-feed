@@ -46,6 +46,22 @@
     ]
   },
   {
+    "id": "30adfb7b4d16",
+    "title": "Students expect their university will mishandle sexual misconduct, if they ever report it",
+    "summary": "Although sexual misconduct is common on college campuses, most people do not officially report their experience. salim hanzaz/iStock/Getty Images Plus Sexual misconduct – including sexual harassment, stalking, intimate partner violence and sexual assault – is a common problem on U.S. college campuses. According to the 2024 Higher Education Sexual Misconduct and Awareness Survey, about 1 in 5 women and transgender or nonbinary undergraduates experienced sexual assault during college. The survey i",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 48,
+    "url": "https://theconversation.com/students-expect-their-university-will-mishandle-sexual-misconduct-if-they-ever-report-it-279739",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T12:46:29.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Academic Culture",
+      "Psychology & Behavior",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "36124efc8ad8",
     "title": "Artificial Intelligence for All? Brazilian Teachers on Ethics, Equity, and the Everyday Challenges of AI in Education",
     "summary": "arXiv:2512.23834v2 Announce Type: replace Abstract: This study examines the perceptions of Brazilian K-12 education teachers regarding the use of AI in education, specifically General Purpose AI. This investigation employs a quantitative analysis approach, extracting information from a questionnaire completed by 346 educators from various regions of Brazil regarding their AI literacy and use. Educators vary in their educational level, years of experience, and type of educational institution. The",
@@ -176,7 +192,7 @@
     "url": "https://arxiv.org/abs/2504.15801",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech",
       "Psychology & Behavior"
@@ -378,7 +394,7 @@
     "url": "https://retractionwatch.com/2026/04/11/weekend-reads-llms-are-not-the-problem-cash-for-peer-review-doesnt-work-project-finds-many-flaws-few-retractions-in-vaping-literatur/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-11T10:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:15.218Z",
+    "scrapedAt": "2026-04-16T16:25:56.100Z",
     "topics": [
       "Academic Culture",
       "AI & Tech"
@@ -814,8 +830,8 @@
     "relevanceScore": 30,
     "url": "https://www.nature.com/articles/d41586-026-00853-w",
     "source": "Nature",
-    "publishedAt": "2026-04-16T07:57:14.587Z",
-    "scrapedAt": "2026-04-16T07:57:14.587Z",
+    "publishedAt": "2026-04-16T16:25:55.489Z",
+    "scrapedAt": "2026-04-16T16:25:55.489Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -963,7 +979,7 @@
     "url": "https://arxiv.org/abs/2402.01720",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1277,7 +1293,7 @@
     "url": "https://theconversation.com/how-do-teens-really-use-ai-companions-with-more-creativity-than-you-might-think-278532",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T00:11:28.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.977Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations",
@@ -1620,7 +1636,7 @@
     "url": "https://arxiv.org/abs/2604.11840",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech",
       "Management & Organizations"
@@ -1695,8 +1711,8 @@
     "relevanceScore": 21,
     "url": "https://www.nature.com/articles/d41586-026-01119-1",
     "source": "Nature",
-    "publishedAt": "2026-04-16T07:57:14.587Z",
-    "scrapedAt": "2026-04-16T07:57:14.587Z",
+    "publishedAt": "2026-04-16T16:25:55.489Z",
+    "scrapedAt": "2026-04-16T16:25:55.489Z",
     "topics": [
       "PhD & PostDoc Life",
       "Science Policy"
@@ -1830,7 +1846,7 @@
     "url": "https://arxiv.org/abs/2604.11312",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1844,7 +1860,7 @@
     "url": "https://arxiv.org/abs/2512.24968",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech"
     ]
@@ -1858,7 +1874,7 @@
     "url": "https://arxiv.org/abs/2603.29159",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2556,6 +2572,20 @@
     ]
   },
   {
+    "id": "7781cbef340e",
+    "title": "From sunsets to the night sky: how technology can help you to notice nature in new ways",
+    "summary": "Northern Lights were spotted across the UK in 2024. Alyssa Glen/Shutterstock On a chilly yet beautifully clear evening last November, I sat on a video call with colleagues and happened to mention the live feed from the International Space Station – a real-time broadcast from onboard cameras as the station orbits earth. Several people hadn’t heard of it, and so I dug out the link and sent it over. We then turned to Nasa’s spot the station smartphone app, which shows you the ageing satellite’s orb",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 19,
+    "url": "https://theconversation.com/from-sunsets-to-the-night-sky-how-technology-can-help-you-to-notice-nature-in-new-ways-279506",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T12:47:13.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
     "id": "12c77f4f0326",
     "title": "China’s Africa strategy is shifting and Iran conflict will speed it up",
     "summary": "The global geoeconomic volatility wrought by the second Donald Trump US presidency and hostilities in the Middle East make the shift in China’s Africa strategy even more important for China and for Africa. China’s Africa strategy started to shift in 2019, towards investment. It is anchored in Hunan Province. The “Hunan Model” emerged because the “Angola Model” (building infrastructure and extracting resources) faced sustainability hurdles. Given the vulnerability of African countries to shocks, ",
@@ -2616,6 +2646,21 @@
     ]
   },
   {
+    "id": "67bdc32d3244",
+    "title": "Health information delivered as a video game can bridge the communication gap between patients and providers",
+    "summary": "Video games that convey health information could be a good use of time in doctors' waiting rooms. kali9/E+ via Getty Images Imagine you and your partner are sitting in the waiting room of your doctor’s office, waiting for your appointment to get birth control – and instead of calculating how many other people will be called before you, or perusing old magazines, a nurse hands you a digital tablet and encourages you to play a game. You power it on, and you find yourselves drawn into a story: Can ",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 18,
+    "url": "https://theconversation.com/health-information-delivered-as-a-video-game-can-bridge-the-communication-gap-between-patients-and-providers-280222",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T12:45:08.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Psychology & Behavior",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "e5a4094be741",
     "title": "Retraction Watch testifies in Congressional hearing on scientific publishing",
     "summary": "A hearing on Capitol Hill today explored issues in scientific publishing — and Retraction Watch had a seat at the table. The Investigations and Oversight Subcommittee of the U.S. House Committee on Science, Space and Technology called the hearing to talk about open access, reproducibility, predatory journals, paper mills and the incentive structure in science. … Continue reading Retraction Watch testifies in Congressional hearing on scientific publishing",
@@ -2624,7 +2669,7 @@
     "url": "https://retractionwatch.com/2026/04/15/retraction-watch-testifies-in-congressional-hearing-on-scientific-publishing/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-15T21:00:42.000Z",
-    "scrapedAt": "2026-04-16T07:57:15.218Z",
+    "scrapedAt": "2026-04-16T16:25:56.100Z",
     "topics": [
       "Academic Culture"
     ]
@@ -2770,7 +2815,7 @@
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:15.276Z",
+    "scrapedAt": "2026-04-16T16:25:57.003Z",
     "topics": [
       "AI & Tech",
       "Science Policy"
@@ -2820,6 +2865,50 @@
     ]
   },
   {
+    "id": "c3f5f7eb3623",
+    "title": "The nine-to-five PhD: mere myth or an achievable goal?",
+    "summary": "No summary available",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 16,
+    "url": "https://www.nature.com/articles/d41586-026-00509-9",
+    "source": "Nature",
+    "publishedAt": "2026-04-16T16:25:55.489Z",
+    "scrapedAt": "2026-04-16T16:25:55.489Z",
+    "topics": [
+      "PhD & PostDoc Life"
+    ]
+  },
+  {
+    "id": "264aa314e0d0",
+    "title": "South Africans want solar power but they worry panels will be stolen – study",
+    "summary": "South Africa would seem like the perfect place for widespread uptake of solar energy. The country is sunny, with high solar generation potential. Solar is a clean, reliable source of power that can help people reduce their dependence on polluting fuels like paraffin and diesel. Switching to solar also cuts electricity bills, which have more than doubled over the last 10 years. Yet solar power makes up less than 10% of the country’s energy mix. About 74% of South Africa’s electricity still comes ",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 16,
+    "url": "https://theconversation.com/south-africans-want-solar-power-but-they-worry-panels-will-be-stolen-study-279113",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T14:40:32.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "PhD & PostDoc Life",
+      "Academic Culture"
+    ]
+  },
+  {
+    "id": "40cb60739fb4",
+    "title": "The transactional — and optimizable — connections of ‘cozy video games’",
+    "summary": "Cozy is a vibe. So much so that even video games have been getting cozy. “Cozy gaming” — a genre of low-stress, relaxing video games focused on comfort and non-violent gameplay, such as farming or decorating — has grown into one of the medium’s most popular and commercially successful trends. In 2016, ConcernedApe released Stardew Valley and introduced us to the pastoral pleasures of farming parsnips and foraging for berries. The lightning-in-a-bottle moment for cozy gaming, however, hit in 2020",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 16,
+    "url": "https://theconversation.com/the-transactional-and-optimizable-connections-of-cozy-video-games-274610",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T13:22:27.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Psychology & Behavior",
+      "Science Policy"
+    ]
+  },
+  {
     "id": "cc5850c62ad6",
     "title": "High-Risk Memories? Comparative audit of the representation of Second World War atrocities in Ukraine by generative AI applications",
     "summary": "arXiv:2604.13765v1 Announce Type: new Abstract: The rise of generative artificial intelligence (genAI) models poses new possibilities and risks for how the past is remembered by accelerating content production and altering the process of information discovery. The most critical risk is historical misrepresentation, which ranges from the distortion of facts and inaccurate depiction of specific groups to more subtle forms, such as the selective moralization of history. The dangers of misrepresenta",
@@ -2828,7 +2917,7 @@
     "url": "https://arxiv.org/abs/2604.13765",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2842,7 +2931,7 @@
     "url": "https://arxiv.org/abs/2604.13955",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech"
     ]
@@ -2856,7 +2945,7 @@
     "url": "https://arxiv.org/abs/2604.01114",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech"
     ]
@@ -3502,10 +3591,24 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/s41586-026-10386-x",
     "source": "Nature",
-    "publishedAt": "2026-04-16T07:57:14.587Z",
-    "scrapedAt": "2026-04-16T07:57:14.587Z",
+    "publishedAt": "2026-04-16T16:25:55.489Z",
+    "scrapedAt": "2026-04-16T16:25:55.489Z",
     "topics": [
       "Academic Careers"
+    ]
+  },
+  {
+    "id": "fa4e86016e76",
+    "title": "Is mouthwash bad for the heart? Here’s what the research actually says",
+    "summary": "Don't give up your mouthwash just yet. years44/ Shutterstock Social media videos are claiming that mouthwash can raise risk of blood pressure – and potentially damage heart health. According to some of these videos, this is caused by mouthwash wiping out “good” oral bacteria that are important for the cardiovascular system. While it’s a striking message, don’t throw your mouthwash away just yet. The reality is far more complex. Our mouths contain a wide variety of bacteria. Together, these bacte",
+    "whyItMatters": "Peer-reviewed consumer/marketing research — directly in your field. Great LinkedIn material.",
+    "relevanceScore": 15,
+    "url": "https://theconversation.com/is-mouthwash-bad-for-the-heart-heres-what-the-research-actually-says-277299",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T12:23:35.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Marketing & Consumer Science"
     ]
   },
   {
@@ -3531,7 +3634,7 @@
     "url": "https://theconversation.com/can-we-consider-play-to-be-a-religion-bluey-certainly-thinks-so-274977",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T20:10:13.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.977Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -3674,7 +3777,7 @@
     "url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
     "source": "MIT News",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:15.276Z",
+    "scrapedAt": "2026-04-16T16:25:57.003Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -3803,7 +3906,7 @@
     "url": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-07T12:12:17.000Z",
-    "scrapedAt": "2026-04-16T07:57:15.218Z",
+    "scrapedAt": "2026-04-16T16:25:56.100Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3959,7 +4062,7 @@
     "url": "https://retractionwatch.com/2026/04/13/scientist-who-alleged-covid-cover-up-circulated-a-faked-nih-email-agency-says/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-13T11:34:39.000Z",
-    "scrapedAt": "2026-04-16T07:57:15.218Z",
+    "scrapedAt": "2026-04-16T16:25:56.100Z",
     "topics": [
       "Academic Culture",
       "Science Policy"
@@ -4084,6 +4187,34 @@
     ]
   },
   {
+    "id": "7a722b303dc3",
+    "title": "Loneliness can affect your memory – but that doesn’t mean it leads to dementia",
+    "summary": "Jelena Stanojkovic/Shutterstock.com Loneliness is something most of us will experience at some point. It is a normal emotion, not a character flaw. But it is also something that can quietly affect how we think and remember, and researchers have long debated whether it might even raise the risk of dementia. A new study, published in Aging and Mental Health, suggests the picture is more complicated than either side of that debate has allowed for. First, it is worth being clear about what dementia ",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 13,
+    "url": "https://theconversation.com/loneliness-can-affect-your-memory-but-that-doesnt-mean-it-leads-to-dementia-280533",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T15:11:45.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "155902e8992e",
+    "title": "Christianity in the UK is flourishing in immigrant communities – but a US-style Christian nationalism is lurking elsewhere",
+    "summary": "Polling company YouGov has thrown into question claims of a recent upsurge in church attendance among young adults. This has not surprised some experts, who cite evidence for the more conventional story of steep religious decline. If Christianity was once central to British society, that claim remains difficult to sustain in the 21st century. Church membership and attendance have both fallen sharply in recent decades. In England, 11.7% of the population attended church on a typical Sunday in 197",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 13,
+    "url": "https://theconversation.com/christianity-in-the-uk-is-flourishing-in-immigrant-communities-but-a-us-style-christian-nationalism-is-lurking-elsewhere-279800",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T15:07:19.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Academic Culture"
+    ]
+  },
+  {
     "id": "7022d5138bcc",
     "title": "A new minister in Victoria will tackle the manosphere. Here’s what they should do",
     "summary": "Victoria has its first minister for men and boys. Part of a cabinet reshuffle, the role was given to Frankston MP Paul Edbrooke. It comes with an explicit dual focus: on one hand, boys’ and men’s own wellbeing, and on the other, the harms boys and men perpetrate. The role has also been signalled as being a response to the influence of online misogynistic cultures, including the manosphere. The establishment of this cabinet position is politically significant and offers both substantial opportuni",
@@ -4092,7 +4223,7 @@
     "url": "https://theconversation.com/a-new-minister-in-victoria-will-tackle-the-manosphere-heres-what-they-should-do-280733",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T05:10:19.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.977Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4234,8 +4365,8 @@
     "relevanceScore": 12,
     "url": "https://www.science.org/doi/abs/10.1126/science.aec8444?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-16T07:57:14.749Z",
-    "scrapedAt": "2026-04-16T07:57:14.749Z",
+    "publishedAt": "2026-04-16T16:25:55.653Z",
+    "scrapedAt": "2026-04-16T16:25:55.653Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4248,8 +4379,8 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/d41586-026-00906-0",
     "source": "Nature",
-    "publishedAt": "2026-04-16T07:57:14.587Z",
-    "scrapedAt": "2026-04-16T07:57:14.587Z",
+    "publishedAt": "2026-04-16T16:25:55.489Z",
+    "scrapedAt": "2026-04-16T16:25:55.489Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4262,8 +4393,8 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/d41586-026-01224-1",
     "source": "Nature",
-    "publishedAt": "2026-04-16T07:57:14.587Z",
-    "scrapedAt": "2026-04-16T07:57:14.587Z",
+    "publishedAt": "2026-04-16T16:25:55.489Z",
+    "scrapedAt": "2026-04-16T16:25:55.489Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4291,7 +4422,21 @@
     "url": "https://theconversation.com/the-new-national-defence-strategy-feels-written-for-a-bygone-era-and-ignores-the-elephant-in-the-room-280727",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T07:20:11.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.977Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "2a92e46ff75f",
+    "title": "When Inclusion Carries a Price, Will Colleges Still Lead?",
+    "summary": "When Inclusion Carries a Price, Will Colleges Still Lead? Elizabeth Redden Thu, 04/16/2026 - 03:00 AM Even in the current policy and legal environment, colleges can still take steps to be inclusive of transgender athletes. Byline(s) Jane Fernandes",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 12,
+    "url": "https://www.insidehighered.com/opinion/views/2026/04/16/colleges-must-be-inclusive-transgender-athletes-opinion",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-16T07:00:00.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.935Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4305,7 +4450,7 @@
     "url": "https://arxiv.org/abs/2604.14047",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.692Z",
+    "scrapedAt": "2026-04-16T16:25:55.661Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4319,7 +4464,7 @@
     "url": "https://arxiv.org/abs/2604.14126",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.692Z",
+    "scrapedAt": "2026-04-16T16:25:55.661Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4333,7 +4478,7 @@
     "url": "https://arxiv.org/abs/2604.13069",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4347,7 +4492,7 @@
     "url": "https://arxiv.org/abs/2604.13064",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4361,7 +4506,7 @@
     "url": "https://arxiv.org/abs/2505.18326",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4417,7 +4562,7 @@
     "url": "https://retractionwatch.com/2026/04/14/bmj-group-journal-medical-genetics-retracts-special-issue-compromised-peer-review/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-14T18:53:53.000Z",
-    "scrapedAt": "2026-04-16T07:57:15.218Z",
+    "scrapedAt": "2026-04-16T16:25:56.100Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4613,7 +4758,7 @@
     "url": "https://retractionwatch.com/2026/04/09/could-a-national-database-of-scientific-misconduct-rulings-stop-repeat-offenders/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:15.218Z",
+    "scrapedAt": "2026-04-16T16:25:56.100Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4953,7 +5098,7 @@
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "source": "MIT News",
     "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:15.276Z",
+    "scrapedAt": "2026-04-16T16:25:57.003Z",
     "topics": [
       "AI & Tech"
     ]
@@ -5307,7 +5452,7 @@
     "url": "https://www.science.org/content/blog-post/ai-predicting-compound-affinity-we-aren-t-there-yet",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-23T02:15:39.000Z",
-    "scrapedAt": "2026-04-16T07:57:19.038Z",
+    "scrapedAt": "2026-04-16T16:26:00.777Z",
     "topics": [
       "AI & Tech"
     ]
@@ -5320,8 +5465,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg7825?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-16T07:57:14.749Z",
-    "scrapedAt": "2026-04-16T07:57:14.749Z",
+    "publishedAt": "2026-04-16T16:25:55.653Z",
+    "scrapedAt": "2026-04-16T16:25:55.653Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5334,8 +5479,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh7187?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-16T07:57:14.749Z",
-    "scrapedAt": "2026-04-16T07:57:14.749Z",
+    "publishedAt": "2026-04-16T16:25:55.653Z",
+    "scrapedAt": "2026-04-16T16:25:55.653Z",
     "topics": [
       "Academic Culture"
     ]
@@ -5348,10 +5493,38 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41586-026-10483-x",
     "source": "Nature",
-    "publishedAt": "2026-04-16T07:57:14.587Z",
-    "scrapedAt": "2026-04-16T07:57:14.587Z",
+    "publishedAt": "2026-04-16T16:25:55.489Z",
+    "scrapedAt": "2026-04-16T16:25:55.489Z",
     "topics": [
       "Academic Culture"
+    ]
+  },
+  {
+    "id": "9cc56981c30a",
+    "title": "Seeing women govern encourages support for women in politics – with no apparent backlash among men",
+    "summary": "Supporters of the South West Africa People's Organization gather at a campaign rally in Windhoek, Namibia, on Nov. 24, 2024. Simon Maina/AFP via Getty Images Quotas designed to bring gender parity to parliaments have an overall positive impact on support for female political leadership – especially after women members of parliament take office. Furthermore, there is no evidence of a backlash among men. That’s what I found in a study published in October 2025 looking at the impact of gender-parit",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 9,
+    "url": "https://theconversation.com/seeing-women-govern-encourages-support-for-women-in-politics-with-no-apparent-backlash-among-men-269344",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T12:46:15.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "efa31dabd7da",
+    "title": "As renaissance fairs become big business, can they retain their counterculture roots?",
+    "summary": "King Richard's Faire in Carver, Mass., was inaugurated in 1982 and is the longest-running renaissance fair in New England. Joseph Prezioso/Anadolu Agency via Getty Images Within moments of entering the Newport Renaissance Faire, you are ushered to a group of fairies. They pass you a scroll and say, “You must seek out the Bone Man for the first hurdle in your quest.” As you navigate the fair, you find many men dressed in bones, both vendors and fellow attendees. When you find the correct Bone Man",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 9,
+    "url": "https://theconversation.com/as-renaissance-fairs-become-big-business-can-they-retain-their-counterculture-roots-273757",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T12:45:30.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Science Policy"
     ]
   },
   {
@@ -5363,7 +5536,7 @@
     "url": "https://arxiv.org/abs/2408.01562",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5377,7 +5550,7 @@
     "url": "https://theconversation.com/how-trumps-repeated-efforts-to-fire-federal-reserve-chair-powell-harm-the-economy-and-make-battling-inflation-harder-280766",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T00:15:40.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.977Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5817,6 +5990,48 @@
     ]
   },
   {
+    "id": "1317088f9ac2",
+    "title": "Are aliens real? Scientists have been hunting for extraterrestrial life since the time of Aristotle",
+    "summary": "Do aliens exist? Could Earth really be the only planet hosting intelligent life? Debates over the existence of extraterrestrials date back to the earliest Indigenous and western thought. The tools generating the evidence within western science, however, have changed — from the philosophical and theological arguments of the Ancient Greeks to the development of increasingly sophisticated telescopes and space travel and exploration. These include NASA’s missions to Mars, using a fleet of robotic or",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/are-aliens-real-scientists-have-been-hunting-for-extraterrestrial-life-since-the-time-of-aristotle-279727",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T13:13:59.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "6d078cc5e089",
+    "title": "Washington DC’s 240 million-gallon sewage spill is a symptom of nationwide trouble",
+    "summary": "A pipe carries water and raw sewage into the C&O Canal, parallel to the Potomac River. Chip Somodevilla/Getty Images When 240 million gallons of raw sewage spilled into the Potomac River in Washington, D.C., starting in mid-January 2026 and running though mid-March, it was estimated to be the largest sewage spill in U.S. history. But it wasn’t the first, nor will it be the last. In fact, around the nation, sewage spills are contaminating waterways and communities with unsettling frequency. Sewer",
+    "whyItMatters": "Behavioral science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 8,
+    "url": "https://theconversation.com/washington-dcs-240-million-gallon-sewage-spill-is-a-symptom-of-nationwide-trouble-277720",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T12:45:49.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "e319231ea4a0",
+    "title": "One Course or Five? The Complexities of California Transfer",
+    "summary": "One Course or Five? The Complexities of California Transfer quintina.barne… Thu, 04/16/2026 - 03:00 AM STEM majors aren’t the only students stuck in the transfer maze. Byline(s) Alexis Robin Hale",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 8,
+    "url": "https://www.insidehighered.com/opinion/columns/beyond-transfer/2026/04/16/stem-majors-not-only-students-stuck-transfer-maze",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-16T07:00:00.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.935Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
     "id": "c98df8a70177",
     "title": "On the Creativity of AI Agents",
     "summary": "arXiv:2604.13242v1 Announce Type: new Abstract: Large language models (LLMs), particularly when integrated into agentic systems, have demonstrated human- and even superhuman-level performance across multiple domains. Whether these systems can truly be considered creative, however, remains a matter of debate, as conclusions heavily depend on the definitions, evaluation methods, and specific use cases employed. In this paper, we analyse creativity along two complementary macro-level perspectives. ",
@@ -5825,7 +6040,7 @@
     "url": "https://arxiv.org/abs/2604.13242",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-16T04:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.724Z",
+    "scrapedAt": "2026-04-16T16:25:55.679Z",
     "topics": [
       "AI & Tech"
     ]
@@ -5839,7 +6054,7 @@
     "url": "https://theconversation.com/nicole-kidman-is-training-to-be-a-death-doula-what-is-a-death-doula-280725",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T02:26:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.977Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -6007,7 +6222,7 @@
     "url": "https://www.science.org/content/blog-post/answers-and-reasons-and-knowing-and-thinking",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-14T01:38:08.000Z",
-    "scrapedAt": "2026-04-16T07:57:19.038Z",
+    "scrapedAt": "2026-04-16T16:26:00.777Z",
     "topics": [
       "AI & Tech"
     ]
@@ -6483,9 +6698,23 @@
     "url": "https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-02T02:44:26.000Z",
-    "scrapedAt": "2026-04-16T07:57:19.038Z",
+    "scrapedAt": "2026-04-16T16:26:00.777Z",
     "topics": [
       "Psychology & Behavior"
+    ]
+  },
+  {
+    "id": "c11bba9f1b95",
+    "title": "The UK is alarmingly unprepared for the threats it faces – security expert explains why",
+    "summary": "Martin Hibberd/Shutterstock Lord Robertson, former UK defence secretary and Nato chief, has said that the UK’s national security is “in peril”. He is right. There is no secret about what the threats are. In addition to the woeful news from the Middle East and Ukraine every day, stories of sabotage, hacking, Russian reconnaissance of undersea cables and the testing of the UK’s defensive reactions keep coming. The country’s leaders need to spell out what these threats mean for the UK. They must al",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 7,
+    "url": "https://theconversation.com/the-uk-is-alarmingly-unprepared-for-the-threats-it-faces-security-expert-explains-why-280621",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T12:49:19.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Management & Organizations"
     ]
   },
   {
@@ -6622,8 +6851,8 @@
     "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.adt8343?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-16T07:57:14.749Z",
-    "scrapedAt": "2026-04-16T07:57:14.749Z",
+    "publishedAt": "2026-04-16T16:25:55.653Z",
+    "scrapedAt": "2026-04-16T16:25:55.653Z",
     "topics": [
       "Science Policy"
     ]
@@ -6636,10 +6865,38 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/d41586-026-01201-8",
     "source": "Nature",
-    "publishedAt": "2026-04-16T07:57:14.587Z",
-    "scrapedAt": "2026-04-16T07:57:14.587Z",
+    "publishedAt": "2026-04-16T16:25:55.489Z",
+    "scrapedAt": "2026-04-16T16:25:55.489Z",
     "topics": [
       "Science Policy"
+    ]
+  },
+  {
+    "id": "794bb1d1979f",
+    "title": "Osteopenia: loss of bone mineral density affects millions of people – here’s what you need to know",
+    "summary": "A human tibia under the microscope: many people do not even realise they have osteopenia. eranicle/ Shutterstock Around 40% of adults worldwide are affected by osteopenia: a loss of bone mineral density. This condition is extremely common particularly in postmenopausal women and elderly adults. It’s estimated that more than 500,000 fractures occur annually in the UK due to low bone density. Osteopenia itself does not usually cause symptoms and it develops silently over time. Many people may not ",
+    "whyItMatters": "Management/org research — relevant to your academic audience.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/osteopenia-loss-of-bone-mineral-density-affects-millions-of-people-heres-what-you-need-to-know-278463",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T15:04:53.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "4668c434975c",
+    "title": "Grattan on Friday: Migration debate deserves better policy approach and less politicking from Liberals",
+    "summary": "An effective opposition is good at policy. Last term and so far this term, the Coalition has been very poor at policy formulation. Remember Peter Dutton’s defence policy? If you don’t, it’s probably because it was just a commitment to spend a lot more. No flesh on that bone. On the controversial nuclear policy, Liberals will admit they erred in not having costings much earlier. Now the opposition is at high risk of making a hash of producing an immigration policy, an issue it’s putting at the ce",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 6,
+    "url": "https://theconversation.com/grattan-on-friday-migration-debate-deserves-better-policy-approach-and-less-politicking-from-liberals-280586",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-16T08:01:59.000Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
+    "topics": [
+      "Academic Culture"
     ]
   },
   {
@@ -6651,7 +6908,7 @@
     "url": "https://retractionwatch.com/2026/04/15/game-changer-breast-cancer-study-retracted-as-indiana-researcher-out-of-his-post/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-15T18:00:00.000Z",
-    "scrapedAt": "2026-04-16T07:57:15.218Z",
+    "scrapedAt": "2026-04-16T16:25:56.100Z",
     "topics": [
       "Academic Culture"
     ]
@@ -7043,7 +7300,7 @@
     "url": "https://www.science.org/content/blog-post/beneficial-effects-liver-brain",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-18T02:10:22.000Z",
-    "scrapedAt": "2026-04-16T07:57:19.038Z",
+    "scrapedAt": "2026-04-16T16:26:00.777Z",
     "topics": [
       "Science Policy"
     ]
@@ -7057,7 +7314,7 @@
     "url": "https://theconversation.com/the-secret-sensory-life-of-plants-researchers-are-discovering-how-they-see-hear-feel-and-even-remember-277076",
     "source": "The Conversation",
     "publishedAt": "2026-04-15T20:15:19.000Z",
-    "scrapedAt": "2026-04-16T07:57:14.977Z",
+    "scrapedAt": "2026-04-16T16:25:55.848Z",
     "topics": [
       "Science Policy"
     ]
