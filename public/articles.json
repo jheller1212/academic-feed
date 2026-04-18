@@ -394,7 +394,7 @@
     "url": "https://retractionwatch.com/2026/04/11/weekend-reads-llms-are-not-the-problem-cash-for-peer-review-doesnt-work-project-finds-many-flaws-few-retractions-in-vaping-literatur/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-11T10:00:00.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.344Z",
+    "scrapedAt": "2026-04-18T05:12:12.150Z",
     "topics": [
       "Academic Culture",
       "AI & Tech"
@@ -770,7 +770,7 @@
     "url": "https://theconversation.com/what-ontarians-need-to-know-about-student-achievement-reforms-that-will-run-school-boards-like-businesses-280618",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T18:31:01.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "PhD & PostDoc Life",
       "Psychology & Behavior",
@@ -862,7 +862,7 @@
     "url": "https://theconversation.com/how-islamophobic-rhetoric-leaves-an-impact-on-the-mental-health-of-muslim-americans-279046",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T12:46:35.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior"
@@ -1264,7 +1264,7 @@
     "url": "https://theconversation.com/will-retatrutide-help-me-lose-weight-or-look-shredded-280580",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T00:30:39.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior"
@@ -1294,7 +1294,7 @@
     "url": "https://theconversation.com/is-reading-your-favourite-hobby-a-new-era-of-book-clubs-is-reshaping-how-we-read-274406",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T17:15:12.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior"
@@ -1358,6 +1358,21 @@
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "9ba397c9e3e5",
+    "title": "Hampshire College’s demise is yet another blow to creative, outside-the-box options in higher education",
+    "summary": "Hampshire College's campus entrance on April 16, 2026, a few days after the school announced it is closing. Jessica Rinaldi/The Boston Globe via Getty Images Hampshire College, a private college located in Amherst, Massachusetts, announced on April 14, 2026, that it was joining the list of small, experimental liberal arts colleges that have closed their doors over the past few years. Hampshire will cease operations in December 2026 because of “declining enrollment, the weight of long-standing de",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 25,
+    "url": "https://theconversation.com/hampshire-colleges-demise-is-yet-another-blow-to-creative-outside-the-box-options-in-higher-education-280791",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-17T17:34:35.000Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
+    "topics": [
+      "Academic Careers",
+      "Academic Culture"
     ]
   },
   {
@@ -1502,7 +1517,7 @@
     "url": "https://theconversation.com/why-the-future-of-marijuana-legalization-remains-hazy-despite-high-public-support-279960",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T13:43:51.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Marketing & Consumer Science",
       "Management & Organizations"
@@ -1532,7 +1547,7 @@
     "url": "https://news.mit.edu/2026/community-effects-asian-immigrants-us-housing-purchases-0416",
     "source": "MIT News",
     "publishedAt": "2026-04-16T22:00:00.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.411Z",
+    "scrapedAt": "2026-04-18T05:12:12.241Z",
     "topics": [
       "Academic Culture",
       "Marketing & Consumer Science"
@@ -1743,7 +1758,7 @@
     "url": "https://theconversation.com/want-to-cut-your-energy-bills-heres-how-five-experts-are-doing-it-280182",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T15:16:01.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior"
@@ -1758,7 +1773,7 @@
     "url": "https://theconversation.com/friday-essay-why-radical-ideas-from-psychoanalysis-are-my-guiding-light-in-a-chaotic-world-272446",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T18:43:02.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior",
@@ -1864,7 +1879,7 @@
     "url": "https://theconversation.com/irans-ai-memes-are-reaching-people-who-dont-follow-the-news-and-winning-the-propaganda-war-280944",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T15:16:10.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Marketing & Consumer Science",
       "Psychology & Behavior"
@@ -1894,7 +1909,7 @@
     "url": "https://theconversation.com/the-truth-about-child-iq-research-shows-it-fluctuates-and-may-be-an-unreliable-predictor-of-future-success-271569",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T11:24:13.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Psychology & Behavior",
       "Science Policy"
@@ -2017,6 +2032,20 @@
     "topics": [
       "PhD & PostDoc Life",
       "Academic Culture"
+    ]
+  },
+  {
+    "id": "a6500758bc1d",
+    "title": "Kentucky Republicans Override Beshear’s Veto of Faculty Firing Bill",
+    "summary": "Kentucky Republicans Override Beshear’s Veto of Faculty Firing Bill Ryan Quinn Fri, 04/17/2026 - 02:28 PM Byline(s) Ryan Quinn",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 20,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/04/17/kentucky-gop-overrides-beshears-veto-faculty-firing-bill",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-17T18:28:00.000Z",
+    "scrapedAt": "2026-04-18T05:12:11.964Z",
+    "topics": [
+      "Academic Careers"
     ]
   },
   {
@@ -2850,7 +2879,7 @@
     "url": "https://theconversation.com/israel-and-lebanon-have-a-ceasefire-but-global-attention-shouldnt-move-on-this-isnt-a-tidy-end-to-the-war-280816",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T03:26:26.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -2879,7 +2908,7 @@
     "url": "https://retractionwatch.com/2026/04/15/retraction-watch-testifies-in-congressional-hearing-on-scientific-publishing/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-15T21:00:42.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.344Z",
+    "scrapedAt": "2026-04-18T05:12:12.150Z",
     "topics": [
       "Academic Culture"
     ]
@@ -3017,21 +3046,6 @@
     ]
   },
   {
-    "id": "5d8c885d86a1",
-    "title": "A better method for identifying overconfident large language models",
-    "summary": "This new metric for measuring uncertainty could flag hallucinations and help users know whether to trust an AI model.",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 18,
-    "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
-    "source": "MIT News",
-    "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.411Z",
-    "topics": [
-      "AI & Tech",
-      "Science Policy"
-    ]
-  },
-  {
     "id": "55c22a420be0",
     "title": "Does listening to audiobooks improve learning?",
     "summary": "Whether it’s documents in textbooks or fiction studied in literature classes, reading print remains a pillar in learning. But the audiobook craze opens up new possibilities. Could listening to literary works become part of the curriculum as opposed to reading them? Is reading comprehension the same for listening to a text as it is for reading a book?’ Reading vs listening: seemingly limited differences A meta-analysis published in the Review of Educational Research and taking into account the re",
@@ -3082,8 +3096,8 @@
     "relevanceScore": 16,
     "url": "https://www.nature.com/articles/d41586-026-00509-9",
     "source": "Nature",
-    "publishedAt": "2026-04-17T16:04:49.831Z",
-    "scrapedAt": "2026-04-17T16:04:49.831Z",
+    "publishedAt": "2026-04-18T05:12:11.342Z",
+    "scrapedAt": "2026-04-18T05:12:11.342Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -3097,7 +3111,7 @@
     "url": "https://theconversation.com/the-best-books-about-being-a-teenager-according-to-our-experts-279024",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T12:02:43.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior"
@@ -3858,8 +3872,8 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/s41586-026-10386-x",
     "source": "Nature",
-    "publishedAt": "2026-04-17T16:04:49.831Z",
-    "scrapedAt": "2026-04-17T16:04:49.831Z",
+    "publishedAt": "2026-04-18T05:12:11.342Z",
+    "scrapedAt": "2026-04-18T05:12:11.342Z",
     "topics": [
       "Academic Careers"
     ]
@@ -3872,8 +3886,8 @@
     "relevanceScore": 15,
     "url": "https://www.nature.com/articles/s41562-026-02432-5",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-17T16:04:49.786Z",
-    "scrapedAt": "2026-04-17T16:04:49.786Z",
+    "publishedAt": "2026-04-18T05:12:11.303Z",
+    "scrapedAt": "2026-04-18T05:12:11.303Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -3887,7 +3901,7 @@
     "url": "https://theconversation.com/how-we-worked-out-a-fossilised-pterosaur-was-actually-a-fish-new-research-280848",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T15:16:14.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Academic Culture",
       "Psychology & Behavior"
@@ -3902,7 +3916,7 @@
     "url": "https://theconversation.com/nurses-with-higher-cultural-competence-dont-always-perform-better-new-study-279846",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T23:09:56.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Psychology & Behavior",
       "Management & Organizations"
@@ -4074,7 +4088,7 @@
     "url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
     "source": "MIT News",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.411Z",
+    "scrapedAt": "2026-04-18T05:12:12.241Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -4203,7 +4217,7 @@
     "url": "https://retractionwatch.com/2026/04/07/wolters-kluwer-international-journal-surgery-changes-citation-registration-policies/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-07T12:12:17.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.344Z",
+    "scrapedAt": "2026-04-18T05:12:12.150Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4345,7 +4359,7 @@
     "url": "https://retractionwatch.com/2026/04/13/scientist-who-alleged-covid-cover-up-circulated-a-faked-nih-email-agency-says/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-13T11:34:39.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.344Z",
+    "scrapedAt": "2026-04-18T05:12:12.150Z",
     "topics": [
       "Academic Culture",
       "Science Policy"
@@ -4648,8 +4662,8 @@
     "relevanceScore": 12,
     "url": "https://www.science.org/doi/abs/10.1126/science.aei0568?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-17T16:04:50.286Z",
-    "scrapedAt": "2026-04-17T16:04:50.286Z",
+    "publishedAt": "2026-04-18T05:12:11.750Z",
+    "scrapedAt": "2026-04-18T05:12:11.750Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4662,8 +4676,8 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/d41586-026-00906-0",
     "source": "Nature",
-    "publishedAt": "2026-04-17T16:04:49.831Z",
-    "scrapedAt": "2026-04-17T16:04:49.831Z",
+    "publishedAt": "2026-04-18T05:12:11.342Z",
+    "scrapedAt": "2026-04-18T05:12:11.342Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4676,8 +4690,8 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/d41586-026-01224-1",
     "source": "Nature",
-    "publishedAt": "2026-04-17T16:04:49.831Z",
-    "scrapedAt": "2026-04-17T16:04:49.831Z",
+    "publishedAt": "2026-04-18T05:12:11.342Z",
+    "scrapedAt": "2026-04-18T05:12:11.342Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4690,8 +4704,8 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/d41586-026-01265-6",
     "source": "Nature",
-    "publishedAt": "2026-04-17T16:04:49.831Z",
-    "scrapedAt": "2026-04-17T16:04:49.831Z",
+    "publishedAt": "2026-04-18T05:12:11.342Z",
+    "scrapedAt": "2026-04-18T05:12:11.342Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -4704,8 +4718,8 @@
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/s41562-026-02447-y",
     "source": "Nature Human Behaviour",
-    "publishedAt": "2026-04-17T16:04:49.786Z",
-    "scrapedAt": "2026-04-17T16:04:49.786Z",
+    "publishedAt": "2026-04-18T05:12:11.303Z",
+    "scrapedAt": "2026-04-18T05:12:11.303Z",
     "topics": [
       "AI & Tech"
     ]
@@ -4719,7 +4733,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/04/17/yale-president-university-helped-erode-trust-higher-ed",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-17T07:00:00.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.278Z",
+    "scrapedAt": "2026-04-18T05:12:11.964Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4733,7 +4747,7 @@
     "url": "https://theconversation.com/exceptional-circumstances-why-was-ben-roberts-smith-granted-bail-280453",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T04:14:24.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Academic Culture"
     ]
@@ -4761,7 +4775,7 @@
     "url": "https://theconversation.com/inside-one-nations-strategy-of-scandal-chaos-and-controversy-280274",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T18:42:00.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4929,7 +4943,7 @@
     "url": "https://retractionwatch.com/2026/04/14/bmj-group-journal-medical-genetics-retracts-special-issue-compromised-peer-review/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-14T18:53:53.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.344Z",
+    "scrapedAt": "2026-04-18T05:12:12.150Z",
     "topics": [
       "Academic Culture"
     ]
@@ -5125,7 +5139,7 @@
     "url": "https://retractionwatch.com/2026/04/09/could-a-national-database-of-scientific-misconduct-rulings-stop-repeat-offenders/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-09T18:00:00.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.344Z",
+    "scrapedAt": "2026-04-18T05:12:12.150Z",
     "topics": [
       "Academic Culture"
     ]
@@ -5457,20 +5471,6 @@
     ]
   },
   {
-    "id": "116df1c99525",
-    "title": "Generative AI improves a wireless vision system that sees through obstructions",
-    "summary": "With this new technique, a robot could more accurately detect hidden objects or understand an indoor scene using reflected Wi-Fi signals.",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 12,
-    "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
-    "source": "MIT News",
-    "publishedAt": "2026-03-19T04:00:00.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.411Z",
-    "topics": [
-      "AI & Tech"
-    ]
-  },
-  {
     "id": "8afd5a669efd",
     "title": "Trump’s coercive tactics in Latin America evoke era of gunboat diplomacy – and the rise of anti-imperialism it helped spur",
     "summary": "One of scores of murals Diego Rivera painted in the interwar period that sits above the Secretariat of Public Education in Mexico City, Mexico. Apolline Guillerot-Malick/SOPA Images/LightRocket via Getty Images In Latin America, as in other parts of the world, the second Trump administration has adopted an increasingly aggressive policy. From drone strikes on purported drug traffickers to increased tariffs on imports, and from the blockade on fuel shipments and threats of invasion in Cuba to the",
@@ -5479,7 +5479,7 @@
     "url": "https://theconversation.com/trumps-coercive-tactics-in-latin-america-evoke-era-of-gunboat-diplomacy-and-the-rise-of-anti-imperialism-it-helped-spur-279238",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T12:47:09.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Science Policy"
     ]
@@ -5578,7 +5578,7 @@
     "url": "https://theconversation.com/right-to-race-laws-and-the-battle-over-americas-local-racetracks-278034",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T12:46:46.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -5592,7 +5592,7 @@
     "url": "https://theconversation.com/how-whaling-evolved-from-its-basque-origins-into-a-vast-global-business-280227",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T07:35:09.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5606,7 +5606,7 @@
     "url": "https://theconversation.com/more-than-60-of-home-battery-installations-inspected-in-australia-are-substandard-280449",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T03:19:48.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -5620,7 +5620,7 @@
     "url": "https://theconversation.com/cannabis-sales-and-use-are-high-in-michigan-but-federal-law-means-research-lags-behind-276731",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T18:51:45.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Marketing & Consumer Science"
     ]
@@ -5889,7 +5889,7 @@
     "url": "https://www.science.org/content/blog-post/ai-predicting-compound-affinity-we-aren-t-there-yet",
     "source": "Science - Pipeline",
     "publishedAt": "2026-03-23T02:15:39.000Z",
-    "scrapedAt": "2026-04-17T16:04:55.538Z",
+    "scrapedAt": "2026-04-18T05:12:16.798Z",
     "topics": [
       "AI & Tech"
     ]
@@ -5902,8 +5902,8 @@
     "relevanceScore": 9,
     "url": "https://www.science.org/doi/abs/10.1126/science.aei0565?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-17T16:04:50.286Z",
-    "scrapedAt": "2026-04-17T16:04:50.286Z",
+    "publishedAt": "2026-04-18T05:12:11.750Z",
+    "scrapedAt": "2026-04-18T05:12:11.750Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5916,8 +5916,8 @@
     "relevanceScore": 9,
     "url": "https://www.nature.com/articles/s41586-026-10483-x",
     "source": "Nature",
-    "publishedAt": "2026-04-17T16:04:49.831Z",
-    "scrapedAt": "2026-04-17T16:04:49.831Z",
+    "publishedAt": "2026-04-18T05:12:11.342Z",
+    "scrapedAt": "2026-04-18T05:12:11.342Z",
     "topics": [
       "Academic Culture"
     ]
@@ -5931,7 +5931,7 @@
     "url": "https://theconversation.com/strait-of-hormuz-why-even-neutral-and-distant-countries-like-switzerland-cant-escape-the-fallout-280762",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T11:52:42.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -6463,7 +6463,7 @@
     "url": "https://theconversation.com/legal-aid-for-asylum-seekers-is-hard-to-come-by-its-no-wonder-criminal-advisers-are-taking-advantage-280839",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T12:56:49.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -6477,7 +6477,7 @@
     "url": "https://theconversation.com/the-problem-with-vet-bills-a-dog-owning-economist-explains-280847",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T12:00:20.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -6491,7 +6491,7 @@
     "url": "https://theconversation.com/how-to-run-a-marathon-better-the-nutritional-and-psychological-hacks-that-matter-most-279142",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T11:20:21.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -6505,7 +6505,7 @@
     "url": "https://www.insidehighered.com/news/student-success/health-wellness/2026/04/17/climate-knowledge-linked-student-stress",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-04-17T07:00:00.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.278Z",
+    "scrapedAt": "2026-04-18T05:12:11.964Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -6547,7 +6547,7 @@
     "url": "https://theconversation.com/out-of-sight-but-not-out-of-trouble-groundwater-contamination-in-nz-reveals-a-legacy-of-human-pressure-280347",
     "source": "The Conversation",
     "publishedAt": "2026-04-16T18:48:19.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -6785,7 +6785,7 @@
     "url": "https://www.science.org/content/blog-post/answers-and-reasons-and-knowing-and-thinking",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-14T01:38:08.000Z",
-    "scrapedAt": "2026-04-17T16:04:55.538Z",
+    "scrapedAt": "2026-04-18T05:12:16.798Z",
     "topics": [
       "AI & Tech"
     ]
@@ -7261,7 +7261,7 @@
     "url": "https://www.science.org/content/blog-post/say-chameleonicity-three-times-fast-or-read-post",
     "source": "Science - Pipeline",
     "publishedAt": "2026-04-02T02:44:26.000Z",
-    "scrapedAt": "2026-04-17T16:04:55.538Z",
+    "scrapedAt": "2026-04-18T05:12:16.798Z",
     "topics": [
       "Psychology & Behavior"
     ]
@@ -7274,8 +7274,8 @@
     "relevanceScore": 7,
     "url": "https://www.nature.com/articles/d41586-026-01245-w",
     "source": "Nature",
-    "publishedAt": "2026-04-17T16:04:49.831Z",
-    "scrapedAt": "2026-04-17T16:04:49.831Z",
+    "publishedAt": "2026-04-18T05:12:11.342Z",
+    "scrapedAt": "2026-04-18T05:12:11.342Z",
     "topics": [
       "Science Policy"
     ]
@@ -7289,7 +7289,7 @@
     "url": "https://theconversation.com/new-advice-on-avoiding-british-cod-how-to-make-sure-your-fish-and-chips-are-sustainably-sourced-280667",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T15:30:32.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -7303,7 +7303,7 @@
     "url": "https://theconversation.com/us-raises-the-stakes-in-the-strait-of-hormuz-280850",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T07:06:37.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -7456,8 +7456,8 @@
     "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.aea3485?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-17T16:04:50.286Z",
-    "scrapedAt": "2026-04-17T16:04:50.286Z",
+    "publishedAt": "2026-04-18T05:12:11.750Z",
+    "scrapedAt": "2026-04-18T05:12:11.750Z",
     "topics": [
       "Science Policy"
     ]
@@ -7470,8 +7470,8 @@
     "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg7441?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-17T16:04:50.286Z",
-    "scrapedAt": "2026-04-17T16:04:50.286Z",
+    "publishedAt": "2026-04-18T05:12:11.750Z",
+    "scrapedAt": "2026-04-18T05:12:11.750Z",
     "topics": [
       "Science Policy"
     ]
@@ -7484,8 +7484,8 @@
     "relevanceScore": 6,
     "url": "https://www.science.org/doi/abs/10.1126/science.aei0566?af=R",
     "source": "Science",
-    "publishedAt": "2026-04-17T16:04:50.286Z",
-    "scrapedAt": "2026-04-17T16:04:50.286Z",
+    "publishedAt": "2026-04-18T05:12:11.750Z",
+    "scrapedAt": "2026-04-18T05:12:11.750Z",
     "topics": [
       "Science Policy"
     ]
@@ -7498,8 +7498,8 @@
     "relevanceScore": 6,
     "url": "https://www.nature.com/articles/d41586-026-01201-8",
     "source": "Nature",
-    "publishedAt": "2026-04-17T16:04:49.831Z",
-    "scrapedAt": "2026-04-17T16:04:49.831Z",
+    "publishedAt": "2026-04-18T05:12:11.342Z",
+    "scrapedAt": "2026-04-18T05:12:11.342Z",
     "topics": [
       "Science Policy"
     ]
@@ -7513,7 +7513,7 @@
     "url": "https://theconversation.com/why-the-ceasefire-in-lebanon-is-unlikely-to-change-much-on-the-ground-280851",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T15:16:18.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -7527,7 +7527,7 @@
     "url": "https://theconversation.com/how-accelerating-evolution-could-help-corals-survive-future-heatwaves-new-study-280487",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T15:16:07.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -7541,7 +7541,7 @@
     "url": "https://theconversation.com/the-imf-enjoys-preferred-creditor-status-why-it-shouldnt-be-the-judge-when-it-comes-to-other-lenders-280509",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T13:08:22.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Academic Culture"
     ]
@@ -7611,7 +7611,7 @@
     "url": "https://retractionwatch.com/2026/04/15/game-changer-breast-cancer-study-retracted-as-indiana-researcher-out-of-his-post/",
     "source": "Retraction Watch",
     "publishedAt": "2026-04-15T18:00:00.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.344Z",
+    "scrapedAt": "2026-04-18T05:12:12.150Z",
     "topics": [
       "Academic Culture"
     ]
@@ -8135,6 +8135,20 @@
     ]
   },
   {
+    "id": "c89693a2bc4a",
+    "title": "The Blue Trail is a dystopian ‘coming-of-old-age’ gem",
+    "summary": "The Blue Trail offers a bold and refreshing vision of ageing – one driven by agency, quiet defiance and profound transformation. Set against the awe-inspiring landscapes of north-west Brazil, the film weaves together dystopian sci-fi with a striking “coming-of-old-age” journey, redefining what it means to grow older. The film follows 77-year-old Tereza (Denise Weinberg). She lives in a chilling near-future where a totalitarian regime forcibly removes anyone over 75, relocating them to remote col",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 4,
+    "url": "https://theconversation.com/the-blue-trail-is-a-dystopian-coming-of-old-age-gem-280947",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-17T16:54:34.000Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
+    "topics": [
+      "Science Policy"
+    ]
+  },
+  {
     "id": "357f95a0fed1",
     "title": "Crypto tolls in the Strait of Hormuz shows why bitcoin thrives in times of crisis",
     "summary": "QQMinh88 / shutterstock Bitcoin has long been promised to function as money. In practice, it rarely does. While 99% of transactions are still speculative trading, for as long as bitcoin has been a thing it has been used to skirt governments’ economic controls. Cryptocurrencies are particularly attractive for countries facing sanctions. The Iranian government is considering charging oil tankers for safe passage through the Strait of Hormuz in cryptocurrency. The reports have excited the bitcoin c",
@@ -8143,7 +8157,7 @@
     "url": "https://theconversation.com/crypto-tolls-in-the-strait-of-hormuz-shows-why-bitcoin-thrives-in-times-of-crisis-280676",
     "source": "The Conversation",
     "publishedAt": "2026-04-17T12:00:36.000Z",
-    "scrapedAt": "2026-04-17T16:04:50.222Z",
+    "scrapedAt": "2026-04-18T05:12:12.088Z",
     "topics": [
       "Science Policy"
     ]
