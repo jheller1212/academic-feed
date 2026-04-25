@@ -2,8 +2,8 @@ name: Scrape Academic Feeds
 
 on:
   schedule:
-    # Every 3 hours
-    - cron: '0 */3 * * *'
+    # Weekdays at 07:00 CET (05:00 UTC)
+    - cron: '0 5 * * 1-5'
   workflow_dispatch: # Manual trigger
 
 jobs:
