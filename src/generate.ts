@@ -1,4 +1,3 @@
-import Anthropic from '@anthropic-ai/sdk'
 import type { Article } from './types'
 import type { Tone } from './store'
 import { STYLE_EXAMPLES } from './style-examples'
@@ -16,15 +15,21 @@ export async function generateLinkedInPost(
   apiKey: string,
   tone: Tone = 'Reflective',
 ): Promise<string> {
-  const client = new Anthropic({ apiKey, dangerouslyAllowBrowser: true })
-
-  const message = await client.messages.create({
-    model: 'claude-sonnet-4-20250514',
-    max_tokens: 1024,
-    messages: [
-      {
-        role: 'user',
-        content: `You are a LinkedIn ghostwriter for Jonas Heller, an Assistant Professor of Marketing at Maastricht University. Write a LinkedIn post about the following academic news article.
+  const response = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'x-api-key': apiKey,
+      'anthropic-version': '2023-06-01',
+      'anthropic-dangerous-direct-browser-access': 'true',
+    },
+    body: JSON.stringify({
+      model: 'claude-sonnet-4-20250514',
+      max_tokens: 1024,
+      messages: [
+        {
+          role: 'user',
+          content: `You are a LinkedIn ghostwriter for Jonas Heller, an Assistant Professor of Marketing at Maastricht University. Write a LinkedIn post about the following academic news article.
 
 ## Style Guide
 - Conversational, approachable tone — not corporate or overly formal
@@ -52,11 +57,18 @@ ${STYLE_EXAMPLES}
 **URL:** ${article.url}
 
 Write the LinkedIn post now. Output ONLY the post text, nothing else.`,
-      },
-    ],
+        },
+      ],
+    }),
   })
 
-  const block = message.content[0]
-  if (block.type === 'text') return block.text
+  if (!response.ok) {
+    const error = await response.text()
+    throw new Error(`API error (${response.status}): ${error}`)
+  }
+
+  const data = await response.json()
+  const block = data.content?.[0]
+  if (block?.type === 'text') return block.text
   throw new Error('Unexpected response format')
 }

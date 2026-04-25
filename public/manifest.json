@@ -1,0 +1,16 @@
+{
+  "name": "Academic Feed",
+  "short_name": "AcFeed",
+  "description": "Daily academic news feed with LinkedIn post generator",
+  "start_url": "/academic-feed/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
