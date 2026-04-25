@@ -1,10 +1,20 @@
 import Anthropic from '@anthropic-ai/sdk'
 import type { Article } from './types'
+import type { Tone } from './store'
 import { STYLE_EXAMPLES } from './style-examples'
+
+const TONE_INSTRUCTIONS: Record<Tone, string> = {
+  'Reflective': 'Write in a thoughtful, introspective tone. Share a personal reflection or lesson learned.',
+  'Hot Take': 'Lead with a bold, contrarian opinion. Be provocative but substantive.',
+  'Data-Driven': 'Lead with the key finding or statistic. Be analytical and precise.',
+  'Question-Led': 'Open with a thought-provoking question. Build curiosity.',
+  'Storytelling': 'Frame this as a short narrative. Use a scene or anecdote to draw the reader in.',
+}
 
 export async function generateLinkedInPost(
   article: Article,
   apiKey: string,
+  tone: Tone = 'Reflective',
 ): Promise<string> {
   const client = new Anthropic({ apiKey, dangerouslyAllowBrowser: true })
 
@@ -27,6 +37,9 @@ export async function generateLinkedInPost(
 - No emojis in every line — use sparingly if at all
 - Show genuine curiosity and intellectual engagement
 - Reference the source naturally
+
+## Tone / Angle
+${TONE_INSTRUCTIONS[tone]}
 
 ## Example Posts by Jonas (match this voice):
 ${STYLE_EXAMPLES}

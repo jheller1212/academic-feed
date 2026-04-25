@@ -1,13 +1,15 @@
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 import type { Article, ArticleState } from './types'
-import { markSeen, markUsed, getAllStates, getApiKey, setApiKey } from './store'
+import { markSeen, markUsed, getAllStates, getApiKey, setApiKey, getTone, setTone, TONES } from './store'
+import type { Tone } from './store'
 import { generateLinkedInPost } from './generate'
 
 type Filter = 'all' | 'new' | 'seen' | 'used'
-type TimeRange = 'all' | '3d' | '7d' | '14d'
+type TimeRange = 'all' | '1d' | '3d' | '7d' | '14d'
 type SortBy = 'relevance' | 'date' | 'source'
 
 const TIME_RANGES: Record<TimeRange, { label: string; days: number }> = {
+  '1d': { label: 'Today', days: 1 },
   '3d': { label: 'Last 3 days', days: 3 },
   '7d': { label: 'Last week', days: 7 },
   '14d': { label: 'Last 2 weeks', days: 14 },
@@ -71,6 +73,7 @@ function ArticleCard({
   state,
   rank,
   maxScore,
+  highlighted,
   onGeneratePost,
   onMarkSeen,
 }: {
@@ -78,9 +81,18 @@ function ArticleCard({
   state: ArticleState
   rank?: number
   maxScore: number
+  highlighted?: boolean
   onGeneratePost: (article: Article) => void
   onMarkSeen: (id: string) => void
 }) {
+  const [linkCopied, setLinkCopied] = useState(false)
+
+  const handleCopyLink = () => {
+    navigator.clipboard.writeText(article.url)
+    setLinkCopied(true)
+    setTimeout(() => setLinkCopied(false), 2000)
+  }
+
   const statusBadge = state.used ? (
     <Badge text="USED" variant="used" />
   ) : state.seen ? (
@@ -92,6 +104,8 @@ function ArticleCard({
   return (
     <div
       className={`border rounded-xl p-4 sm:p-5 transition-all ${
+        highlighted ? 'ring-2 ring-blue-400' : ''
+      } ${
         state.used
           ? 'bg-purple-50/50 border-purple-200'
           : state.seen
@@ -149,6 +163,12 @@ function ArticleCard({
           Read article
         </a>
         <button
+          onClick={handleCopyLink}
+          className="text-sm px-3 py-1.5 bg-gray-100 text-gray-600 rounded-lg hover:bg-gray-200 transition-colors"
+        >
+          {linkCopied ? 'Copied!' : 'Copy Link'}
+        </button>
+        <button
           onClick={() => onGeneratePost(article)}
           className="text-sm px-3 py-1.5 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
         >
@@ -164,6 +184,8 @@ function PostModal({
   post,
   loading,
   error,
+  tone,
+  onToneChange,
   onClose,
   onSave,
   onRegenerate,
@@ -172,14 +194,31 @@ function PostModal({
   post: string
   loading: boolean
   error: string | null
+  tone: Tone
+  onToneChange: (tone: Tone) => void
   onClose: () => void
-  onSave: () => void
+  onSave: (editedPost: string) => void
   onRegenerate: () => void
 }) {
   const [copied, setCopied] = useState(false)
+  const [editedPost, setEditedPost] = useState(post)
+  const textareaRef = useRef<HTMLTextAreaElement>(null)
+
+  // Sync editedPost when a new post is generated
+  useEffect(() => {
+    setEditedPost(post)
+  }, [post])
+
+  // Auto-resize textarea
+  useEffect(() => {
+    if (textareaRef.current) {
+      textareaRef.current.style.height = 'auto'
+      textareaRef.current.style.height = textareaRef.current.scrollHeight + 'px'
+    }
+  }, [editedPost])
 
   const handleCopy = () => {
-    navigator.clipboard.writeText(post)
+    navigator.clipboard.writeText(editedPost)
     setCopied(true)
     setTimeout(() => setCopied(false), 2000)
   }
@@ -198,6 +237,22 @@ function PostModal({
             </button>
           </div>
 
+          <div className="flex flex-wrap gap-1.5 mb-4">
+            {TONES.map((t) => (
+              <button
+                key={t}
+                onClick={() => onToneChange(t)}
+                className={`px-3 py-1 rounded-full text-xs font-medium transition-colors ${
+                  tone === t
+                    ? 'bg-blue-600 text-white'
+                    : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                }`}
+              >
+                {t}
+              </button>
+            ))}
+          </div>
+
           {loading ? (
             <div className="flex items-center justify-center py-12">
               <div className="animate-spin rounded-full h-8 w-8 border-2 border-blue-600 border-t-transparent" />
@@ -208,9 +263,12 @@ function PostModal({
               {error}
             </div>
           ) : (
-            <div className="bg-gray-50 rounded-lg p-4 whitespace-pre-wrap text-sm leading-relaxed font-sans">
-              {post}
-            </div>
+            <textarea
+              ref={textareaRef}
+              value={editedPost}
+              onChange={(e) => setEditedPost(e.target.value)}
+              className="w-full bg-gray-50 rounded-lg p-4 text-sm leading-relaxed font-sans border-0 resize-none focus:outline-none focus:ring-2 focus:ring-blue-300"
+            />
           )}
 
           <div className="flex flex-wrap gap-2 mt-4">
@@ -223,7 +281,7 @@ function PostModal({
                   {copied ? 'Copied!' : 'Copy to clipboard'}
                 </button>
                 <button
-                  onClick={onSave}
+                  onClick={() => onSave(editedPost)}
                   className="px-4 py-2 bg-purple-100 hover:bg-purple-200 text-purple-700 rounded-lg text-sm transition-colors"
                 >
                   Mark as used
@@ -280,15 +338,43 @@ function ApiKeyPrompt({ onSave, onClose }: { onSave: (key: string) => void; onCl
   )
 }
 
+function filterArticles(articles: Article[], states: Record<string, ArticleState>, filter: Filter, topicFilter: string | null, timeRange: TimeRange) {
+  return articles.filter((a) => {
+    const state = states[a.id] || { seen: false, used: false }
+    if (filter === 'new' && (state.seen || state.used)) return false
+    if (filter === 'seen' && !state.seen) return false
+    if (filter === 'used' && !state.used) return false
+    if (topicFilter && !a.topics.includes(topicFilter)) return false
+    if (timeRange !== 'all') {
+      const days = TIME_RANGES[timeRange].days
+      const cutoff = Date.now() - days * 24 * 60 * 60 * 1000
+      if (new Date(a.publishedAt).getTime() < cutoff) return false
+    }
+    return true
+  })
+}
+
+function sortArticles(articles: Article[], sortBy: SortBy) {
+  return [...articles].sort((a, b) => {
+    if (sortBy === 'source') return a.source.localeCompare(b.source)
+    if (sortBy === 'relevance') return (b.relevanceScore ?? 0) - (a.relevanceScore ?? 0)
+    return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+  })
+}
+
 export default function App() {
   const [articles, setArticles] = useState<Article[]>([])
   const [states, setStates] = useState<Record<string, ArticleState>>({})
   const [filter, setFilter] = useState<Filter>('all')
-  const [timeRange, setTimeRange] = useState<TimeRange>('7d')
+  const [timeRange, setTimeRange] = useState<TimeRange>('1d')
   const [topicFilter, setTopicFilter] = useState<string | null>(null)
   const [sortBy, setSortBy] = useState<SortBy>('relevance')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+
+  // Keyboard navigation
+  const [highlightedIndex, setHighlightedIndex] = useState(-1)
+  const cardRefs = useRef<(HTMLDivElement | null)[]>([])
 
   // Post generation
   const [generatingArticle, setGeneratingArticle] = useState<Article | null>(null)
@@ -296,6 +382,7 @@ export default function App() {
   const [genLoading, setGenLoading] = useState(false)
   const [genError, setGenError] = useState<string | null>(null)
   const [showApiKeyPrompt, setShowApiKeyPrompt] = useState(false)
+  const [selectedTone, setSelectedTone] = useState<Tone>(getTone)
 
   useEffect(() => {
     fetch(import.meta.env.BASE_URL + 'articles.json')
@@ -337,7 +424,7 @@ export default function App() {
     refreshStates()
 
     try {
-      const post = await generateLinkedInPost(article, key)
+      const post = await generateLinkedInPost(article, key, selectedTone)
       setGeneratedPost(post)
     } catch (err) {
       setGenError((err as Error).message)
@@ -354,9 +441,9 @@ export default function App() {
     }
   }
 
-  const handleSavePost = () => {
-    if (generatingArticle && generatedPost) {
-      markUsed(generatingArticle.id, generatedPost)
+  const handleSavePost = (editedPost: string) => {
+    if (generatingArticle && editedPost) {
+      markUsed(generatingArticle.id, editedPost)
       refreshStates()
       setGeneratingArticle(null)
     }
@@ -368,36 +455,83 @@ export default function App() {
     }
   }
 
+  const handleToneChange = (tone: Tone) => {
+    setSelectedTone(tone)
+    setTone(tone)
+  }
+
   // Derived data
   const allTopics = [...new Set(articles.flatMap((a) => a.topics))].sort()
   const maxScore = Math.max(...articles.map((a) => a.relevanceScore ?? 0), 1)
   const lastScraped = articles[0]?.scrapedAt
 
   // Filtered & sorted article list
-  const filtered = articles.filter((a) => {
-    const state = states[a.id] || { seen: false, used: false }
-    if (filter === 'new' && (state.seen || state.used)) return false
-    if (filter === 'seen' && !state.seen) return false
-    if (filter === 'used' && !state.used) return false
-    if (topicFilter && !a.topics.includes(topicFilter)) return false
-    if (timeRange !== 'all') {
-      const days = TIME_RANGES[timeRange].days
-      const cutoff = Date.now() - days * 24 * 60 * 60 * 1000
-      if (new Date(a.publishedAt).getTime() < cutoff) return false
-    }
-    return true
-  })
+  const filtered = filterArticles(articles, states, filter, topicFilter, timeRange)
+  const sorted = sortArticles(filtered, sortBy)
 
-  const sorted = [...filtered].sort((a, b) => {
-    if (sortBy === 'source') return a.source.localeCompare(b.source)
-    if (sortBy === 'relevance') return (b.relevanceScore ?? 0) - (a.relevanceScore ?? 0)
-    return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
-  })
+  // Today fallback: if timeRange is '1d' and no results, show '3d' results with message
+  const todayEmpty = timeRange === '1d' && sorted.length === 0 && articles.length > 0
+  const fallbackFiltered = todayEmpty ? filterArticles(articles, states, filter, topicFilter, '3d') : []
+  const fallbackSorted = todayEmpty ? sortArticles(fallbackFiltered, sortBy) : []
+
+  const displayArticles = todayEmpty ? fallbackSorted : sorted
 
   const newCount = articles.filter((a) => {
     const s = states[a.id]
     return !s || (!s.seen && !s.used)
   }).length
+
+  // Keyboard shortcuts
+  const isModalOpen = !!(generatingArticle && !showApiKeyPrompt) || showApiKeyPrompt
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      // Don't handle shortcuts when typing in inputs/textareas
+      const target = e.target as HTMLElement
+      if (target.tagName === 'INPUT' || target.tagName === 'TEXTAREA' || target.tagName === 'SELECT') return
+
+      if (e.key === 'Escape') {
+        if (showApiKeyPrompt) {
+          setShowApiKeyPrompt(false)
+          setGeneratingArticle(null)
+        } else if (generatingArticle) {
+          setGeneratingArticle(null)
+        }
+        return
+      }
+
+      // Don't handle navigation when modal is open
+      if (isModalOpen) return
+
+      if (e.key === 'j') {
+        e.preventDefault()
+        setHighlightedIndex((prev) => {
+          const next = Math.min(prev + 1, displayArticles.length - 1)
+          cardRefs.current[next]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+          return next
+        })
+      } else if (e.key === 'k') {
+        e.preventDefault()
+        setHighlightedIndex((prev) => {
+          const next = Math.max(prev - 1, 0)
+          cardRefs.current[next]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+          return next
+        })
+      } else if (e.key === 'd') {
+        e.preventDefault()
+        if (highlightedIndex >= 0 && highlightedIndex < displayArticles.length) {
+          handleGeneratePost(displayArticles[highlightedIndex])
+        }
+      }
+    }
+
+    window.addEventListener('keydown', handleKeyDown)
+    return () => window.removeEventListener('keydown', handleKeyDown)
+  }, [isModalOpen, showApiKeyPrompt, generatingArticle, highlightedIndex, displayArticles])
+
+  // Reset highlight when filters change
+  useEffect(() => {
+    setHighlightedIndex(-1)
+  }, [filter, timeRange, topicFilter, sortBy])
 
   if (loading) {
     return (
@@ -484,21 +618,30 @@ export default function App() {
         </select>
       </div>
 
+      {/* Today fallback message */}
+      {todayEmpty && (
+        <p className="text-center text-gray-500 text-sm py-3 mb-2 bg-gray-50 rounded-lg">
+          No articles today — showing last 3 days
+        </p>
+      )}
+
       {/* Article list */}
       <div className="space-y-3">
-        {sorted.length === 0 ? (
+        {displayArticles.length === 0 ? (
           <p className="text-center text-gray-400 py-12">No articles match your filters.</p>
         ) : (
-          sorted.map((article, i) => (
-            <ArticleCard
-              key={article.id}
-              article={article}
-              state={states[article.id] || { seen: false, used: false }}
-              rank={sortBy === 'relevance' && i < 10 ? i + 1 : undefined}
-              maxScore={maxScore}
-              onGeneratePost={handleGeneratePost}
-              onMarkSeen={handleMarkSeen}
-            />
+          displayArticles.map((article, i) => (
+            <div key={article.id} ref={(el) => { cardRefs.current[i] = el }}>
+              <ArticleCard
+                article={article}
+                state={states[article.id] || { seen: false, used: false }}
+                rank={sortBy === 'relevance' && i < 10 ? i + 1 : undefined}
+                maxScore={maxScore}
+                highlighted={i === highlightedIndex}
+                onGeneratePost={handleGeneratePost}
+                onMarkSeen={handleMarkSeen}
+              />
+            </div>
           ))
         )}
       </div>
@@ -510,6 +653,8 @@ export default function App() {
           post={generatedPost}
           loading={genLoading}
           error={genError}
+          tone={selectedTone}
+          onToneChange={handleToneChange}
           onClose={() => setGeneratingArticle(null)}
           onSave={handleSavePost}
           onRegenerate={handleRegenerate}
@@ -528,8 +673,9 @@ export default function App() {
       )}
 
       <footer className="mt-12 text-center text-xs text-gray-400">
-        Academic Feed &middot; Updates every 3 hours
-        {lastScraped && <> &middot; Last scraped: {formatDate(lastScraped)}</>}
+        <p>Academic Feed &middot; Updates weekday mornings
+        {lastScraped && <> &middot; Last scraped: {formatDate(lastScraped)}</>}</p>
+        <p className="mt-1 text-gray-300">&#x2328; j/k navigate &middot; d draft &middot; esc close</p>
       </footer>
     </div>
   )
