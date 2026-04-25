@@ -60,3 +60,31 @@ export function getTone(): Tone {
 export function setTone(tone: Tone) {
   localStorage.setItem(TONE_STORAGE, tone)
 }
+
+const DARK_MODE_STORAGE = 'academic-feed-dark'
+
+export function getDarkMode(): boolean {
+  const stored = localStorage.getItem(DARK_MODE_STORAGE)
+  if (stored !== null) return stored === 'true'
+  return window.matchMedia('(prefers-color-scheme: dark)').matches
+}
+
+export function setDarkMode(dark: boolean) {
+  localStorage.setItem(DARK_MODE_STORAGE, String(dark))
+}
+
+export function markAllSeen(ids: string[]) {
+  const all = getAll()
+  for (const id of ids) {
+    if (!all[id]) all[id] = { seen: false, used: false }
+    all[id].seen = true
+  }
+  saveAll(all)
+}
+
+export function getUsedArticles(): { id: string; savedPost?: string }[] {
+  const all = getAll()
+  return Object.entries(all)
+    .filter(([, s]) => s.used && s.savedPost)
+    .map(([id, s]) => ({ id, savedPost: s.savedPost }))
+}
