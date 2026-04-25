@@ -16,6 +16,13 @@ interface Article {
   topics: string[]
 }
 
+interface SourceMeta {
+  source: string
+  lastSuccess: string | null
+  lastError: string | null
+  articleCount: number
+}
+
 // ---------------------------------------------------------------------------
 // Topic keywords – tuned for Jonas's LinkedIn audience
 // ---------------------------------------------------------------------------
@@ -164,8 +171,20 @@ const FEEDS: FeedConfig[] = [
   // --- Secondary: Research institutions ---
   { url: 'https://knowledge.wharton.upenn.edu/feed/', source: 'Knowledge at Wharton' },
 
+  // --- Secondary: Retraction Watch ---
+  { url: 'https://retractionwatch.com/feed/', source: 'Retraction Watch' },
+
   // --- Secondary: Working papers ---
   { url: 'https://www.nber.org/rss/new.xml', source: 'NBER Working Papers' },
+]
+
+// Institutions to match for arXiv Stanford-only filter
+const INSTITUTION_PATTERNS = [
+  /\bstanford\b/i,
+  /\bmit\b/i,
+  /\bharvard\b/i,
+  /\boxford\b/i,
+  /\bcambridge\b/i,
 ]
 
 // ---------------------------------------------------------------------------
@@ -276,11 +295,12 @@ async function scrapeFeed(
       const title = cleanHtml(item.title)
       const body = cleanHtml(rawBody)
 
-      // Stanford-only filter for arXiv cs.AI (too noisy otherwise)
+      // Institution filter for noisy arXiv feeds
       if (feedConfig.stanfordOnly) {
-        const authorField = (item.creator || (item as Record<string, string>)['dc:creator'] || '').toLowerCase()
-        const hasStanford = /stanford/i.test(authorField) || /stanford/i.test(rawBody)
-        if (!hasStanford) continue
+        const authorField = item.creator || (item as Record<string, string>)['dc:creator'] || ''
+        const searchText = `${authorField} ${rawBody}`
+        const matchesInstitution = INSTITUTION_PATTERNS.some((p) => p.test(searchText))
+        if (!matchesInstitution) continue
       }
 
       // Exclusion rules
@@ -327,31 +347,77 @@ async function scrapeFeed(
 // ---------------------------------------------------------------------------
 // Deduplication — keep the highest-scored version of duplicate stories
 // ---------------------------------------------------------------------------
-function deduplicateByContent(articles: Article[]): Article[] {
-  const groups = new Map<string, Article>()
+function normalizeTitle(title: string): string {
+  return title
+    .toLowerCase()
+    .replace(/[^a-z0-9 ]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
 
-  for (const a of articles) {
-    const key = a.title
-      .toLowerCase()
-      .replace(/[^a-z0-9 ]/g, '')
-      .replace(/\s+/g, ' ')
-      .trim()
+function extractKeywords(title: string): Set<string> {
+  const stopwords = new Set(['the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'is', 'are', 'was', 'were', 'be', 'been', 'has', 'have', 'had', 'do', 'does', 'did', 'will', 'would', 'could', 'should', 'may', 'might', 'can', 'this', 'that', 'these', 'those', 'it', 'its', 'not', 'no', 'from', 'as', 'how', 'why', 'what', 'which', 'who', 'whom', 'new', 'more', 'than'])
+  return new Set(
+    normalizeTitle(title)
       .split(' ')
-      .slice(0, 8)
-      .join(' ')
+      .filter((w) => w.length > 2 && !stopwords.has(w))
+  )
+}
 
-    const existing = groups.get(key)
-    if (!existing || a.relevanceScore > existing.relevanceScore) {
-      groups.set(key, a)
+function keywordOverlap(a: Set<string>, b: Set<string>): number {
+  let overlap = 0
+  for (const word of a) {
+    if (b.has(word)) overlap++
+  }
+  const smaller = Math.min(a.size, b.size)
+  return smaller > 0 ? overlap / smaller : 0
+}
+
+function deduplicateByContent(articles: Article[]): Article[] {
+  // Sort by score descending so we keep the highest-scored version
+  const sorted = [...articles].sort((a, b) => b.relevanceScore - a.relevanceScore)
+  const kept: Article[] = []
+  const keptKeywords: Set<string>[] = []
+
+  for (const article of sorted) {
+    const keywords = extractKeywords(article.title)
+    // Check if this article is a duplicate of any already-kept article
+    const isDuplicate = keptKeywords.some((existing) => keywordOverlap(keywords, existing) >= 0.6)
+    if (!isDuplicate) {
+      kept.push(article)
+      keptKeywords.push(keywords)
     }
   }
 
-  return Array.from(groups.values())
+  return kept
 }
 
 // ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
+// ---------------------------------------------------------------------------
+// Source reliability tracking
+// ---------------------------------------------------------------------------
+function loadSourceMeta(): Record<string, SourceMeta> {
+  const metaPath = join(process.cwd(), 'public', 'sources_meta.json')
+  if (existsSync(metaPath)) {
+    try {
+      const data = JSON.parse(readFileSync(metaPath, 'utf-8'))
+      const result: Record<string, SourceMeta> = {}
+      for (const m of data) result[m.source] = m
+      return result
+    } catch {
+      return {}
+    }
+  }
+  return {}
+}
+
+function saveSourceMeta(meta: Record<string, SourceMeta>) {
+  const metaPath = join(process.cwd(), 'public', 'sources_meta.json')
+  writeFileSync(metaPath, JSON.stringify(Object.values(meta), null, 2))
+}
+
 async function main() {
   console.log('Scraping academic feeds...\n')
 
@@ -363,6 +429,8 @@ async function main() {
     },
   })
 
+  const sourceMeta = loadSourceMeta()
+
   // Phase 1: scrape with 5-day window
   const PREFERRED_DAYS = 5
   const EXPANDED_DAYS = 7
@@ -370,6 +438,22 @@ async function main() {
   let results = await Promise.allSettled(
     FEEDS.map((feed) => scrapeFeed(feed, parser, PREFERRED_DAYS)),
   )
+
+  // Track source reliability
+  const now = new Date().toISOString()
+  results.forEach((r, i) => {
+    const source = FEEDS[i].source
+    if (!sourceMeta[source]) {
+      sourceMeta[source] = { source, lastSuccess: null, lastError: null, articleCount: 0 }
+    }
+    if (r.status === 'fulfilled' && r.value.length >= 0) {
+      sourceMeta[source].lastSuccess = now
+      sourceMeta[source].articleCount = r.value.length
+    }
+    if (r.status === 'rejected') {
+      sourceMeta[source].lastError = now
+    }
+  })
 
   let allArticles = results.flatMap((r) =>
     r.status === 'fulfilled' ? r.value : [],
@@ -454,6 +538,9 @@ async function main() {
       console.log()
     })
   }
+
+  // Save source reliability data
+  saveSourceMeta(sourceMeta)
 
   console.log(`Done! ${allArticles.length} new articles, ${merged.length} total in feed.`)
 }
