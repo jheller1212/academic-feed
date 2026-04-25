@@ -44,3 +44,19 @@ export function getApiKey(): string | null {
 export function setApiKey(key: string) {
   localStorage.setItem(API_KEY_STORAGE, key)
 }
+
+const TONE_STORAGE = 'academic-feed-tone'
+
+export type Tone = 'Reflective' | 'Hot Take' | 'Data-Driven' | 'Question-Led' | 'Storytelling'
+
+export const TONES: Tone[] = ['Reflective', 'Hot Take', 'Data-Driven', 'Question-Led', 'Storytelling']
+
+export function getTone(): Tone {
+  const stored = localStorage.getItem(TONE_STORAGE)
+  if (stored && TONES.includes(stored as Tone)) return stored as Tone
+  return 'Reflective'
+}
+
+export function setTone(tone: Tone) {
+  localStorage.setItem(TONE_STORAGE, tone)
+}
