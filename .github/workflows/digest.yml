@@ -1,0 +1,27 @@
+name: Send Daily Digest
+
+on:
+  schedule:
+    # Weekdays at 07:15 CET (05:15 UTC) — 15 min after scrape
+    - cron: '15 5 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Send digest email
+        run: npx tsx scripts/send-digest.ts
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_EMAIL: j.heller@maastrichtuniversity.nl
