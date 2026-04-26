@@ -439,9 +439,11 @@ async function main() {
 
   const sourceMeta = loadSourceMeta()
 
-  // Phase 1: scrape with 5-day window
-  const PREFERRED_DAYS = 5
-  const EXPANDED_DAYS = 7
+  // Phase 1: scrape with preferred window (override via CLI: --days 30)
+  const daysArg = process.argv.find((a) => a.startsWith('--days='))
+  const customDays = daysArg ? parseInt(daysArg.split('=')[1], 10) : null
+  const PREFERRED_DAYS = customDays || 5
+  const EXPANDED_DAYS = customDays || 7
 
   let results = await Promise.allSettled(
     FEEDS.map((feed) => scrapeFeed(feed, parser, PREFERRED_DAYS)),
@@ -517,8 +519,9 @@ async function main() {
     }
   }
 
-  // Merge: new articles take priority, keep old ones up to 7 days
-  const sevenDaysAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000)
+  // Merge: new articles take priority, keep old ones up to retention window
+  const retentionDays = customDays || 7
+  const sevenDaysAgo = new Date(Date.now() - retentionDays * 24 * 60 * 60 * 1000)
   const existingById = new Map(existing.map((a: Article) => [a.id, a]))
   for (const article of allArticles) {
     existingById.set(article.id, article)
