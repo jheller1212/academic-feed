@@ -137,10 +137,14 @@ function isExcluded(title: string, body: string): boolean {
 type FeedConfig = {
   url: string
   source: string
-  /** If true, only include items mentioning Stanford in author/body */
+  /** If true, only include items mentioning top institutions in author/body */
   stanfordOnly?: boolean
   /** Cap how many items to keep from this feed (for noisy feeds like arXiv) */
   maxItems?: number
+  /** Minimum relevance score to include — use for noisy general feeds */
+  minScore?: number
+  /** Require at least this many topic matches — use for broad feeds */
+  minTopics?: number
 }
 
 const FEEDS: FeedConfig[] = [
@@ -165,8 +169,8 @@ const FEEDS: FeedConfig[] = [
   { url: 'https://www.insidehighered.com/rss.xml', source: 'Inside Higher Ed' },
   { url: 'https://www.highereddive.com/feeds/news/', source: 'Higher Ed Dive' },
 
-  // --- Secondary: The Conversation (academia-focused) ---
-  { url: 'https://theconversation.com/articles.atom', source: 'The Conversation' },
+  // --- Secondary: The Conversation (academia-focused only — strict filter) ---
+  { url: 'https://theconversation.com/articles.atom', source: 'The Conversation', minScore: 15, minTopics: 2 },
 
   // --- Secondary: Research institutions ---
   { url: 'https://knowledge.wharton.upenn.edu/feed/', source: 'Knowledge at Wharton' },
@@ -308,6 +312,10 @@ async function scrapeFeed(
 
       const { topics, score: baseScore } = matchTopics(title, body)
       if (topics.length === 0) continue
+
+      // Strict filtering for noisy general feeds (e.g. The Conversation)
+      if (feedConfig.minTopics && topics.length < feedConfig.minTopics) continue
+      if (feedConfig.minScore && baseScore < feedConfig.minScore) continue
 
       // Boost Stanford-authored arXiv papers
       const isArxiv = feedConfig.source.startsWith('arXiv')

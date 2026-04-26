@@ -56,15 +56,17 @@ function Badge({ text, variant }: { text: string; variant: 'topic' | 'new' | 'se
 
 function RelevanceBar({ score, max }: { score: number; max: number }) {
   const pct = Math.min(100, Math.round((score / max) * 100))
+  const label = pct >= 70 ? 'High' : pct >= 40 ? 'Medium' : 'Low'
+  const color = pct >= 70 ? 'bg-green-400' : pct >= 40 ? 'bg-orange-400' : 'bg-gray-400'
   return (
-    <div className="flex items-center gap-2">
+    <div className="flex items-center gap-2" title={`Relevance: ${label} (${score})`}>
       <div className="w-16 h-1.5 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
         <div
-          className="h-full bg-orange-400 rounded-full"
+          className={`h-full ${color} rounded-full`}
           style={{ width: `${pct}%` }}
         />
       </div>
-      <span className="text-xs text-gray-400">{score}</span>
+      <span className="text-xs text-gray-400">{label}</span>
     </div>
   )
 }
