@@ -1,115 +1,115 @@
 [
   {
     "source": "Nature Careers",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 1
   },
   {
     "source": "Nature - Scientific Community",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
-    "articleCount": 10
+    "articleCount": 13
   },
   {
     "source": "Nature - Peer Review",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 0
   },
   {
     "source": "Nature - Research Management",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
-    "lastError": null,
-    "articleCount": 1
-  },
-  {
-    "source": "Nature - Publishing",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
-    "lastError": null,
-    "articleCount": 0
-  },
-  {
-    "source": "Nature - Machine Learning",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 2
   },
   {
-    "source": "Nature - Human Behaviour",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "source": "Nature - Publishing",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
-    "articleCount": 4
+    "articleCount": 1
+  },
+  {
+    "source": "Nature - Machine Learning",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
+    "lastError": null,
+    "articleCount": 5
+  },
+  {
+    "source": "Nature - Human Behaviour",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
+    "lastError": null,
+    "articleCount": 5
   },
   {
     "source": "Nature Human Behaviour",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 0
   },
   {
     "source": "Nature",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
-    "articleCount": 7
+    "articleCount": 8
   },
   {
     "source": "arXiv - AI",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 0
   },
   {
     "source": "arXiv - Human-Computer Interaction",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 15
   },
   {
     "source": "arXiv - Computers & Society",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 15
   },
   {
     "source": "arXiv - Digital Libraries",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 2
   },
   {
     "source": "Inside Higher Ed",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
-    "articleCount": 3
+    "articleCount": 0
   },
   {
     "source": "Higher Ed Dive",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 7
   },
   {
     "source": "The Conversation",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 3
   },
   {
     "source": "Knowledge at Wharton",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 0
   },
   {
     "source": "Retraction Watch",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 2
   },
   {
     "source": "NBER Working Papers",
-    "lastSuccess": "2026-04-27T07:34:40.881Z",
+    "lastSuccess": "2026-04-27T11:48:51.764Z",
     "lastError": null,
     "articleCount": 0
   }
