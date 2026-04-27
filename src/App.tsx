@@ -457,16 +457,13 @@ export default function App() {
   const [showApiKeyPrompt, setShowApiKeyPrompt] = useState(false)
   const [selectedTone, setSelectedTone] = useState<Tone>(getTone)
 
-  const [refreshing, setRefreshing] = useState(false)
-
   // Dark mode sync
   useEffect(() => {
     document.documentElement.classList.toggle('dark', dark)
     saveDarkMode(dark)
   }, [dark])
 
-  const loadArticles = useCallback((isRefresh = false) => {
-    if (isRefresh) setRefreshing(true)
+  const loadArticles = useCallback(() => {
     fetch(import.meta.env.BASE_URL + 'articles.json' + '?t=' + Date.now())
       .then((r) => {
         if (!r.ok) throw new Error('No articles yet — run the scraper first')
@@ -476,18 +473,16 @@ export default function App() {
         setArticles(data)
         setStates(getAllStates())
         setLoading(false)
-        setRefreshing(false)
       })
       .catch((err) => {
         setError(err.message)
         setLoading(false)
-        setRefreshing(false)
       })
   }, [])
 
   useEffect(() => {
     loadArticles()
-    const interval = setInterval(() => loadArticles(true), 3 * 60 * 60 * 1000)
+    const interval = setInterval(() => loadArticles(), 60 * 60 * 1000)
     return () => clearInterval(interval)
   }, [loadArticles])
 
@@ -656,14 +651,6 @@ export default function App() {
             </p>
           </div>
           <div className="flex items-center gap-2">
-            <button
-              onClick={() => loadArticles(true)}
-              disabled={refreshing}
-              className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-500 dark:text-gray-400 disabled:opacity-50 transition-colors"
-              title="Refresh articles"
-            >
-              {refreshing ? '...' : '↻'}
-            </button>
             <button
               onClick={() => setDark(!dark)}
               className="px-3 py-1.5 rounded-lg text-sm bg-gray-100 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-500 dark:text-gray-400"
