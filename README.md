@@ -1,26 +1,32 @@
 # Academic Feed
 
-Personal daily feed of academic news, filtered for PhD life, postdoc life, research culture, AI in academia, and science policy. Includes a LinkedIn post generator powered by Claude.
+My personal daily news feed for academic life — filtered for research culture, AI in academia, science policy, and the realities of PhD/postdoc life. Comes with a LinkedIn post drafter powered by Claude so I can turn interesting articles into posts without starting from a blank page.
 
-## Live
-
-**https://jheller1212.github.io/academic-feed/**
+**Live:** [jheller1212.github.io/academic-feed](https://jheller1212.github.io/academic-feed/)
 
 ## How it works
 
-1. **GitHub Actions** runs daily at 9 AM CET, scraping RSS feeds from Nature, Science, arXiv, MIT News, Stanford HAI, Retraction Watch, Times Higher Education, The Conversation, and Inside Higher Ed
-2. Relevant articles are filtered by topic keywords and committed to `public/articles.json`
-3. **Netlify** auto-deploys on push — the web UI reads the JSON and displays articles
-4. Click **"Draft Post"** on any article to generate a LinkedIn post via the Claude API in your writing style
+1. A **GitHub Actions** workflow runs daily at 9 AM CET
+2. It scrapes RSS feeds from Nature, Science, arXiv, MIT News, Stanford HAI, Retraction Watch, Times Higher Education, The Conversation, and Inside Higher Ed
+3. Articles are filtered by topic keywords and committed to `public/articles.json`
+4. GitHub Pages serves the static site — the UI reads the JSON and displays the feed
+5. Click **"Draft Post"** on any article to generate a LinkedIn post via the Claude API, written in my voice
 
 ## Features
 
-- NEW / SEEN / USED badges per article (stored in localStorage)
+- **NEW / SEEN / USED** badges per article (tracked in localStorage)
 - Filter by status, topic, or source
-- Mobile-friendly — browse and draft posts from your phone
-- Claude API key stored locally in your browser only
+- Mobile-friendly — browse and draft from your phone
+- Claude API key stored locally in your browser only (never sent to my server)
 
-## Setup
+## Tech stack
+
+- React 18 + TypeScript + Vite + Tailwind CSS
+- RSS parsing via `rss-parser`
+- GitHub Actions for daily scraping
+- GitHub Pages for hosting
+
+## Running locally
 
 ```bash
 npm install
@@ -29,6 +35,10 @@ npm run dev      # local dev server
 npm run build    # production build
 ```
 
-## Style customization
+## Customizing the post style
 
-Edit `src/style-examples.ts` with your own LinkedIn posts to train the post generator on your voice.
+Edit `src/style-examples.ts` with your own LinkedIn posts to train the draft generator on your writing voice.
+
+## Built by
+
+[Jonas Heller](https://jonasheller.info) — Assistant Professor of Marketing, Maastricht University.
