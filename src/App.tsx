@@ -485,7 +485,11 @@ export default function App() {
       })
   }, [])
 
-  useEffect(() => { loadArticles() }, [loadArticles])
+  useEffect(() => {
+    loadArticles()
+    const interval = setInterval(() => loadArticles(true), 3 * 60 * 60 * 1000)
+    return () => clearInterval(interval)
+  }, [loadArticles])
 
   const refreshStates = useCallback(() => setStates(getAllStates()), [])
 
@@ -830,7 +834,7 @@ export default function App() {
       )}
 
       <footer className="mt-12 text-center text-xs text-gray-400">
-        <p>Academic Feed &middot; Updates weekday mornings
+        <p>Academic Feed &middot; Updates 3x daily
         {lastScraped && <> &middot; Last scraped: {formatDate(lastScraped)}</>}</p>
         <p className="mt-1 text-gray-300 dark:text-gray-600">&#x2328; j/k navigate &middot; d draft &middot; esc close</p>
       </footer>
