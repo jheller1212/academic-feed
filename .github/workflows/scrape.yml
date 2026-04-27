@@ -2,10 +2,8 @@ name: Scrape Academic Feeds
 
 on:
   schedule:
-    # Daily at 07:00 CET (05:00 UTC), 12:00 CET (10:00 UTC), 18:00 CET (16:00 UTC)
-    - cron: '0 5 * * *'
-    - cron: '0 10 * * *'
-    - cron: '0 16 * * *'
+    # Every 2 hours daily
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Manual trigger
 
 jobs:
