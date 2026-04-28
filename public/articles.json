@@ -1,5 +1,69 @@
 [
   {
+    "id": "e8c27646ab78",
+    "title": "Cognitive Alignment Deciphered: A Self-Developed Scenario-Based Prompt Scale Coupled with Representational Similarity Analysis and Social Network Analysis for Unraveling Bias Mechanisms Across Humans and LLMs",
+    "summary": "arXiv:2604.22775v1 Announce Type: new Abstract: Traditional cognitive bias measurement tools are limited by narrow bias coverage, low ecological validity, and reliance on abstract self reports, constraining scenario based and human AI comparisons. We introduce the context based Cognitive Bias Assessment Scale CBAS, a scenario driven prompt template covering 58 cognitive biases across five hot cold dual system dimensions: Calculation, Belief, Information, Social, and Memory. Psychometric testing ",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 51,
+    "url": "https://arxiv.org/abs/2604.22775",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "5da359447fcd",
+    "title": "Teaching Usable Privacy in HCI Education: Designing, Implementing, and Evaluating an Active Learning Graduate Course",
+    "summary": "arXiv:2604.17796v3 Announce Type: replace-cross Abstract: As digital systems increasingly rely on pervasive data collection and inference, educating future designers and researchers about Usable Privacy has become a critical need for HCI. However, privacy education in higher education is often fragmented, theory-heavy, or detached from real-world applications. Thus, in this paper, we present the design, implementation, and evaluation of a 15-week graduate-level course on Usable Privacy that addr",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 42,
+    "url": "https://arxiv.org/abs/2604.17796",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "Research Culture",
+      "AI & Emerging Tech",
+      "Higher Education",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "1ae992119f0f",
+    "title": "The Rise of Large Language Models and the Direction and Impact of US Federal Research Funding",
+    "summary": "arXiv:2601.15485v2 Announce Type: replace-cross Abstract: Federal research funding shapes the direction, diversity, and impact of the US scientific enterprise. Large language models (LLMs) are rapidly diffusing into scientific practice, holding substantial promise while raising widespread concerns. Despite growing attention to AI use in scientific writing and evaluation, little is known about how the rise of LLMs is reshaping the public funding landscape. Here, we examine LLM involvement at key ",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 42,
+    "url": "https://arxiv.org/abs/2601.15485",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "Research Culture",
+      "AI & Emerging Tech",
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "93b7ce8419f6",
+    "title": "National University Establishes New Transfer Pathway With Calif. 2-Year Colleges",
+    "summary": "National University Establishes New Transfer Pathway With Calif. 2-Year Colleges Johanna Alonso Tue, 04/28/2026 - 03:00 AM The predominantly online institution, which focuses on nontraditional students, will admit anyone who earned an associate degree for transfer through California Community Colleges. Byline(s) Johanna Alonso",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 40,
+    "url": "https://www.insidehighered.com/news/institutions/community-colleges/2026/04/28/california-ccs-launch-private-university-transfer",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-28T07:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.427Z",
+    "topics": [
+      "Research Culture",
+      "Higher Education",
+      "Science Policy & Funding"
+    ]
+  },
+  {
     "id": "da92215a6d28",
     "title": "What People See (and Miss) About Generative AI Risks: Perceptions of Failures, Risks, and Who Should Address Them",
     "summary": "arXiv:2604.22654v1 Announce Type: new Abstract: Despite growing concerns about the risks of Generative AI (GenAI), there is limited understanding of public perceptions of these risks and their associated failure modes -- defined as recurring patterns of sociotechnical breakdown across the GenAI lifecycle that contribute to risks of real-world harm. To address this gap, we present a survey instrument, validated with eight subject matter experts and deployed on a sample of 960 U.S.-based participa",
@@ -70,7 +134,7 @@
     "url": "https://www.nature.com/articles/s44271-026-00461-4",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-04-26T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:24.067Z",
+    "scrapedAt": "2026-04-28T17:49:02.068Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -101,6 +165,65 @@
     "source": "The Conversation",
     "publishedAt": "2026-04-24T12:31:30.000Z",
     "scrapedAt": "2026-04-27T11:48:51.156Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "7067e394c7b4",
+    "title": "VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs",
+    "summary": "arXiv:2604.23356v1 Announce Type: cross Abstract: Large language models (LLMs) show promise in medical diagnosis, but real-world deployment remains challenging due to high-stakes clinical decisions and imperfect reasoning reliability. As a result, careful inspection of model behavior is essential for assessing whether diagnostic reasoning is reliable and clinically grounded. However, debugging medical LLMs remains difficult. First, developers often lack sufficient medical domain expertise to int",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 32,
+    "url": "https://arxiv.org/abs/2604.23356",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "b9d4a7594823",
+    "title": "MER 2026: From Discriminative Emotion Recognition to Generative Emotion Understanding",
+    "summary": "arXiv:2604.19417v3 Announce Type: replace Abstract: MER2026 marks the fourth edition of the MER series of challenges. The MER series provides valuable data resources to the research community and offers tasks centered on recent research trends, establishing itself as one of the largest challenges in the field. Throughout its history, the focus of MER has shifted from discriminative emotion recognition to generative emotion understanding. Specifically, MER2023 concentrated on discriminative emoti",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 32,
+    "url": "https://arxiv.org/abs/2604.19417",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "f017c65369a7",
+    "title": "Peer Identity Bias in Multi-Agent LLM Evaluation: An Empirical Study Using the TRUST Democratic Discourse Analysis Pipeline",
+    "summary": "arXiv:2604.22971v1 Announce Type: new Abstract: The TRUST democratic discourse analysis pipeline exposes its large language model (LLM) components to peer model identity through multiple structural channels -- a design feature whose bias implications have not previously been empirically tested. We provide the first systematic measurement of identity-dependent scoring bias across all active identity exposure channels in TRUST, crossing four model families with two anonymization scopes across 30 p",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 32,
+    "url": "https://arxiv.org/abs/2604.22971",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "f48e4b4a52cd",
+    "title": "Automating Categorization of Scientific Texts with In-Context Learning and Prompt-Chaining in Large Language Models",
+    "summary": "arXiv:2604.23430v1 Announce Type: cross Abstract: The relentless expansion of scientific literature presents significant challenges for navigation and knowledge discovery. Within Research Information Retrieval, established tasks such as text summarization and classification remain crucial for enabling researchers and practitioners to effectively navigate this vast landscape, so that efforts have increasingly been focused on developing advanced research information systems. These systems aim not ",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 32,
+    "url": "https://arxiv.org/abs/2604.23430",
+    "source": "arXiv - Digital Libraries",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.285Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -138,6 +261,50 @@
     ]
   },
   {
+    "id": "f7a01242d64d",
+    "title": "Beyond Context: Large Language Models' Failure to Grasp Users' Intent",
+    "summary": "arXiv:2512.21110v3 Announce Type: replace-cross Abstract: Current Large Language Models (LLMs) safety approaches focus on explicitly harmful content while overlooking a critical vulnerability: the inability to understand context and recognize user intent. This creates exploitable vulnerabilities that malicious users can systematically leverage to circumvent safety mechanisms. We empirically evaluate multiple state-of-the-art LLMs, including ChatGPT, Claude, Gemini, and DeepSeek. Our analysis dem",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 30,
+    "url": "https://arxiv.org/abs/2512.21110",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "ba1fea46deb1",
+    "title": "Is Higher Education Having a Psychotic Breakdown?",
+    "summary": "Is Higher Education Having a Psychotic Breakdown? kjohnsonbowles… Tue, 04/28/2026 - 03:00 AM The tension between higher education as a business and as a service is creating a profound crisis in the sector. This essay in two parts examines how this conflict has shaped the sector’s current identity dilemma. Byline(s) Kathy Johnson Bowles",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 28,
+    "url": "https://www.insidehighered.com/opinion/columns/just-explain-it-me/2026/04/28/should-higher-ed-act-corporation-or-public-service",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-28T07:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.427Z",
+    "topics": [
+      "Research Culture",
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "df9630917e36",
+    "title": "Are Digital Humanities really committed to open? An exploratory study on the availability of methodological workflows and open peer review practices",
+    "summary": "arXiv:2604.23827v1 Announce Type: new Abstract: Open Science has become a central framework for promoting transparency, accessibility, and inclusiveness in scholarly research. While the Digital Humanities (DH) community has long embraced openness in terms of research outputs, less attention seems to have been paid to the openness of the methodological and evaluative processes underlying knowledge production. This paper presents an exploratory study that investigates the current state of openness",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 28,
+    "url": "https://arxiv.org/abs/2604.23827",
+    "source": "arXiv - Digital Libraries",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.285Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
     "id": "2b2217be27d8",
     "title": "Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education",
     "summary": "arXiv:2604.21986v1 Announce Type: new Abstract: As generative AI systems increasingly mediate learning, they are often treated as authoritative sources of knowledge. This perspective paper introduces community-based AI learning as a framework that repositions authority, grounding AI engagement in learners' lived and community-based epistemologies. Drawing from community-driven learning and constructionist traditions, we articulate three commitments: epistemic fine tuning, redistribution of autho",
@@ -164,6 +331,95 @@
     "scrapedAt": "2026-04-27T22:56:23.361Z",
     "topics": [
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "8b22f769d178",
+    "title": "\"If You're Very Clever, No One Knows You've Used It\": The Social Dynamics of Developing Generative AI Literacy in the Workplace",
+    "summary": "arXiv:2602.01386v2 Announce Type: replace Abstract: Generative AI (GenAI) tools are rapidly transforming knowledge work, making AI literacy a critical priority for organizations. However, research on AI literacy lacks empirical insight into how knowledge workers' beliefs around GenAI literacy are shaped by the social dynamics of the workplace, and how workers learn to apply GenAI tools in these environments. To address this gap, we conducted in-depth interviews with 19 knowledge workers across m",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 26,
+    "url": "https://arxiv.org/abs/2602.01386",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "6e6d290b3593",
+    "title": "You’d better start paying attention to the manosphere. You’re living in it",
+    "summary": "As the United States and Israel launched their war on Iran in late February, the social media posts by some US national security agencies took a particular turn. With missiles and bombs raining down, Pentagon accounts began using strange turns of phrase to describe the AI-guided violence unleashed against child and soldier alike. The destruction was described as “lethalitymaxxing”. Its perpetrators were said to be “locked in” with “low cortisol”. This lingo finds much of its origins in the manos",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 26,
+    "url": "https://theconversation.com/youd-better-start-paying-attention-to-the-manosphere-youre-living-in-it-279547",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-28T02:08:13.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.513Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "89d1c9068d41",
+    "title": "There’s a reason we don’t have birds the size of elephants: the mysterious story of how dinosaurs evolved – expert Q&A",
+    "summary": "Exactly how did birds evolve from dinosaurs? It’s a mystery that has been with us for more than 150 years, and palaeontologists are still hunting for pieces of the puzzle today. Among them is the University of Edinburgh’s Professor Steve Brusatte, whose latest book, The Story of Birds, tells the whole fascinating story. We caught up with him recently to find out more. Of all the great dinosaur subjects, why this story? I’ve always been fascinated by birds. They are all around us and there’s such",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 25,
+    "url": "https://theconversation.com/theres-a-reason-we-dont-have-birds-the-size-of-elephants-the-mysterious-story-of-how-dinosaurs-evolved-expert-qanda-280960",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-28T11:32:40.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.513Z",
+    "topics": [
+      "PhD & PostDoc Life",
+      "Human Behaviour & Cognition",
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "c312b48a3f24",
+    "title": "Measuring Successful Cooperation in Human-AI Teamwork: Development and Validation of the Perceived Cooperativity and Teaming Perception Scales",
+    "summary": "arXiv:2604.24461v1 Announce Type: new Abstract: As human-AI cooperation becomes increasingly prevalent, reliable instruments for assessing the subjective quality of cooperative human-AI interaction are needed. We introduce two theoretically grounded scales: the Perceived Cooperativity Scale (PCS), grounded in joint activity theory, and the Teaming Perception Scale (TPS), grounded in evolutionary cooperation theory. The PCS captures an agent's perceived cooperative capability and practice within ",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://arxiv.org/abs/2604.24461",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "f5a21919e647",
+    "title": "How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud Study",
+    "summary": "arXiv:2604.23136v1 Announce Type: cross Abstract: In the early stages of scientific research, researchers rely on core scholarly judgments to identify relevant literature, assess credible evidence, and determine which directions merit pursuit. As AI tools become increasingly integrated into these early-stage workflows, the scholarly judgments that were once transparent and attributable to individual researchers become obscured, raising critical Responsible AI (RAI) concerns around accountability",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 24,
+    "url": "https://arxiv.org/abs/2604.23136",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "a3240e0ff405",
+    "title": "CiteAudit: You Cited It, But Did You Read It? A Benchmark for Verifying Scientific References in the LLM Era",
+    "summary": "arXiv:2602.23452v2 Announce Type: replace-cross Abstract: Scientific research relies on accurate citation for attribution and integrity, yet large language models (LLMs) introduce a new risk: fabricated references that appear plausible but correspond to no real publications. Such hallucinated citations have already been observed in submissions and accepted papers at major machine learning venues, exposing vulnerabilities in peer review. Meanwhile, rapidly growing reference lists make manual veri",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 24,
+    "url": "https://arxiv.org/abs/2602.23452",
+    "source": "arXiv - Digital Libraries",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.285Z",
+    "topics": [
+      "AI & Emerging Tech"
     ]
   },
   {
@@ -225,6 +481,35 @@
     ]
   },
   {
+    "id": "d809d8e7a520",
+    "title": "The story of birds: a new history from their dinosaur origins – extract of Steve Brusatte’s new book",
+    "summary": "The following is an edited extract from The Story of Birds: A New History From Their Dinosaur Origins To the Present I will never forget my first dinosaur wing. I was a college student, on my first international expedition, preparing to venture into the mountains of Tibet in search of Jurassic dinosaurs. Our team assembled in Beijing, and as we rushed through the galleries and storehouses of the Institute of Vertebrate Paleontology and Paleoanthropology, I stole a fleeting glance, from across th",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 22,
+    "url": "https://theconversation.com/the-story-of-birds-a-new-history-from-their-dinosaur-origins-extract-of-steve-brusattes-new-book-281562",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-28T11:32:18.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.513Z",
+    "topics": [
+      "PhD & PostDoc Life",
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "b43a65fe161e",
+    "title": "Learning Under Low Illumination: A Dataset and Algorithm for Traffic Sign Recognition",
+    "summary": "arXiv:2511.17183v2 Announce Type: replace-cross Abstract: Traffic signboards are vital for road safety and intelligent transportation systems, enabling navigation and autonomous driving. Yet, recognizing traffic signs at night remains underexplored due to the scarcity of realistic public datasets capturing low-light degradations and distractor classes. Existing benchmarks are predominantly daytime and do not reflect challenges such as headlight glare, motion blur, sensor noise, and vandalized or",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 21,
+    "url": "https://arxiv.org/abs/2511.17183",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
     "id": "ab9719ff4301",
     "title": "The library’s next chapter: a strategic role in solving higher education’s affordability crisis",
     "summary": "Why libraries are higher ed’s overlooked affordability lever: three ways to cut costs and expand access.",
@@ -233,7 +518,7 @@
     "url": "https://www.highereddive.com/spons/the-librarys-next-chapter-a-strategic-role-in-solving-higher-educations/817783/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-27T09:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.570Z",
+    "scrapedAt": "2026-04-28T17:49:01.431Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -248,7 +533,7 @@
     "url": "https://www.nature.com/articles/s44304-026-00206-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:24.048Z",
+    "scrapedAt": "2026-04-28T17:49:02.199Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -263,7 +548,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72225-x",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-24T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.248Z",
+    "scrapedAt": "2026-04-28T17:49:02.182Z",
     "topics": [
       "AI & Emerging Tech",
       "Science Policy & Funding"
@@ -278,7 +563,7 @@
     "url": "https://www.nature.com/articles/s42256-026-01213-z",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-24T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.248Z",
+    "scrapedAt": "2026-04-28T17:49:02.182Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -312,6 +597,76 @@
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "4bddc38d3f6a",
+    "title": "Trace Mutation in Human-LLM Dialogue: The Transcript as Forensic and Mitigation Surface",
+    "summary": "arXiv:2604.22773v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as partners in knowledge work, where the shared conversational record functions as the decision record that safeguards work continuity. We characterize a class of context failures we term trace mutations, in which distortions enter the shared record while presenting as grounded continuity. We describe two forms: utterance effacement, in which an interlocutor's contribution is re-presented with ",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2604.22773",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "ba72de7c0e08",
+    "title": "What Did They Mean? How LLMs Resolve Ambiguous Social Situations across Perspectives and Roles",
+    "summary": "arXiv:2604.23942v1 Announce Type: new Abstract: People increasingly turn to large language models (LLMs) to interpret ambiguous social situations: a delayed text reply, an unusually cold supervisor, a teacher's mixed signals, or a boundary-crossing friend. Yet in many such cases, no stable interpretation can be verified from the available evidence alone. We study how LLMs respond to these situations across four domains: early-stage romantic relationships, teacher--student dynamics, workplace hie",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2604.23942",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "f7833f6b803d",
+    "title": "How Personal Characteristics Shape User Exploration of Diverse Movie Recommendations with a LLM-Based Multi-Agent System",
+    "summary": "arXiv:2604.24405v1 Announce Type: new Abstract: Diversity is an important evaluation criterion for recommender systems beyond accuracy, yet users differ in their willingness to engage with novel and diverse content. In this work, we investigate how a Large Language Model (LLM)-based multi-agent system supports users' exploration of diverse recommendations, and how individual characteristics shape user experiences. We conducted a between-subjects user study (N = 100) comparing a single-agent syst",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2604.24405",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "235f0316863f",
+    "title": "Bridging Reasoning and Action: Hybrid LLM-RL Framework for Efficient Cross-Domain Task-Oriented Dialogue",
+    "summary": "arXiv:2604.23345v1 Announce Type: cross Abstract: Cross-domain task-oriented dialogue requires reasoning over implicit and explicit feasibility constraints while planning long-horizon, multi-turn actions. Large language models (LLMs) can infer such constraints but are unreliable over long horizons, while Reinforcement learning (RL) optimizes long-horizon behavior yet cannot recover constraints from raw dialogue. Naively coupling LLMs with RL is therefore brittle: unverified or unstructured LLM o",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2604.23345",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "f7ea8b14d39e",
+    "title": "Is Vibe Coding the Future? An Empirical Assessment of LLM Generated Codes for Construction Safety",
+    "summary": "arXiv:2604.12311v2 Announce Type: replace-cross Abstract: The emergence of vibe coding, a paradigm where non-technical users instruct Large Language Models (LLMs) to generate executable codes via natural language, presents both significant opportunities and severe risks for the construction industry. While empowering construction personnel such as the safety managers, foremen, and workers to develop tools and software, the probabilistic nature of LLMs introduces the threat of silent failures, wh",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 20,
+    "url": "https://arxiv.org/abs/2604.12311",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "AI & Emerging Tech"
     ]
   },
   {
@@ -441,6 +796,49 @@
     ]
   },
   {
+    "id": "712fa28a4cab",
+    "title": "Visual Accessibility in a Virtual Kitchen: Effects of Open Shelving on Performance, Cognitive Load, and Experience in Older Adults with and without MCI",
+    "summary": "arXiv:2604.23081v1 Announce Type: new Abstract: This study examines how visual accessibility through cabinet design influences task performance, cognitive load, physical activity level, motivation, and user experience in a virtual kitchen among older adults with and without mild cognitive impairment (MCI). Seventeen older adults (7 with MCI, 10 without) completed a repeated-measures item retrieval task under two conditions, closed cabinets and open shelving, using a counterbalanced within-subjec",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 18,
+    "url": "https://arxiv.org/abs/2604.23081",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "5f8e4ccac350",
+    "title": "Modeling Induced Pleasure through Cognitive Appraisal Prediction via Multimodal Fusion",
+    "summary": "arXiv:2604.23753v1 Announce Type: cross Abstract: Multimodal affective computing analyzes user-generated social media content to predict emotional states. However, a critical gap remains in understanding how visual content shapes cognitive interpretations and elicits specific affective experiences such as pleasure. This study introduces a novel computational model to infer video-induced pleasure via cognitive appraisal variables. The proposed model addresses four challenges: (1) noisy and incons",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 18,
+    "url": "https://arxiv.org/abs/2604.23753",
+    "source": "arXiv - Human-Computer Interaction",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "07637abdf1ec",
+    "title": "NIH-MPINet: A Large-Scale Feature-Rich Network Dataset for Mapping the Frontiers of Team Science",
+    "summary": "arXiv:2604.22802v1 Announce Type: new Abstract: This study presents a large-scale network dataset, NIH-MPINet, curated from NIH RePORTER and PubMed, characterizing collaboration among multiple Principal Investigators (multi-PIs) on NIH R01-equivalent grants from 2006 to 2023. The network characterizes 30,127 PIs as nodes and their collaborations on 86,743 NIH R01-equivalent grants as edges, spanning 888 recipient organizations and supported by 40 NIH Institutes and Centers. We also curated compr",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 18,
+    "url": "https://arxiv.org/abs/2604.22802",
+    "source": "arXiv - Digital Libraries",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.285Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Science Policy & Funding"
+    ]
+  },
+  {
     "id": "98351b9e98f1",
     "title": "Predicting individual differences of fear and cognitive learning and extinction",
     "summary": "",
@@ -457,16 +855,114 @@
   {
     "id": "3b4c6e84dc83",
     "title": "Spontaneous Persuasion: An Audit of Model Persuasiveness in Everyday Conversations",
-    "summary": "arXiv:2604.22109v1 Announce Type: new Abstract: Large language models (LLMs) possess strong persuasive capabilities that outperform humans in head-to-head comparisons. Users report consulting LLMs to inform major life decisions in relationships, medical settings, and when seeking professional advice. Prior work measures persuasion as intentional attempts at producing the most effective argument or convincing statement. This fails to capture everyday human-AI interactions in which users seek info",
+    "summary": "arXiv:2604.22109v2 Announce Type: replace Abstract: Large language models (LLMs) possess strong persuasive capabilities that outperform humans in head-to-head comparisons. Users report consulting LLMs to inform major life decisions in relationships, medical settings, and when seeking professional advice. Prior work measures persuasion as intentional attempts at producing the most effective argument or convincing statement. This fails to capture everyday human-AI interactions in which users seek ",
     "whyItMatters": "AI/tech development with academic implications — trending topic.",
     "relevanceScore": 17,
     "url": "https://arxiv.org/abs/2604.22109",
     "source": "arXiv - Human-Computer Interaction",
-    "publishedAt": "2026-04-27T04:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.361Z",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.407Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "46c8a325f1ef",
+    "title": "Judge Grants Stay in EEOC v. Penn Case on Jewish Employees",
+    "summary": "Judge Grants Stay in EEOC v. Penn Case on Jewish Employees Emma Whitford Tue, 04/28/2026 - 03:00 AM Byline(s) Emma Whitford",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 16,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/04/28/judge-grants-stay-eeoc-v-penn-case-jewish-employees",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-28T07:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.427Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "98e54853bc5e",
+    "title": "Implicit Humanization in Everyday LLM Moral Judgments",
+    "summary": "arXiv:2604.22764v1 Announce Type: new Abstract: Recent adoption of conversational information systems has expanded the scope of user queries to include complex tasks such as personal advice-seeking. However, we identify a specific type of sought advice-a request for a moral judgment (i.e. \"who was wrong?\") in a social conflict-as an implicitly humanizing query which carries potentially harmful anthropomorphic projections. In this study, we examine the reinforcement of these assumptions in the re",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2604.22764",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "d2f4c3154f8e",
+    "title": "Secure On-Premise Deployment of Open-Weights Large Language Models in Radiology: An Isolation-First Architecture with Prospective Pilot Evaluation",
+    "summary": "arXiv:2604.22768v1 Announce Type: new Abstract: Purpose: To design, implement, evaluate, and report on the regulatory requirements of a self-hosted LLM infrastructure for radiology adhering to the principle of least privilege, emphasizing technical feasibility, network isolation, and clinical utility. Materials and Methods: The isolation-first, containerized LLM inference stack relies on strict network segmentation, host-enforced egress filtering, and active isolation monitoring preventing unaut",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2604.22768",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "c7852afdd154",
+    "title": "Scalable LLM-based Coding of Dialogue in Healthcare Simulation: Balancing Coding Performance, Processing Time, and Environmental Impact",
+    "summary": "arXiv:2604.23255v1 Announce Type: cross Abstract: Research shows that dialogue, the interactive process through which participants articulate their thinking, plays a central role in constructing shared understanding, coordinating action, and shaping learning outcomes in teams. Analysing dialogue content has been central to advancing team learning theory and informing the design of computer-supported collaborative learning environments, yet this progress has depended on labour-intensive qualitati",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2604.23255",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "0a5bacc52767",
+    "title": "Your Students Don't Use LLMs Like You Wish They Did",
+    "summary": "arXiv:2604.23486v1 Announce Type: cross Abstract: Educational NLP systems are typically evaluated using engagement metrics and satisfaction surveys, which are at best a proxy for meeting pedagogical goals. We introduce six computational metrics for automated evaluation of pedagogical alignment in student-AI dialogue. We validate our metrics through analysis of 12,650 messages across 500 conversations from four courses. Using our metrics, we identify a fundamental misalignment: educators design c",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2604.23486",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "9dc2ab5895e4",
+    "title": "Explainable Artificial Intelligence Techniques for Interpretation of Food Models: a Review",
+    "summary": "arXiv:2504.10527v2 Announce Type: replace-cross Abstract: Artificial Intelligence (AI) has become essential for analyzing complex data and solving highly-challenging tasks. It is being applied across numerous disciplines beyond computer science, including Food Engineering, where there is a growing demand for accurate and reliable predictions to meet stringent food quality standards. However, this requires increasingly complex AI models, raising concerns. In response, eXplainable AI (XAI) has eme",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2504.10527",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "944b4a0c1029",
+    "title": "Patterns vs. Patients: Evaluating LLMs against Mental Health Professionals on Personality Disorder Diagnosis through First-Person Narratives",
+    "summary": "arXiv:2512.20298v2 Announce Type: replace-cross Abstract: Growing reliance on LLMs for psychiatric self-assessment raises questions about their ability to interpret qualitative patient narratives. This depth-first case study provides the first direct comparison of state-of-the-art LLMs and mental health professionals in assessing Borderline (BPD) and Narcissistic (NPD) Personality Disorders based on Polish-language first-person autobiographical accounts. Within our sample, the overall diagnostic",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2512.20298",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "AI & Emerging Tech"
     ]
   },
   {
@@ -478,7 +974,7 @@
     "url": "https://www.highereddive.com/news/east-carolina-university-cut-around-44-academic-programs/818622/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-27T20:48:11.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.570Z",
+    "scrapedAt": "2026-04-28T17:49:01.431Z",
     "topics": [
       "Research Culture"
     ]
@@ -538,6 +1034,20 @@
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "9b8dad7e934a",
+    "title": "QubitQuest: Learning Quantum Computing through Mini-Games",
+    "summary": "arXiv:2604.24015v1 Announce Type: new Abstract: Quantum Computing (QC) is often challenging for beginners due to its abstract concepts and mathematical foundations. This paper explores the use of gamification to support the learning of introductory QC concepts. To investigate this, QubitQuest was developed as a set of three educational mini-games designed to teach key QC topics: the Bloch sphere, entanglement, and quantum circuits. The mini-games aim to balance engagement, motivation, and learni",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 15,
+    "url": "https://arxiv.org/abs/2604.24015",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "Human Behaviour & Cognition"
     ]
   },
   {
@@ -640,6 +1150,21 @@
     ]
   },
   {
+    "id": "29c1dc7643e5",
+    "title": "AI Safety Training Can be Clinically Harmful",
+    "summary": "arXiv:2604.23445v1 Announce Type: cross Abstract: Large language models are being deployed as mental health support agents at scale, yet only 16% of LLM-based chatbot interventions have undergone rigorous clinical efficacy testing, and simulations reveal psychological deterioration in over one-third of cases. We evaluate four generative models on 250 Prolonged Exposure (PE) therapy scenarios and 146 CBT cognitive restructuring exercises (plus 29 severity-escalated variants), scored by a three-ju",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 14,
+    "url": "https://arxiv.org/abs/2604.23445",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
     "id": "5d4f1384d0d8",
     "title": "Rethinking AI-Mediated Minority Support in Power-Imbalanced Group Decision-Making: From Anonymity To Authenticity",
     "summary": "arXiv:2604.22319v1 Announce Type: new Abstract: AI-mediated Communication (AIMC) systems increasingly aim to protect minority voices by anonymizing or proxying their input, but anonymity and authenticity are not the same construct. This position paper draws on an ongoing empirical study comparing two LLM-powered minority support strategies in hierarchical group decision-making. We found that relaying minority input anonymously through AI increased participation but significantly reduced psycholo",
@@ -662,9 +1187,37 @@
     "url": "https://www.nature.com/articles/s41525-026-00575-y",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-25T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:24.048Z",
+    "scrapedAt": "2026-04-28T17:49:02.199Z",
     "topics": [
       "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "d00be020b4f3",
+    "title": "NECHE Head Weighs In on College Closures, State of Accreditation",
+    "summary": "NECHE Head Weighs In on College Closures, State of Accreditation Josh Moody Tue, 04/28/2026 - 03:00 AM Larry Schall, who leads the accreditor, views the closures of member institutions in New England as tragic but believes existential concerns about the state of small colleges are overblown. Byline(s) Josh Moody",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 12,
+    "url": "https://www.insidehighered.com/news/governance/accreditation/2026/04/28/new-england-accreditor-weighs-college-closures",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-28T07:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.427Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "cd1a2a7cb591",
+    "title": "Learning in Blocks: A Multi Agent Debate Assisted Personalized Adaptive Learning Framework for Language Learning",
+    "summary": "arXiv:2604.22770v1 Announce Type: new Abstract: Most digital language learning curricula rely on discrete-item quizzes that test recall rather than applied conversational proficiency. When progression is driven by quiz performance, learners can advance despite persistent gaps in using grammar and vocabulary during interaction. Recent work on LLM-based judging suggests a path toward scoring open-ended conversations, but using interaction evidence to drive progression and review requires scoring p",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 12,
+    "url": "https://arxiv.org/abs/2604.22770",
+    "source": "arXiv - Computers & Society",
+    "publishedAt": "2026-04-28T04:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.343Z",
+    "topics": [
+      "Human Behaviour & Cognition"
     ]
   },
   {
@@ -676,7 +1229,7 @@
     "url": "https://www.highereddive.com/news/education-department-acts-survey-preliminary-injunction/818620/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-27T22:03:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.570Z",
+    "scrapedAt": "2026-04-28T17:49:01.431Z",
     "topics": [
       "Higher Education"
     ]
@@ -690,7 +1243,7 @@
     "url": "https://www.highereddive.com/news/michigan-state-university-michigan-huge-cuts/818490/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-27T09:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.570Z",
+    "scrapedAt": "2026-04-28T17:49:01.431Z",
     "topics": [
       "Research Culture"
     ]
@@ -775,7 +1328,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01297-y",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:24.048Z",
+    "scrapedAt": "2026-04-28T17:49:02.199Z",
     "topics": [
       "Research Culture"
     ]
@@ -789,7 +1342,7 @@
     "url": "https://www.nature.com/articles/s43247-026-03514-y",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:24.048Z",
+    "scrapedAt": "2026-04-28T17:49:02.199Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -803,7 +1356,7 @@
     "url": "https://www.nature.com/articles/s42256-026-01224-w",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.248Z",
+    "scrapedAt": "2026-04-28T17:49:02.182Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -817,7 +1370,7 @@
     "url": "https://www.nature.com/articles/s41597-026-07206-2",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-25T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:24.048Z",
+    "scrapedAt": "2026-04-28T17:49:02.199Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -831,7 +1384,7 @@
     "url": "https://www.highereddive.com/news/anna-maria-college-massachusetts-closure/818492/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-24T21:18:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.570Z",
+    "scrapedAt": "2026-04-28T17:49:01.431Z",
     "topics": [
       "Higher Education"
     ]
@@ -921,6 +1474,48 @@
     ]
   },
   {
+    "id": "7a8e6d0008f9",
+    "title": "China’s latest push to commercialize research: match 680,000 innovators with companies",
+    "summary": "",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-01202-7",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-04-28T00:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:02.199Z",
+    "topics": [
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "4df537736ee7",
+    "title": "The equity paradox of environmental DNA for biodiversity monitoring",
+    "summary": "",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-01349-3",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-04-28T00:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:02.199Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "39eccfa39cf1",
+    "title": "Rebalancing psychology in China",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s44271-026-00460-5",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-04-28T00:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:02.199Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
     "id": "a65dcbe051f4",
     "title": "Routine Computing: A Systematic Review of Sensing Daily Life Dimensions Towards Human-Centered Goals",
     "summary": "arXiv:2604.21934v1 Announce Type: new Abstract: Human routines structure daily life, yet remain challenging for computational systems to understand. This paper presents the first systematic review of routine computing, a previously implicit but increasingly recognized field that focuses on computationally sensing and modeling human behaviors. It synthesizes 203 studies published up to August 2025. The paper presents a new taxonomy of the literature, focusing on temporal structures, behavioral in",
@@ -971,7 +1566,7 @@
     "url": "https://www.nature.com/articles/s41746-026-02677-4",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.248Z",
+    "scrapedAt": "2026-04-28T17:49:02.182Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -985,9 +1580,23 @@
     "url": "https://www.nature.com/articles/s41467-026-71404-0",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:24.067Z",
+    "scrapedAt": "2026-04-28T17:49:02.068Z",
     "topics": [
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "ef098a7b64d8",
+    "title": "Daily briefing: Trump fires entire NSF advisory board",
+    "summary": "",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-01384-0",
+    "source": "Nature",
+    "publishedAt": "2026-04-27T00:00:00.000Z",
+    "scrapedAt": "2026-04-28T17:49:01.231Z",
+    "topics": [
+      "Science Policy & Funding"
     ]
   },
   {
@@ -1013,7 +1622,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01359-1",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-24T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:24.048Z",
+    "scrapedAt": "2026-04-28T17:49:02.199Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1027,7 +1636,7 @@
     "url": "https://www.nature.com/articles/s41537-026-00750-1",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-04-24T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:24.067Z",
+    "scrapedAt": "2026-04-28T17:49:02.068Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1041,7 +1650,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01071-0",
     "source": "Nature",
     "publishedAt": "2026-04-24T00:00:00.000Z",
-    "scrapedAt": "2026-04-27T22:56:23.310Z",
+    "scrapedAt": "2026-04-28T17:49:01.231Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1170,34 +1779,6 @@
     "scrapedAt": "2026-04-26T15:59:57.004Z",
     "topics": [
       "Higher Education"
-    ]
-  },
-  {
-    "id": "70f61a9354db",
-    "title": "A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level",
-    "summary": "",
-    "whyItMatters": "Higher education trends — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41597-026-07251-x",
-    "source": "Nature - Machine Learning",
-    "publishedAt": "2026-04-21T00:00:00.000Z",
-    "scrapedAt": "2026-04-26T15:59:57.709Z",
-    "topics": [
-      "Higher Education"
-    ]
-  },
-  {
-    "id": "6c1ae39c3d9a",
-    "title": "Predicting RNA 3D structure and conformers using a pre-trained secondary structure model and structure-aware attention",
-    "summary": "",
-    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s42256-026-01223-x",
-    "source": "Nature - Machine Learning",
-    "publishedAt": "2026-04-21T00:00:00.000Z",
-    "scrapedAt": "2026-04-26T15:59:57.709Z",
-    "topics": [
-      "Human Behaviour & Cognition"
     ]
   },
   {
