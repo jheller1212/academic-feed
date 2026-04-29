@@ -23,7 +23,7 @@
     "url": "https://arxiv.org/abs/2409.13869",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "AI & Emerging Tech",
       "Higher Education",
@@ -104,7 +104,7 @@
     "url": "https://arxiv.org/abs/2604.25525",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -119,7 +119,7 @@
     "url": "https://arxiv.org/abs/2604.25648",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -134,7 +134,7 @@
     "url": "https://arxiv.org/abs/2508.18090",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.350Z",
+    "scrapedAt": "2026-04-29T14:05:47.749Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -153,21 +153,6 @@
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "0a13d1f38718",
-    "title": "Higher education groups challenge Trump’s latest anti-DEI order",
-    "summary": "A coalition of organizations is suing over a directive that threatens to strip federal contracts from colleges over their diversity, equity and inclusion efforts.",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 39,
-    "url": "https://www.highereddive.com/news/higher-education-groups-challenge-trumps-latest-anti-dei-order/818131/",
-    "source": "Higher Ed Dive",
-    "publishedAt": "2026-04-22T09:00:00.000Z",
-    "scrapedAt": "2026-04-27T07:34:40.192Z",
-    "topics": [
-      "Research Culture",
-      "Higher Education"
     ]
   },
   {
@@ -195,7 +180,7 @@
     "url": "https://www.nature.com/articles/s44271-026-00461-4",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-04-26T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.192Z",
+    "scrapedAt": "2026-04-29T14:05:48.751Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -213,6 +198,22 @@
     "scrapedAt": "2026-04-27T22:56:23.339Z",
     "topics": [
       "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "175a89667b2a",
+    "title": "School boards and universities will both be affected by Ontario’s Bill 101 sweeping changes",
+    "summary": "The Ontario government recently introduced Bill 101, the Putting Student Achievement First Act that the province says intends to move “Ontario toward a more accountable, consistent and modern model of high-quality education.” Given that I was a member of the faculty advisory group that helped develop Ontario’s current assessment, evaluation and reporting policies, I was naturally interested in seeing what this new bill entails and the implications for our provincial education system. Unfortunate",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 33,
+    "url": "https://theconversation.com/school-boards-and-universities-will-both-be-affected-by-ontarios-bill-101-sweeping-changes-281412",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-29T12:58:20.000Z",
+    "scrapedAt": "2026-04-29T14:05:48.070Z",
+    "topics": [
+      "Research Culture",
+      "Higher Education",
       "Human Behaviour & Cognition"
     ]
   },
@@ -240,7 +241,7 @@
     "url": "https://arxiv.org/abs/2604.25200",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "Research Culture",
       "AI & Emerging Tech"
@@ -360,7 +361,7 @@
     "url": "https://arxiv.org/abs/2604.25601",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -374,7 +375,7 @@
     "url": "https://arxiv.org/abs/2604.25721",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -447,7 +448,7 @@
     "url": "https://arxiv.org/abs/2604.20864",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "PhD & PostDoc Life",
       "Research Culture"
@@ -497,6 +498,21 @@
       "PhD & PostDoc Life",
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "a01876c24c0d",
+    "title": "The explicit-Bayes hypothesis for cognition",
+    "summary": "",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s44159-026-00570-1",
+    "source": "Nature - Human Behaviour",
+    "publishedAt": "2026-04-29T00:00:00.000Z",
+    "scrapedAt": "2026-04-29T14:05:48.751Z",
+    "topics": [
+      "PhD & PostDoc Life",
+      "Human Behaviour & Cognition"
     ]
   },
   {
@@ -616,6 +632,21 @@
     ]
   },
   {
+    "id": "1cb2fb0fbb78",
+    "title": "AI ‘deadbots’ can fuel pathological grief and affect how we deal with death",
+    "summary": "Due to recent developments in artificial intelligence (AI), it’s now possible to digitally “revive” dead people and interact with them. These “resurrections” are sometimes voluntary and planned, but other times, they happen without the consent of families or loved ones. Humans have always fantasized about living forever. But what are we to make of this new way of “artificially” prolonging our existence? Is it desirable? What are the main ethical issues raised by the emergence of “griefbots” or “",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 21,
+    "url": "https://theconversation.com/ai-deadbots-can-fuel-pathological-grief-and-affect-how-we-deal-with-death-280683",
+    "source": "The Conversation",
+    "publishedAt": "2026-04-29T13:29:31.000Z",
+    "scrapedAt": "2026-04-29T14:05:48.070Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
     "id": "1be2c91d9235",
     "title": "Robots can run a marathon and play ping pong. But will they ever achieve true sporting greatness?",
     "summary": "Sony AI A humanoid robot recently made headlines around the world for running a half-marathon and beating the human world record. Around the same time, an AI-powered robot defeated an elite human player in table tennis. What the robot lacked in experience, it made up for by reacting faster and more consistently than any person could. These moments feel like milestones. Finally, it seems machines are stepping into one of the most human arenas – sports. But while it is tempting to frame this as ro",
@@ -624,7 +655,7 @@
     "url": "https://theconversation.com/robots-can-run-a-marathon-and-play-ping-pong-but-will-they-ever-achieve-true-sporting-greatness-281335",
     "source": "The Conversation",
     "publishedAt": "2026-04-28T23:43:03.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.678Z",
+    "scrapedAt": "2026-04-29T14:05:48.070Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -653,7 +684,7 @@
     "url": "https://www.highereddive.com/spons/the-librarys-next-chapter-a-strategic-role-in-solving-higher-educations/817783/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-27T09:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.533Z",
+    "scrapedAt": "2026-04-29T14:05:47.844Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -668,7 +699,7 @@
     "url": "https://www.nature.com/articles/s44304-026-00206-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.109Z",
+    "scrapedAt": "2026-04-29T14:05:48.700Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -720,6 +751,34 @@
     ]
   },
   {
+    "id": "7050543f32b4",
+    "title": "Faculty Concerned About ASU’s ‘Frankensteinian’ AI Course Builder",
+    "summary": "Faculty Concerned About ASU’s ‘Frankensteinian’ AI Course Builder Emma Whitford Wed, 04/29/2026 - 03:00 AM ASU debuted the web app quietly this month and faculty—whose content the AI pulls from—are concerned about how it works and who can access it. Byline(s) Emma Whitford",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 20,
+    "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/04/29/faculty-concerned-about-asus-new-ai-course",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-29T07:00:00.000Z",
+    "scrapedAt": "2026-04-29T14:05:47.856Z",
+    "topics": [
+      "Academic Careers"
+    ]
+  },
+  {
+    "id": "04ff78e025b0",
+    "title": "Possibly My Last View on the Trouble With Tenure",
+    "summary": "Possibly My Last View on the Trouble With Tenure Elizabeth Redden Wed, 04/29/2026 - 03:00 AM I’ve spent my whole career fighting against tenure. You can bet I’ll keep up the fight as long as I can. Byline(s) James C. Wetherbe",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 20,
+    "url": "https://www.insidehighered.com/opinion/views/2026/04/29/profs-possible-last-view-trouble-tenure-opinion",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-29T07:00:00.000Z",
+    "scrapedAt": "2026-04-29T14:05:47.856Z",
+    "topics": [
+      "Academic Careers"
+    ]
+  },
+  {
     "id": "8a7585555dbf",
     "title": "A Survey on LLM-based Conversational User Simulation",
     "summary": "arXiv:2604.24977v1 Announce Type: cross Abstract: User simulation has long played a vital role in computer science due to its potential to support a wide range of applications. Language, as the primary medium of human communication, forms the foundation of social interaction and behavior. Consequently, simulating conversational behavior has become a key area of study. Recent advancements in large language models (LLMs) have significantly catalyzed progress in this domain by enabling high-fidelit",
@@ -728,7 +787,7 @@
     "url": "https://arxiv.org/abs/2604.24977",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -742,7 +801,7 @@
     "url": "https://arxiv.org/abs/2604.25420",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -756,7 +815,7 @@
     "url": "https://arxiv.org/abs/2511.05501",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -770,7 +829,7 @@
     "url": "https://arxiv.org/abs/2406.06587",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech",
       "Science Policy & Funding"
@@ -785,7 +844,7 @@
     "url": "https://arxiv.org/abs/2604.25639",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -799,7 +858,7 @@
     "url": "https://arxiv.org/abs/2604.24808",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -813,7 +872,7 @@
     "url": "https://arxiv.org/abs/2604.25665",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.350Z",
+    "scrapedAt": "2026-04-29T14:05:47.749Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -827,7 +886,7 @@
     "url": "https://theconversation.com/ai-decides-what-we-see-online-its-time-digital-platforms-tell-us-exactly-how-they-do-it-281327",
     "source": "The Conversation",
     "publishedAt": "2026-04-28T20:09:40.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.678Z",
+    "scrapedAt": "2026-04-29T14:05:48.070Z",
     "topics": [
       "Research Culture",
       "AI & Emerging Tech"
@@ -1088,6 +1147,20 @@
     ]
   },
   {
+    "id": "4c7cc86eba78",
+    "title": "3 Brown University Students Sue Over December Shooting",
+    "summary": "3 Brown University Students Sue Over December Shooting Ryan Quinn Wed, 04/29/2026 - 03:00 AM Byline(s) Ryan Quinn",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 16,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/04/29/3-brown-university-students-sue-over-december-shooting",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-29T07:00:00.000Z",
+    "scrapedAt": "2026-04-29T14:05:47.856Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
     "id": "8e2c81831c16",
     "title": "Author response to commentaries on H is for Human and How (Not) to Evaluate Qualitative Research in HCI",
     "summary": "arXiv:2604.25312v1 Announce Type: new Abstract: This is the authors response to commentaries on the original article H is for Human and How (Not) to Evaluate Qualitative Research in HCI, https://doi.org/10.1080/07370024.2025.2475743 Commentaries were provided by: Jeffrey Bardzell, https://doi.org/10.1080/07370024.2025.2612474 Alan Blackwell, https://doi.org/10.1080/07370024.2025.2591878 Paul Dourish, https://doi.org/10.1080/07370024.2025.2594529 Bonnie Nardi, https://doi.org/10.1080/07370024.202",
@@ -1096,7 +1169,7 @@
     "url": "https://arxiv.org/abs/2604.25312",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1110,7 +1183,7 @@
     "url": "https://arxiv.org/abs/2602.23971",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1124,7 +1197,7 @@
     "url": "https://arxiv.org/abs/2603.10681",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1236,7 +1309,7 @@
     "url": "https://www.highereddive.com/news/east-carolina-university-cut-around-44-academic-programs/818622/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-27T20:48:11.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.533Z",
+    "scrapedAt": "2026-04-29T14:05:47.844Z",
     "topics": [
       "Research Culture"
     ]
@@ -1307,7 +1380,7 @@
     "url": "https://arxiv.org/abs/2604.25092",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1463,9 +1536,23 @@
     "url": "https://www.nature.com/articles/s41525-026-00575-y",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-25T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.109Z",
+    "scrapedAt": "2026-04-29T14:05:48.700Z",
     "topics": [
       "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "59e0ee46a077",
+    "title": "Report Highlights Men’s Precollege Sexual Education",
+    "summary": "Report Highlights Men’s Precollege Sexual Education Johanna Alonso Wed, 04/29/2026 - 03:00 AM Byline(s) Johanna Alonso",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 12,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/04/29/report-highlights-mens-precollege-sexual-education",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-04-29T07:00:00.000Z",
+    "scrapedAt": "2026-04-29T14:05:47.856Z",
+    "topics": [
+      "Higher Education"
     ]
   },
   {
@@ -1477,7 +1564,7 @@
     "url": "https://arxiv.org/abs/2604.23719",
     "source": "arXiv - AI",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.498Z",
+    "scrapedAt": "2026-04-29T14:05:48.030Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1491,7 +1578,7 @@
     "url": "https://arxiv.org/abs/2604.25022",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1505,7 +1592,7 @@
     "url": "https://arxiv.org/abs/2604.25443",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -1519,7 +1606,7 @@
     "url": "https://arxiv.org/abs/2604.24765",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.371Z",
+    "scrapedAt": "2026-04-29T14:05:47.763Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1533,7 +1620,7 @@
     "url": "https://arxiv.org/abs/2604.25014",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1547,7 +1634,7 @@
     "url": "https://arxiv.org/abs/2604.25049",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1559,11 +1646,25 @@
     "whyItMatters": "AI/tech development with academic implications — trending topic.",
     "relevanceScore": 12,
     "url": "https://www.nature.com/articles/s43247-026-03536-6",
-    "source": "Nature - Research Management",
+    "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.209Z",
+    "scrapedAt": "2026-04-29T14:05:48.700Z",
     "topics": [
       "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "f8f3b8c87b0d",
+    "title": "Mapping the Landscape of Open Access Dashboards - A Dataset for Research and Infrastructure Development",
+    "summary": "",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 12,
+    "url": "https://www.nature.com/articles/s41597-026-07217-z",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-04-29T00:00:00.000Z",
+    "scrapedAt": "2026-04-29T14:05:48.700Z",
+    "topics": [
+      "Research Culture"
     ]
   },
   {
@@ -1575,7 +1676,7 @@
     "url": "https://www.highereddive.com/news/saint-augustines-university-files-for-bankruptcy-following-accreditation-w/818760/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-28T20:32:23.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.533Z",
+    "scrapedAt": "2026-04-29T14:05:47.844Z",
     "topics": [
       "Research Culture"
     ]
@@ -1617,7 +1718,7 @@
     "url": "https://www.highereddive.com/news/education-department-acts-survey-preliminary-injunction/818620/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-27T22:03:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.533Z",
+    "scrapedAt": "2026-04-29T14:05:47.844Z",
     "topics": [
       "Higher Education"
     ]
@@ -1631,7 +1732,7 @@
     "url": "https://www.highereddive.com/news/michigan-state-university-michigan-huge-cuts/818490/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-27T09:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.533Z",
+    "scrapedAt": "2026-04-29T14:05:47.844Z",
     "topics": [
       "Research Culture"
     ]
@@ -1716,7 +1817,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01297-y",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.109Z",
+    "scrapedAt": "2026-04-29T14:05:48.700Z",
     "topics": [
       "Research Culture"
     ]
@@ -1730,7 +1831,7 @@
     "url": "https://www.nature.com/articles/s43247-026-03514-y",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.109Z",
+    "scrapedAt": "2026-04-29T14:05:48.700Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1744,7 +1845,7 @@
     "url": "https://www.nature.com/articles/s42256-026-01224-w",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.190Z",
+    "scrapedAt": "2026-04-29T14:05:48.762Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1758,7 +1859,7 @@
     "url": "https://www.nature.com/articles/s41597-026-07206-2",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-25T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.109Z",
+    "scrapedAt": "2026-04-29T14:05:48.700Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1772,7 +1873,7 @@
     "url": "https://www.highereddive.com/news/anna-maria-college-massachusetts-closure/818492/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-24T21:18:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.533Z",
+    "scrapedAt": "2026-04-29T14:05:47.844Z",
     "topics": [
       "Higher Education"
     ]
@@ -1856,7 +1957,7 @@
     "url": "https://arxiv.org/abs/2604.25455",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -1870,7 +1971,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01202-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-28T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.109Z",
+    "scrapedAt": "2026-04-29T14:05:48.700Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -1884,7 +1985,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01349-3",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-28T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.109Z",
+    "scrapedAt": "2026-04-29T14:05:48.700Z",
     "topics": [
       "Higher Education"
     ]
@@ -1898,7 +1999,7 @@
     "url": "https://www.nature.com/articles/s44271-026-00460-5",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-28T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.109Z",
+    "scrapedAt": "2026-04-29T14:05:48.700Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1954,7 +2055,7 @@
     "url": "https://www.nature.com/articles/s41746-026-02677-4",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.190Z",
+    "scrapedAt": "2026-04-29T14:05:48.762Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1968,7 +2069,7 @@
     "url": "https://www.nature.com/articles/s41467-026-71404-0",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:43.192Z",
+    "scrapedAt": "2026-04-29T14:05:48.751Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1982,7 +2083,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01384-0",
     "source": "Nature",
     "publishedAt": "2026-04-27T00:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.314Z",
+    "scrapedAt": "2026-04-29T14:05:47.727Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -2100,20 +2201,6 @@
     ]
   },
   {
-    "id": "a8c64410acb1",
-    "title": "Colleges get another year to comply with web accessibility deadlines",
-    "summary": "Reactions were mixed to the U.S. Department of Justice's extension for digitally accessible content managed by state and local government entities.",
-    "whyItMatters": "Higher education trends — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.highereddive.com/news/justice-department-extends-web-accessibility-deadlines/818133/",
-    "source": "Higher Ed Dive",
-    "publishedAt": "2026-04-22T09:00:00.000Z",
-    "scrapedAt": "2026-04-27T07:34:40.192Z",
-    "topics": [
-      "Higher Education"
-    ]
-  },
-  {
     "id": "974b28613409",
     "title": "Responsible Evaluation of AI for Mental Health",
     "summary": "arXiv:2602.00065v2 Announce Type: replace Abstract: Although artificial intelligence (AI) shows growing promise for mental health care, current approaches to evaluating AI tools in this domain remain fragmented and poorly aligned with clinical practice, social context, and first-hand user experience. This paper argues for a rethinking of responsible evaluation -- what is measured, by whom, and for what purpose -- by introducing an interdisciplinary framework that integrates clinical soundness, s",
@@ -2122,7 +2209,7 @@
     "url": "https://arxiv.org/abs/2602.00065",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2136,7 +2223,7 @@
     "url": "https://arxiv.org/abs/2604.19699",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2150,7 +2237,7 @@
     "url": "https://arxiv.org/abs/2604.25057",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.350Z",
+    "scrapedAt": "2026-04-29T14:05:47.749Z",
     "topics": [
       "Research Culture"
     ]
@@ -2178,7 +2265,7 @@
     "url": "https://arxiv.org/abs/2603.18117",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-04-29T04:00:00.000Z",
-    "scrapedAt": "2026-04-29T06:26:42.413Z",
+    "scrapedAt": "2026-04-29T14:05:47.784Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
