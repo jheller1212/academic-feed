@@ -54,7 +54,7 @@
     "url": "https://retractionwatch.com/2026/05/02/weekend-reads-retraction-cancer-researcher-paper-mill-ads-ieee-proceedings-study-chatgpt-learning/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-02T10:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.600Z",
+    "scrapedAt": "2026-05-02T20:47:20.683Z",
     "topics": [
       "Research Culture",
       "AI & Emerging Tech",
@@ -576,7 +576,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10425-7",
     "source": "Nature",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.149Z",
+    "scrapedAt": "2026-05-02T20:47:21.173Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -830,7 +830,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/05/01/pitt-offer-some-students-free-tuition-branch-campuses",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-01T07:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.400Z",
+    "scrapedAt": "2026-05-02T20:47:20.555Z",
     "topics": [
       "Higher Education"
     ]
@@ -931,7 +931,7 @@
     "url": "https://www.nature.com/articles/s44159-026-00570-1",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.993Z",
+    "scrapedAt": "2026-05-02T20:47:21.116Z",
     "topics": [
       "PhD & PostDoc Life",
       "Human Behaviour & Cognition"
@@ -1033,7 +1033,7 @@
     "url": "https://theconversation.com/how-individual-consciousness-works-and-makes-us-unique-281512",
     "source": "The Conversation",
     "publishedAt": "2026-05-01T09:21:06.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.461Z",
+    "scrapedAt": "2026-05-02T20:47:20.618Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1108,7 +1108,22 @@
     "url": "https://www.nature.com/articles/s41597-026-07344-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-02T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.962Z",
+    "scrapedAt": "2026-05-02T20:47:21.272Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "c6c0eeec373a",
+    "title": "Hybrid deep learning model for multimodal vocal and lung signal analysis in health monitoring",
+    "summary": "",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 21,
+    "url": "https://www.nature.com/articles/s41598-025-32779-0",
+    "source": "Nature - Machine Learning",
+    "publishedAt": "2026-05-02T00:00:00.000Z",
+    "scrapedAt": "2026-05-02T20:47:21.128Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1123,7 +1138,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72344-5",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-30T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.085Z",
+    "scrapedAt": "2026-05-02T20:47:21.128Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1169,7 +1184,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01152-0",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.085Z",
+    "scrapedAt": "2026-05-02T20:47:21.128Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1184,7 +1199,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10433-7",
     "source": "Nature",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.149Z",
+    "scrapedAt": "2026-05-02T20:47:21.173Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1828,7 +1843,7 @@
     "url": "https://theconversation.com/ai-chatbots-can-prioritize-flattery-over-facts-and-that-carries-serious-risks-274298",
     "source": "The Conversation",
     "publishedAt": "2026-05-01T12:23:44.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.461Z",
+    "scrapedAt": "2026-05-02T20:47:20.618Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1843,7 +1858,7 @@
     "url": "https://theconversation.com/ai-data-center-boom-is-leaving-consumer-electronics-short-of-chips-even-though-they-dont-use-the-same-kinds-277069",
     "source": "The Conversation",
     "publishedAt": "2026-05-01T12:20:39.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.461Z",
+    "scrapedAt": "2026-05-02T20:47:20.618Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1873,7 +1888,7 @@
     "url": "https://theconversation.com/uk-terror-threat-is-raised-counter-terror-expert-explains-how-official-prevention-strategies-work-281996",
     "source": "The Conversation",
     "publishedAt": "2026-05-01T15:54:09.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.461Z",
+    "scrapedAt": "2026-05-02T20:47:20.618Z",
     "topics": [
       "PhD & PostDoc Life",
       "Human Behaviour & Cognition"
@@ -2211,7 +2226,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01252-x",
     "source": "Nature Careers",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.952Z",
+    "scrapedAt": "2026-05-02T20:47:21.126Z",
     "topics": [
       "Academic Careers"
     ]
@@ -2282,7 +2297,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72299-7",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.085Z",
+    "scrapedAt": "2026-05-02T20:47:21.128Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2368,7 +2383,7 @@
     "url": "https://www.highereddive.com/news/southern-oregon-university-risks-closure-without-deep-cuts-consultants-say/818880/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-30T09:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.411Z",
+    "scrapedAt": "2026-05-02T20:47:20.566Z",
     "topics": [
       "Research Culture"
     ]
@@ -2411,7 +2426,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01203-6",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-30T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.962Z",
+    "scrapedAt": "2026-05-02T20:47:21.272Z",
     "topics": [
       "Research Culture"
     ]
@@ -2425,7 +2440,7 @@
     "url": "https://www.highereddive.com/news/students-sue-brown-university-say-lax-building-security-enabled-shooting/818819/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-29T23:27:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.411Z",
+    "scrapedAt": "2026-05-02T20:47:20.566Z",
     "topics": [
       "Research Culture"
     ]
@@ -2537,7 +2552,7 @@
     "url": "https://www.nature.com/articles/s43247-026-03536-6",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.962Z",
+    "scrapedAt": "2026-05-02T20:47:21.272Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2551,7 +2566,7 @@
     "url": "https://www.nature.com/articles/s41597-026-07217-z",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.962Z",
+    "scrapedAt": "2026-05-02T20:47:21.272Z",
     "topics": [
       "Research Culture"
     ]
@@ -2565,7 +2580,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01153-z",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.085Z",
+    "scrapedAt": "2026-05-02T20:47:21.128Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2579,7 +2594,7 @@
     "url": "https://www.highereddive.com/news/saint-augustines-university-files-for-bankruptcy-following-accreditation-w/818760/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-28T20:32:23.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.411Z",
+    "scrapedAt": "2026-05-02T20:47:20.566Z",
     "topics": [
       "Research Culture"
     ]
@@ -2762,7 +2777,7 @@
     "url": "https://www.insidehighered.com/news/faculty/labor-unionization/2026/05/01/loyola-uc-workers-strike-while-harvard-fights-continue",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-01T07:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.400Z",
+    "scrapedAt": "2026-05-02T20:47:20.555Z",
     "topics": [
       "Academic Careers"
     ]
@@ -2776,7 +2791,7 @@
     "url": "https://www.nature.com/articles/s41598-026-39214-y",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-02T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.085Z",
+    "scrapedAt": "2026-05-02T20:47:21.128Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2790,7 +2805,7 @@
     "url": "https://www.highereddive.com/news/67-of-high-school-graduates-opting-against-college-cite-cost-of-living-con/818862/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-01T09:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.411Z",
+    "scrapedAt": "2026-05-02T20:47:20.566Z",
     "topics": [
       "Higher Education"
     ]
@@ -2804,7 +2819,7 @@
     "url": "https://www.highereddive.com/news/american-bar-association-diversity-scholarship-fund-settlement/818887/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-30T21:17:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.411Z",
+    "scrapedAt": "2026-05-02T20:47:20.566Z",
     "topics": [
       "Higher Education"
     ]
@@ -2832,7 +2847,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01226-z",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-30T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.962Z",
+    "scrapedAt": "2026-05-02T20:47:21.272Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -2846,7 +2861,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72477-7",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-04-30T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.993Z",
+    "scrapedAt": "2026-05-02T20:47:21.116Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2874,7 +2889,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01273-6",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.962Z",
+    "scrapedAt": "2026-05-02T20:47:21.272Z",
     "topics": [
       "Higher Education"
     ]
@@ -2888,7 +2903,7 @@
     "url": "https://www.nature.com/articles/s44271-026-00458-z",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.993Z",
+    "scrapedAt": "2026-05-02T20:47:21.116Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2902,7 +2917,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10370-5",
     "source": "Nature",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.149Z",
+    "scrapedAt": "2026-05-02T20:47:21.173Z",
     "topics": [
       "Higher Education"
     ]
@@ -2916,7 +2931,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10434-6",
     "source": "Nature",
     "publishedAt": "2026-04-29T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.149Z",
+    "scrapedAt": "2026-05-02T20:47:21.173Z",
     "topics": [
       "Higher Education"
     ]
@@ -2930,7 +2945,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01202-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-28T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.962Z",
+    "scrapedAt": "2026-05-02T20:47:21.272Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -2944,7 +2959,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01349-3",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-28T00:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.962Z",
+    "scrapedAt": "2026-05-02T20:47:21.272Z",
     "topics": [
       "Higher Education"
     ]
@@ -3140,7 +3155,7 @@
     "url": "https://www.highereddive.com/news/commission-public-higher-education-state-laws/818856/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-30T09:00:00.000Z",
-    "scrapedAt": "2026-05-02T14:52:02.411Z",
+    "scrapedAt": "2026-05-02T20:47:20.566Z",
     "topics": [
       "Higher Education"
     ]
