@@ -23,7 +23,7 @@
     "url": "https://arxiv.org/abs/2602.12873",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "Research Culture",
       "AI & Emerging Tech",
@@ -40,7 +40,7 @@
     "url": "https://arxiv.org/abs/2605.00184",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition",
@@ -87,7 +87,7 @@
     "url": "https://retractionwatch.com/2026/05/02/weekend-reads-retraction-cancer-researcher-paper-mill-ads-ieee-proceedings-study-chatgpt-learning/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-02T10:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.430Z",
+    "scrapedAt": "2026-05-04T22:58:55.249Z",
     "topics": [
       "Research Culture",
       "AI & Emerging Tech",
@@ -274,7 +274,7 @@
     "url": "https://arxiv.org/abs/2605.00804",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech",
       "Science Policy & Funding"
@@ -289,7 +289,7 @@
     "url": "https://arxiv.org/abs/2605.00522",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech",
       "Science Policy & Funding"
@@ -364,7 +364,7 @@
     "url": "https://www.highereddive.com/news/why-gsas-anti-dei-certification-is-raising-alarm-in-higher-education/819061/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-04T09:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.400Z",
+    "scrapedAt": "2026-05-04T22:58:55.117Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -546,7 +546,7 @@
     "url": "https://www.insidehighered.com/opinion/columns/call-action/2026/05/04/higher-ed-was-built-scarcity-model-breaking",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-04T07:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.977Z",
+    "scrapedAt": "2026-05-04T22:58:55.063Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -561,7 +561,7 @@
     "url": "https://arxiv.org/abs/2509.24255",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -606,7 +606,7 @@
     "url": "https://arxiv.org/abs/2505.09901",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -628,6 +628,20 @@
     ]
   },
   {
+    "id": "7a0891170fd4",
+    "title": "ORI announces 15-year debarment against former Rice University scientist",
+    "summary": "The U.S Office of Research Integrity has formally announced a 15-year funding debarment against a former Rice University scientist for research misconduct, resolving allegations that arose 17 years ago. Chemist Ariel Fernández intentionally fabricated data in 12 grant-supported papers, four unpublished manuscripts, one presentation and three grant applications while a professor at Rice University in … Continue reading ORI announces 15-year debarment against former Rice University scientist",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 28,
+    "url": "https://retractionwatch.com/2026/05/04/ori-announces-15-year-debarment-against-former-rice-university-scientist/",
+    "source": "Retraction Watch",
+    "publishedAt": "2026-05-04T18:31:04.000Z",
+    "scrapedAt": "2026-05-04T22:58:55.249Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
     "id": "ac4c3fec14c0",
     "title": "MoDAl: Self-Supervised Neural Modality Discovery via Decorrelation for Speech Neuroprosthesis",
     "summary": "arXiv:2605.00025v1 Announce Type: cross Abstract: Speech neuroprosthesis systems decode intended speech from neural activity in the absence of audible output, offering a path to restoring communication for individuals with speech-impairing conditions. Current approaches decode predominantly from motor cortical areas, discarding others -- such as area 44, part of Broca's area -- that may encode complementary linguistic information. We introduce MoDAl (Modality Decorrelation and Alignment), a fram",
@@ -636,7 +650,7 @@
     "url": "https://arxiv.org/abs/2605.00025",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "PhD & PostDoc Life",
       "AI & Emerging Tech"
@@ -815,7 +829,7 @@
     "url": "https://arxiv.org/abs/2605.00556",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -846,7 +860,7 @@
     "url": "https://arxiv.org/abs/2605.00280",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -860,7 +874,7 @@
     "url": "https://arxiv.org/abs/2605.00764",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -875,7 +889,7 @@
     "url": "https://arxiv.org/abs/2605.00370",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.891Z",
+    "scrapedAt": "2026-05-04T22:58:54.989Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1108,7 +1122,7 @@
     "url": "https://arxiv.org/abs/2605.00361",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.891Z",
+    "scrapedAt": "2026-05-04T22:58:54.989Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1138,7 +1152,7 @@
     "url": "https://www.highereddive.com/news/university-of-michigan-virginia-tech-among-colleges-seeking-new-leaders/819125/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-04T09:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.400Z",
+    "scrapedAt": "2026-05-04T22:58:55.117Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -1153,7 +1167,7 @@
     "url": "https://www.nature.com/articles/s41597-026-07344-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-02T00:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.862Z",
+    "scrapedAt": "2026-05-04T22:58:55.689Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1168,7 +1182,7 @@
     "url": "https://www.nature.com/articles/s41598-025-32779-0",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-02T00:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.921Z",
+    "scrapedAt": "2026-05-04T22:58:55.692Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1183,7 +1197,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72344-5",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-04-30T00:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.921Z",
+    "scrapedAt": "2026-05-04T22:58:55.692Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1288,7 +1302,7 @@
     "url": "https://arxiv.org/abs/2605.00113",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1302,7 +1316,7 @@
     "url": "https://arxiv.org/abs/2410.01026",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1316,7 +1330,7 @@
     "url": "https://arxiv.org/abs/2601.17637",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1330,7 +1344,7 @@
     "url": "https://arxiv.org/abs/2605.00087",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.891Z",
+    "scrapedAt": "2026-05-04T22:58:54.989Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1344,7 +1358,7 @@
     "url": "https://arxiv.org/abs/2602.00074",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.891Z",
+    "scrapedAt": "2026-05-04T22:58:54.989Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1815,7 +1829,7 @@
     "url": "https://www.nature.com/articles/s41592-026-03051-8",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.921Z",
+    "scrapedAt": "2026-05-04T22:58:55.692Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -1933,7 +1947,7 @@
     "url": "https://theconversation.com/are-we-really-programmed-to-be-lazy-279776",
     "source": "The Conversation",
     "publishedAt": "2026-05-04T14:20:55.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.157Z",
+    "scrapedAt": "2026-05-04T22:58:55.184Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -1948,7 +1962,7 @@
     "url": "https://www.highereddive.com/news/week-in-review-financial-stress-at-saint-augustines-southern-oregon-univ/819117/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-04T09:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.400Z",
+    "scrapedAt": "2026-05-04T22:58:55.117Z",
     "topics": [
       "Research Culture"
     ]
@@ -1962,7 +1976,7 @@
     "url": "https://arxiv.org/abs/2605.00109",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1976,7 +1990,7 @@
     "url": "https://arxiv.org/abs/2605.00389",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.905Z",
+    "scrapedAt": "2026-05-04T22:58:55.071Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2249,20 +2263,6 @@
     ]
   },
   {
-    "id": "e51760240c84",
-    "title": "East Carolina University plans to cut 44 academic programs",
-    "summary": "The university launched a review of its offerings last fall along with a push to shed $25 million from its budget as it wrestles with enrollment pressure.",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 16,
-    "url": "https://www.highereddive.com/news/east-carolina-university-cut-around-44-academic-programs/818622/",
-    "source": "Higher Ed Dive",
-    "publishedAt": "2026-04-27T20:48:11.000Z",
-    "scrapedAt": "2026-04-30T21:04:55.518Z",
-    "topics": [
-      "Research Culture"
-    ]
-  },
-  {
     "id": "1cd9943b52a8",
     "title": "Orthodox Jewish Student Accuses Williams College of Housing Discrimination",
     "summary": "Orthodox Jewish Student Accuses Williams College of Housing Discrimination Sara Weissman Mon, 05/04/2026 - 03:00 AM Advocates hope it sends a message to other higher ed institutions to shore up religious accommodations in campus housing. Byline(s) Sara Weissman",
@@ -2271,7 +2271,7 @@
     "url": "https://www.insidehighered.com/news/diversity/religion/2026/05/04/williams-college-accused-fair-housing-act-violation",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-04T07:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.977Z",
+    "scrapedAt": "2026-05-04T22:58:55.063Z",
     "topics": [
       "Higher Education"
     ]
@@ -2285,7 +2285,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01252-x",
     "source": "Nature Careers",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.848Z",
+    "scrapedAt": "2026-05-04T22:58:55.650Z",
     "topics": [
       "Academic Careers"
     ]
@@ -2399,7 +2399,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/05/04/new-jersey-sued-over-state-tuition-undocumented-students",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-04T07:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.977Z",
+    "scrapedAt": "2026-05-04T22:58:55.063Z",
     "topics": [
       "Higher Education"
     ]
@@ -2413,7 +2413,7 @@
     "url": "https://www.insidehighered.com/opinion/columns/resident-scholar/2026/05/04/connections-episode-2-hbo-series-half-man",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-04T07:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.977Z",
+    "scrapedAt": "2026-05-04T22:58:55.063Z",
     "topics": [
       "Higher Education"
     ]
@@ -2427,7 +2427,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/05/04/after-board-axed-prior-nsf-heads-call-members-director",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-04T07:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.977Z",
+    "scrapedAt": "2026-05-04T22:58:55.063Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -2441,7 +2441,7 @@
     "url": "https://www.highereddive.com/news/southern-oregon-university-risks-closure-without-deep-cuts-consultants-say/818880/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-30T09:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.400Z",
+    "scrapedAt": "2026-05-04T22:58:55.117Z",
     "topics": [
       "Research Culture"
     ]
@@ -2484,7 +2484,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01203-6",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-30T00:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.862Z",
+    "scrapedAt": "2026-05-04T22:58:55.689Z",
     "topics": [
       "Research Culture"
     ]
@@ -2498,7 +2498,7 @@
     "url": "https://www.highereddive.com/news/students-sue-brown-university-say-lax-building-security-enabled-shooting/818819/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-29T23:27:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.400Z",
+    "scrapedAt": "2026-05-04T22:58:55.117Z",
     "topics": [
       "Research Culture"
     ]
@@ -2686,20 +2686,6 @@
     ]
   },
   {
-    "id": "721a530214c3",
-    "title": "Court blocks Education Department’s data demands for over 170 more colleges",
-    "summary": "The ruling expands an earlier pause on the agency’s collection of extensive race and sex admissions data for public colleges in 17 states.",
-    "whyItMatters": "Higher education trends — relevant to your academic audience.",
-    "relevanceScore": 12,
-    "url": "https://www.highereddive.com/news/education-department-acts-survey-preliminary-injunction/818620/",
-    "source": "Higher Ed Dive",
-    "publishedAt": "2026-04-27T22:03:00.000Z",
-    "scrapedAt": "2026-05-01T06:39:18.008Z",
-    "topics": [
-      "Higher Education"
-    ]
-  },
-  {
     "id": "32c1be762b81",
     "title": "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes",
     "summary": "arXiv:2605.00343v1 Announce Type: new Abstract: The study examines the adoption of artificial intelligence (AI) tools in education by analyzing the roles of institutional support, teacher confidence, and teacher concerns. It aims to determine whether teacher concerns moderate the relationship between institutional support and two outcomes: teacher confidence and attitudes toward AI adoption. The sample included 260 teachers from the Philippines. Composite scores were calculated for institutional",
@@ -2708,7 +2694,7 @@
     "url": "https://arxiv.org/abs/2605.00343",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.891Z",
+    "scrapedAt": "2026-05-04T22:58:54.989Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2728,6 +2714,20 @@
     ]
   },
   {
+    "id": "1528c8b98161",
+    "title": "Alpha phase coding supports feature binding during working memory maintenance",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s42003-026-10071-9",
+    "source": "Nature - Human Behaviour",
+    "publishedAt": "2026-05-04T00:00:00.000Z",
+    "scrapedAt": "2026-05-04T22:58:55.597Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
     "id": "18ecf6ac1d55",
     "title": "Supervised contrastive learning for cell stage classification of animal embryos",
     "summary": "",
@@ -2736,9 +2736,23 @@
     "url": "https://www.nature.com/articles/s41598-026-39214-y",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-02T00:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.921Z",
+    "scrapedAt": "2026-05-04T22:58:55.692Z",
     "topics": [
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "60d746d5169d",
+    "title": "How AI Agents Are Transforming Modern Marketing Strategy",
+    "summary": "Wharton marketing professor explains how AI, chatbots, and emerging agents are reshaping consumer decision-making and brand strategy.…Read More",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 9,
+    "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/how-ai-agents-are-transforming-modern-marketing-strategy/",
+    "source": "Knowledge at Wharton",
+    "publishedAt": "2026-05-01T16:02:50.000Z",
+    "scrapedAt": "2026-05-04T22:58:55.103Z",
+    "topics": [
+      "Science Policy & Funding"
     ]
   },
   {
@@ -2750,7 +2764,7 @@
     "url": "https://www.highereddive.com/news/67-of-high-school-graduates-opting-against-college-cite-cost-of-living-con/818862/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-01T09:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.400Z",
+    "scrapedAt": "2026-05-04T22:58:55.117Z",
     "topics": [
       "Higher Education"
     ]
@@ -2764,7 +2778,7 @@
     "url": "https://www.highereddive.com/news/american-bar-association-diversity-scholarship-fund-settlement/818887/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-30T21:17:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.400Z",
+    "scrapedAt": "2026-05-04T22:58:55.117Z",
     "topics": [
       "Higher Education"
     ]
@@ -2792,7 +2806,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01226-z",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-04-30T00:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.862Z",
+    "scrapedAt": "2026-05-04T22:58:55.689Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -2806,7 +2820,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72477-7",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-04-30T00:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.854Z",
+    "scrapedAt": "2026-05-04T22:58:55.597Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2988,7 +3002,7 @@
     "url": "https://arxiv.org/abs/2605.00315",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-04T04:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:39.891Z",
+    "scrapedAt": "2026-05-04T22:58:54.989Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3002,7 +3016,7 @@
     "url": "https://www.highereddive.com/news/commission-public-higher-education-state-laws/818856/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-04-30T09:00:00.000Z",
-    "scrapedAt": "2026-05-04T17:43:40.400Z",
+    "scrapedAt": "2026-05-04T22:58:55.117Z",
     "topics": [
       "Higher Education"
     ]
