@@ -8,7 +8,7 @@
     "url": "https://theconversation.com/college-students-are-noticing-their-ai-smoothed-writing-sounds-strong-and-not-like-them-279436",
     "source": "The Conversation",
     "publishedAt": "2026-05-06T13:51:53.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.700Z",
+    "scrapedAt": "2026-05-06T19:50:13.742Z",
     "topics": [
       "Research Culture",
       "AI & Emerging Tech",
@@ -90,7 +90,7 @@
     "url": "https://retractionwatch.com/2026/05/02/weekend-reads-retraction-cancer-researcher-paper-mill-ads-ieee-proceedings-study-chatgpt-learning/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-02T10:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.903Z",
+    "scrapedAt": "2026-05-06T19:50:14.011Z",
     "topics": [
       "Research Culture",
       "AI & Emerging Tech",
@@ -121,7 +121,7 @@
     "url": "https://www.nature.com/articles/d41586-026-00797-1",
     "source": "Nature Careers",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.274Z",
+    "scrapedAt": "2026-05-06T19:50:14.301Z",
     "topics": [
       "PhD & PostDoc Life",
       "Academic Careers",
@@ -160,6 +160,23 @@
     ]
   },
   {
+    "id": "832d511a46b4",
+    "title": "The Conversation UK Climate Poetry Award Terms & Conditions 2026",
+    "summary": "The Promoter The promoter of this competition is The Conversation Trust (UK), a non-profit company limited by guarantee (number 08158264), with its registered office at Shropshire House (4th Floor), 11-20 Capper Street, London, WC1E 6JA. For queries about this competition, please contact climatepoetry@theconversation.com. 1. How to enter 1.1. The competition will close on September 1 at 11.59pm BST (the “Closing Date”). 1.2. All submissions to be made via the entry form and must be received no l",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 41,
+    "url": "https://theconversation.com/the-conversation-uk-climate-poetry-award-terms-and-conditions-2026-281957",
+    "source": "The Conversation",
+    "publishedAt": "2026-05-06T15:02:07.000Z",
+    "scrapedAt": "2026-05-06T19:50:13.742Z",
+    "topics": [
+      "PhD & PostDoc Life",
+      "Research Culture",
+      "AI & Emerging Tech",
+      "Science Policy & Funding"
+    ]
+  },
+  {
     "id": "dd038ee82a57",
     "title": "Math Education Digital Shadows for facilitating learning with LLMs: Math performance, anxiety and confidence in simulated students and AIs",
     "summary": "arXiv:2604.27618v1 Announce Type: cross Abstract: To enhance LLMs' impact on math education, we need data on their mathematical prowess and biases across prompts. To fill this gap, we introduce MEDS (Math Education Digital Shadows) as a dataset mapping how large language models reason about and report mathematics across human- and AI-like conditions. MEDS involves 28,000 personas from 14 LLMs (from families like Mistral, Qwen, DeepSeek, Granite, Phi and Grok) shadowing either humans or AI assist",
@@ -183,7 +200,7 @@
     "url": "https://www.insidehighered.com/news/diversity/age/2026/05/06/whats-behind-drop-new-adult-learners-fall",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-06T12:32:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.573Z",
+    "scrapedAt": "2026-05-06T19:50:13.700Z",
     "topics": [
       "AI & Emerging Tech",
       "Higher Education"
@@ -205,6 +222,38 @@
     ]
   },
   {
+    "id": "2e3bffcd8255",
+    "title": "Canada’s first Inuit-led university is coming to Nunavut — here’s why it matters",
+    "summary": "The small community of Arviat, Nvt., has reportedly been selected to host the main campus of Inuit Nunangat University, the first Inuit-led university in Canada. The institution is expected to open in 2030. Inuit Tapiriit Kanatami (ITK), which represents Canada’s 70,000 Inuit, passed a resolution to develop the university in 2017, “marking a significant step toward self-determination in higher education.” The vision and plans for the university reflect a common saying among the Indigenous People",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 39,
+    "url": "https://theconversation.com/canadas-first-inuit-led-university-is-coming-to-nunavut-heres-why-it-matters-281616",
+    "source": "The Conversation",
+    "publishedAt": "2026-05-06T17:19:01.000Z",
+    "scrapedAt": "2026-05-06T19:50:13.742Z",
+    "topics": [
+      "Research Culture",
+      "Higher Education",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "08c05f40ead6",
+    "title": "Introducing The Conversation Climate Poetry Award – for UK-based academics",
+    "summary": "HappyBall3692/Shutterstock We’re launching a new poetry award to bring science and creativity closer together. Too often, research can stay locked in academic language – but poetry offers a powerful way to make ideas felt, not just understood. This prize is for UK-based researchers who want to explore the climate crisis through a different lens, blending insight with imagination to reach wider audiences and spark new conversations. For this competition – the first of its kind for The Conversatio",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 39,
+    "url": "https://theconversation.com/introducing-the-conversation-climate-poetry-award-for-uk-based-academics-281591",
+    "source": "The Conversation",
+    "publishedAt": "2026-05-06T14:59:04.000Z",
+    "scrapedAt": "2026-05-06T19:50:13.742Z",
+    "topics": [
+      "PhD & PostDoc Life",
+      "Research Culture",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
     "id": "3579f8caefd5",
     "title": "Hypergraph Multi-Modal Learning for EEG-based Emotion Recognition in Conversation",
     "summary": "arXiv:2502.21154v3 Announce Type: replace Abstract: Emotional Recognition in Conversation (ERC) is valuable for diagnosing health conditions such as autism and depression, and for understanding the emotions of individuals who struggle to express their feelings. Current ERC methods primarily rely on semantic, audio and visual data but face significant challenges in integrating physiological signals such as Electroencephalography (EEG). This research proposes Hypergraph Multi-Modal Learning (Hyper",
@@ -213,7 +262,7 @@
     "url": "https://arxiv.org/abs/2502.21154",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -333,7 +382,7 @@
     "url": "https://arxiv.org/abs/2605.03217",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.565Z",
+    "scrapedAt": "2026-05-06T19:50:13.572Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -378,7 +427,7 @@
     "url": "https://theconversation.com/so-your-new-co-worker-is-an-ai-agent-heres-how-to-make-the-best-of-your-human-machine-relationship-276011",
     "source": "The Conversation",
     "publishedAt": "2026-05-06T12:26:13.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.700Z",
+    "scrapedAt": "2026-05-06T19:50:13.742Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -393,7 +442,7 @@
     "url": "https://www.highereddive.com/news/why-gsas-anti-dei-certification-is-raising-alarm-in-higher-education/819061/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-04T09:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.813Z",
+    "scrapedAt": "2026-05-06T19:50:13.703Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -424,7 +473,7 @@
     "url": "https://arxiv.org/abs/2605.03287",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -439,7 +488,7 @@
     "url": "https://arxiv.org/abs/2505.13246",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "Research Culture",
       "AI & Emerging Tech"
@@ -454,7 +503,7 @@
     "url": "https://arxiv.org/abs/2605.03998",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.565Z",
+    "scrapedAt": "2026-05-06T19:50:13.572Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -469,7 +518,7 @@
     "url": "https://arxiv.org/abs/2603.05189",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.565Z",
+    "scrapedAt": "2026-05-06T19:50:13.572Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -484,7 +533,7 @@
     "url": "https://theconversation.com/what-do-you-want-to-be-the-spark-that-helps-indigenous-people-go-to-uni-281870",
     "source": "The Conversation",
     "publishedAt": "2026-05-06T02:55:43.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.700Z",
+    "scrapedAt": "2026-05-06T19:50:13.742Z",
     "topics": [
       "Research Culture",
       "Higher Education",
@@ -620,7 +669,7 @@
     "url": "https://arxiv.org/abs/2509.24255",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -665,7 +714,7 @@
     "url": "https://arxiv.org/abs/2509.13324",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -771,7 +820,7 @@
     "url": "https://retractionwatch.com/2026/05/04/ori-announces-15-year-debarment-against-former-rice-university-scientist/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-04T18:31:04.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.903Z",
+    "scrapedAt": "2026-05-06T19:50:14.011Z",
     "topics": [
       "Research Culture"
     ]
@@ -800,7 +849,7 @@
     "url": "https://arxiv.org/abs/2605.02899",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -844,7 +893,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72467-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.280Z",
+    "scrapedAt": "2026-05-06T19:50:14.323Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -1241,7 +1290,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01426-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.416Z",
+    "scrapedAt": "2026-05-06T19:50:14.306Z",
     "topics": [
       "Research Culture",
       "Science Policy & Funding"
@@ -1256,7 +1305,7 @@
     "url": "https://www.highereddive.com/news/university-of-michigan-virginia-tech-among-colleges-seeking-new-leaders/819125/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-04T09:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.813Z",
+    "scrapedAt": "2026-05-06T19:50:13.703Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -1271,7 +1320,7 @@
     "url": "https://www.nature.com/articles/s41597-026-07344-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-02T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.416Z",
+    "scrapedAt": "2026-05-06T19:50:14.306Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1286,7 +1335,7 @@
     "url": "https://www.nature.com/articles/s41598-025-32779-0",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-02T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.479Z",
+    "scrapedAt": "2026-05-06T19:50:13.479Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1316,7 +1365,7 @@
     "url": "https://theconversation.com/as-david-attenborough-turns-100-four-experts-explore-his-legacy-from-science-to-storytelling-279275",
     "source": "The Conversation",
     "publishedAt": "2026-05-06T10:11:50.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.700Z",
+    "scrapedAt": "2026-05-06T19:50:13.742Z",
     "topics": [
       "Research Culture",
       "Human Behaviour & Cognition",
@@ -1332,7 +1381,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/05/06/uw-system-will-give-raises-faculty-high-demand-fields",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-06T07:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.573Z",
+    "scrapedAt": "2026-05-06T19:50:13.700Z",
     "topics": [
       "Academic Careers"
     ]
@@ -1346,7 +1395,7 @@
     "url": "https://arxiv.org/abs/2605.04029",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1360,7 +1409,7 @@
     "url": "https://arxiv.org/abs/2605.03465",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition",
@@ -1376,7 +1425,7 @@
     "url": "https://arxiv.org/abs/2602.12631",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1390,7 +1439,7 @@
     "url": "https://arxiv.org/abs/2605.03604",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.565Z",
+    "scrapedAt": "2026-05-06T19:50:13.572Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1404,7 +1453,7 @@
     "url": "https://retractionwatch.com/2026/05/05/court-orders-historian-to-repay-grant-funding-for-pattern-of-plagiarism-in-books/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-05T14:30:53.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.903Z",
+    "scrapedAt": "2026-05-06T19:50:14.011Z",
     "topics": [
       "Research Culture"
     ]
@@ -1807,21 +1856,6 @@
     ]
   },
   {
-    "id": "dd4aafdeda76",
-    "title": "South Africa’s AI policy cited fake research, created by AI: what lessons need to be learned",
-    "summary": "Information integrity and human checks are at the heart of the matter. Alan Warburton/betterimagesofai.org/© BBC, CC BY South Africa’s first attempt to establish a binding artificial intelligence (AI) policy framework came to an abrupt halt just 16 days after it was officially gazetted. On 10 April, the Department of Communications and Digital Technologies published the Draft South Africa National Artificial Intelligence Policy for public comment. Journalists checked the references and found tha",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 20,
-    "url": "https://theconversation.com/south-africas-ai-policy-cited-fake-research-created-by-ai-what-lessons-need-to-be-learned-281671",
-    "source": "The Conversation",
-    "publishedAt": "2026-04-29T15:06:10.000Z",
-    "scrapedAt": "2026-04-30T03:31:29.170Z",
-    "topics": [
-      "Research Culture",
-      "AI & Emerging Tech"
-    ]
-  },
-  {
     "id": "8ef9a942eb43",
     "title": "The EU measures media freedom country by country, but cross-border risks remain overlooked",
     "summary": "Europe has spent years building effective tools to measure media pluralism within its member states. This made sense because newspapers, broadcasters, regulators, ownership structures and public service media were organised within national borders. But the media environment is changing. News is now distributed through global digital platforms, and its provision is not necessarily mediated by professional journalists. Information is shaped by algorithms, exposed to foreign information manipulatio",
@@ -1860,7 +1894,7 @@
     "url": "https://theconversation.com/additional-learning-needs-present-a-key-challenge-for-the-incoming-senedd-281048",
     "source": "The Conversation",
     "publishedAt": "2026-05-06T12:39:04.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.700Z",
+    "scrapedAt": "2026-05-06T19:50:13.742Z",
     "topics": [
       "Higher Education",
       "Human Behaviour & Cognition"
@@ -1875,7 +1909,7 @@
     "url": "https://arxiv.org/abs/2605.03882",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1890,7 +1924,7 @@
     "url": "https://arxiv.org/abs/2602.21874",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1920,7 +1954,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02452-1",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.280Z",
+    "scrapedAt": "2026-05-06T19:50:14.323Z",
     "topics": [
       "Higher Education",
       "Human Behaviour & Cognition"
@@ -1935,7 +1969,7 @@
     "url": "https://www.nature.com/articles/s44159-026-00568-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.280Z",
+    "scrapedAt": "2026-05-06T19:50:14.323Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -1950,7 +1984,7 @@
     "url": "https://www.nature.com/articles/s41592-026-03051-8",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.479Z",
+    "scrapedAt": "2026-05-06T19:50:13.479Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -1980,7 +2014,7 @@
     "url": "https://theconversation.com/need-to-see-a-psychologist-how-to-find-one-thats-right-for-you-280573",
     "source": "The Conversation",
     "publishedAt": "2026-05-06T05:48:55.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.700Z",
+    "scrapedAt": "2026-05-06T19:50:13.742Z",
     "topics": [
       "Research Culture",
       "Human Behaviour & Cognition"
@@ -2032,6 +2066,20 @@
     ]
   },
   {
+    "id": "d87b87e0164f",
+    "title": "Russian news outlets hailed a cancer breakthrough, but the retraction went unnoticed",
+    "summary": "In August 2021, several news outlets in Russia reported a cancer breakthrough: Researchers at the chemistry and biophysics institutes affiliated with the Russian Academy of Sciences had developed a new kind of nanoparticle that could help detect breast cancer in an MRI and kill tumor cells at the same time. State-run media and several Russian … Continue reading Russian news outlets hailed a cancer breakthrough, but the retraction went unnoticed",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 16,
+    "url": "https://retractionwatch.com/2026/05/06/russian-news-outlets-hailed-a-cancer-breakthrough-but-the-retraction-went-unnoticed/",
+    "source": "Retraction Watch",
+    "publishedAt": "2026-05-06T14:56:44.000Z",
+    "scrapedAt": "2026-05-06T19:50:14.011Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
     "id": "2d188dbb13c9",
     "title": "Kent State University to lay off up to 45 staffers",
     "summary": "The university is trying to head off a projected $18 million budget gap for fiscal 2027, though the president says it is in a relatively strong financial position.",
@@ -2040,7 +2088,7 @@
     "url": "https://www.highereddive.com/news/kent-state-university-lay-off-45-staff/819366/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-06T09:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.813Z",
+    "scrapedAt": "2026-05-06T19:50:13.703Z",
     "topics": [
       "Research Culture"
     ]
@@ -2054,7 +2102,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/05/06/nm-highlands-university-president-placed-paid-leave",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-06T07:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.573Z",
+    "scrapedAt": "2026-05-06T19:50:13.700Z",
     "topics": [
       "Research Culture"
     ]
@@ -2068,7 +2116,7 @@
     "url": "https://arxiv.org/abs/2605.02897",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2082,7 +2130,7 @@
     "url": "https://arxiv.org/abs/2512.20298",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2096,7 +2144,7 @@
     "url": "https://retractionwatch.com/2026/05/05/winning-science-fair-project-in-vietnam-beset-by-misconduct-allegations-as-major-high-school-competition-looms/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-05T22:16:31.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.903Z",
+    "scrapedAt": "2026-05-06T19:50:14.011Z",
     "topics": [
       "Research Culture"
     ]
@@ -2125,7 +2173,7 @@
     "url": "https://www.highereddive.com/news/week-in-review-financial-stress-at-saint-augustines-southern-oregon-univ/819117/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-04T09:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.813Z",
+    "scrapedAt": "2026-05-06T19:50:13.703Z",
     "topics": [
       "Research Culture"
     ]
@@ -2294,7 +2342,7 @@
     "url": "https://www.insidehighered.com/news/students/free-speech/2026/05/06/colleges-using-institutional-neutrality-suppress-speech",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-06T07:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.573Z",
+    "scrapedAt": "2026-05-06T19:50:13.700Z",
     "topics": [
       "Higher Education"
     ]
@@ -2370,21 +2418,6 @@
     ]
   },
   {
-    "id": "eaaeaa371e0e",
-    "title": "Rock art, dance and ritual: what we learned from paintings in Zimbabwe",
-    "summary": "Rock paintings are found throughout Zimbabwe. They were made during the last 10,000 years by hunter gatherer groups and later by farming communities. These came to the attention of the ERC Artsoundscapes project, based in Spain, in 2021. The project brings together experts in archaeology, ethnography, psychology and acoustic engineering to explore how humans understood sound in prehistoric times. Our team has studied some of the rock art of South Africa in which dance scenes are depicted, and we",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 15,
-    "url": "https://theconversation.com/rock-art-dance-and-ritual-what-we-learned-from-paintings-in-zimbabwe-279266",
-    "source": "The Conversation",
-    "publishedAt": "2026-04-29T15:06:36.000Z",
-    "scrapedAt": "2026-04-30T03:31:29.170Z",
-    "topics": [
-      "Research Culture",
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
     "id": "2932e6a995b6",
     "title": "DOJ Continues Fight Over Minnesota’s In-State Tuition Policy for Noncitizens",
     "summary": "DOJ Continues Fight Over Minnesota’s In-State Tuition Policy for Noncitizens Sara Weissman Wed, 05/06/2026 - 03:00 AM Byline(s) Sara Weissman",
@@ -2393,9 +2426,23 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/05/06/doj-continues-fight-minnesota-over-state-tuition",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-06T07:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.573Z",
+    "scrapedAt": "2026-05-06T19:50:13.700Z",
     "topics": [
       "Higher Education"
+    ]
+  },
+  {
+    "id": "a169221f176d",
+    "title": "First AI tool to detect suspicious peer reviews rolled out by academic publisher",
+    "summary": "",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 12,
+    "url": "https://www.nature.com/articles/d41586-026-01454-3",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "scrapedAt": "2026-05-06T19:50:14.306Z",
+    "topics": [
+      "Research Culture"
     ]
   },
   {
@@ -2407,7 +2454,7 @@
     "url": "https://www.highereddive.com/news/smith-college-faces-title-ix-probe-over-policy-of-admitting-trans-students/819358/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-05T14:29:02.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.813Z",
+    "scrapedAt": "2026-05-06T19:50:13.703Z",
     "topics": [
       "Higher Education"
     ]
@@ -2505,7 +2552,7 @@
     "url": "https://www.nature.com/articles/d41586-026-00508-w",
     "source": "Nature Careers",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.274Z",
+    "scrapedAt": "2026-05-06T19:50:14.301Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2519,7 +2566,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01422-x",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.416Z",
+    "scrapedAt": "2026-05-06T19:50:14.306Z",
     "topics": [
       "Research Culture"
     ]
@@ -2674,7 +2721,7 @@
     "url": "https://arxiv.org/abs/2601.04025",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.565Z",
+    "scrapedAt": "2026-05-06T19:50:13.572Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2688,7 +2735,7 @@
     "url": "https://www.nature.com/articles/s41386-026-02433-y",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.280Z",
+    "scrapedAt": "2026-05-06T19:50:14.323Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2702,7 +2749,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01407-w",
     "source": "Nature",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.517Z",
+    "scrapedAt": "2026-05-06T19:50:13.556Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2716,9 +2763,51 @@
     "url": "https://www.nature.com/articles/s44271-026-00462-3",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.280Z",
+    "scrapedAt": "2026-05-06T19:50:14.323Z",
     "topics": [
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "a936068ec82e",
+    "title": "Expanding the human proteome with microproteins and peptideins",
+    "summary": "",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41586-026-10459-x",
+    "source": "Nature",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "scrapedAt": "2026-05-06T19:50:13.556Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "1d26445b9f9a",
+    "title": "Plasticity and language in the anaesthetized human hippocampus",
+    "summary": "",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41586-026-10448-0",
+    "source": "Nature",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "scrapedAt": "2026-05-06T19:50:13.556Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "670ea720f04a",
+    "title": "Quantum coherent manipulation and readout of superconducting vortex states",
+    "summary": "",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/s41586-026-10441-7",
+    "source": "Nature",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "scrapedAt": "2026-05-06T19:50:13.556Z",
+    "topics": [
+      "Science Policy & Funding"
     ]
   },
   {
@@ -2730,7 +2819,7 @@
     "url": "https://www.highereddive.com/news/bard-college-president-retire-probe-ties-epstein/819259/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-05T09:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.813Z",
+    "scrapedAt": "2026-05-06T19:50:13.703Z",
     "topics": [
       "Higher Education"
     ]
@@ -2744,7 +2833,7 @@
     "url": "https://www.highereddive.com/news/doj-revives-fight-against-minnesotas-in-state-tuition-for-undocumented-stu/819189/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-05T09:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.813Z",
+    "scrapedAt": "2026-05-06T19:50:13.703Z",
     "topics": [
       "Higher Education"
     ]
@@ -2772,7 +2861,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02443-2",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.280Z",
+    "scrapedAt": "2026-05-06T19:50:14.323Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2786,7 +2875,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72146-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.280Z",
+    "scrapedAt": "2026-05-06T19:50:14.323Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2800,7 +2889,7 @@
     "url": "https://www.nature.com/articles/s42003-026-10071-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:40.280Z",
+    "scrapedAt": "2026-05-06T19:50:14.323Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2814,7 +2903,7 @@
     "url": "https://www.nature.com/articles/s41598-026-39214-y",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-02T00:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.479Z",
+    "scrapedAt": "2026-05-06T19:50:13.479Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2912,7 +3001,7 @@
     "url": "https://arxiv.org/abs/2605.02901",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2926,7 +3015,7 @@
     "url": "https://arxiv.org/abs/2605.03367",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.542Z",
+    "scrapedAt": "2026-05-06T19:50:13.600Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2968,7 +3057,7 @@
     "url": "https://arxiv.org/abs/2605.03304",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.565Z",
+    "scrapedAt": "2026-05-06T19:50:13.572Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -2982,7 +3071,7 @@
     "url": "https://arxiv.org/abs/2605.03210",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.565Z",
+    "scrapedAt": "2026-05-06T19:50:13.572Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2996,7 +3085,7 @@
     "url": "https://arxiv.org/abs/2605.03512",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.565Z",
+    "scrapedAt": "2026-05-06T19:50:13.572Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3010,7 +3099,7 @@
     "url": "https://arxiv.org/abs/2512.17795",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-05-06T04:00:00.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.559Z",
+    "scrapedAt": "2026-05-06T19:50:13.562Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3024,7 +3113,7 @@
     "url": "https://knowledge.wharton.upenn.edu/article/when-ai-transparency-backfires/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-05-05T16:42:44.000Z",
-    "scrapedAt": "2026-05-06T14:22:39.752Z",
+    "scrapedAt": "2026-05-06T19:50:13.791Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
