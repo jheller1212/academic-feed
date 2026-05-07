@@ -105,7 +105,7 @@
     "url": "https://arxiv.org/abs/2605.05144",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "PhD & PostDoc Life",
       "Human Behaviour & Cognition"
@@ -120,7 +120,7 @@
     "url": "https://www.nature.com/articles/d41586-026-00797-1",
     "source": "Nature Careers",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.291Z",
+    "scrapedAt": "2026-05-07T14:21:32.792Z",
     "topics": [
       "PhD & PostDoc Life",
       "Academic Careers",
@@ -214,7 +214,7 @@
     "url": "https://theconversation.com/canadas-first-inuit-led-university-is-coming-to-nunavut-heres-why-it-matters-281616",
     "source": "The Conversation",
     "publishedAt": "2026-05-06T17:19:01.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.659Z",
+    "scrapedAt": "2026-05-07T14:21:32.236Z",
     "topics": [
       "Research Culture",
       "Higher Education",
@@ -291,7 +291,7 @@
     "url": "https://arxiv.org/abs/2605.04227",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition",
@@ -367,7 +367,7 @@
     "url": "https://arxiv.org/abs/2605.04779",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -404,21 +404,6 @@
     ]
   },
   {
-    "id": "b8c370512084",
-    "title": "Overcoming the algorithmic gender bias in AI-driven personal finance",
-    "summary": "Artificial intelligence is transforming our world and financial services are no exception. AI is reshaping the personal banking sector but where does it currently stand on gender parity, transparency and fairness? When someone applies for a loan today, there is a growing chance that no human ever reads their application. A data-driven algorithm decides whether they qualify, how much they can borrow, and how risky they are considered, often in a matter of seconds and without explanation, quietly ",
-    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
-    "relevanceScore": 34,
-    "url": "https://theconversation.com/overcoming-the-algorithmic-gender-bias-in-ai-driven-personal-finance-281250",
-    "source": "The Conversation",
-    "publishedAt": "2026-04-30T09:27:23.000Z",
-    "scrapedAt": "2026-04-30T21:04:55.461Z",
-    "topics": [
-      "Human Behaviour & Cognition",
-      "Science Policy & Funding"
-    ]
-  },
-  {
     "id": "bd8a3310b120",
     "title": "To Fuse or to Drop? Dual-Path Learning for Resolving Modality Conflicts in Multimodal Emotion Recognition",
     "summary": "arXiv:2605.04877v1 Announce Type: cross Abstract: Multimodal emotion recognition (MER) benefits from combining text, audio, and vision, yet standard fusion often fails when modalities conflict. Crucially, conflicts differ in resolvability: benign conflicts stem from missing, weak, or ambiguous cues and can be mitigated by cross-modal calibration, while severe conflicts arise from intrinsically contradictory (e.g., sarcasm) or misleading signals, for which forced fusion may amplify errors. Recogn",
@@ -427,7 +412,7 @@
     "url": "https://arxiv.org/abs/2605.04877",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -487,7 +472,7 @@
     "url": "https://arxiv.org/abs/2605.04534",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -682,7 +667,7 @@
     "url": "https://theconversation.com/federal-investigation-into-smith-college-probes-whether-transgender-students-can-attend-womens-schools-challenging-the-evolving-mission-of-womens-education-282219",
     "source": "The Conversation",
     "publishedAt": "2026-05-06T19:56:42.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.659Z",
+    "scrapedAt": "2026-05-07T14:21:32.236Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -727,7 +712,7 @@
     "url": "https://arxiv.org/abs/2605.04740",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -742,7 +727,7 @@
     "url": "https://arxiv.org/abs/2605.04080",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -863,7 +848,7 @@
     "url": "https://retractionwatch.com/2026/05/04/ori-announces-15-year-debarment-against-former-rice-university-scientist/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-04T18:31:04.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.988Z",
+    "scrapedAt": "2026-05-07T14:21:32.373Z",
     "topics": [
       "Research Culture"
     ]
@@ -892,7 +877,7 @@
     "url": "https://arxiv.org/abs/2605.04639",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -906,7 +891,7 @@
     "url": "https://arxiv.org/abs/2605.04816",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -965,7 +950,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72467-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.352Z",
+    "scrapedAt": "2026-05-07T14:21:32.730Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -988,18 +973,18 @@
     ]
   },
   {
-    "id": "1313a7556957",
-    "title": "Exams: how to use exercise to boost your revision",
-    "summary": "Golubovy/Shutterstock It’s revision season. If you’re a student preparing for upcoming exams, you might be tempted to put aside sport or other physical activity for a while in order to dedicate more time to learning. But exercise is extremely important for academic success. Make time to be active. It may well help you revise better. Doing some physical activity improves our ability to think and process information. My research with colleagues has shown this to be true for both primary school and",
-    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
-    "relevanceScore": 27,
-    "url": "https://theconversation.com/exams-how-to-use-exercise-to-boost-your-revision-279283",
+    "id": "354c5d16e198",
+    "title": "Using the body’s own sounds to diagnose Alzheimer’s and Parkinson’s before the first symptoms appear",
+    "summary": "Alzheimer's and Parkinson's disease are often diagnosed late, after the symptoms are well established. (Unsplash) Long before the tell-tale signs of Parkinson’s disease appear, including tremors and muscle stiffness, there are other, more subtle signs of the disease. These include changes in oral pronunciation and language and difficulties breathing or swallowing. People with Alzheimer’s disease can also experience a reduction in their vocabulary and a tendency to repeat certain words. These als",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 26,
+    "url": "https://theconversation.com/using-the-bodys-own-sounds-to-diagnose-alzheimers-and-parkinsons-before-the-first-symptoms-appear-279995",
     "source": "The Conversation",
-    "publishedAt": "2026-04-30T09:31:58.000Z",
-    "scrapedAt": "2026-04-30T21:04:55.461Z",
+    "publishedAt": "2026-05-07T12:00:15.000Z",
+    "scrapedAt": "2026-05-07T14:21:32.236Z",
     "topics": [
-      "Human Behaviour & Cognition",
-      "Science Policy & Funding"
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
     ]
   },
   {
@@ -1056,7 +1041,7 @@
     "url": "https://arxiv.org/abs/2605.04835",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1070,7 +1055,7 @@
     "url": "https://arxiv.org/abs/2511.20179",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1308,18 +1293,18 @@
     ]
   },
   {
-    "id": "39abe56c507e",
-    "title": "How much should politics influence science, and vice versa? National Science Board’s ousting resurrects an existential debate",
-    "summary": "The governing structure of the National Science Foundation partially insulated science from political control. Evgeny Gromov/iStock via Getty Images Plus “On behalf of President Donald J. Trump,” read 22 emails sent from the White House Presidential Personnel Office on Friday afternoon, April 24, 2026, “I am writing to inform you that your position as a member of the National Science Board is terminated, effective immediately.” The email was signed “Thank you for your service.” The distinguished",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 23,
-    "url": "https://theconversation.com/how-much-should-politics-influence-science-and-vice-versa-national-science-boards-ousting-resurrects-an-existential-debate-281709",
-    "source": "The Conversation",
-    "publishedAt": "2026-04-30T12:31:15.000Z",
-    "scrapedAt": "2026-05-01T09:49:11.922Z",
+    "id": "59b63749cb2e",
+    "title": "How a Professor Turned His Firing Into a Nationwide Fight for Academic Freedom",
+    "summary": "How a Professor Turned His Firing Into a Nationwide Fight for Academic Freedom Emma Whitford Thu, 05/07/2026 - 03:00 AM Tom Alter was fired from his tenured job at Texas State last fall in what free speech advocates call an egregious violation of First Amendment rights. He took his case on tour, advancing faculty organizing and solidarity at each stop. Byline(s) Emma Whitford",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 22,
+    "url": "https://www.insidehighered.com/news/faculty/academic-freedom/2026/05/07/how-firing-turned-fight-academic-freedom",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-05-07T07:00:00.000Z",
+    "scrapedAt": "2026-05-07T14:21:32.142Z",
     "topics": [
-      "Research Culture",
-      "Science Policy & Funding"
+      "Academic Careers",
+      "Higher Education"
     ]
   },
   {
@@ -1375,7 +1360,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01426-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.368Z",
+    "scrapedAt": "2026-05-07T14:21:32.747Z",
     "topics": [
       "Research Culture",
       "Science Policy & Funding"
@@ -1390,7 +1375,7 @@
     "url": "https://www.highereddive.com/news/university-of-michigan-virginia-tech-among-colleges-seeking-new-leaders/819125/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-04T09:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.703Z",
+    "scrapedAt": "2026-05-07T14:21:32.291Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -1435,7 +1420,7 @@
     "url": "https://arxiv.org/abs/2605.04585",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1449,7 +1434,7 @@
     "url": "https://arxiv.org/abs/2605.04996",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1463,7 +1448,7 @@
     "url": "https://arxiv.org/abs/2605.04085",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1477,7 +1462,7 @@
     "url": "https://arxiv.org/abs/2605.04098",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1579,7 +1564,7 @@
     "url": "https://retractionwatch.com/2026/05/05/court-orders-historian-to-repay-grant-funding-for-pattern-of-plagiarism-in-books/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-05T14:30:53.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.988Z",
+    "scrapedAt": "2026-05-07T14:21:32.373Z",
     "topics": [
       "Research Culture"
     ]
@@ -1853,35 +1838,6 @@
     ]
   },
   {
-    "id": "744b13293294",
-    "title": "Three women sit for Israeli Rabbinate’s exam, amid growing recognition for Orthodox Jewish women’s religious leadership",
-    "summary": "Orthodox Jewish women attend an event celebrating the completion of the 7½-year cycle of daily study of the Talmud, the central text of Jewish law, on Jan. 5, 2020, in Jerusalem. AP Photo/Tsafrir Abayov When people picture a rabbi, they may imagine a man standing in front of a congregation in a synagogue. But “rabbi” means much more than that. For example, a rabbi could be a teacher, a nonprofit executive for a Jewish organization, or a scholar of Jewish law – and, increasingly, some of those ro",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 20,
-    "url": "https://theconversation.com/three-women-sit-for-israeli-rabbinates-exam-amid-growing-recognition-for-orthodox-jewish-womens-religious-leadership-281847",
-    "source": "The Conversation",
-    "publishedAt": "2026-04-30T12:48:34.000Z",
-    "scrapedAt": "2026-05-01T11:09:31.648Z",
-    "topics": [
-      "Research Culture",
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "c4e2036c7c75",
-    "title": "New State Laws Land Blows Against Shared Governance, Tenure",
-    "summary": "New State Laws Land Blows Against Shared Governance, Tenure Ryan Quinn Thu, 04/30/2026 - 03:00 AM Many legislatures have wrapped up their regular sessions. Inside Higher Ed provides a rundown of major legislation that passed in nine of these states. Byline(s) Ryan Quinn",
-    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
-    "relevanceScore": 20,
-    "url": "https://www.insidehighered.com/news/government/state-policy/2026/04/30/new-state-laws-land-blows-against-shared-governance-tenure",
-    "source": "Inside Higher Ed",
-    "publishedAt": "2026-04-30T07:00:00.000Z",
-    "scrapedAt": "2026-05-01T09:49:11.697Z",
-    "topics": [
-      "Academic Careers"
-    ]
-  },
-  {
     "id": "28898d899135",
     "title": "OpenWatch: A Multimodal Benchmark for Hand Gesture Recognition on Smartwatches",
     "summary": "arXiv:2605.04791v1 Announce Type: new Abstract: Despite widespread adoption of smartwatches worldwide, open-benchmarks for wrist-based gesture recognition remain surprisingly limited. In this work, we intro- duce the first open-access multi-modal benchmark, OpenWatch, for wrist-based gesture recognition using synchronized inertial and physiological sensing on a com- mercial smartwatch. It contains over 10 hours of Inertial Measurement Unit (IMU) and Photoplethysmography (PPG) data across 50 part",
@@ -1890,7 +1846,7 @@
     "url": "https://arxiv.org/abs/2605.04791",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1923,6 +1879,21 @@
     "topics": [
       "Higher Education",
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "1653ea84d96b",
+    "title": "You know exercise is good for you – so why is it so hard to put it into practice?",
+    "summary": "Research shows that doing exercise around other people improves your chances of sticking with it. Jordi Salas/Moment via Getty Images Physical activity is one of the most powerful health tools people have to improve mood, energy and sleep, even after just a few sessions. But the real superpower of an active lifestyle is what it can do for health and quality of life over time. Scientific evidence repeatedly demonstrates that physical activity reduces the risk of developing chronic conditions such",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 18,
+    "url": "https://theconversation.com/you-know-exercise-is-good-for-you-so-why-is-it-so-hard-to-put-it-into-practice-274493",
+    "source": "The Conversation",
+    "publishedAt": "2026-05-07T12:17:24.000Z",
+    "scrapedAt": "2026-05-07T14:21:32.236Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Science Policy & Funding"
     ]
   },
   {
@@ -1994,7 +1965,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02452-1",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.352Z",
+    "scrapedAt": "2026-05-07T14:21:32.730Z",
     "topics": [
       "Higher Education",
       "Human Behaviour & Cognition"
@@ -2009,7 +1980,7 @@
     "url": "https://www.nature.com/articles/s44159-026-00568-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.352Z",
+    "scrapedAt": "2026-05-07T14:21:32.730Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -2024,7 +1995,7 @@
     "url": "https://www.nature.com/articles/s41592-026-03051-8",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.357Z",
+    "scrapedAt": "2026-05-07T14:21:32.756Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -2099,7 +2070,7 @@
     "url": "https://arxiv.org/abs/2605.04334",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "Research Culture"
     ]
@@ -2113,7 +2084,7 @@
     "url": "https://arxiv.org/abs/2605.05003",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2127,7 +2098,7 @@
     "url": "https://arxiv.org/abs/2604.11840",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2141,7 +2112,7 @@
     "url": "https://retractionwatch.com/2026/05/06/russian-news-outlets-hailed-a-cancer-breakthrough-but-the-retraction-went-unnoticed/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-06T14:56:44.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.988Z",
+    "scrapedAt": "2026-05-07T14:21:32.373Z",
     "topics": [
       "Research Culture"
     ]
@@ -2155,7 +2126,7 @@
     "url": "https://www.highereddive.com/news/kent-state-university-lay-off-45-staff/819366/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-06T09:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.703Z",
+    "scrapedAt": "2026-05-07T14:21:32.291Z",
     "topics": [
       "Research Culture"
     ]
@@ -2211,7 +2182,7 @@
     "url": "https://retractionwatch.com/2026/05/05/winning-science-fair-project-in-vietnam-beset-by-misconduct-allegations-as-major-high-school-competition-looms/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-05T22:16:31.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.988Z",
+    "scrapedAt": "2026-05-07T14:21:32.373Z",
     "topics": [
       "Research Culture"
     ]
@@ -2240,7 +2211,7 @@
     "url": "https://www.highereddive.com/news/week-in-review-financial-stress-at-saint-augustines-southern-oregon-univ/819117/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-04T09:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.703Z",
+    "scrapedAt": "2026-05-07T14:21:32.291Z",
     "topics": [
       "Research Culture"
     ]
@@ -2331,6 +2302,20 @@
     ]
   },
   {
+    "id": "6e014a1ff5da",
+    "title": "Is College Supposed to Feel This Lonely?",
+    "summary": "Is College Supposed to Feel This Lonely? Joshua.Bay Thu, 05/07/2026 - 03:00 AM In this week’s Voices of Student Success episode, two students explore how social media, campus life and post-pandemic shifts are reshaping connection—and where institutions are falling behind. Byline(s) Joshua Bay",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 15,
+    "url": "https://www.insidehighered.com/news/student-success/health-wellness/2026/05/07/college-supposed-feel-lonely",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-05-07T07:00:00.000Z",
+    "scrapedAt": "2026-05-07T14:21:32.142Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
     "id": "73683d622d5f",
     "title": "Temporal Structure Matters for Efficient Test-Time Adaptation in Wearable Human Activity Recognition",
     "summary": "arXiv:2605.04617v1 Announce Type: cross Abstract: Wearable human activity recognition (WHAR) models often suffer from performance degradation under real-world cross-user distribution shifts. Test-time adaptation (TTA) mitigates this degradation by adapting models online using unlabeled test streams, yet existing methods largely inherit assumptions from vision tasks and underexploit the inherent inter-window temporal structure in WHAR streams. In this paper, we revisit such temporal structure as ",
@@ -2339,7 +2324,7 @@
     "url": "https://arxiv.org/abs/2605.04617",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2353,7 +2338,7 @@
     "url": "https://arxiv.org/abs/2605.04616",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2367,9 +2352,23 @@
     "url": "https://arxiv.org/abs/2604.04333",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "85568a4b038a",
+    "title": "Flow NMR for chemical synthesis",
+    "summary": "",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 15,
+    "url": "https://www.nature.com/articles/s43586-026-00494-3",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "scrapedAt": "2026-05-07T14:21:32.747Z",
+    "topics": [
+      "PhD & PostDoc Life"
     ]
   },
   {
@@ -2429,6 +2428,48 @@
     ]
   },
   {
+    "id": "7fc336b8024a",
+    "title": "Study: More Students Plan to Attend College, Not All Ready to Finance It",
+    "summary": "Study: More Students Plan to Attend College, Not All Ready to Finance It jessica.blake@… Thu, 05/07/2026 - 03:00 AM Byline(s) Jessica Blake",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 12,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/05/07/sallie-mae-study-shows-more-students-plan-attend-college",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-05-07T07:00:00.000Z",
+    "scrapedAt": "2026-05-07T14:21:32.142Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "c00e31296dd9",
+    "title": "ADL Finds Campus Antisemitism Declined in 2025",
+    "summary": "ADL Finds Campus Antisemitism Declined in 2025 kathryn.palmer… Thu, 05/07/2026 - 03:00 AM Byline(s) Kathryn Palmer",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 12,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/05/07/report-campus-antisemitism-declined-2025",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-05-07T07:00:00.000Z",
+    "scrapedAt": "2026-05-07T14:21:32.142Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "d6e9e8f8c0b5",
+    "title": "Designing Successful Free College Programs",
+    "summary": "Designing Successful Free College Programs Sara Weissman Thu, 05/07/2026 - 03:00 AM New research from the Brookings Institute highlights better and worse ways to craft a free college program. Here’s how researchers think lawmakers can get it right. Byline(s) Sara Weissman",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 12,
+    "url": "https://www.insidehighered.com/news/students/financial-aid/2026/05/07/how-design-successful-free-college-program",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-05-07T07:00:00.000Z",
+    "scrapedAt": "2026-05-07T14:21:32.142Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
     "id": "7e0e94472a0e",
     "title": "AISSA: Implementation and Deployment of an AI-based Student Slides Analysis tool for Academic Presentations",
     "summary": "arXiv:2605.04729v1 Announce Type: new Abstract: Providing timely and actionable feedback on oral presentation slides is challenging in higher education, particularly in large classes where teachers cannot realistically deliver detailed formative feedback before students present. This paper introduces AISSA (AI-based Student Slides Analysis tool), a web-based system that combines large language models (LLMs) and Learning Analytics dashboards to support scalable, rubric-based feedback on presentat",
@@ -2437,7 +2478,7 @@
     "url": "https://arxiv.org/abs/2605.04729",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2451,7 +2492,7 @@
     "url": "https://arxiv.org/abs/2605.04132",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.392Z",
+    "scrapedAt": "2026-05-07T14:21:32.088Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2465,7 +2506,7 @@
     "url": "https://arxiv.org/abs/2605.04131",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2479,7 +2520,7 @@
     "url": "https://arxiv.org/abs/2605.04191",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2493,7 +2534,7 @@
     "url": "https://arxiv.org/abs/2605.04875",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2507,7 +2548,7 @@
     "url": "https://www.highereddive.com/news/for-profit-design-college-in-ohio-to-shutter/819519/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-06T20:14:26.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.703Z",
+    "scrapedAt": "2026-05-07T14:21:32.291Z",
     "topics": [
       "Higher Education"
     ]
@@ -2535,7 +2576,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01454-3",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.368Z",
+    "scrapedAt": "2026-05-07T14:21:32.747Z",
     "topics": [
       "Research Culture"
     ]
@@ -2549,7 +2590,7 @@
     "url": "https://www.highereddive.com/news/smith-college-faces-title-ix-probe-over-policy-of-admitting-trans-students/819358/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-05T14:29:02.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.703Z",
+    "scrapedAt": "2026-05-07T14:21:32.291Z",
     "topics": [
       "Higher Education"
     ]
@@ -2647,7 +2688,7 @@
     "url": "https://www.nature.com/articles/d41586-026-00508-w",
     "source": "Nature Careers",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.291Z",
+    "scrapedAt": "2026-05-07T14:21:32.792Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2661,7 +2702,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01422-x",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.368Z",
+    "scrapedAt": "2026-05-07T14:21:32.747Z",
     "topics": [
       "Research Culture"
     ]
@@ -2706,20 +2747,6 @@
     "scrapedAt": "2026-05-04T22:58:55.063Z",
     "topics": [
       "Science Policy & Funding"
-    ]
-  },
-  {
-    "id": "00387e3fd298",
-    "title": "Southern Oregon University risks closure without deep cuts, consultants say",
-    "summary": "Despite receiving $15 million in emergency state funding, SOU must still cut faculty, staff and programs to shore up its finances, a Deloitte analysis says.",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 12,
-    "url": "https://www.highereddive.com/news/southern-oregon-university-risks-closure-without-deep-cuts-consultants-say/818880/",
-    "source": "Higher Ed Dive",
-    "publishedAt": "2026-04-30T09:00:00.000Z",
-    "scrapedAt": "2026-05-04T22:58:55.117Z",
-    "topics": [
-      "Research Culture"
     ]
   },
   {
@@ -2773,7 +2800,7 @@
     "url": "https://www.nature.com/articles/s41386-026-02433-y",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.352Z",
+    "scrapedAt": "2026-05-07T14:21:32.730Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2787,7 +2814,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01407-w",
     "source": "Nature",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.328Z",
+    "scrapedAt": "2026-05-07T14:21:32.944Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2801,7 +2828,7 @@
     "url": "https://www.nature.com/articles/s44271-026-00462-3",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.352Z",
+    "scrapedAt": "2026-05-07T14:21:32.730Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2815,7 +2842,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10459-x",
     "source": "Nature",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.328Z",
+    "scrapedAt": "2026-05-07T14:21:32.944Z",
     "topics": [
       "Higher Education"
     ]
@@ -2829,7 +2856,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10448-0",
     "source": "Nature",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.328Z",
+    "scrapedAt": "2026-05-07T14:21:32.944Z",
     "topics": [
       "Higher Education"
     ]
@@ -2843,9 +2870,23 @@
     "url": "https://www.nature.com/articles/s41586-026-10441-7",
     "source": "Nature",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.328Z",
+    "scrapedAt": "2026-05-07T14:21:32.944Z",
     "topics": [
       "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "d1ad935e7ddd",
+    "title": "Daily briefing: Digital distractions are real — but you can rescue your attention span",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 9,
+    "url": "https://www.nature.com/articles/d41586-026-01498-5",
+    "source": "Nature",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "scrapedAt": "2026-05-07T14:21:32.944Z",
+    "topics": [
+      "Human Behaviour & Cognition"
     ]
   },
   {
@@ -2857,7 +2898,7 @@
     "url": "https://www.highereddive.com/news/bard-college-president-retire-probe-ties-epstein/819259/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-05T09:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.703Z",
+    "scrapedAt": "2026-05-07T14:21:32.291Z",
     "topics": [
       "Higher Education"
     ]
@@ -2871,7 +2912,7 @@
     "url": "https://www.highereddive.com/news/doj-revives-fight-against-minnesotas-in-state-tuition-for-undocumented-stu/819189/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-05T09:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.703Z",
+    "scrapedAt": "2026-05-07T14:21:32.291Z",
     "topics": [
       "Higher Education"
     ]
@@ -2899,7 +2940,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02443-2",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.352Z",
+    "scrapedAt": "2026-05-07T14:21:32.730Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2913,7 +2954,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72146-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-05T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.352Z",
+    "scrapedAt": "2026-05-07T14:21:32.730Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2927,7 +2968,7 @@
     "url": "https://www.nature.com/articles/s42003-026-10071-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-04T00:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:08.352Z",
+    "scrapedAt": "2026-05-07T14:21:32.730Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2997,7 +3038,7 @@
     "url": "https://arxiv.org/abs/2605.04491",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -3067,7 +3108,7 @@
     "url": "https://arxiv.org/abs/2605.04063",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3081,7 +3122,7 @@
     "url": "https://arxiv.org/abs/2605.04235",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-07T04:00:00.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.412Z",
+    "scrapedAt": "2026-05-07T14:21:32.126Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3137,7 +3178,7 @@
     "url": "https://knowledge.wharton.upenn.edu/article/when-ai-transparency-backfires/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-05-05T16:42:44.000Z",
-    "scrapedAt": "2026-05-07T06:39:07.722Z",
+    "scrapedAt": "2026-05-07T14:21:32.336Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3168,20 +3209,6 @@
     "scrapedAt": "2026-05-04T22:58:54.989Z",
     "topics": [
       "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "f280f8396f5c",
-    "title": "State lawmakers eye accreditation policy changes as new agency forms",
-    "summary": "Recent laws and proposals could make it easier for public colleges to leave their accreditors for the nascent Commission for Public Higher Education.",
-    "whyItMatters": "Higher education trends — relevant to your academic audience.",
-    "relevanceScore": 6,
-    "url": "https://www.highereddive.com/news/commission-public-higher-education-state-laws/818856/",
-    "source": "Higher Ed Dive",
-    "publishedAt": "2026-04-30T09:00:00.000Z",
-    "scrapedAt": "2026-05-04T22:58:55.117Z",
-    "topics": [
-      "Higher Education"
     ]
   }
 ]
