@@ -90,6 +90,29 @@ const TOPICS_KEYWORDS: Record<string, { keywords: string[]; weight: number }> = 
     ],
     weight: 3,
   },
+  'Marketing & Consumer Behaviour': {
+    keywords: [
+      'marketing', 'consumer', 'brand', 'advertising', 'retail',
+      'customer', 'purchase', 'pricing', 'promotion', 'product',
+      'consumer behaviour', 'consumer behavior', 'consumer psychology',
+      'buyer', 'shopping', 'e-commerce', 'digital marketing',
+      'social media marketing', 'influencer', 'word of mouth',
+      'market research', 'segmentation', 'positioning',
+      'subscription', 'loyalty', 'churn', 'satisfaction',
+    ],
+    weight: 4,
+  },
+  'Management & Organizations': {
+    keywords: [
+      'management', 'organization', 'organisation', 'leadership',
+      'innovation', 'entrepreneurship', 'startup', 'strategy',
+      'organizational behavior', 'organisational behaviour',
+      'team', 'collaboration', 'negotiation', 'decision theory',
+      'corporate', 'governance', 'stakeholder', 'sustainability',
+      'supply chain', 'operations', 'performance',
+    ],
+    weight: 4,
+  },
   'Science Policy & Funding': {
     keywords: [
       'funding cut', 'nsf', 'nih', 'erc', 'horizon europe',
@@ -159,11 +182,32 @@ const FEEDS: FeedConfig[] = [
   { url: 'https://www.nature.com/nathumbehav.rss', source: 'Nature Human Behaviour' },
   { url: 'https://www.nature.com/nature.rss', source: 'Nature' },
 
+  // --- Primary: Science journals ---
+  { url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science', source: 'Science' },
+  { url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv', source: 'Science Advances', maxItems: 20, minScore: 8 },
+  { url: 'https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas', source: 'PNAS', maxItems: 20, minScore: 8 },
+
+  // --- Primary: Top Marketing journals ---
+  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmxa&type=etoc&feed=rss', source: 'Journal of Marketing' },
+  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=mrja&type=etoc&feed=rss', source: 'Journal of Marketing Research' },
+  { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mksc', source: 'Marketing Science' },
+
+  // --- Primary: Top Management journals ---
+  { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc', source: 'Management Science', maxItems: 20, minScore: 8 },
+  { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=orsc', source: 'Organization Science' },
+  { url: 'https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amj', source: 'Academy of Management Journal' },
+  { url: 'https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amr', source: 'Academy of Management Review' },
+  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=asqa&type=etoc&feed=rss', source: 'Administrative Science Quarterly' },
+
+  // --- Primary: Practitioner-academic bridge ---
+  { url: 'https://sloanreview.mit.edu/feed/', source: 'MIT Sloan Management Review' },
+
   // --- Primary: arXiv (Stanford-focused, capped) ---
   { url: 'https://rss.arxiv.org/rss/cs.AI', source: 'arXiv - AI', stanfordOnly: true, maxItems: 15 },
   { url: 'https://rss.arxiv.org/rss/cs.HC', source: 'arXiv - Human-Computer Interaction', maxItems: 15 },
   { url: 'https://rss.arxiv.org/rss/cs.CY', source: 'arXiv - Computers & Society', maxItems: 15 },
   { url: 'https://rss.arxiv.org/rss/cs.DL', source: 'arXiv - Digital Libraries', maxItems: 15 },
+  { url: 'https://rss.arxiv.org/rss/econ.GN', source: 'arXiv - Economics', stanfordOnly: true, maxItems: 15 },
 
   // --- Secondary: Higher Ed publications ---
   { url: 'https://www.insidehighered.com/rss.xml', source: 'Inside Higher Ed' },
@@ -237,6 +281,10 @@ function generateWhyItMatters(topics: string[]): string {
     return 'Higher education trends — relevant to your academic audience.'
   if (topics.includes('Human Behaviour & Cognition'))
     return 'Behavioural science finding — the kind of insight that performs well on LinkedIn.'
+  if (topics.includes('Marketing & Consumer Behaviour'))
+    return 'Marketing research — directly relevant to your field and audience.'
+  if (topics.includes('Management & Organizations'))
+    return 'Management/org science — cross-disciplinary relevance for business school audience.'
   if (topics.includes('Science Policy & Funding'))
     return 'Policy shaping funding and careers — affects every academic.'
   return `${topics.join(', ')}.`
