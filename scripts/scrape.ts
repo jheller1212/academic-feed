@@ -490,9 +490,16 @@ async function main() {
   const PREFERRED_DAYS = customDays || 5
   const EXPANDED_DAYS = customDays || 7
 
-  let results = await Promise.allSettled(
-    FEEDS.map((feed) => scrapeFeed(feed, parser, PREFERRED_DAYS)),
-  )
+  // Scrape in batches of 8 to avoid rate limiting
+  const BATCH_SIZE = 8
+  let results: PromiseSettledResult<Article[]>[] = []
+  for (let i = 0; i < FEEDS.length; i += BATCH_SIZE) {
+    const batch = FEEDS.slice(i, i + BATCH_SIZE)
+    const batchResults = await Promise.allSettled(
+      batch.map((feed) => scrapeFeed(feed, parser, PREFERRED_DAYS)),
+    )
+    results.push(...batchResults)
+  }
 
   // Track source reliability
   const now = new Date().toISOString()
@@ -529,9 +536,14 @@ async function main() {
   if (allArticles.length < 10) {
     console.log(`\nOnly ${allArticles.length} items in 5-day window — expanding to 7 days...\n`)
 
-    results = await Promise.allSettled(
-      FEEDS.map((feed) => scrapeFeed(feed, parser, EXPANDED_DAYS)),
-    )
+    results = []
+    for (let i = 0; i < FEEDS.length; i += BATCH_SIZE) {
+      const batch = FEEDS.slice(i, i + BATCH_SIZE)
+      const batchResults = await Promise.allSettled(
+        batch.map((feed) => scrapeFeed(feed, parser, EXPANDED_DAYS)),
+      )
+      results.push(...batchResults)
+    }
 
     const expandedArticles = results.flatMap((r) =>
       r.status === 'fulfilled' ? r.value : [],
