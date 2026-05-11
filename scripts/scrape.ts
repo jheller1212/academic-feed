@@ -169,9 +169,6 @@ const FEEDS: FeedConfig[] = [
   { url: 'https://www.insidehighered.com/rss.xml', source: 'Inside Higher Ed' },
   { url: 'https://www.highereddive.com/feeds/news/', source: 'Higher Ed Dive' },
 
-  // --- Secondary: The Conversation (academia-focused only — strict filter) ---
-  { url: 'https://theconversation.com/articles.atom', source: 'The Conversation', minScore: 15, minTopics: 2 },
-
   // --- Secondary: Research institutions ---
   { url: 'https://knowledge.wharton.upenn.edu/feed/', source: 'Knowledge at Wharton' },
 
