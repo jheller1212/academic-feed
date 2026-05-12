@@ -409,12 +409,13 @@ function HistoryView({ articles }: { articles: Article[] }) {
   )
 }
 
-function filterArticles(articles: Article[], states: Record<string, ArticleState>, filter: Filter, topicFilter: string | null, timeRange: TimeRange) {
+function filterArticles(articles: Article[], states: Record<string, ArticleState>, filter: Filter, topicFilter: string | null, timeRange: TimeRange, showArxiv: boolean) {
   return articles.filter((a) => {
     const state = states[a.id] || { seen: false, used: false }
     if (filter === 'new' && (state.seen || state.used)) return false
     if (filter === 'seen' && !state.seen) return false
     if (filter === 'used' && !state.used) return false
+    if (!showArxiv && a.source.startsWith('arXiv')) return false
     if (topicFilter && !a.topics.includes(topicFilter)) return false
     if (timeRange !== 'all') {
       const days = TIME_RANGES[timeRange].days
@@ -440,6 +441,7 @@ export default function App() {
   const [timeRange, setTimeRange] = useState<TimeRange>('1d')
   const [topicFilter, setTopicFilter] = useState<string | null>(null)
   const [sortBy, setSortBy] = useState<SortBy>('relevance')
+  const [showArxiv, setShowArxiv] = useState(() => localStorage.getItem('af-show-arxiv') !== 'false')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [view, setView] = useState<View>('feed')
@@ -563,12 +565,12 @@ export default function App() {
   const lastScraped = articles[0]?.scrapedAt
 
   // Filtered & sorted article list
-  const filtered = filterArticles(articles, states, filter, topicFilter, timeRange)
+  const filtered = filterArticles(articles, states, filter, topicFilter, timeRange, showArxiv)
   const sorted = sortArticles(filtered, sortBy)
 
   // Today fallback
   const todayEmpty = timeRange === '1d' && sorted.length === 0 && articles.length > 0
-  const fallbackFiltered = todayEmpty ? filterArticles(articles, states, filter, topicFilter, '3d') : []
+  const fallbackFiltered = todayEmpty ? filterArticles(articles, states, filter, topicFilter, '3d', showArxiv) : []
   const fallbackSorted = todayEmpty ? sortArticles(fallbackFiltered, sortBy) : []
 
   const displayArticles = todayEmpty ? fallbackSorted : sorted
@@ -630,7 +632,7 @@ export default function App() {
 
   useEffect(() => {
     setHighlightedIndex(-1)
-  }, [filter, timeRange, topicFilter, sortBy])
+  }, [filter, timeRange, topicFilter, sortBy, showArxiv])
 
   if (loading) {
     return (
@@ -754,6 +756,21 @@ export default function App() {
               <option value="date">Newest first</option>
               <option value="source">By source</option>
             </select>
+            <button
+              onClick={() => {
+                const next = !showArxiv
+                setShowArxiv(next)
+                localStorage.setItem('af-show-arxiv', String(next))
+              }}
+              className={`px-3 py-1.5 rounded-lg text-sm transition-colors ${
+                showArxiv
+                  ? 'bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300'
+                  : 'bg-gray-100 text-gray-400 dark:bg-gray-800 dark:text-gray-500'
+              }`}
+              title={showArxiv ? 'Hide arXiv preprints' : 'Show arXiv preprints'}
+            >
+              arXiv {showArxiv ? 'ON' : 'OFF'}
+            </button>
             {visibleNewCount > 0 && (
               <button
                 onClick={handleMarkAllSeen}
@@ -821,7 +838,7 @@ export default function App() {
       )}
 
       <footer className="mt-12 text-center text-xs text-gray-400">
-        <p>Academic Feed &middot; Updates every 2 hours
+        <p>Academic Feed &middot; Updates every 3 hours
         {lastScraped && <> &middot; Last scraped: {formatDate(lastScraped)}</>}</p>
         <p className="mt-1 text-gray-300 dark:text-gray-600">&#x2328; j/k navigate &middot; d draft &middot; esc close</p>
       </footer>
