@@ -613,4 +613,4 @@ async function main() {
   console.log(`Done! ${allArticles.length} new articles, ${merged.length} total in feed.`)
 }
 
-main()
+main().then(() => process.exit(0)).catch(() => process.exit(1))
