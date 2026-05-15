@@ -8,7 +8,7 @@
     "url": "https://arxiv.org/abs/2605.13785",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "PhD & PostDoc Life",
       "AI & Emerging Tech",
@@ -57,7 +57,7 @@
     "url": "https://arxiv.org/abs/2605.13731",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition",
@@ -135,7 +135,7 @@
     "url": "https://arxiv.org/abs/2605.12514",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "Higher Education",
       "Management & Organizations"
@@ -209,7 +209,7 @@
     "url": "https://arxiv.org/abs/2605.12786",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
@@ -284,7 +284,7 @@
     "url": "https://arxiv.org/abs/2605.12788",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "Higher Education",
       "Human Behaviour & Cognition"
@@ -390,7 +390,7 @@
     "url": "https://arxiv.org/abs/2605.13450",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -569,7 +569,7 @@
     "url": "https://arxiv.org/abs/2605.12344",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -613,7 +613,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02445-0",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-12T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.626Z",
+    "scrapedAt": "2026-05-15T02:40:00.161Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition",
@@ -636,21 +636,6 @@
     ]
   },
   {
-    "id": "4985e5eb32da",
-    "title": "Reducing social biases in text-based emotion prediction using semantic blinding and semantic propagation graph neural networks",
-    "summary": "",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 30,
-    "url": "https://www.nature.com/articles/s41598-026-46749-7",
-    "source": "Nature - Human Behaviour",
-    "publishedAt": "2026-05-08T00:00:00.000Z",
-    "scrapedAt": "2026-05-12T22:08:09.813Z",
-    "topics": [
-      "AI & Emerging Tech",
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
     "id": "611b3cd47438",
     "title": "Career Mobility of Planning Alumni in the United States: Evidence from Professional Profile Data using Large Language Models",
     "summary": "arXiv:2605.12618v1 Announce Type: new Abstract: Problem, Research Strategy, and Findings: Planning professions in the United States navigate complex and dynamic career landscapes under rapid urban changes, yet comprehensive evidence regarding their career trajectories, advancement patterns, and the influence of social, spatial, organizational, and educational factors remains limited. This study draws on boundaryless career theory, social capital theory, and spatial opportunity models to analyze ",
@@ -659,7 +644,7 @@
     "url": "https://arxiv.org/abs/2605.12618",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "AI & Emerging Tech",
       "Management & Organizations"
@@ -689,7 +674,7 @@
     "url": "https://arxiv.org/abs/2605.13574",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "AI & Emerging Tech",
       "Science Policy & Funding"
@@ -704,7 +689,7 @@
     "url": "https://arxiv.org/abs/2601.09045",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -718,7 +703,7 @@
     "url": "https://arxiv.org/abs/2506.13510",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -791,7 +776,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.05926?af=R",
     "source": "Management Science",
     "publishedAt": "2026-05-11T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.202Z",
+    "scrapedAt": "2026-05-15T02:40:01.118Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -882,7 +867,7 @@
     "url": "https://arxiv.org/abs/2605.13113",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Management & Organizations"
@@ -897,7 +882,7 @@
     "url": "https://arxiv.org/abs/2603.03295",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -985,7 +970,7 @@
     "url": "https://arxiv.org/abs/2511.17855",
     "source": "arXiv - AI",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.697Z",
+    "scrapedAt": "2026-05-15T02:40:01.470Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1089,7 +1074,7 @@
     "url": "https://arxiv.org/abs/2605.12505",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1103,7 +1088,7 @@
     "url": "https://arxiv.org/abs/2512.05929",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1132,7 +1117,7 @@
     "url": "https://www.highereddive.com/news/soka-university-america-acquire-middlebury-colleges-international-studies/820032/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-12T19:37:51.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.958Z",
+    "scrapedAt": "2026-05-15T02:40:01.857Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -1205,7 +1190,7 @@
     "url": "https://arxiv.org/abs/2605.13251",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Management & Organizations"
@@ -1220,7 +1205,7 @@
     "url": "https://arxiv.org/abs/2510.12837",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Management & Organizations"
@@ -1279,7 +1264,7 @@
     "url": "https://www.highereddive.com/news/colorado-state-university-turns-to-layoffs-and-other-cuts-to-manage-budget/819906/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-11T20:20:48.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.958Z",
+    "scrapedAt": "2026-05-15T02:40:01.857Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -1324,7 +1309,7 @@
     "url": "https://arxiv.org/abs/2605.12923",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1338,7 +1323,7 @@
     "url": "https://www.nature.com/articles/s41746-026-02752-w",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-14T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.653Z",
+    "scrapedAt": "2026-05-15T02:40:00.180Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1353,7 +1338,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02421-8",
     "source": "Nature Human Behaviour",
     "publishedAt": "2026-05-14T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.019Z",
+    "scrapedAt": "2026-05-15T02:39:59.451Z",
     "topics": [
       "Higher Education",
       "Management & Organizations"
@@ -1368,7 +1353,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01537-1",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-14T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.631Z",
+    "scrapedAt": "2026-05-15T02:40:00.245Z",
     "topics": [
       "Research Culture",
       "Science Policy & Funding"
@@ -1413,7 +1398,7 @@
     "url": "https://www.nature.com/articles/s42003-026-10251-7",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.653Z",
+    "scrapedAt": "2026-05-15T02:40:00.180Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1443,7 +1428,7 @@
     "url": "https://www.nature.com/articles/s43588-026-00990-2",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-11T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.653Z",
+    "scrapedAt": "2026-05-15T02:40:00.180Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1458,7 +1443,7 @@
     "url": "https://www.nature.com/articles/s41467-026-72713-0",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-11T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.653Z",
+    "scrapedAt": "2026-05-15T02:40:00.180Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1479,21 +1464,6 @@
     ]
   },
   {
-    "id": "a71983f2b9f1",
-    "title": "Factors influencing college student intention to use ChatGPT with an integrated TAM and IDT model",
-    "summary": "",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 21,
-    "url": "https://www.nature.com/articles/s41598-026-51344-x",
-    "source": "Nature - Human Behaviour",
-    "publishedAt": "2026-05-08T00:00:00.000Z",
-    "scrapedAt": "2026-05-12T22:08:09.813Z",
-    "topics": [
-      "AI & Emerging Tech",
-      "Higher Education"
-    ]
-  },
-  {
     "id": "561d2e8ee928",
     "title": "Will Paying Reviewers Ease the Peer Review Crisis?",
     "summary": "Will Paying Reviewers Ease the Peer Review Crisis? kathryn.palmer… Thu, 05/14/2026 - 03:00 AM The few journals that have experimented with offering reviewers money—one as little as $100 per piece—are reporting faster publishing times and greater quality of work. Byline(s) Kathryn Palmer",
@@ -1502,7 +1472,7 @@
     "url": "https://www.insidehighered.com/news/faculty/books-publishing/2026/05/14/will-paying-reviewers-ease-peer-review-crisis",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-14T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:32.037Z",
+    "scrapedAt": "2026-05-15T02:40:01.822Z",
     "topics": [
       "Research Culture"
     ]
@@ -1516,7 +1486,7 @@
     "url": "https://arxiv.org/abs/2605.12643",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1530,7 +1500,7 @@
     "url": "https://arxiv.org/abs/2505.04152",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1544,7 +1514,7 @@
     "url": "https://arxiv.org/abs/2602.03429",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1558,7 +1528,7 @@
     "url": "https://arxiv.org/abs/2604.27996",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1572,7 +1542,7 @@
     "url": "https://arxiv.org/abs/2605.12748",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1586,7 +1556,7 @@
     "url": "https://arxiv.org/abs/2605.12898",
     "source": "arXiv - Computers & Society",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.645Z",
+    "scrapedAt": "2026-05-15T02:40:01.487Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1600,7 +1570,7 @@
     "url": "https://arxiv.org/abs/2605.13310",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.928Z",
+    "scrapedAt": "2026-05-15T02:40:01.712Z",
     "topics": [
       "Research Culture"
     ]
@@ -1886,7 +1856,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01531-7",
     "source": "Nature",
     "publishedAt": "2026-05-14T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.711Z",
+    "scrapedAt": "2026-05-15T02:40:00.314Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2034,7 +2004,7 @@
     "url": "https://arxiv.org/abs/2605.12613",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2048,7 +2018,7 @@
     "url": "https://arxiv.org/abs/2605.13776",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2062,7 +2032,7 @@
     "url": "https://arxiv.org/abs/2604.27203",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2076,7 +2046,7 @@
     "url": "https://www.highereddive.com/news/students-alumni-sue-to-block-kentucky-state-university-overhaul/820154/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-13T18:58:05.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.958Z",
+    "scrapedAt": "2026-05-15T02:40:01.857Z",
     "topics": [
       "Research Culture"
     ]
@@ -2104,7 +2074,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.09097?af=R",
     "source": "Management Science",
     "publishedAt": "2026-05-13T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.202Z",
+    "scrapedAt": "2026-05-15T02:40:01.118Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2174,7 +2144,7 @@
     "url": "https://knowledge.wharton.upenn.edu/article/lasting-loyalty-why-unreasonable-hospitality-wins/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-05-12T14:58:48.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.966Z",
+    "scrapedAt": "2026-05-15T02:40:01.852Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2188,7 +2158,7 @@
     "url": "https://knowledge.wharton.upenn.edu/podcast/ripple-effect/why-leadership-changes-often-backfire/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-05-12T13:57:06.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.966Z",
+    "scrapedAt": "2026-05-15T02:40:01.852Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2216,7 +2186,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2023.0487?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-05-12T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.065Z",
+    "scrapedAt": "2026-05-15T02:40:00.988Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2244,7 +2214,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.03852?af=R",
     "source": "Management Science",
     "publishedAt": "2026-05-11T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.202Z",
+    "scrapedAt": "2026-05-15T02:40:01.118Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2391,20 +2361,6 @@
     ]
   },
   {
-    "id": "adc648514d0c",
-    "title": "Federal Judge Restores Millions in NEH Grants",
-    "summary": "Federal Judge Restores Millions in NEH Grants sara.custer@in… Thu, 05/07/2026 - 08:35 PM Byline(s) Sara Custer",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 16,
-    "url": "https://www.insidehighered.com/news/quick-takes/2026/05/07/federal-judge-restores-millions-neh-grants",
-    "source": "Inside Higher Ed",
-    "publishedAt": "2026-05-08T00:35:22.000Z",
-    "scrapedAt": "2026-05-08T09:26:02.567Z",
-    "topics": [
-      "Research Culture"
-    ]
-  },
-  {
     "id": "6b03f0684c4f",
     "title": "Second Acts for Closed Campuses",
     "summary": "Second Acts for Closed Campuses Josh Moody Thu, 05/14/2026 - 03:00 AM When colleges close, they leave sprawling facilities behind. Some are acquired by other colleges or converted into housing, K–12 schools or businesses. Others fall into disrepair. Byline(s) Josh Moody",
@@ -2413,7 +2369,7 @@
     "url": "https://www.insidehighered.com/news/business/physical-campuses/2026/05/14/second-acts-closed-campuses",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-14T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:32.037Z",
+    "scrapedAt": "2026-05-15T02:40:01.822Z",
     "topics": [
       "Higher Education"
     ]
@@ -2427,7 +2383,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.aed6880?af=R",
     "source": "Science",
     "publishedAt": "2026-05-14T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.849Z",
+    "scrapedAt": "2026-05-15T02:40:00.870Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2441,7 +2397,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.aei8227?af=R",
     "source": "Science",
     "publishedAt": "2026-05-14T06:00:15.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.849Z",
+    "scrapedAt": "2026-05-15T02:40:00.870Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2455,7 +2411,7 @@
     "url": "https://arxiv.org/abs/2605.12506",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2469,7 +2425,7 @@
     "url": "https://arxiv.org/abs/2605.12646",
     "source": "arXiv - Human-Computer Interaction",
     "publishedAt": "2026-05-14T04:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.625Z",
+    "scrapedAt": "2026-05-15T02:40:01.428Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2525,7 +2481,7 @@
     "url": "https://www.nature.com/articles/s41592-026-03104-y",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.631Z",
+    "scrapedAt": "2026-05-15T02:40:00.245Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2539,7 +2495,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01369-z",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-12T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.631Z",
+    "scrapedAt": "2026-05-15T02:40:00.245Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2638,7 +2594,7 @@
     "url": "https://www.insidehighered.com/news/student-success/college-experience/2026/05/14/how-colleges-are-rethinking-student-success",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-14T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:32.037Z",
+    "scrapedAt": "2026-05-15T02:40:01.822Z",
     "topics": [
       "Higher Education"
     ]
@@ -2652,7 +2608,7 @@
     "url": "https://www.insidehighered.com/opinion/columns/editors-note/2026/05/14/how-instill-love-learning-students",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-14T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:32.037Z",
+    "scrapedAt": "2026-05-15T02:40:01.822Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2666,7 +2622,7 @@
     "url": "https://www.insidehighered.com/opinion/columns/beyond-transfer/2026/05/14/how-states-can-scale-credit-prior-learning",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-14T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:32.037Z",
+    "scrapedAt": "2026-05-15T02:40:01.822Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2680,7 +2636,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.aeg9714?af=R",
     "source": "Science",
     "publishedAt": "2026-05-14T06:00:15.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.849Z",
+    "scrapedAt": "2026-05-15T02:40:00.870Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2694,7 +2650,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.aec3177?af=R",
     "source": "Science",
     "publishedAt": "2026-05-14T06:00:15.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.849Z",
+    "scrapedAt": "2026-05-15T02:40:00.870Z",
     "topics": [
       "Research Culture"
     ]
@@ -2708,7 +2664,7 @@
     "url": "https://www.nature.com/articles/d41586-026-00895-0",
     "source": "Nature Careers",
     "publishedAt": "2026-05-14T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.646Z",
+    "scrapedAt": "2026-05-15T02:40:00.173Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2722,7 +2678,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01545-1",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-14T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.631Z",
+    "scrapedAt": "2026-05-15T02:40:00.245Z",
     "topics": [
       "Research Culture"
     ]
@@ -2736,7 +2692,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee2009?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-05-13T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.821Z",
+    "scrapedAt": "2026-05-15T02:40:00.863Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2806,7 +2762,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01139-x",
     "source": "Nature Careers",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.646Z",
+    "scrapedAt": "2026-05-15T02:40:00.173Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2820,7 +2776,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01378-y",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.631Z",
+    "scrapedAt": "2026-05-15T02:40:00.245Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2834,7 +2790,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01486-9",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.653Z",
+    "scrapedAt": "2026-05-15T02:40:00.180Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2848,7 +2804,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10506-7",
     "source": "Nature",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.711Z",
+    "scrapedAt": "2026-05-15T02:40:00.314Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2862,7 +2818,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10531-6",
     "source": "Nature",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.711Z",
+    "scrapedAt": "2026-05-15T02:40:00.314Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2876,7 +2832,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01321-1",
     "source": "Nature",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.711Z",
+    "scrapedAt": "2026-05-15T02:40:00.314Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2890,7 +2846,7 @@
     "url": "https://knowledge.wharton.upenn.edu/article/ais-supply-chain-problem/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-05-12T15:45:59.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.966Z",
+    "scrapedAt": "2026-05-15T02:40:01.852Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2918,7 +2874,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01520-w",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-12T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.631Z",
+    "scrapedAt": "2026-05-15T02:40:00.245Z",
     "topics": [
       "Research Culture"
     ]
@@ -2932,7 +2888,7 @@
     "url": "https://www.nature.com/articles/s41591-026-04363-0",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-12T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.631Z",
+    "scrapedAt": "2026-05-15T02:40:00.245Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2946,7 +2902,7 @@
     "url": "https://www.nature.com/articles/s41746-026-02761-9",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-12T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.631Z",
+    "scrapedAt": "2026-05-15T02:40:00.245Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2974,7 +2930,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.07005?af=R",
     "source": "Management Science",
     "publishedAt": "2026-05-11T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.202Z",
+    "scrapedAt": "2026-05-15T02:40:01.118Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2988,7 +2944,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.07170?af=R",
     "source": "Management Science",
     "publishedAt": "2026-05-11T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.202Z",
+    "scrapedAt": "2026-05-15T02:40:01.118Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3030,7 +2986,7 @@
     "url": "https://www.nature.com/articles/s41746-026-02637-y",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-11T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.653Z",
+    "scrapedAt": "2026-05-15T02:40:00.180Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -3106,34 +3062,6 @@
     ]
   },
   {
-    "id": "ad134078a85c",
-    "title": "RNA design across eras: from covariance models to modern generative AI",
-    "summary": "",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 12,
-    "url": "https://www.nature.com/articles/s41576-026-00967-x",
-    "source": "Nature - Machine Learning",
-    "publishedAt": "2026-05-08T00:00:00.000Z",
-    "scrapedAt": "2026-05-12T22:08:09.777Z",
-    "topics": [
-      "AI & Emerging Tech"
-    ]
-  },
-  {
-    "id": "c1fa1580de03",
-    "title": "Framework for artificial intelligence implementation research in healthcare: synthesizing current evidence on barriers and facilitators",
-    "summary": "",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 12,
-    "url": "https://www.nature.com/articles/s41746-026-02705-3",
-    "source": "Nature - Scientific Community",
-    "publishedAt": "2026-05-08T00:00:00.000Z",
-    "scrapedAt": "2026-05-12T22:08:09.728Z",
-    "topics": [
-      "AI & Emerging Tech"
-    ]
-  },
-  {
     "id": "8488c026432f",
     "title": "Why colleges should embrace program depth over breadth",
     "summary": "Cutting some offerings and shifting funds to high-impact programs can help expand access in turbulent financial times, two administrators contend.",
@@ -3142,7 +3070,7 @@
     "url": "https://www.highereddive.com/news/why-colleges-should-embrace-program-depth-over-breadth/819499/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-14T09:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.958Z",
+    "scrapedAt": "2026-05-15T02:40:01.857Z",
     "topics": [
       "Higher Education"
     ]
@@ -3156,7 +3084,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.ady6190?af=R",
     "source": "Science",
     "publishedAt": "2026-05-14T06:00:15.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.849Z",
+    "scrapedAt": "2026-05-15T02:40:00.870Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -3170,7 +3098,7 @@
     "url": "https://www.highereddive.com/news/how-can-colleges-teach-students-to-have-challenging-conversations/820001/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-13T09:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.958Z",
+    "scrapedAt": "2026-05-15T02:40:01.857Z",
     "topics": [
       "Higher Education"
     ]
@@ -3184,7 +3112,7 @@
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00018392261436817?ai=2b4&mi=ehikzz&af=R",
     "source": "Administrative Science Quarterly",
     "publishedAt": "2026-05-13T07:21:27.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.305Z",
+    "scrapedAt": "2026-05-15T02:40:01.226Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -3198,7 +3126,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz5324?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-05-13T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.821Z",
+    "scrapedAt": "2026-05-15T02:40:00.863Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -3212,7 +3140,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2528?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-05-13T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.821Z",
+    "scrapedAt": "2026-05-15T02:40:00.863Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3226,7 +3154,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed9613?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-05-13T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.821Z",
+    "scrapedAt": "2026-05-15T02:40:00.863Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -3240,7 +3168,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8615?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-05-13T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.821Z",
+    "scrapedAt": "2026-05-15T02:40:00.863Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -3254,7 +3182,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4675?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-05-13T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.821Z",
+    "scrapedAt": "2026-05-15T02:40:00.863Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3268,7 +3196,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3642?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-05-13T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.821Z",
+    "scrapedAt": "2026-05-15T02:40:00.863Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3282,7 +3210,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02303?af=R",
     "source": "Management Science",
     "publishedAt": "2026-05-13T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.202Z",
+    "scrapedAt": "2026-05-15T02:40:01.118Z",
     "topics": [
       "Higher Education"
     ]
@@ -3296,7 +3224,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02460-1",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.626Z",
+    "scrapedAt": "2026-05-15T02:40:00.161Z",
     "topics": [
       "Higher Education"
     ]
@@ -3310,7 +3238,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02444-1",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.626Z",
+    "scrapedAt": "2026-05-15T02:40:00.161Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3324,7 +3252,7 @@
     "url": "https://www.nature.com/articles/s41598-026-43415-w",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.626Z",
+    "scrapedAt": "2026-05-15T02:40:00.161Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3338,7 +3266,7 @@
     "url": "https://www.nature.com/articles/s41597-026-07175-6",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.626Z",
+    "scrapedAt": "2026-05-15T02:40:00.161Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3352,7 +3280,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10461-3",
     "source": "Nature",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.711Z",
+    "scrapedAt": "2026-05-15T02:40:00.314Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3366,7 +3294,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10510-x",
     "source": "Nature",
     "publishedAt": "2026-05-13T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.711Z",
+    "scrapedAt": "2026-05-15T02:40:00.314Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3380,7 +3308,7 @@
     "url": "https://www.nature.com/articles/s41537-026-00764-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-12T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.626Z",
+    "scrapedAt": "2026-05-15T02:40:00.161Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3394,7 +3322,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10615-3",
     "source": "Nature",
     "publishedAt": "2026-05-12T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.711Z",
+    "scrapedAt": "2026-05-15T02:40:00.314Z",
     "topics": [
       "Higher Education"
     ]
@@ -3450,7 +3378,7 @@
     "url": "https://www.nature.com/articles/s41598-026-50882-8",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-11T00:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:30.653Z",
+    "scrapedAt": "2026-05-15T02:40:00.180Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3540,48 +3468,6 @@
     ]
   },
   {
-    "id": "e14f7a0e6a0f",
-    "title": "Non-cognitive skills mediate education-related polygenic score associations with academic achievement across development",
-    "summary": "",
-    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41467-026-72838-2",
-    "source": "Nature - Human Behaviour",
-    "publishedAt": "2026-05-08T00:00:00.000Z",
-    "scrapedAt": "2026-05-12T22:08:09.813Z",
-    "topics": [
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "fdacf1994900",
-    "title": "The act of detecting a stimulus contaminates measures of conscious experience with decision biases",
-    "summary": "",
-    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41467-026-72567-6",
-    "source": "Nature - Human Behaviour",
-    "publishedAt": "2026-05-08T00:00:00.000Z",
-    "scrapedAt": "2026-05-12T22:08:09.813Z",
-    "topics": [
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "b58ee6980c45",
-    "title": "Briefing Chat: Can’t focus? It’s not your attention span, it’s your notifications",
-    "summary": "",
-    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/d41586-026-01510-y",
-    "source": "Nature",
-    "publishedAt": "2026-05-08T00:00:00.000Z",
-    "scrapedAt": "2026-05-12T22:08:09.870Z",
-    "topics": [
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
     "id": "6f0589d4816a",
     "title": "‘Endemic Microcheating’ by Academics ‘Going Unpunished’",
     "summary": "‘Endemic Microcheating’ by Academics ‘Going Unpunished’ sara.custer@in… Thu, 05/14/2026 - 03:00 AM Growing levels of questionable research practices have been overshadowed by a “moral panic” over student use of AI, says education dean. Byline(s) Jack Grove for Times Higher Education",
@@ -3590,7 +3476,7 @@
     "url": "https://www.insidehighered.com/news/faculty/research/2026/05/14/endemic-microcheating-academics-going-unpunished",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-14T07:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:32.037Z",
+    "scrapedAt": "2026-05-15T02:40:01.822Z",
     "topics": [
       "Research Culture"
     ]
@@ -3604,7 +3490,7 @@
     "url": "https://sloanreview.mit.edu/article/resolve-the-conflict-between-efficiency-and-resilience/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-05-13T11:00:40.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.605Z",
+    "scrapedAt": "2026-05-15T02:40:01.402Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3632,7 +3518,7 @@
     "url": "https://sloanreview.mit.edu/article/beyond-verification-what-responsible-ai-really-demands-of-human-experts/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-05-12T11:00:27.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.605Z",
+    "scrapedAt": "2026-05-15T02:40:01.402Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3646,7 +3532,7 @@
     "url": "https://www.highereddive.com/news/how-universities-are-saving-water/819572/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-12T09:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:31.958Z",
+    "scrapedAt": "2026-05-15T02:40:01.857Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3660,7 +3546,7 @@
     "url": "https://retractionwatch.com/2026/05/11/elsevier-retracts-the-least-and-reinstates-the-most-new-analysis-finds/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-11T12:00:00.000Z",
-    "scrapedAt": "2026-05-14T22:05:32.096Z",
+    "scrapedAt": "2026-05-15T02:40:01.918Z",
     "topics": [
       "Research Culture"
     ]
