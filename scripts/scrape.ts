@@ -179,6 +179,11 @@ const FEEDS: FeedConfig[] = [
   { url: 'https://www.nature.com/subjects/publishing.rss', source: 'Nature - Publishing' },
   { url: 'https://www.nature.com/subjects/machine-learning.rss', source: 'Nature - Machine Learning' },
   { url: 'https://www.nature.com/subjects/human-behaviour.rss', source: 'Nature - Human Behaviour' },
+  { url: 'https://www.nature.com/subjects/society.rss', source: 'Nature - Society' },
+  { url: 'https://www.nature.com/subjects/policy.rss', source: 'Nature - Policy' },
+  { url: 'https://www.nature.com/subjects/funding.rss', source: 'Nature - Funding' },
+  { url: 'https://www.nature.com/subjects/lab-life.rss', source: 'Nature - Lab Life' },
+  { url: 'https://www.nature.com/subjects/science-technology-and-society.rss', source: 'Nature - Science, Tech & Society' },
   { url: 'https://www.nature.com/nathumbehav.rss', source: 'Nature Human Behaviour' },
   { url: 'https://www.nature.com/nature.rss', source: 'Nature' },
 
