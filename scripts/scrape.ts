@@ -172,7 +172,7 @@ type FeedConfig = {
 
 const FEEDS: FeedConfig[] = [
   // --- Primary: Nature (subject feeds that work) ---
-  { url: 'https://www.nature.com/subjects/careers.rss', source: 'Nature Careers' },
+  { url: 'https://www.nature.com/careers.rss', source: 'Nature Careers' },
   { url: 'https://www.nature.com/subjects/scientific-community.rss', source: 'Nature - Scientific Community' },
   { url: 'https://www.nature.com/subjects/peer-review.rss', source: 'Nature - Peer Review' },
   { url: 'https://www.nature.com/subjects/research-management.rss', source: 'Nature - Research Management' },
