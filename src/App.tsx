@@ -426,10 +426,19 @@ function filterArticles(articles: Article[], states: Record<string, ArticleState
   })
 }
 
+function isNatureCareers(source: string): boolean {
+  return source === 'Nature Careers' || source === 'Nature - Lab Life'
+}
+
 function sortArticles(articles: Article[], sortBy: SortBy) {
   return [...articles].sort((a, b) => {
     if (sortBy === 'source') return a.source.localeCompare(b.source)
-    if (sortBy === 'relevance') return (b.relevanceScore ?? 0) - (a.relevanceScore ?? 0)
+    if (sortBy === 'relevance') {
+      const aBoost = isNatureCareers(a.source) ? 1 : 0
+      const bBoost = isNatureCareers(b.source) ? 1 : 0
+      if (aBoost !== bBoost) return bBoost - aBoost
+      return (b.relevanceScore ?? 0) - (a.relevanceScore ?? 0)
+    }
     return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
   })
 }
