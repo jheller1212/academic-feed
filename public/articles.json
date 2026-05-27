@@ -34,6 +34,21 @@
     ]
   },
   {
+    "id": "2af395baf2cc",
+    "title": "NIH Is Funding More Grants Up Front, a Risk to Research and University Budgets",
+    "summary": "NIH Is Funding More Grants Up Front, a Risk to Research and University Budgets Ryan Quinn Wed, 05/27/2026 - 03:00 AM The National Institutes of Health has accelerated its awarding of “multiyear-funded” grants in 2026, the Association of American Medical Colleges says. The approach makes it harder for researchers to win funding this fiscal year. Byline(s) Ryan Quinn",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 59,
+    "url": "https://www.insidehighered.com/news/government/science-research-policy/2026/05/27/nihs-use-multiyear-funding-grants-poses-research",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-05-27T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.676Z",
+    "topics": [
+      "Research Culture",
+      "Science Policy & Funding"
+    ]
+  },
+  {
     "id": "435fefeb7a06",
     "title": "Profiling learners' affective engagement: Emotion AI, intercultural pragmatics, and language learning",
     "summary": "arXiv:2603.20479v2 Announce Type: replace Abstract: Learning another language can be a highly emotional process, typically characterized by numerous frustrations and triumphs, big and small. For most learners, language learning does not follow a linear, predictable path, its zigzag course shaped by motivational (or demotivating) variables such as personal characteristics, teacher/peer relationships, learning materials, and dreams of a future L2 (second language) self. While some aspects of langu",
@@ -128,18 +143,18 @@
     ]
   },
   {
-    "id": "b5b4b664e067",
-    "title": "Reliability and Effectiveness of Autonomous AI Agents in Supply Chain Management",
-    "summary": "arXiv:2605.17036v3 Announce Type: replace Abstract: This paper studies autonomous generative AI agents in multi-echelon supply chains using the MIT Beer Game. We identify four inference-time levers that shape performance: model selection, policies and guardrails, centralized data sharing, and prompt engineering. Model capability is the dominant factor: an out-of-the-box reasoning model exceeds human-level performance, and optimized reasoning models reduce costs by up to 67% relative to human tea",
+    "id": "a05f41fe3734",
+    "title": "Using deep learning to identify brain networks mediating cognitive and motor impairments in alcohol use disorder",
+    "summary": "",
     "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 44,
-    "url": "https://arxiv.org/abs/2605.17036",
-    "source": "arXiv - AI",
-    "publishedAt": "2026-05-27T04:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:17.346Z",
+    "relevanceScore": 45,
+    "url": "https://www.nature.com/articles/s41398-026-04101-7",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-05-26T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.532Z",
     "topics": [
       "AI & Emerging Tech",
-      "Management & Organizations"
+      "Human Behaviour & Cognition"
     ]
   },
   {
@@ -208,6 +223,21 @@
     ]
   },
   {
+    "id": "8458969669ae",
+    "title": "Higher education must be rebuilt to restore public trust. Here’s how.",
+    "summary": "The heads of the American Association of University Professors and the American Federation of Teachers lay out their vision for overhauling the sector.",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 40,
+    "url": "https://www.highereddive.com/news/higher-education-must-be-rebuilt-to-restore-public-trust-heres-how/821031/",
+    "source": "Higher Ed Dive",
+    "publishedAt": "2026-05-26T09:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.752Z",
+    "topics": [
+      "Research Culture",
+      "Higher Education"
+    ]
+  },
+  {
     "id": "1df3d3a1dbfe",
     "title": "The Timing Dependencies of Trust: Speed, Accuracy, and cBCI Neuro-Decoupling in Human-AI Teams",
     "summary": "arXiv:2605.25868v1 Announce Type: new Abstract: The speed and accuracy of an artificial teammate fundamentally alter the failure states of Human-AI integration. While high-speed AI interventions risk inducing reflexive blind compliance, delayed interventions can induce ambiguous cognitive conflict. This study investigates how the fundamental characteristics of an in-task AI assistant, Fast/Less-Accurate (FLA-AI) versus Slow/Accurate (SA-AI) impact the synergy of Collaborative Brain-Computer Inte",
@@ -234,6 +264,77 @@
     "scrapedAt": "2026-05-27T02:52:09.215Z",
     "topics": [
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "5f3a88cc3919",
+    "title": "A causal discovery framework for analyzing the impact mechanism of generative AI on digital literacy: an LLM-based behavioral analysis approach",
+    "summary": "",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 39,
+    "url": "https://www.nature.com/articles/s41598-026-52623-3",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-05-26T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "d70fa5123963",
+    "title": "Athletes’ performance and injury management in sports training using association rules and data mining techniques",
+    "summary": "",
+    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "relevanceScore": 39,
+    "url": "https://www.nature.com/articles/s41598-026-53523-2",
+    "source": "Nature - Machine Learning",
+    "publishedAt": "2026-05-25T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.543Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "b3d73c35adf8",
+    "title": "A sustainability framework and application pathway for AI-assisted restoration and iterative interaction of MR digital heritage based on stakeholders",
+    "summary": "",
+    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "relevanceScore": 39,
+    "url": "https://www.nature.com/articles/s41598-026-54543-8",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-05-25T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "d6e0cd4c2dbc",
+    "title": "Unleashing sustainable entrepreneurship through innovation: the roles of talent development and the entrepreneurial ecosystem in Saudi Arabia",
+    "summary": "",
+    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "relevanceScore": 39,
+    "url": "https://www.nature.com/articles/s41599-026-07724-9",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-05-25T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "099c1514ae79",
+    "title": "Comparative evaluation of a mesocurricular pathway for developing ethics, social responsibility, and sustainability competencies in engineering programs: a case study of a public and a private university in Colombia",
+    "summary": "",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 39,
+    "url": "https://www.nature.com/articles/s41599-026-07673-3",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-05-23T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "topics": [
+      "Research Culture",
+      "Management & Organizations"
     ]
   },
   {
@@ -313,6 +414,21 @@
     ]
   },
   {
+    "id": "51acd568c47e",
+    "title": "Deep learning of 777 K bulk transcriptomes reveals human–mouse gene conservation beyond DNA sequence similarity",
+    "summary": "",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 36,
+    "url": "https://www.nature.com/articles/s42003-026-10189-w",
+    "source": "Nature - Machine Learning",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.543Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
     "id": "96e484b4b3a0",
     "title": "Human-AI Collaboration in Science at Scale: A Global Large-scale Randomized Field Experiment",
     "summary": "arXiv:2605.24180v1 Announce Type: cross Abstract: Collaboration is the defining mode of modern science, yet its core mechanism -- feedback -- remains hard to observe, difficult to scale, and unequally distributed. Here we test whether large language models (LLMs) can contribute to this hidden but vital practice and reallocate scientific feedback, an essential yet scarce resource for knowledge production. In a global large-scale randomized field experiment, we delivered customized LLM-generated f",
@@ -341,6 +457,21 @@
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "3cf546c305ae",
+    "title": "MNISQ: A Large-Scale Quantum Circuit Dataset for Machine Learning in the NISQ Era",
+    "summary": "",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 36,
+    "url": "https://www.nature.com/articles/s41597-026-07493-9",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-05-26T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
     ]
   },
   {
@@ -389,6 +520,21 @@
     ]
   },
   {
+    "id": "91bb758f3088",
+    "title": "Augmented reality adoption and the digital transformation of eco-smart tourism ventures: exploring the mediating role of tourist engagement",
+    "summary": "",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 36,
+    "url": "https://www.nature.com/articles/s41598-026-53572-7",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-05-23T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Science Policy & Funding"
+    ]
+  },
+  {
     "id": "b424b9894440",
     "title": "Machine Learning as Performative Materialist Practice: Thirteen Theses on the Epistemology, Methodology, and Politics of Applied ML",
     "summary": "arXiv:2605.21785v1 Announce Type: new Abstract: Machine learning practice in institutional decision-support contexts -- government, public policy, public health, criminal justice, resource allocation -- rests on a set of largely unexamined epistemological commitments inherited from classical statistics and computer science: that models represent stable regularities, that validation can be context-free, that performance metrics are politically neutral, and that feature importance reveals system s",
@@ -432,6 +578,20 @@
       "AI & Emerging Tech",
       "Human Behaviour & Cognition",
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "6ea577ea60c6",
+    "title": "U of Texas Board Makes It Easier to Fire Faculty, Close Programs",
+    "summary": "U of Texas Board Makes It Easier to Fire Faculty, Close Programs Emma Whitford Wed, 05/27/2026 - 03:00 AM One faculty member is concerned that the policy changes anticipate a 2027 legislative session that could further encroach on academic freedom at the state university system. Byline(s) Emma Whitford",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 35,
+    "url": "https://www.insidehighered.com/news/faculty/shared-governance/2026/05/27/u-texas-makes-it-easier-fire-faculty-close-programs",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-05-27T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.676Z",
+    "topics": [
+      "Academic Careers"
     ]
   },
   {
@@ -527,22 +687,6 @@
     ]
   },
   {
-    "id": "e88d91a0af29",
-    "title": "Mapping the gender attrition gap in academic psychology",
-    "summary": "arXiv:2510.13273v2 Announce Type: replace-cross Abstract: Women comprise the majority of students and early-career scholars in psychology, yet they are less likely to remain active in research over time. This pattern raises a central question: At what stages of academic careers do women disproportionately leave academia, and what factors drive their attrition? Using large-scale bibliometric data tracking 78,216 psychologists who began publishing between 2000 and 2014, we examine gender differenc",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 32,
-    "url": "https://arxiv.org/abs/2510.13273",
-    "source": "arXiv - Digital Libraries",
-    "publishedAt": "2026-05-27T04:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:17.361Z",
-    "topics": [
-      "Research Culture",
-      "Human Behaviour & Cognition",
-      "Management & Organizations"
-    ]
-  },
-  {
     "id": "c02ff611c5db",
     "title": "Yale Faculty Say Academic Freedom Has Decreased. Some Fear Dismissal or Arrest.",
     "summary": "Yale Faculty Say Academic Freedom Has Decreased. Some Fear Dismissal or Arrest. Emma Whitford Tue, 05/26/2026 - 03:00 AM Byline(s) Emma Whitford",
@@ -603,6 +747,20 @@
     ]
   },
   {
+    "id": "79e79c2a7c7e",
+    "title": "There Seems to Be Some Confusion Over Who Speaks for the University",
+    "summary": "There Seems to Be Some Confusion Over Who Speaks for the University Elizabeth Redden Wed, 05/27/2026 - 03:00 AM The next critical step for institutional neutrality policies is to set clear, written rules on who is—and isn’t—permitted to speak on behalf of the institution. Byline(s) Mark G. Yudof",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 31,
+    "url": "https://www.insidehighered.com/opinion/views/2026/05/27/who-speaks-university-guidelines-needed-opinion",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-05-27T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.676Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
     "id": "c96fa9894fea",
     "title": "Generative AI impacts on intra-urban inequality and skill premium in Beijing",
     "summary": "arXiv:2605.25505v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) is the first automation wave to reach high-cognitive tasks at scale, yet its effects on intra-urban inequality remain largely unknown. Using 5 million job postings from Beijing (2018--2024), we construct a neighborhood-level GenAI Exposure Index by aggregating task-level assessments from five leading large language models. We examine the spatial, structural and causal mechanisms of this shock. We find that",
@@ -618,18 +776,17 @@
     ]
   },
   {
-    "id": "a05f41fe3734",
-    "title": "Using deep learning to identify brain networks mediating cognitive and motor impairments in alcohol use disorder",
+    "id": "0881f708518b",
+    "title": "Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene",
     "summary": "",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
     "relevanceScore": 30,
-    "url": "https://www.nature.com/articles/s41398-026-04101-7",
-    "source": "Nature - Scientific Community",
+    "url": "https://www.nature.com/articles/s41586-026-10669-3",
+    "source": "Nature",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.372Z",
+    "scrapedAt": "2026-05-27T08:48:38.620Z",
     "topics": [
-      "AI & Emerging Tech",
-      "Human Behaviour & Cognition"
+      "PhD & PostDoc Life"
     ]
   },
   {
@@ -782,6 +939,34 @@
     ]
   },
   {
+    "id": "8b3e10c58f5e",
+    "title": "Swarthmore Promises Free Tuition for Students With Family Incomes Under $200K",
+    "summary": "Swarthmore Promises Free Tuition for Students With Family Incomes Under $200K Johanna Alonso Wed, 05/27/2026 - 03:00 AM Byline(s) Johanna Alonso",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 27,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/05/27/swarthmore-promises-free-tuition-families-under-200k",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-05-27T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.676Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "5ba6c6254e52",
+    "title": "New College Expansion Plan Advances",
+    "summary": "New College Expansion Plan Advances Josh Moody Wed, 05/27/2026 - 03:00 AM Byline(s) Josh Moody",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 27,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/05/27/new-college-expansion-plan-advances",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-05-27T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.676Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
     "id": "9c3cc2ef619a",
     "title": "Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery",
     "summary": "arXiv:2602.17605v2 Announce Type: replace-cross Abstract: In environmental monitoring, data collection is often costly, sparse, and shaped by urgent public-health needs. This is particularly true for cancer-causing PFAS (Per- and polyfluoroalkyl substances) contamination, where discussions with domain experts and environmental organizations highlight the need to strategically identify high-risk, under-observed regions under tight sampling budgets. More broadly, similar challenges arise in disast",
@@ -797,6 +982,20 @@
     ]
   },
   {
+    "id": "a3870643f8f6",
+    "title": "Here’s a list of the biggest donations to colleges in 2026 so far",
+    "summary": "We’re keeping tabs on gifts and commitments of $100 million or more made to higher education institutions.",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 27,
+    "url": "https://www.highereddive.com/news/biggest-donations-gifts-colleges-universities-2026/821000/",
+    "source": "Higher Ed Dive",
+    "publishedAt": "2026-05-26T09:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.752Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
     "id": "573037ab3838",
     "title": "A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints",
     "summary": "arXiv:2605.24142v1 Announce Type: new Abstract: Metacognitive theories provide foundational frameworks for understanding self-regulated learning, yet they lack systematic integration into comprehensive scenario taxonomies capable of guiding AI-enhanced professional development interventions. Existing models inadequately specify how metacognitive components combine into distinct learning scenarios or how professionals progress from novice to expert functioning. A six-node open systems model, cons",
@@ -808,6 +1007,48 @@
     "scrapedAt": "2026-05-27T02:52:09.215Z",
     "topics": [
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "36527c5e4a05",
+    "title": "Innovation starts in schools — lessons from China",
+    "summary": "",
+    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/d41586-026-01620-7",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-05-26T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "ebbb9c687f19",
+    "title": "Authenticity or strategy? How universities communicate the Sustainable Development Goals",
+    "summary": "",
+    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s41599-026-07714-x",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-05-26T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "43a84b28dded",
+    "title": "Author Correction: In vitro characterization of the human segmentation clock",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s41586-026-10651-z",
+    "source": "Nature",
+    "publishedAt": "2026-05-26T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.620Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
     ]
   },
   {
@@ -841,6 +1082,62 @@
     ]
   },
   {
+    "id": "84fb9eb30732",
+    "title": "Mapping AI regulation in health care with the Health & AI Policy Index",
+    "summary": "",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s41746-026-02734-y",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-05-25T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "f580700a64a0",
+    "title": "Understanding the effective mechanism of emergency science communication: from the organizational interaction perspective",
+    "summary": "",
+    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s41599-026-07757-0",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-05-25T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "890f5b1ae594",
+    "title": "Rethinking bioinformatics expertise in the era of artificial intelligence",
+    "summary": "",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s41746-026-02777-1",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-05-25T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
+    "id": "b9f0ca1bf19f",
+    "title": "Culture-based metaphorical temperature affects food choices: Chinese consumers choose foods based on their hot-cold nature",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s41538-026-00905-5",
+    "source": "Nature - Human Behaviour",
+    "publishedAt": "2026-05-23T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.563Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
     "id": "e22c1b7e8918",
     "title": "Perirhinal input to auditory cortex supports memory-guided sensory perception",
     "summary": "Science Advances, Volume 12, Issue 21, May 2026.",
@@ -868,6 +1165,21 @@
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "b5b4b664e067",
+    "title": "Reliability and Effectiveness of Autonomous AI Agents in Supply Chain Management",
+    "summary": "arXiv:2605.17036v3 Announce Type: replace Abstract: This paper studies autonomous generative AI agents in multi-echelon supply chains using the MIT Beer Game. We identify four inference-time levers that shape performance: model selection, policies and guardrails, centralized data sharing, and prompt engineering. Model capability is the dominant factor: an out-of-the-box reasoning model exceeds human-level performance, and optimized reasoning models reduce costs by up to 67% relative to human tea",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 26,
+    "url": "https://arxiv.org/abs/2605.17036",
+    "source": "arXiv - AI",
+    "publishedAt": "2026-05-27T04:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.619Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Management & Organizations"
     ]
   },
   {
@@ -946,21 +1258,6 @@
     ]
   },
   {
-    "id": "8458969669ae",
-    "title": "Higher education must be rebuilt to restore public trust. Here’s how.",
-    "summary": "The heads of the American Association of University Professors and the American Federation of Teachers lay out their vision for overhauling the sector.",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 25,
-    "url": "https://www.highereddive.com/news/higher-education-must-be-rebuilt-to-restore-public-trust-heres-how/821031/",
-    "source": "Higher Ed Dive",
-    "publishedAt": "2026-05-26T09:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:17.964Z",
-    "topics": [
-      "Research Culture",
-      "Higher Education"
-    ]
-  },
-  {
     "id": "1fd924de7d4f",
     "title": "Translators as Invisible Teachers of AI: Copyright, Translation Memory, and the Political Economy of Linguistic Data",
     "summary": "arXiv:2605.24842v1 Announce Type: cross Abstract: This paper examines how the labour of translators has been transformed into foundational data capital for the age of artificial intelligence (AI). Translation memories (TM) and parallel corpora preserve a one-to-one correspondence between source and target text and therefore constitute extraordinarily valuable supervised training data for machine translation. The development of statistical machine translation (SMT), neural machine translation (NM",
@@ -1021,6 +1318,20 @@
     ]
   },
   {
+    "id": "2d615eab8fb7",
+    "title": "DOJ lawsuit accuses UCLA of ignoring antisemitism on campus",
+    "summary": "The agency sued the University of California, arguing its Los Angeles campus was “deliberately indifferent” to harassment of Jewish and Israeli students.",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 24,
+    "url": "https://www.highereddive.com/news/doj-lawsuit-accuses-ucla-ignoring-antisemitism-campus/821173/",
+    "source": "Higher Ed Dive",
+    "publishedAt": "2026-05-26T21:26:12.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.752Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
     "id": "294a038b3a89",
     "title": "Multimodal Functional Maximum Correlation for Emotion Recognition",
     "summary": "arXiv:2512.23076v2 Announce Type: replace-cross Abstract: Emotional states manifest as coordinated yet heterogeneous physiological responses across central and autonomic systems, posing a fundamental challenge for multimodal representation learning in affective computing. Learning such joint dynamics is further complicated by the scarcity and subjectivity of affective annotations, which motivates the use of self-supervised learning (SSL). However, most existing SSL approaches rely on pairwise al",
@@ -1049,17 +1360,59 @@
     ]
   },
   {
-    "id": "5f3a88cc3919",
-    "title": "A causal discovery framework for analyzing the impact mechanism of generative AI on digital literacy: an LLM-based behavioral analysis approach",
+    "id": "33daded64b9f",
+    "title": "Conservation gains should not be at the mercy of political changes",
     "summary": "",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
     "relevanceScore": 24,
-    "url": "https://www.nature.com/articles/s41598-026-52623-3",
+    "url": "https://www.nature.com/articles/d41586-026-01665-8",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-05-26T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "topics": [
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "3ea05319bcb7",
+    "title": "Research on a long-haul transmission-line distributed vibration signal denoising method based on dual-fiber sensing and weakly supervised learning",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s41598-026-55340-z",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
     "topics": [
-      "AI & Emerging Tech"
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "9ecbce09aed3",
+    "title": "Psychosocial dimensions of immersive learning: a study of VR-enabled science education for children through the lens of self-determination theory",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s41599-026-07762-3",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-05-26T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "8687aa8b9bd1",
+    "title": "Facial expressions and emotional experience during social interaction in autism and schizophrenia",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s41537-026-00768-5",
+    "source": "Nature - Human Behaviour",
+    "publishedAt": "2026-05-26T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.563Z",
+    "topics": [
+      "Human Behaviour & Cognition"
     ]
   },
   {
@@ -1078,60 +1431,45 @@
     ]
   },
   {
-    "id": "d70fa5123963",
-    "title": "Athletes’ performance and injury management in sports training using association rules and data mining techniques",
+    "id": "8912d4a28f87",
+    "title": "Digital literacy equity in AI-enhanced English learning: Access, participation, and implications for language education policy",
     "summary": "",
-    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
     "relevanceScore": 24,
-    "url": "https://www.nature.com/articles/s41598-026-53523-2",
-    "source": "Nature - Machine Learning",
-    "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.389Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "b3d73c35adf8",
-    "title": "A sustainability framework and application pathway for AI-assisted restoration and iterative interaction of MR digital heritage based on stakeholders",
-    "summary": "",
-    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
-    "relevanceScore": 24,
-    "url": "https://www.nature.com/articles/s41598-026-54543-8",
+    "url": "https://www.nature.com/articles/s41598-026-55014-w",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
     "topics": [
-      "Management & Organizations"
+      "Human Behaviour & Cognition"
     ]
   },
   {
-    "id": "d6e0cd4c2dbc",
-    "title": "Unleashing sustainable entrepreneurship through innovation: the roles of talent development and the entrepreneurial ecosystem in Saudi Arabia",
+    "id": "d86e448031ee",
+    "title": "Social exclusion alters attention and autonomic regulation in adolescents with nonsuicidal self-injury",
     "summary": "",
-    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
     "relevanceScore": 24,
-    "url": "https://www.nature.com/articles/s41599-026-07724-9",
-    "source": "Nature - Science, Tech & Society",
-    "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
+    "url": "https://www.nature.com/articles/s41398-026-04136-w",
+    "source": "Nature - Human Behaviour",
+    "publishedAt": "2026-05-24T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:38.563Z",
     "topics": [
-      "Management & Organizations"
+      "Human Behaviour & Cognition"
     ]
   },
   {
-    "id": "099c1514ae79",
-    "title": "Comparative evaluation of a mesocurricular pathway for developing ethics, social responsibility, and sustainability competencies in engineering programs: a case study of a public and a private university in Colombia",
+    "id": "455e07f8ad9a",
+    "title": "Understanding Jamtara cybercriminals: poverty, opportunity, and the rise of organized criminal networks",
     "summary": "",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
     "relevanceScore": 24,
-    "url": "https://www.nature.com/articles/s41599-026-07673-3",
+    "url": "https://www.nature.com/articles/s41599-026-07703-0",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-23T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
+    "scrapedAt": "2026-05-27T08:48:39.197Z",
     "topics": [
-      "Research Culture",
-      "Management & Organizations"
+      "Science Policy & Funding"
     ]
   },
   {
@@ -1143,7 +1481,7 @@
     "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/brands-and-identity-in-the-age-of-social-media/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-05-22T17:09:21.000Z",
-    "scrapedAt": "2026-05-27T07:00:18.023Z",
+    "scrapedAt": "2026-05-27T08:48:40.724Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1219,36 +1557,6 @@
     "topics": [
       "Human Behaviour & Cognition",
       "Management & Organizations"
-    ]
-  },
-  {
-    "id": "3cf546c305ae",
-    "title": "MNISQ: A Large-Scale Quantum Circuit Dataset for Machine Learning in the NISQ Era",
-    "summary": "",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 21,
-    "url": "https://www.nature.com/articles/s41597-026-07493-9",
-    "source": "Nature - Scientific Community",
-    "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.372Z",
-    "topics": [
-      "AI & Emerging Tech",
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "91bb758f3088",
-    "title": "Augmented reality adoption and the digital transformation of eco-smart tourism ventures: exploring the mediating role of tourist engagement",
-    "summary": "",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 21,
-    "url": "https://www.nature.com/articles/s41598-026-53572-7",
-    "source": "Nature - Science, Tech & Society",
-    "publishedAt": "2026-05-23T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
-    "topics": [
-      "AI & Emerging Tech",
-      "Science Policy & Funding"
     ]
   },
   {
@@ -1634,6 +1942,22 @@
     ]
   },
   {
+    "id": "e88d91a0af29",
+    "title": "Mapping the gender attrition gap in academic psychology",
+    "summary": "arXiv:2510.13273v2 Announce Type: replace-cross Abstract: Women comprise the majority of students and early-career scholars in psychology, yet they are less likely to remain active in research over time. This pattern raises a central question: At what stages of academic careers do women disproportionately leave academia, and what factors drive their attrition? Using large-scale bibliometric data tracking 78,216 psychologists who began publishing between 2000 and 2014, we examine gender differenc",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 19,
+    "url": "https://arxiv.org/abs/2510.13273",
+    "source": "arXiv - Digital Libraries",
+    "publishedAt": "2026-05-27T04:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.554Z",
+    "topics": [
+      "Research Culture",
+      "Human Behaviour & Cognition",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "bf59527630c8",
     "title": "Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning",
     "summary": "arXiv:2605.21613v2 Announce Type: replace Abstract: Intelligent Tutoring Systems often grant learners shared control over skill and problem selection. This choice brings motivational and metacognitive benefits. At the same time, past literature suggests that learners exhibit diverse preferences and strategies in selecting tasks, for instance, by avoiding challenge. Although underexplored, differences in learner task-selection strategies may interact with mastery learning systems that optimize ta",
@@ -1742,7 +2066,7 @@
     "url": "https://knowledge.wharton.upenn.edu/article/why-ai-pricing-doesnt-always-drive-prices-higher/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-05-26T15:36:19.000Z",
-    "scrapedAt": "2026-05-27T07:00:18.023Z",
+    "scrapedAt": "2026-05-27T08:48:40.724Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1756,7 +2080,7 @@
     "url": "https://retractionwatch.com/2026/05/26/retraction-zebra-finch-birdsong-study-critics-nature/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-26T10:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:18.233Z",
+    "scrapedAt": "2026-05-27T08:48:40.814Z",
     "topics": [
       "Research Culture"
     ]
@@ -1987,20 +2311,6 @@
     ]
   },
   {
-    "id": "0881f708518b",
-    "title": "Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene",
-    "summary": "",
-    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
-    "relevanceScore": 15,
-    "url": "https://www.nature.com/articles/s41586-026-10669-3",
-    "source": "Nature",
-    "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.522Z",
-    "topics": [
-      "PhD & PostDoc Life"
-    ]
-  },
-  {
     "id": "7a279e808e81",
     "title": "Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory",
     "summary": "arXiv:2605.23123v1 Announce Type: new Abstract: The integration of AI tools in academic settings has introduced a distinct form of strain that existing frameworks like technostress and digital fatigue have not yet fully addressed. This study develops a conceptual model and identifies the dimensions that define AI fatigue as a form of strain arising from sustained academic use of AI tools. Using grounded theory analysis of open-ended responses from 1,054 university students across three universit",
@@ -2152,23 +2462,9 @@
     "url": "https://knowledge.wharton.upenn.edu/podcast/ripple-effect/rethinking-political-division-and-media-segmentation/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-05-26T20:51:38.000Z",
-    "scrapedAt": "2026-05-27T07:00:18.023Z",
+    "scrapedAt": "2026-05-27T08:48:40.724Z",
     "topics": [
       "Marketing & Consumer Behaviour"
-    ]
-  },
-  {
-    "id": "a3870643f8f6",
-    "title": "Here’s a list of the biggest donations to colleges in 2026 so far",
-    "summary": "We’re keeping tabs on gifts and commitments of $100 million or more made to higher education institutions.",
-    "whyItMatters": "Higher education trends — relevant to your academic audience.",
-    "relevanceScore": 12,
-    "url": "https://www.highereddive.com/news/biggest-donations-gifts-colleges-universities-2026/821000/",
-    "source": "Higher Ed Dive",
-    "publishedAt": "2026-05-26T09:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:17.964Z",
-    "topics": [
-      "Higher Education"
     ]
   },
   {
@@ -2228,48 +2524,6 @@
     ]
   },
   {
-    "id": "36527c5e4a05",
-    "title": "Innovation starts in schools — lessons from China",
-    "summary": "",
-    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
-    "relevanceScore": 12,
-    "url": "https://www.nature.com/articles/d41586-026-01620-7",
-    "source": "Nature - Scientific Community",
-    "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.372Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "ebbb9c687f19",
-    "title": "Authenticity or strategy? How universities communicate the Sustainable Development Goals",
-    "summary": "",
-    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
-    "relevanceScore": 12,
-    "url": "https://www.nature.com/articles/s41599-026-07714-x",
-    "source": "Nature - Science, Tech & Society",
-    "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "43a84b28dded",
-    "title": "Author Correction: In vitro characterization of the human segmentation clock",
-    "summary": "",
-    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
-    "relevanceScore": 12,
-    "url": "https://www.nature.com/articles/s41586-026-10651-z",
-    "source": "Nature",
-    "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.522Z",
-    "topics": [
-      "Marketing & Consumer Behaviour"
-    ]
-  },
-  {
     "id": "473c24f0f563",
     "title": "When Location Shapes Choice: Placement Optimization of Substitutable Products",
     "summary": "Management Science, Ahead of Print.",
@@ -2278,7 +2532,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.03826?af=R",
     "source": "Management Science",
     "publishedAt": "2026-05-25T07:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.660Z",
+    "scrapedAt": "2026-05-27T08:48:40.226Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2295,62 +2549,6 @@
     "scrapedAt": "2026-05-26T02:41:50.653Z",
     "topics": [
       "AI & Emerging Tech"
-    ]
-  },
-  {
-    "id": "84fb9eb30732",
-    "title": "Mapping AI regulation in health care with the Health & AI Policy Index",
-    "summary": "",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 12,
-    "url": "https://www.nature.com/articles/s41746-026-02734-y",
-    "source": "Nature - Scientific Community",
-    "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.372Z",
-    "topics": [
-      "AI & Emerging Tech"
-    ]
-  },
-  {
-    "id": "f580700a64a0",
-    "title": "Understanding the effective mechanism of emergency science communication: from the organizational interaction perspective",
-    "summary": "",
-    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
-    "relevanceScore": 12,
-    "url": "https://www.nature.com/articles/s41599-026-07757-0",
-    "source": "Nature - Science, Tech & Society",
-    "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
-    "topics": [
-      "Management & Organizations"
-    ]
-  },
-  {
-    "id": "890f5b1ae594",
-    "title": "Rethinking bioinformatics expertise in the era of artificial intelligence",
-    "summary": "",
-    "whyItMatters": "AI/tech development with academic implications — trending topic.",
-    "relevanceScore": 12,
-    "url": "https://www.nature.com/articles/s41746-026-02777-1",
-    "source": "Nature - Scientific Community",
-    "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.372Z",
-    "topics": [
-      "AI & Emerging Tech"
-    ]
-  },
-  {
-    "id": "b9f0ca1bf19f",
-    "title": "Culture-based metaphorical temperature affects food choices: Chinese consumers choose foods based on their hot-cold nature",
-    "summary": "",
-    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
-    "relevanceScore": 12,
-    "url": "https://www.nature.com/articles/s41538-026-00905-5",
-    "source": "Nature - Human Behaviour",
-    "publishedAt": "2026-05-23T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.460Z",
-    "topics": [
-      "Marketing & Consumer Behaviour"
     ]
   },
   {
@@ -2635,71 +2833,15 @@
     ]
   },
   {
-    "id": "2d615eab8fb7",
-    "title": "DOJ lawsuit accuses UCLA of ignoring antisemitism on campus",
-    "summary": "The agency sued the University of California, arguing its Los Angeles campus was “deliberately indifferent” to harassment of Jewish and Israeli students.",
-    "whyItMatters": "Higher education trends — relevant to your academic audience.",
-    "relevanceScore": 9,
-    "url": "https://www.highereddive.com/news/doj-lawsuit-accuses-ucla-ignoring-antisemitism-campus/821173/",
-    "source": "Higher Ed Dive",
-    "publishedAt": "2026-05-26T21:26:12.000Z",
-    "scrapedAt": "2026-05-27T07:00:17.964Z",
-    "topics": [
-      "Higher Education"
-    ]
-  },
-  {
-    "id": "33daded64b9f",
-    "title": "Conservation gains should not be at the mercy of political changes",
-    "summary": "",
-    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/d41586-026-01665-8",
-    "source": "Nature - Scientific Community",
-    "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.372Z",
-    "topics": [
-      "Science Policy & Funding"
-    ]
-  },
-  {
-    "id": "3ea05319bcb7",
-    "title": "Research on a long-haul transmission-line distributed vibration signal denoising method based on dual-fiber sensing and weakly supervised learning",
-    "summary": "",
+    "id": "6655d33354c6",
+    "title": "Attention in Motion: Using Scroll Tracking to Measure the Dynamics of Preferential Choice",
+    "summary": "Management Science, Ahead of Print.",
     "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
     "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41598-026-55340-z",
-    "source": "Nature - Science, Tech & Society",
-    "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
-    "topics": [
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "9ecbce09aed3",
-    "title": "Psychosocial dimensions of immersive learning: a study of VR-enabled science education for children through the lens of self-determination theory",
-    "summary": "",
-    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41599-026-07762-3",
-    "source": "Nature - Science, Tech & Society",
-    "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
-    "topics": [
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "8687aa8b9bd1",
-    "title": "Facial expressions and emotional experience during social interaction in autism and schizophrenia",
-    "summary": "",
-    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41537-026-00768-5",
-    "source": "Nature - Human Behaviour",
-    "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.460Z",
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06264?af=R",
+    "source": "Management Science",
+    "publishedAt": "2026-05-26T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T08:48:40.226Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2716,48 +2858,6 @@
     "scrapedAt": "2026-05-26T02:41:50.653Z",
     "topics": [
       "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "8912d4a28f87",
-    "title": "Digital literacy equity in AI-enhanced English learning: Access, participation, and implications for language education policy",
-    "summary": "",
-    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41598-026-55014-w",
-    "source": "Nature - Science, Tech & Society",
-    "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
-    "topics": [
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "d86e448031ee",
-    "title": "Social exclusion alters attention and autonomic regulation in adolescents with nonsuicidal self-injury",
-    "summary": "",
-    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41398-026-04136-w",
-    "source": "Nature - Human Behaviour",
-    "publishedAt": "2026-05-24T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:15.460Z",
-    "topics": [
-      "Human Behaviour & Cognition"
-    ]
-  },
-  {
-    "id": "455e07f8ad9a",
-    "title": "Understanding Jamtara cybercriminals: poverty, opportunity, and the rise of organized criminal networks",
-    "summary": "",
-    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
-    "relevanceScore": 9,
-    "url": "https://www.nature.com/articles/s41599-026-07703-0",
-    "source": "Nature - Science, Tech & Society",
-    "publishedAt": "2026-05-23T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T07:00:16.276Z",
-    "topics": [
-      "Science Policy & Funding"
     ]
   },
   {
@@ -2965,7 +3065,7 @@
     "url": "https://sloanreview.mit.edu/article/ask-sanyin-why-cant-they-see-that-im-visionary/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-05-26T11:00:04.000Z",
-    "scrapedAt": "2026-05-27T07:00:17.693Z",
+    "scrapedAt": "2026-05-27T08:48:40.415Z",
     "topics": [
       "Management & Organizations"
     ]
