@@ -468,7 +468,7 @@ export default function App() {
   }, [dark])
 
   const loadArticles = useCallback(() => {
-    fetch(import.meta.env.BASE_URL + 'articles.json' + '?t=' + Date.now())
+    fetch(`https://raw.githubusercontent.com/jheller1212/academic-feed/main/public/articles.json?t=${Date.now()}`)
       .then((r) => {
         if (!r.ok) throw new Error('No articles yet — run the scraper first')
         return r.json()
