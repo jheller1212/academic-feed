@@ -1,5 +1,51 @@
 [
   {
+    "id": "9574f4178fd8",
+    "title": "When politics changes the game: The impact of national-populist election victories on advertising and price promotion effectiveness for foreign and domestic brands",
+    "summary": "The authors explore the differential impact of national-populist election victories on marketing effectiveness for foreign versus domestic brands. The authors hypothesize that following a national-populist election victory, both advertising and price promotion effectiveness decline for foreign relative to domestic brands. These predictions are supported using the 2016 USA presidential election to estimate the impact of marketing tools on product market shares. We observe that the relative change",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 92,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01146-4",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-05-02T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Academic Careers",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "7dca17dd5d3a",
+    "title": "No time to enjoy the extra! Aging and consumers’ responses to volume-based sales promotions",
+    "summary": "Population aging is an increasing global concern with significant implications for consumer behavior. Across six studies—including an incentive-compatible behavioral experiment and a field study—the findings indicate that older consumers exhibit lower purchase intentions toward volume-based promotions (e.g., offers that provide additional free products). This negative effect appears to be driven by a limited future time perspective associated with aging. However, the effect is attenuated when th",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 83,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01160-6",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-05-09T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Academic Careers",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "02e73a9234a1",
+    "title": "Shift climate: How perceptions of fellow frontline employees drive behaviors and customer loyalty",
+    "summary": "Service research highlights the importance of relatively constant elements that influence customer service. A great deal of unexplained variance in service provision remains, however, especially from one shift to another within the same service establishment. We address this gap by introducing the construct , defined as a frontline employee’s perception of the level of co-workers’ focus on customer need satisfaction. We present a scale development plus two additional studies—employing an experie",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 75,
+    "url": "https://link.springer.com/article/10.1007/s11747-025-01132-2",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-10T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Marketing & Consumer Behaviour",
+      "Science Policy & Funding"
+    ]
+  },
+  {
     "id": "599c69d2483e",
     "title": "\"Would You Want an AI Tutor?\" Understanding Stakeholder Perceptions of LLM-based Systems in the Classroom",
     "summary": "arXiv:2503.02885v3 Announce Type: replace-cross Abstract: Large Language Models (LLMs) have gained traction in educational settings, often framed as virtual tutors or teaching assistants. Following early skepticism and bans, many schools and universities have begun integrating these systems into curricula. Yet decisions about whether and how to deploy LLM-based tools are frequently made without systematic engagement with the full range of stakeholders they affect. In this paper, we argue that un",
@@ -34,6 +80,38 @@
     ]
   },
   {
+    "id": "096217bd95fd",
+    "title": "Received! How Acknowledgment Increases a Company’s Sustainability Image and Drives Repeat Customer Participation in Take-Back Programs",
+    "summary": "Abstract An increasing number of companies offer take-back programs, collecting used products or materials from consumers to sustainably process them through recycling or reusing. Prior research examines how to bolster company sustainability perceptions and initially engage customers in take-back programs, but are there additional actions companies can take to enhance their sustainability image and encourage repeat customer participation? We theorize that when a company simply acknowledges custo",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 65,
+    "url": "https://doi.org/10.1093/jcr/ucag007",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-03-26T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Marketing & Consumer Behaviour",
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "e01764d95d49",
+    "title": "Frontiers: ChatGPT Referrals to E-Commerce Websites: How Do LLMs Compare Against Traditional Channels?",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 64,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2025.0489?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-04-21T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Marketing & Consumer Behaviour",
+      "Science Policy & Funding"
+    ]
+  },
+  {
     "id": "2af395baf2cc",
     "title": "NIH Is Funding More Grants Up Front, a Risk to Research and University Budgets",
     "summary": "NIH Is Funding More Grants Up Front, a Risk to Research and University Budgets Ryan Quinn Wed, 05/27/2026 - 03:00 AM The National Institutes of Health has accelerated its awarding of “multiyear-funded” grants in 2026, the Association of American Medical Colleges says. The approach makes it harder for researchers to win funding this fiscal year. Byline(s) Ryan Quinn",
@@ -42,10 +120,39 @@
     "url": "https://www.insidehighered.com/news/government/science-research-policy/2026/05/27/nihs-use-multiyear-funding-grants-poses-research",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-27T07:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.676Z",
+    "scrapedAt": "2026-05-27T17:55:37.710Z",
     "topics": [
       "Research Culture",
       "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "9ab5509c6cff",
+    "title": "Repair Service Signals: How Brand Repair Services Signal Unused Utility and Increase Product Repair",
+    "summary": "Abstract Over the past several decades, there has been a shift toward disposable consumption resulting in a ‘throwaway society’, which includes replacing rather than repairing broken durable goods. Third-party repair services exist even as consumers choose to replace over repair, but more brands are offering repair services directly or supporting repair services through certifications. If consumers simply prefer newer products, brand repair services should not deter replacement through promoting",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 51,
+    "url": "https://doi.org/10.1093/jcr/ucag009",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-04-13T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "cdb1d23a7b90",
+    "title": "Limiting Accessibility: How Targeting Consumers with Disabilities Constrains Acceptable Prices for Innovations",
+    "summary": "Abstract People with disabilities constitute 15% of the world’s population with a total disposable income of more than $2.6 trillion. However, few companies offer products tailored to the needs of this segment, making it important to understand how mass-market consumers react to innovations that target people with disabilities. Nine studies and six supplementary studies (twelve preregistered) reveal that innovations targeting consumers with disabilities are subject to comparatively greater scrut",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 51,
+    "url": "https://doi.org/10.1093/jcr/ucag003",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-03-21T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Marketing & Consumer Behaviour",
+      "Management & Organizations"
     ]
   },
   {
@@ -143,6 +250,21 @@
     ]
   },
   {
+    "id": "8e38e11ec8a6",
+    "title": "Signaling sequel success: How franchise characteristics shape the influence of brand consistency on movie sequel performance",
+    "summary": "Sequels abound in the entertainment industry. New sequels to movies, video games, and books are launched on a regular basis as a means to build on existing franchise brands and generate revenues for entertainment firms. This study leverages signaling theory to explain how the influence of brand consistency as a signal for movie sequels is contingent upon franchise characteristics, including franchise length, age, and origin. Using a sample of 466 movie sequels, this research empirically shows ho",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 47,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01148-2",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-15T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "a05f41fe3734",
     "title": "Using deep learning to identify brain networks mediating cognitive and motor impairments in alcohol use disorder",
     "summary": "",
@@ -151,7 +273,7 @@
     "url": "https://www.nature.com/articles/s41398-026-04101-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "scrapedAt": "2026-05-27T17:55:34.542Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -186,6 +308,94 @@
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition",
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "9ccd51780dd5",
+    "title": "Making sense of higher education means looking at the whole picture, not just your corner of it",
+    "summary": "In 2026–27 Wonkhe will present a new online course Making Sense of Higher Education. Debbie McVitty explains where we're coming from and what it's designed to do",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 43,
+    "url": "https://wonkhe.com/blogs/making-sense-of-higher-education-means-looking-at-the-whole-picture-not-just-your-corner-of-it/",
+    "source": "Wonkhe",
+    "publishedAt": "2026-05-26T01:47:49.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.016Z",
+    "topics": [
+      "Research Culture",
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "86dbe74e9d0c",
+    "title": "Leveraging Generative Artificial Intelligence to Create Visual Content in Digital Advertising",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 43,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.1130?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-05-05T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "aaac285f3c60",
+    "title": "A Framework for Understanding Consumer Response to the Depiction of Historically Underrepresented Identities in Marketing Communications",
+    "summary": "Abstract In recent years, firms’ depictions of some historically underrepresented identities (HUIs) in marketing communications have elicited backlash, while depictions of other HUIs have been more broadly accepted. The present work develops a framework to explain when and why these divergent responses occur. We propose that, while liberals respond positively to the depiction of all HUIs due to their prioritization of the Fairness moral foundation, conservatives’ responses are more nuanced and d",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 43,
+    "url": "https://doi.org/10.1093/jcr/ucag010",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-04-16T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "9f11aab063a6",
+    "title": "Large Language Models for Market Research: A Data-Augmentation Approach",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 43,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2025.0009?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-03-17T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "1b653747f905",
+    "title": "Consumer-Driven Class Pricing",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 43,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2023.0133?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-03-12T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "14147fc1e793",
+    "title": "Leveraging Large-Scale Granular Single-Source Data for TV Advertising: An Identification Strategy",
+    "summary": "Marketing Science, Volume 45, Issue 3, Page 632-652, May-June 2026.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 43,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2023.0582?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-03-11T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour",
       "Management & Organizations"
     ]
   },
@@ -231,7 +441,7 @@
     "url": "https://www.highereddive.com/news/higher-education-must-be-rebuilt-to-restore-public-trust-heres-how/821031/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-26T09:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.752Z",
+    "scrapedAt": "2026-05-27T17:55:37.734Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -250,6 +460,21 @@
     "topics": [
       "AI & Emerging Tech",
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "3d5d4fd35d07",
+    "title": "Advertiser Learning in Direct Advertising Markets",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 40,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.0847?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-03-23T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Marketing & Consumer Behaviour"
     ]
   },
   {
@@ -275,7 +500,7 @@
     "url": "https://www.nature.com/articles/s41598-026-52623-3",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -289,7 +514,7 @@
     "url": "https://www.nature.com/articles/s41598-026-53523-2",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.543Z",
+    "scrapedAt": "2026-05-27T17:55:34.583Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -303,7 +528,7 @@
     "url": "https://www.nature.com/articles/s41598-026-54543-8",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -317,7 +542,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07724-9",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -331,7 +556,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07673-3",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-23T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "Research Culture",
       "Management & Organizations"
@@ -349,6 +574,63 @@
     "scrapedAt": "2026-05-23T02:33:49.909Z",
     "topics": [
       "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "46142ec45fca",
+    "title": "From influence to infamy: Responses to company-influencer transgressions",
+    "summary": "Company-influencer collaborations are widespread, yet little is known about the fallout when both parties transgress. Addressing this gap, this research examines company-influencer transgressions, instances where both parties jointly mislead consumers, and investigates how consumers respond to each party (i.e., the company and the influencer). Using an empirics-first approach that combines longitudinal real-world data, experiments, surveys, and text analysis involving consumers and journalists, ",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 39,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01155-3",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-05-22T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "818be427260e",
+    "title": "Up and cross-selling to uncivil customers: The dual moderating roles of managerial directives and selling approaches",
+    "summary": "Dealing with customer incivility is a persistent challenge in retail sales, often depleting employees’ resources and thereby impairing performance. This study investigates how managerial guidance can assist frontline employees in converting negative encounters into sales opportunities. Drawing on the Conservation of Resources theory, we investigate how managerial directives and selling approaches shape employee responses to customer incivility, particularly in relation to upselling and cross-sel",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 39,
+    "url": "https://link.springer.com/article/10.1007/s11747-025-01130-4",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-05-22T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "3f7f11886702",
+    "title": "Product salience in influencer endorsement posts",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 39,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01143-7",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-05-01T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "11594ce2fdc5",
+    "title": "Rethinking social media strategy: Crafting digital sensory appeals to maximize customer engagement",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 39,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01145-5",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-10T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour",
+      "Management & Organizations"
     ]
   },
   {
@@ -422,7 +704,7 @@
     "url": "https://www.nature.com/articles/s42003-026-10189-w",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-27T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.543Z",
+    "scrapedAt": "2026-05-27T17:55:34.583Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -468,7 +750,7 @@
     "url": "https://www.nature.com/articles/s41597-026-07493-9",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "scrapedAt": "2026-05-27T17:55:34.542Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -528,7 +810,7 @@
     "url": "https://www.nature.com/articles/s41598-026-53572-7",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-23T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "AI & Emerging Tech",
       "Science Policy & Funding"
@@ -589,7 +871,7 @@
     "url": "https://www.insidehighered.com/news/faculty/shared-governance/2026/05/27/u-texas-makes-it-easier-fire-faculty-close-programs",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-27T07:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.676Z",
+    "scrapedAt": "2026-05-27T17:55:37.710Z",
     "topics": [
       "Academic Careers"
     ]
@@ -625,6 +907,49 @@
     ]
   },
   {
+    "id": "f1e79d6eea9a",
+    "title": "Made With AI: Consumer Engagement with Social Media Containing AI Disclosures",
+    "summary": "Abstract Social media shapes how people connect, communicate and consume information. As generative artificial intelligence (AI) becomes an increasingly common tool for content creation, many platforms have introduced disclosure requirements to inform consumers when content has been created or significantly edited by AI. Yet, little is known about how such AI-generated content (AIGC) disclosures influence consumer engagement, a key metric for creators, platforms, and brands. This research examin",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 35,
+    "url": "https://doi.org/10.1093/jcr/ucag013",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "68a671fa3c86",
+    "title": "More Correlations Signal Causation: The Effect of Correlational Scope on Perceived Causality",
+    "summary": "Abstract In the era of big data, an increasing amount of information is becoming available to business analysts and scientists. Statistical correlations between consumption patterns and individual conditions (e.g., health conditions) are frequently uncovered and reported in the media. However, many correlations are spurious, prompting the question of when consumers perceive them as reflecting causal relationships. Across eight preregistered studies, we demonstrate that a correlation (e.g., betwe",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 35,
+    "url": "https://doi.org/10.1093/jcr/ucag005",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-03-15T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Marketing & Consumer Behaviour",
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "64d89b1e9323",
+    "title": "Less Is More (Natural): The Effect of Ingredient Quantity Framing on Consumer Preferences",
+    "summary": "Journal of Marketing Research, Ahead of Print. Despite the ubiquity of ingredient quantity information in the marketplace, prior literature has yet to examine whether ingredient quantity shapes consumer choice. This research presents and tests a novel framework that charts when, why, and how this ...",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 35,
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/00222437261432622?ai=2b4&mi=ehikzz&af=R",
+    "source": "Journal of Marketing Research",
+    "publishedAt": "2026-03-02T05:08:14.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.543Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
     "id": "6ba6b3ee7081",
     "title": "University of Michigan poised to buy campus of downsized Lutheran college",
     "summary": "Nearly two years after Concordia University Ann Arbor moved to fold most of its programs, it’s looking to sell real estate for $60 million.",
@@ -651,6 +976,50 @@
     "scrapedAt": "2026-05-27T07:00:17.262Z",
     "topics": [
       "AI & Emerging Tech",
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "373f5b691715",
+    "title": "Learning via short videos impairs memory accuracy and reduces brain synchrony",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 33,
+    "url": "https://www.nature.com/articles/s44271-026-00476-x",
+    "source": "Nature - Human Behaviour",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.528Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "71b5c2e9b2c3",
+    "title": "Redesigning algorithms to intervene on social norm misperceptions during a national election",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 33,
+    "url": "https://www.nature.com/articles/s41586-026-10536-1",
+    "source": "Nature - Human Behaviour",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.528Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "9f1c76caa5c1",
+    "title": "Peter H. Raven obituary: visionary botanist who transformed our understanding of plant diversity",
+    "summary": "",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 33,
+    "url": "https://www.nature.com/articles/d41586-026-01652-z",
+    "source": "Nature",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.680Z",
+    "topics": [
+      "Higher Education",
       "Science Policy & Funding"
     ]
   },
@@ -755,9 +1124,163 @@
     "url": "https://www.insidehighered.com/opinion/views/2026/05/27/who-speaks-university-guidelines-needed-opinion",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-27T07:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.676Z",
+    "scrapedAt": "2026-05-27T17:55:37.710Z",
     "topics": [
       "Research Culture"
+    ]
+  },
+  {
+    "id": "055168792c70",
+    "title": "Manchester University to offer work placements to all undergraduates",
+    "summary": "Russell Group university promises students, from chemical engineering to classics, ‘meaningful real-world experience’ A leading UK university is promising work placements to all undergraduates regardless of their degree, to better equip them for the challenges of the job market. In what appears to be a first for a large Russell Group institution, the University of Manchester is planning to offer “meaningful real-world experience” to all students, in subjects from classics to chemical engineering",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 31,
+    "url": "https://www.theguardian.com/business/2026/may/26/manchester-university-to-offer-work-placements-to-all-undergraduates",
+    "source": "The Guardian - Higher Education",
+    "publishedAt": "2026-05-26T17:25:54.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.828Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "b3e15892eefa",
+    "title": "An Empirical Analysis of Optimal Nonlinear Pricing in Business-to-Business Markets",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 31,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2023.0487?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "2b6b4d5fafd6",
+    "title": "Optimizing Reserve Prices in Display Advertising Auctions",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 31,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2023.0002?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-05-06T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "6ecb1a002097",
+    "title": "Inferences About Others’ Consumption Motives Influence What Consumers Expect from Similar Experiences",
+    "summary": "Abstract When consumers see someone else’s experience shared on social media, they often infer whether the sharer had relatively intrinsic or extrinsic motives for originally engaging in this experience. While prior research has documented how these inferred motives affect viewers’ social evaluations of the sharer, the present research demonstrates that these inferences can shift viewer beliefs about the experience itself. The findings from six studies show that when viewers infer a sharer origi",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 31,
+    "url": "https://doi.org/10.1093/jcr/ucag012",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "15d89e660b9a",
+    "title": "Strategies in the silver economy: A framework and a research agenda",
+    "summary": "The world’s population is aging rapidly, creating profound implications for businesses operating in the emerging “silver economy,” which encompasses economic activities of consumers over 50 years of age. Although older adults hold significant wealth and purchasing power, they are often underserved by marketing strategies that rely on stereotypes or overemphasize youth segments. This paper highlights the need for more nuanced, culturally informed strategies and approaches to engaging senior consu",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 31,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01156-2",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-05-02T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "f1f7cbfd31c2",
+    "title": "Re-imagining CCT for crisis times: Theorizing collaborative consumer culture",
+    "summary": "Consumer culture theory (CCT) is a pluralistic framework for understanding how consumption practices and consumer identities are embedded in socio-cultural and market systems. While CCT research has illuminated the myriad complexities of consumer culture in ways that have informed theory and practice, its anthropocentric ontology tacitly aligns with a set of institutional conditions that we term as . The Capitalocene is characterized by a metaphysical belief that humanity has dominion over natur",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 31,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01157-1",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-05-01T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "947ab5946a8a",
+    "title": "Cooperation: An enduring theory of relationship marketing",
+    "summary": "Artificial intelligence promises to transform marketing, but some relational constants endure across technological ages. The current research proposes a three-layer hierarchical framework that prioritizes three time-invariant foundations of cooperative exchange relationships. Specifically, each foundation comprises a universal principle (interdependence, reciprocity, justice), corresponding psychological construct (trust, gratitude, unfairness), and resulting behaviors that permit, propel, and p",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 31,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01158-0",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-28T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "ed879ba4330b",
+    "title": "Consumer Reviews and Regulation: Evidence from New York City Restaurants",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 31,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2023.0088?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-04-27T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "f9a2e1625a10",
+    "title": "Cementing JM’s Impact on the Marketing Ecosystem: Empirical Execution",
+    "summary": "Journal of Marketing, Volume 90, Issue 3, Page 1-12, May 2026.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 31,
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/00222429261426047?ai=2b4&mi=ehikzz&af=R",
+    "source": "Journal of Marketing",
+    "publishedAt": "2026-03-25T08:05:48.000Z",
+    "scrapedAt": "2026-05-27T17:55:35.804Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "0a67ab5e9e24",
+    "title": "From Adaptation to Disruption: Structured Ambivalence as a Catalyst for Consumer-Led Institutional Work",
+    "summary": "Abstract This study explores how consumers respond to the ambivalence sparked by conflicting institutional norms in contexts such as the United States market for donor conception (i.e., egg, sperm, embryo). While prior research has framed responses to ambivalence as “coping,” we theorize these responses as consumer-led institutional work—that is, active efforts to adapt to or challenge institutional norms. Drawing on interviews, archival narratives, and case profiles, we develop a typology disti",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 31,
+    "url": "https://doi.org/10.1093/jcr/ucag004",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-03-09T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "f653189faaf8",
+    "title": "αKG-mediated carnitine synthesis drives DNA repair via histone acetylation",
+    "summary": "",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 30,
+    "url": "https://www.nature.com/articles/s41586-026-10584-7",
+    "source": "Nature",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.680Z",
+    "topics": [
+      "PhD & PostDoc Life"
     ]
   },
   {
@@ -784,7 +1307,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10669-3",
     "source": "Nature",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.620Z",
+    "scrapedAt": "2026-05-27T17:55:34.680Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -947,7 +1470,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/05/27/swarthmore-promises-free-tuition-families-under-200k",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-27T07:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.676Z",
+    "scrapedAt": "2026-05-27T17:55:37.710Z",
     "topics": [
       "Higher Education"
     ]
@@ -961,7 +1484,7 @@
     "url": "https://www.insidehighered.com/news/quick-takes/2026/05/27/new-college-expansion-plan-advances",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-05-27T07:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.676Z",
+    "scrapedAt": "2026-05-27T17:55:37.710Z",
     "topics": [
       "Higher Education"
     ]
@@ -982,6 +1505,34 @@
     ]
   },
   {
+    "id": "20bc7db41684",
+    "title": "Empowerment or behavioral regulation? governing brain–computer interface privacy risks under new quality productive forces",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s41599-026-07601-5",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "a4e9c6af6c34",
+    "title": "Universal transcriptomic hallmarks of mammalian ageing and mortality",
+    "summary": "",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s41586-026-10542-3",
+    "source": "Nature",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.680Z",
+    "topics": [
+      "AI & Emerging Tech"
+    ]
+  },
+  {
     "id": "a3870643f8f6",
     "title": "Here’s a list of the biggest donations to colleges in 2026 so far",
     "summary": "We’re keeping tabs on gifts and commitments of $100 million or more made to higher education institutions.",
@@ -990,7 +1541,7 @@
     "url": "https://www.highereddive.com/news/biggest-donations-gifts-colleges-universities-2026/821000/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-26T09:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.752Z",
+    "scrapedAt": "2026-05-27T17:55:37.734Z",
     "topics": [
       "Higher Education"
     ]
@@ -1018,7 +1569,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01620-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "scrapedAt": "2026-05-27T17:55:34.542Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1032,7 +1583,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07714-x",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1046,7 +1597,7 @@
     "url": "https://www.nature.com/articles/s41586-026-10651-z",
     "source": "Nature",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.620Z",
+    "scrapedAt": "2026-05-27T17:55:34.680Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1090,7 +1641,7 @@
     "url": "https://www.nature.com/articles/s41746-026-02734-y",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "scrapedAt": "2026-05-27T17:55:34.542Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1104,7 +1655,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07757-0",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1118,7 +1669,7 @@
     "url": "https://www.nature.com/articles/s41746-026-02777-1",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "scrapedAt": "2026-05-27T17:55:34.542Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1132,7 +1683,7 @@
     "url": "https://www.nature.com/articles/s41538-026-00905-5",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-23T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.563Z",
+    "scrapedAt": "2026-05-27T17:55:34.528Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1168,6 +1719,81 @@
     ]
   },
   {
+    "id": "3696371a1431",
+    "title": "When does past sales performance predict turnover in contemporary inside and outside sales forces?",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 27,
+    "url": "https://link.springer.com/article/10.1007/s11747-025-01138-w",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-25T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Management & Organizations",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "7f7ffe73f408",
+    "title": "Possessions and the extended and incorporated self",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 27,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01142-8",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-20T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Management & Organizations",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "2801ce01c584",
+    "title": "Inside the call: How customer service agent warmth and competence shape customer reactions",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 27,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01144-6",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-20T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "b60e0040c1fc",
+    "title": "A Vision Editorial for the 2026–2029 JMR Team",
+    "summary": "Journal of Marketing Research, Ahead of Print. This article is temporarily under embargo.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 27,
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/00222437261434156?ai=2b4&mi=ehikzz&af=R",
+    "source": "Journal of Marketing Research",
+    "publishedAt": "2026-03-25T08:07:51.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.543Z",
+    "topics": [
+      "Management & Organizations",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "4a8a3f114331",
+    "title": "Brief Commentary: A Framework for Detecting AI Agents in Online Research",
+    "summary": "Abstract Online behavioral research assumes survey responses come from humans, yet vision-enabled AI agents can now autonomously complete surveys by capturing screenshots, processing questions, and submitting responses. Because these agents perceive the same rendered visual content that humans see, traditional detection methods are ineffective. This article introduces the Cognitive Trap Framework: researchers can transform architectural constraints of vision-language models into survey questions",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 27,
+    "url": "https://doi.org/10.1093/jcr/ucag006",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-03-25T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Science Policy & Funding",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
     "id": "b5b4b664e067",
     "title": "Reliability and Effectiveness of Autonomous AI Agents in Supply Chain Management",
     "summary": "arXiv:2605.17036v3 Announce Type: replace Abstract: This paper studies autonomous generative AI agents in multi-echelon supply chains using the MIT Beer Game. We identify four inference-time levers that shape performance: model selection, policies and guardrails, centralized data sharing, and prompt engineering. Model capability is the dominant factor: an out-of-the-box reasoning model exceeds human-level performance, and optimized reasoning models reduce costs by up to 67% relative to human tea",
@@ -1176,7 +1802,7 @@
     "url": "https://arxiv.org/abs/2605.17036",
     "source": "arXiv - AI",
     "publishedAt": "2026-05-27T04:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.619Z",
+    "scrapedAt": "2026-05-27T17:55:37.397Z",
     "topics": [
       "AI & Emerging Tech",
       "Management & Organizations"
@@ -1303,6 +1929,21 @@
     ]
   },
   {
+    "id": "d4aa3984e97b",
+    "title": "What AI Still Can’t Do for Leaders",
+    "summary": "As leaders weave generative AI tools like ChatGPT and Claude into their daily workflows, where does the output fall short? Moreover, where are leaders falling short for their organizations by giving away too much agency to artificial intelligence? MIT Sloan School of Management professors Deborah Ancona and Katherine W. Isaacs have thought deeply about the […]",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 24,
+    "url": "https://sloanreview.mit.edu/video/what-ai-still-cant-do-for-leaders/",
+    "source": "MIT Sloan Management Review",
+    "publishedAt": "2026-05-27T11:00:09.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.349Z",
+    "topics": [
+      "AI & Emerging Tech",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "c174ccd19bae",
     "title": "CogAdapt: Transferring Clinical ECG Foundation Models to Wearable Cognitive Load Assessment via Lead Adaptation",
     "summary": "arXiv:2605.22774v2 Announce Type: replace-cross Abstract: Real-time cognitive load assessment is essential for adaptive human-computer interaction but remains challenging due to limited labeled data and poor cross-subject generalization. Recent ECG foundation models pre-trained on millions of clinical recordings offer rich representations, but cannot be directly applied to wearable devices due to sensor configuration mismatch and task differences. In this paper, we propose CogAdapt, a framework ",
@@ -1318,6 +1959,90 @@
     ]
   },
   {
+    "id": "3a4d20e4ef4f",
+    "title": "Rethinking psychology through the free-energy principle",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s44159-026-00577-8",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.542Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "ce2bef30afcc",
+    "title": "Generalizable mutation-effect prediction across adaptive immune recognition via unified multimodal framework",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s42256-026-01243-7",
+    "source": "Nature - Machine Learning",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.583Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "fc21692b2791",
+    "title": "Memory on trial: the new science of when to trust eyewitness testimony",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/d41586-026-01618-1",
+    "source": "Nature - Society",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.532Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "94c65d5cc920",
+    "title": "Sparse-to-dense coding transformation between hippocampal areas CA3 and CA1",
+    "summary": "",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s41586-026-10537-0",
+    "source": "Nature",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.680Z",
+    "topics": [
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "21e515559190",
+    "title": "Substrate selectivity of the human RNA m5C methyltransferase NSUN2",
+    "summary": "",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s41586-026-10582-9",
+    "source": "Nature",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.680Z",
+    "topics": [
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "3f5d28e48b50",
+    "title": "Metamaterial-enhanced near-field radiative heat transfer",
+    "summary": "",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s41586-026-10595-4",
+    "source": "Nature",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:34.680Z",
+    "topics": [
+      "Science Policy & Funding"
+    ]
+  },
+  {
     "id": "2d615eab8fb7",
     "title": "DOJ lawsuit accuses UCLA of ignoring antisemitism on campus",
     "summary": "The agency sued the University of California, arguing its Los Angeles campus was “deliberately indifferent” to harassment of Jewish and Israeli students.",
@@ -1326,7 +2051,7 @@
     "url": "https://www.highereddive.com/news/doj-lawsuit-accuses-ucla-ignoring-antisemitism-campus/821173/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-26T21:26:12.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.752Z",
+    "scrapedAt": "2026-05-27T17:55:37.734Z",
     "topics": [
       "Higher Education"
     ]
@@ -1368,7 +2093,7 @@
     "url": "https://www.nature.com/articles/d41586-026-01665-8",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.532Z",
+    "scrapedAt": "2026-05-27T17:55:34.542Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -1382,7 +2107,7 @@
     "url": "https://www.nature.com/articles/s41598-026-55340-z",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1396,7 +2121,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07762-3",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1410,7 +2135,7 @@
     "url": "https://www.nature.com/articles/s41537-026-00768-5",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-26T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.563Z",
+    "scrapedAt": "2026-05-27T17:55:34.528Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1439,7 +2164,7 @@
     "url": "https://www.nature.com/articles/s41598-026-55014-w",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-25T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1453,7 +2178,7 @@
     "url": "https://www.nature.com/articles/s41398-026-04136-w",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-24T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:38.563Z",
+    "scrapedAt": "2026-05-27T17:55:34.528Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -1467,7 +2192,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07703-0",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-23T00:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:39.197Z",
+    "scrapedAt": "2026-05-27T17:55:35.512Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -1530,6 +2255,36 @@
     ]
   },
   {
+    "id": "ac708f9d823d",
+    "title": "Unraveling Multifaceted User Preferences on Digital Platforms: A Bayesian Deep-Learning Approach",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.1090?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-04-21T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "80a42b521680",
+    "title": "How should content creators narrate their content? The impact of emotionality flips on audience engagement",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01147-3",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-15T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Human Behaviour & Cognition",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
     "id": "167ed4e943c4",
     "title": "Cognitive offloading and the speedup illusion in human-AI interaction",
     "summary": "arXiv:2605.23177v1 Announce Type: cross Abstract: Large language models (LLMs) have the potential to boost human productivity by speeding up task completion -- provided users know when to offload cognitive work to them. But we do not know if users are well-calibrated in estimating these potential time savings. We conducted a preregistered large-scale behavioral study (N = 1237) to characterize mismatches between expectations and reality, with a focus on simple cognitive tasks. While actual compl",
@@ -1557,6 +2312,20 @@
     "topics": [
       "Human Behaviour & Cognition",
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "05567f3462ca",
+    "title": "When Goods Were Odds: Do People Prefer Uncertain Goods After Uncertainty Is Resolved?",
+    "summary": "Abstract Much of the uncertainty people face is eventually resolved (e.g., a person entered in a raffle eventually learns what prize they have received). How do people evaluate goods (e.g., a prize of a $50 gift card) resulting from uncertain promotions (e.g., raffles)? Seven experiments (total N = 12,128) provide evidence for an uncertainty spillover effect: People prefer goods originating from uncertain prospects compared to those that were always known. This effect appeared both with naturali",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 23,
+    "url": "https://doi.org/10.1093/jcr/ucag008",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-04-11T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
     ]
   },
   {
@@ -1942,6 +2711,34 @@
     ]
   },
   {
+    "id": "0672e14b4b4f",
+    "title": "Brief Commentary: Theory Testing for Differences in Process – Hypothesizing, Testing, and Reporting Comparisons Between Indirect Effects",
+    "summary": "Abstract Consumer researchers often compare a proposed process across contexts (i.e., moderated mediation) or across mediators (e.g., ruling out an alternative process in parallel mediation). This paper aims to help researchers in mapping process-related theoretical hypotheses onto statistical coefficients and in reporting their results. Researchers can formulate a variety of hypotheses about the conditional indirect effect (CIE) of a predictor X on an outcome Y through a mediator M, such as: (A",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 20,
+    "url": "https://doi.org/10.1093/jcr/ucag011",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-04-20T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "bd34c2d5862a",
+    "title": "A Word of Thanks",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 20,
+    "url": "https://doi.org/10.1093/jcr/ucag001",
+    "source": "Journal of Consumer Research",
+    "publishedAt": "2026-03-27T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:41.704Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
     "id": "e88d91a0af29",
     "title": "Mapping the gender attrition gap in academic psychology",
     "summary": "arXiv:2510.13273v2 Announce Type: replace-cross Abstract: Women comprise the majority of students and early-career scholars in psychology, yet they are less likely to remain active in research over time. This pattern raises a central question: At what stages of academic careers do women disproportionately leave academia, and what factors drive their attrition? Using large-scale bibliometric data tracking 78,216 psychologists who began publishing between 2000 and 2014, we examine gender differenc",
@@ -1950,7 +2747,7 @@
     "url": "https://arxiv.org/abs/2510.13273",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-05-27T04:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.554Z",
+    "scrapedAt": "2026-05-27T17:55:37.230Z",
     "topics": [
       "Research Culture",
       "Human Behaviour & Cognition",
@@ -2066,7 +2863,7 @@
     "url": "https://knowledge.wharton.upenn.edu/article/why-ai-pricing-doesnt-always-drive-prices-higher/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-05-26T15:36:19.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.724Z",
+    "scrapedAt": "2026-05-27T17:55:38.128Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2080,7 +2877,7 @@
     "url": "https://retractionwatch.com/2026/05/26/retraction-zebra-finch-birdsong-study-critics-nature/",
     "source": "Retraction Watch",
     "publishedAt": "2026-05-26T10:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.814Z",
+    "scrapedAt": "2026-05-27T17:55:38.036Z",
     "topics": [
       "Research Culture"
     ]
@@ -2395,6 +3192,202 @@
     ]
   },
   {
+    "id": "d561ba0cde3f",
+    "title": "The surcharge donation paradox and the restorative power of choice",
+    "summary": "Surcharges discourage undesirable behaviors but often trigger backlash regarding profit motives. Donating the proceeds to charity resolves this conflict but may potentially undermine the “pain of paying” required for deterrence. Across an incentive-compatible lab study and a large-scale field experiment, we find surcharges donated to a designated charity increased inattentive survey responses (Study 2) or peak-hour travel (Study 3, a randomized controlled trial). However, we identify a moderator",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01163-3",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-05-21T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "7ee6b81aa882",
+    "title": "Focus on Authors",
+    "summary": "Marketing Science, Volume 45, Issue 3, Page 696-698, May-June 2026.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2026.focusonaus.v45.n3?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-05-11T08:14:08.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "288e522e7cc1",
+    "title": "Editorial Board",
+    "summary": "Marketing Science, Volume 45, Issue 3, Page ii-ii, May-June 2026.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2026.eb.v45n3?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-05-11T08:14:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "a1b3a9025ed0",
+    "title": "Talking Without Speaking: Paid Trolls on Social Media and Court Decision",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.0679?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-04-29T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "a89f73bfab24",
+    "title": "Frontiers: The Demand for Counterfeits: A Descriptive Analysis",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2025.0565?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-04-29T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "fdab1229c157",
+    "title": "The Ripple Effect of Platform Quality Controls in a Submarket: Evidence from a Secondhand Marketplace",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.1228?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-04-27T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "d744b084bf83",
+    "title": "Free and paid word-of-mouth from physical to digital, AI and beyond",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01151-7",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-25T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "e034c75a2465",
+    "title": "Thumbnail power: Visual cues and video popularity on UGV platforms",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01152-6",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-15T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "df4ea5e23b50",
+    "title": "Converting preference to actual commitment: The role of option presentation order",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://link.springer.com/article/10.1007/s11747-026-01150-8",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-15T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "909e541add2e",
+    "title": "Do unit failures strengthen survivors? Insights from multiunit franchisees",
+    "summary": "",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://link.springer.com/article/10.1007/s11747-025-01139-9",
+    "source": "J. of the Acad. of Marketing Science",
+    "publishedAt": "2026-04-10T00:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:37.044Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "32c7251be7d8",
+    "title": "Privacy-Preserving Data Fusion",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2023.0068?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-04-01T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "f58038151d3c",
+    "title": "A Bayesian Dual Clustering Approach for Selecting Data and Parameter Granularities",
+    "summary": "Marketing Science, Volume 45, Issue 3, Page 556-575, May-June 2026.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.1018?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-03-26T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "87717514a3f7",
+    "title": "Algorithmic Targeting and the Precision-Recall Tradeoff",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.0930?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-03-23T07:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "b4006d1bf339",
+    "title": "The Design of Centralized Matching Systems on Two-Sided Platforms: Evidence from the Ride-Hailing Market",
+    "summary": "Marketing Science, Ahead of Print.",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 15,
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2023.0561?af=R",
+    "source": "Marketing Science",
+    "publishedAt": "2026-03-03T08:00:00.000Z",
+    "scrapedAt": "2026-05-27T17:55:36.006Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
     "id": "4293c27c71f2",
     "title": "ExplainReduce: Generating global explanations from many local explanations",
     "summary": "arXiv:2502.10311v3 Announce Type: replace-cross Abstract: Most commonly used non-linear machine learning methods are closed-box models, uninterpretable to humans. The field of explainable artificial intelligence (XAI) aims to develop tools to examine the inner workings of these closed boxes. An often-used model-agnostic approach to XAI involves using simple models as local approximations to produce so-called local explanations; examples of this approach include LIME, SHAP, and SLISEMAP. This pap",
@@ -2462,7 +3455,7 @@
     "url": "https://knowledge.wharton.upenn.edu/podcast/ripple-effect/rethinking-political-division-and-media-segmentation/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-05-26T20:51:38.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.724Z",
+    "scrapedAt": "2026-05-27T17:55:38.128Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2532,7 +3525,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.03826?af=R",
     "source": "Management Science",
     "publishedAt": "2026-05-25T07:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.226Z",
+    "scrapedAt": "2026-05-27T17:55:36.114Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2841,7 +3834,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06264?af=R",
     "source": "Management Science",
     "publishedAt": "2026-05-26T07:00:00.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.226Z",
+    "scrapedAt": "2026-05-27T17:55:36.114Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3065,7 +4058,7 @@
     "url": "https://sloanreview.mit.edu/article/ask-sanyin-why-cant-they-see-that-im-visionary/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-05-26T11:00:04.000Z",
-    "scrapedAt": "2026-05-27T08:48:40.415Z",
+    "scrapedAt": "2026-05-27T17:55:37.349Z",
     "topics": [
       "Management & Organizations"
     ]
