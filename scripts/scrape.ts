@@ -168,6 +168,12 @@ type FeedConfig = {
   minScore?: number
   /** Require at least this many topic matches — use for broad feeds */
   minTopics?: number
+  /** Override maxAgeDays for this feed (e.g. 90 for slow-publishing journals) */
+  maxAgeDays?: number
+  /** Auto-assign these topics even if keyword matching finds nothing */
+  forcedTopics?: string[]
+  /** Skip topic keyword matching — always include (for curated journal feeds) */
+  alwaysInclude?: boolean
 }
 
 const FEEDS: FeedConfig[] = [
@@ -192,10 +198,11 @@ const FEEDS: FeedConfig[] = [
   { url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv', source: 'Science Advances', maxItems: 20, minScore: 8 },
   { url: 'https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas', source: 'PNAS', maxItems: 20, minScore: 8 },
 
-  // --- Primary: Top Marketing journals ---
-  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmxa&type=etoc&feed=rss', source: 'Journal of Marketing' },
-  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=mrja&type=etoc&feed=rss', source: 'Journal of Marketing Research' },
-  { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mksc', source: 'Marketing Science' },
+  // --- Primary: Top Marketing journals (wide date window — these publish monthly) ---
+  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmxa&type=etoc&feed=rss', source: 'Journal of Marketing', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
+  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=mrja&type=etoc&feed=rss', source: 'Journal of Marketing Research', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
+  { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mksc', source: 'Marketing Science', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
+  { url: 'https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=11747&query=*', source: 'J. of the Acad. of Marketing Science', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
 
   // --- Primary: Top Management journals ---
   { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc', source: 'Management Science', maxItems: 20, minScore: 8 },
@@ -214,9 +221,14 @@ const FEEDS: FeedConfig[] = [
   { url: 'https://rss.arxiv.org/rss/cs.DL', source: 'arXiv - Digital Libraries', maxItems: 5 },
   { url: 'https://rss.arxiv.org/rss/econ.GN', source: 'arXiv - Economics', stanfordOnly: true, maxItems: 5 },
 
-  // --- Secondary: Higher Ed publications ---
+  // --- Secondary: Higher Ed publications (US) ---
   { url: 'https://www.insidehighered.com/rss.xml', source: 'Inside Higher Ed' },
   { url: 'https://www.highereddive.com/feeds/news/', source: 'Higher Ed Dive' },
+
+  // --- Secondary: Higher Ed publications (Europe) ---
+  { url: 'https://www.theguardian.com/education/higher-education/rss', source: 'The Guardian - Higher Education' },
+  { url: 'https://www.theguardian.com/science/rss', source: 'The Guardian - Science', minScore: 8 },
+  { url: 'https://wonkhe.com/feed/', source: 'Wonkhe' },
 
   // --- Secondary: Research institutions ---
   { url: 'https://knowledge.wharton.upenn.edu/feed/', source: 'Knowledge at Wharton' },
@@ -333,7 +345,8 @@ async function scrapeFeed(
   try {
     const feed = await parser.parseURL(feedConfig.url)
     const now = new Date()
-    const cutoff = new Date(now.getTime() - maxAgeDays * 24 * 60 * 60 * 1000)
+    const effectiveMaxAge = feedConfig.maxAgeDays ?? maxAgeDays
+    const cutoff = new Date(now.getTime() - effectiveMaxAge * 24 * 60 * 60 * 1000)
 
     const articles: Article[] = []
 
@@ -360,7 +373,18 @@ async function scrapeFeed(
       // Exclusion rules
       if (isExcluded(title, body)) continue
 
-      const { topics, score: baseScore } = matchTopics(title, body)
+      let { topics, score: baseScore } = matchTopics(title, body)
+
+      // For curated journal feeds: add forced topics and always include
+      if (feedConfig.forcedTopics) {
+        for (const ft of feedConfig.forcedTopics) {
+          if (!topics.includes(ft)) topics.push(ft)
+        }
+      }
+      if (feedConfig.alwaysInclude && topics.length === 0) {
+        topics = feedConfig.forcedTopics ? [...feedConfig.forcedTopics] : ['Marketing & Consumer Behaviour']
+        baseScore = Math.max(baseScore, 5)
+      }
       if (topics.length === 0) continue
 
       // Strict filtering for noisy general feeds (e.g. The Conversation)
@@ -381,7 +405,9 @@ async function scrapeFeed(
         'Nature - Lab Life', 'Nature - Science, Tech & Society',
         'Science', 'Science Advances', 'PNAS',
         'Inside Higher Ed', 'Higher Ed Dive',
+        'The Guardian - Higher Education', 'Wonkhe',
         'Journal of Marketing', 'Journal of Marketing Research', 'Marketing Science',
+        'J. of the Acad. of Marketing Science', 'Journal of Consumer Research',
       ]
       if (PRIORITY_SOURCES.includes(feedConfig.source)) score += 15
 
@@ -415,6 +441,77 @@ async function scrapeFeed(
     return articles
   } catch (err) {
     console.error(`  ${feedConfig.source}: FAILED - ${(err as Error).message}`)
+    return []
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Crossref-based scraper for journals with blocked RSS (e.g. JCR)
+// ---------------------------------------------------------------------------
+interface CrossrefJournal {
+  issn: string
+  source: string
+  forcedTopics: string[]
+}
+
+const CROSSREF_JOURNALS: CrossrefJournal[] = [
+  { issn: '0093-5301', source: 'Journal of Consumer Research', forcedTopics: ['Marketing & Consumer Behaviour'] },
+]
+
+async function scrapeCrossref(journal: CrossrefJournal, maxAgeDays: number): Promise<Article[]> {
+  try {
+    const url = `https://api.crossref.org/journals/${journal.issn}/works?rows=20&sort=published&order=desc&select=title,published-online,URL,abstract`
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'AcademicFeed/2.0 (mailto:jonasheller89@gmail.com)' },
+    })
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    const data = await res.json() as { message: { items: Array<{ title?: string[]; URL?: string; abstract?: string; 'published-online'?: { 'date-parts': number[][] } }> } }
+
+    const now = new Date()
+    const cutoff = new Date(now.getTime() - maxAgeDays * 24 * 60 * 60 * 1000)
+    const articles: Article[] = []
+
+    for (const item of data.message.items) {
+      const title = item.title?.[0]
+      const link = item.URL
+      if (!title || !link) continue
+
+      const dateParts = item['published-online']?.['date-parts']?.[0]
+      if (!dateParts || dateParts.length < 3) continue
+      const pubDate = new Date(dateParts[0], dateParts[1] - 1, dateParts[2])
+      if (pubDate < cutoff || pubDate > now) continue
+
+      const rawAbstract = item.abstract || ''
+      const body = cleanHtml(rawAbstract)
+
+      let { topics, score: baseScore } = matchTopics(title, body)
+      for (const ft of journal.forcedTopics) {
+        if (!topics.includes(ft)) topics.push(ft)
+      }
+      if (topics.length === 0) topics = [...journal.forcedTopics]
+      baseScore = Math.max(baseScore, 5)
+
+      // Apply priority source boost
+      baseScore += 15
+
+      articles.push({
+        id: makeId(link),
+        title,
+        summary: body.slice(0, 500),
+        whyItMatters: generateWhyItMatters(topics),
+        relevanceScore: baseScore,
+        url: link,
+        source: journal.source,
+        publishedAt: pubDate.toISOString(),
+        scrapedAt: now.toISOString(),
+        topics,
+      })
+    }
+
+    console.log(`  ${journal.source}: ${articles.length} relevant articles (Crossref)`)
+    return articles
+  } catch (err) {
+    console.error(`  ${journal.source}: FAILED - ${(err as Error).message}`)
     return []
   }
 }
@@ -523,8 +620,22 @@ async function main() {
     results.push(...batchResults)
   }
 
+  // Scrape Crossref journals (JCR, etc.)
+  const crossrefResults = await Promise.allSettled(
+    CROSSREF_JOURNALS.map((j) => scrapeCrossref(j, 90)),
+  )
+
   // Track source reliability
   const now = new Date().toISOString()
+  for (const cr of crossrefResults) {
+    if (cr.status === 'fulfilled') {
+      for (const a of cr.value) {
+        if (!sourceMeta[a.source]) sourceMeta[a.source] = { source: a.source, lastSuccess: null, lastError: null, articleCount: 0 }
+        sourceMeta[a.source].lastSuccess = now
+        sourceMeta[a.source].articleCount = cr.value.length
+      }
+    }
+  }
   results.forEach((r, i) => {
     const source = FEEDS[i].source
     if (!sourceMeta[source]) {
@@ -542,6 +653,11 @@ async function main() {
   let allArticles = results.flatMap((r) =>
     r.status === 'fulfilled' ? r.value : [],
   )
+
+  // Add Crossref articles
+  for (const cr of crossrefResults) {
+    if (cr.status === 'fulfilled') allArticles.push(...cr.value)
+  }
 
   // Deduplicate by URL
   const seenUrls = new Set<string>()
@@ -609,14 +725,14 @@ async function main() {
   }
 
   // Merge: new articles take priority, keep old ones up to retention window
-  const retentionDays = customDays || 7
-  const sevenDaysAgo = new Date(Date.now() - retentionDays * 24 * 60 * 60 * 1000)
+  const retentionDays = customDays || 14
+  const retentionCutoff = new Date(Date.now() - retentionDays * 24 * 60 * 60 * 1000)
   const existingById = new Map(existing.map((a: Article) => [a.id, a]))
   for (const article of allArticles) {
     existingById.set(article.id, article)
   }
   const merged = Array.from(existingById.values())
-    .filter((a: Article) => new Date(a.publishedAt) >= sevenDaysAgo)
+    .filter((a: Article) => new Date(a.scrapedAt || a.publishedAt) >= retentionCutoff)
     .sort((a: Article, b: Article) => {
       if (b.relevanceScore !== a.relevanceScore) return b.relevanceScore - a.relevanceScore
       return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
