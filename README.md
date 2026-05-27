@@ -1,23 +1,23 @@
 # Academic Feed
 
-My personal daily news feed for academic life — filtered for research culture, AI in academia, science policy, and the realities of PhD/postdoc life. Comes with a LinkedIn post drafter powered by Claude so I can turn interesting articles into posts without starting from a blank page.
+My personal daily news feed for academic life — filtered for research culture, AI in academia, science policy, and the realities of PhD/postdoc life. Includes a LinkedIn post drafter so I can turn interesting articles into posts without starting from a blank page.
 
 **Live:** [jheller1212.github.io/academic-feed](https://jheller1212.github.io/academic-feed/)
 
 ## How it works
 
 1. A **GitHub Actions** workflow runs daily at 9 AM CET
-2. It scrapes RSS feeds from Nature, Science, arXiv, MIT News, Stanford HAI, Retraction Watch, Times Higher Education, The Conversation, and Inside Higher Ed
+2. It scrapes RSS feeds from Nature, Science, PNAS, top marketing journals (JM, JMR, JCR, JAMS, Marketing Science), arXiv, Inside Higher Ed, The Guardian, Wonkhe, Retraction Watch, and more
 3. Articles are filtered by topic keywords and committed to `public/articles.json`
 4. GitHub Pages serves the static site — the UI reads the JSON and displays the feed
-5. Click **"Draft Post"** on any article to generate a LinkedIn post via the Claude API, written in my voice
+5. Click **"Draft Post"** on any article to generate a LinkedIn post written in my voice
 
 ## Features
 
 - **NEW / SEEN / USED** badges per article (tracked in localStorage)
 - Filter by status, topic, or source
 - Mobile-friendly — browse and draft from your phone
-- Claude API key stored locally in your browser only (never sent to my server)
+- API key stored locally in your browser only (never sent to my server)
 
 ## Tech stack
 
