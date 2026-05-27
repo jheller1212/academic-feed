@@ -207,12 +207,12 @@ const FEEDS: FeedConfig[] = [
   // --- Primary: Practitioner-academic bridge ---
   { url: 'https://sloanreview.mit.edu/feed/', source: 'MIT Sloan Management Review' },
 
-  // --- Primary: arXiv (Stanford-focused, capped) ---
-  { url: 'https://rss.arxiv.org/rss/cs.AI', source: 'arXiv - AI', stanfordOnly: true, maxItems: 15 },
-  { url: 'https://rss.arxiv.org/rss/cs.HC', source: 'arXiv - Human-Computer Interaction', maxItems: 15 },
-  { url: 'https://rss.arxiv.org/rss/cs.CY', source: 'arXiv - Computers & Society', maxItems: 15 },
-  { url: 'https://rss.arxiv.org/rss/cs.DL', source: 'arXiv - Digital Libraries', maxItems: 15 },
-  { url: 'https://rss.arxiv.org/rss/econ.GN', source: 'arXiv - Economics', stanfordOnly: true, maxItems: 15 },
+  // --- Secondary: arXiv (tightly capped, institution-filtered) ---
+  { url: 'https://rss.arxiv.org/rss/cs.AI', source: 'arXiv - AI', stanfordOnly: true, maxItems: 5 },
+  { url: 'https://rss.arxiv.org/rss/cs.HC', source: 'arXiv - Human-Computer Interaction', stanfordOnly: true, maxItems: 5 },
+  { url: 'https://rss.arxiv.org/rss/cs.CY', source: 'arXiv - Computers & Society', stanfordOnly: true, maxItems: 5 },
+  { url: 'https://rss.arxiv.org/rss/cs.DL', source: 'arXiv - Digital Libraries', maxItems: 5 },
+  { url: 'https://rss.arxiv.org/rss/econ.GN', source: 'arXiv - Economics', stanfordOnly: true, maxItems: 5 },
 
   // --- Secondary: Higher Ed publications ---
   { url: 'https://www.insidehighered.com/rss.xml', source: 'Inside Higher Ed' },
@@ -367,9 +367,26 @@ async function scrapeFeed(
       if (feedConfig.minTopics && topics.length < feedConfig.minTopics) continue
       if (feedConfig.minScore && baseScore < feedConfig.minScore) continue
 
-      // Boost Stanford-authored arXiv papers
+      // Source-level score adjustments
       const isArxiv = feedConfig.source.startsWith('arXiv')
       let score = baseScore
+
+      // Boost priority sources (Nature, Science, Higher Ed, Marketing journals)
+      const PRIORITY_SOURCES = [
+        'Nature', 'Nature Careers', 'Nature Human Behaviour',
+        'Nature - Scientific Community', 'Nature - Peer Review',
+        'Nature - Research Management', 'Nature - Publishing',
+        'Nature - Machine Learning', 'Nature - Human Behaviour',
+        'Nature - Society', 'Nature - Policy', 'Nature - Funding',
+        'Nature - Lab Life', 'Nature - Science, Tech & Society',
+        'Science', 'Science Advances', 'PNAS',
+        'Inside Higher Ed', 'Higher Ed Dive',
+        'Journal of Marketing', 'Journal of Marketing Research', 'Marketing Science',
+      ]
+      if (PRIORITY_SOURCES.includes(feedConfig.source)) score += 15
+
+      // Penalize arXiv to prevent domination
+      if (isArxiv) score = Math.round(score * 0.6)
       if (isArxiv && /stanford/i.test(rawBody)) score += 5
 
       const summary = body.slice(0, 500)
@@ -568,6 +585,16 @@ async function main() {
   allArticles.sort((a, b) => {
     if (b.relevanceScore !== a.relevanceScore) return b.relevanceScore - a.relevanceScore
     return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+  })
+
+  // Source diversity: cap arXiv at 30% of total feed
+  const totalNonArxiv = allArticles.filter((a) => !a.source.startsWith('arXiv')).length
+  const maxArxiv = Math.max(10, Math.round(totalNonArxiv * 0.43)) // ~30% of final mix
+  const arxivCount = { current: 0 }
+  allArticles = allArticles.filter((a) => {
+    if (!a.source.startsWith('arXiv')) return true
+    arxivCount.current++
+    return arxivCount.current <= maxArxiv
   })
 
   // Load existing articles to preserve history
