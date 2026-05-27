@@ -564,7 +564,7 @@ export default function App() {
   // Derived data
   const allTopics = [...new Set(articles.flatMap((a) => a.topics))].sort()
   const maxScore = Math.max(...articles.map((a) => a.relevanceScore ?? 0), 1)
-  const lastScraped = articles[0]?.scrapedAt
+  const lastScraped = articles.reduce((max, a) => a.scrapedAt > max ? a.scrapedAt : max, articles[0]?.scrapedAt ?? '')
 
   // Filtered & sorted article list
   const filtered = filterArticles(articles, states, filter, topicFilter, timeRange, showArxiv)
