@@ -12,7 +12,6 @@ jobs:
     timeout-minutes: 20
     permissions:
       contents: write
-      actions: write
 
     steps:
       - uses: actions/checkout@v4
@@ -41,8 +40,4 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Trigger deploy
-        if: steps.commit.outputs.changed == 'true'
-        run: gh workflow run deploy.yml
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Deploy is triggered automatically by push to main (deploy.yml on: push)

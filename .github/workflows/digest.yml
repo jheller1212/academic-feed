@@ -2,16 +2,52 @@ name: Send Daily Digest
 
 on:
   schedule:
-    # Weekdays at 07:15 CET (05:15 UTC) — 15 min after scrape
+    # Weekdays at 07:15 CET (05:15 UTC)
     - cron: '15 5 * * 1-5'
   workflow_dispatch:
 
 jobs:
+  # Run a fresh scrape first so the digest always has the latest articles
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      actions: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run scraper
+        run: npm run scrape
+
+      - name: Commit updated articles
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/articles.json public/sources_meta.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update articles $(date -u +%Y-%m-%dT%H:%M)"
+            git push
+          fi
+
   digest:
+    needs: scrape
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main  # Ensure we get the latest commit from the scrape job
 
       - uses: actions/setup-node@v4
         with:
