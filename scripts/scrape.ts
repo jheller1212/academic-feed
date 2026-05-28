@@ -42,7 +42,7 @@ const TOPICS_KEYWORDS: Record<string, { keywords: string[]; weight: number }> = 
       'leaving academia', 'alt-ac', 'academic job', 'career column', 'career advice',
       'career development', 'career transition', 'career fulfilment', 'working scientist',
       'career in science', 'publish or perish', 'adjunct', 'precari',
-      'hiring committee', 'academic cv', 'promotion', 'scientific career',
+      'hiring committee', 'academic cv', 'academic promotion', 'scientific career',
     ],
     weight: 5,
   },
@@ -285,7 +285,16 @@ function matchTopics(title: string, body: string): { topics: string[]; score: nu
   return { topics: matched, score }
 }
 
-function generateWhyItMatters(topics: string[]): string {
+const MARKETING_JOURNAL_SOURCES = [
+  'Journal of Marketing', 'Journal of Marketing Research', 'Marketing Science',
+  'J. of the Acad. of Marketing Science', 'Journal of Consumer Research',
+]
+
+function generateWhyItMatters(topics: string[], source: string): string {
+  // Marketing journal papers always get the marketing label
+  if (MARKETING_JOURNAL_SOURCES.includes(source))
+    return 'Marketing research — directly relevant to your field and audience.'
+
   if (topics.includes('PhD & PostDoc Life'))
     return 'Early-career academic life — resonates strongly with your LinkedIn audience.'
   if (topics.includes('Academic Careers'))
@@ -421,7 +430,7 @@ async function scrapeFeed(
         id: makeId(item.link),
         title,
         summary,
-        whyItMatters: generateWhyItMatters(topics),
+        whyItMatters: generateWhyItMatters(topics, feedConfig.source),
         relevanceScore: score,
         url: item.link,
         source: feedConfig.source,
@@ -498,7 +507,7 @@ async function scrapeCrossref(journal: CrossrefJournal, maxAgeDays: number): Pro
         id: makeId(link),
         title,
         summary: body.slice(0, 500),
-        whyItMatters: generateWhyItMatters(topics),
+        whyItMatters: generateWhyItMatters(topics, journal.source),
         relevanceScore: baseScore,
         url: link,
         source: journal.source,
