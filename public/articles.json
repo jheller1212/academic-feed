@@ -72,7 +72,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag007",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-26T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Marketing & Consumer Behaviour",
@@ -164,7 +164,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag009",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-04-13T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -178,7 +178,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag003",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-21T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -365,7 +365,7 @@
     "url": "https://wonkhe.com/blogs/changing-public-attitudes-to-higher-education/",
     "source": "Wonkhe",
     "publishedAt": "2026-06-01T23:02:19.000Z",
-    "scrapedAt": "2026-06-03T03:35:58.484Z",
+    "scrapedAt": "2026-06-03T10:05:29.183Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -440,7 +440,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag010",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-04-16T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -490,6 +490,21 @@
     ]
   },
   {
+    "id": "eb13a252b443",
+    "title": "Gender inequality in academic promotion trajectories in Japan",
+    "summary": "",
+    "whyItMatters": "Academic career navigation — high engagement topic on LinkedIn.",
+    "relevanceScore": 42,
+    "url": "https://www.nature.com/articles/s41598-026-54562-5",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-06-03T00:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:14.058Z",
+    "topics": [
+      "Academic Careers",
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
     "id": "f1b35f46eac8",
     "title": "How does digital intelligence technology influence college students’ online learning behavior? A hybrid analysis combining SEM and fsQCA",
     "summary": "",
@@ -498,7 +513,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07774-z",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-06-02T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:05.057Z",
+    "scrapedAt": "2026-06-03T10:05:14.058Z",
     "topics": [
       "Higher Education",
       "Human Behaviour & Cognition"
@@ -511,9 +526,9 @@
     "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
     "relevanceScore": 42,
     "url": "https://www.nature.com/articles/d41586-026-01693-4",
-    "source": "Nature",
+    "source": "Nature - Scientific Community",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "scrapedAt": "2026-06-03T03:35:24.904Z",
+    "scrapedAt": "2026-06-03T10:05:13.297Z",
     "topics": [
       "PhD & PostDoc Life",
       "Research Culture"
@@ -592,7 +607,7 @@
     "url": "https://www.highereddive.com/news/week-in-review-should-higher-education-be-overhauled/821544/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-06-01T13:15:00.000Z",
-    "scrapedAt": "2026-06-03T03:35:55.191Z",
+    "scrapedAt": "2026-06-03T10:05:25.606Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -832,6 +847,21 @@
     ]
   },
   {
+    "id": "3ed5f9ab923a",
+    "title": "Academic freedom isn’t a privilege – it’s a preparedness strategy",
+    "summary": "Curt Rice argues that as European governments plan for war, cyberattacks and supply shocks, they are missing the one pillar of resilience that can't be built on demand",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 37,
+    "url": "https://wonkhe.com/blogs/academic-freedom-isnt-a-privilege-its-a-preparedness-strategy/",
+    "source": "Wonkhe",
+    "publishedAt": "2026-06-03T05:15:26.000Z",
+    "scrapedAt": "2026-06-03T10:05:29.183Z",
+    "topics": [
+      "Higher Education",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "8a9e8ff34a0c",
     "title": "Western Michigan University launches buyout program to ease budget",
     "summary": "The public institution is offering early retirements to tenured faculty, as long as enough sign up to save at least $5 million.",
@@ -840,7 +870,7 @@
     "url": "https://www.highereddive.com/news/western-michigan-university-launches-buyout-program-to-ease-budget/821538/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-05-29T19:22:10.000Z",
-    "scrapedAt": "2026-06-03T03:35:55.191Z",
+    "scrapedAt": "2026-06-03T10:05:25.606Z",
     "topics": [
       "Academic Careers",
       "Research Culture"
@@ -877,6 +907,21 @@
     ]
   },
   {
+    "id": "bbf41a6ceebb",
+    "title": "Can an army of babies and dogs rescue psychology from its reproducibility crisis?",
+    "summary": "",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 36,
+    "url": "https://www.nature.com/articles/d41586-026-01727-x",
+    "source": "Nature",
+    "publishedAt": "2026-06-03T00:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:13.395Z",
+    "topics": [
+      "Research Culture",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
     "id": "7127b2d0e4f1",
     "title": "A deep learning approach for keratoconus detection using spatio-temporal features from corneal imaging",
     "summary": "",
@@ -885,7 +930,7 @@
     "url": "https://www.nature.com/articles/s41598-026-56383-y",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:04.268Z",
+    "scrapedAt": "2026-06-03T10:05:13.323Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -900,7 +945,7 @@
     "url": "https://www.nature.com/articles/s41598-026-54421-3",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-05-30T00:00:00.000Z",
-    "scrapedAt": "2026-06-03T03:35:10.923Z",
+    "scrapedAt": "2026-06-03T10:05:13.313Z",
     "topics": [
       "Higher Education",
       "Management & Organizations"
@@ -1272,7 +1317,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag013",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-05-07T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1286,7 +1331,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag005",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-15T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Science Policy & Funding"
@@ -1518,6 +1563,34 @@
     ]
   },
   {
+    "id": "bbdd41f5425a",
+    "title": "University Scraps Sexuality Textbook for Containing ‘Graphic Images’",
+    "summary": "University Scraps Sexuality Textbook for Containing ‘Graphic Images’ Emma Whitford Wed, 06/03/2026 - 03:00 AM The University of Nebraska at Kearney investigated several complaints in May, including one from Gov. Jim Pillen calling a training module about empowering transgender students evidence of a “woke disease” degrading higher ed. Byline(s) Emma Whitford",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 31,
+    "url": "https://www.insidehighered.com/news/faculty/curriculum/2026/06/03/university-scraps-sexuality-textbook-graphic-images",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-06-03T07:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:25.611Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "068d982605f4",
+    "title": "New Mexico Highlands President Sues University",
+    "summary": "New Mexico Highlands President Sues University Josh Moody Wed, 06/03/2026 - 03:00 AM Byline(s) Josh Moody",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 31,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/06/03/new-mexico-highlands-president-sues-university",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-06-03T07:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:25.611Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
     "id": "5d9cd5be2aa6",
     "title": "UK students and graduates: share your views on going to university",
     "summary": "We would like to hear from graduates and current students aged 18 or over about their views on studying for a degree According to the latest British Social Attitudes (BSA) survey, the proportion of people who believe a university degree is not worth the time and money has jumped from 14% in 2005 to 34% in 2025. The survey found that younger graduates, with experience of the fee system, are more disillusioned than those who did not pay fees. Continue reading...",
@@ -1526,7 +1599,7 @@
     "url": "https://www.theguardian.com/education/2026/jun/02/uk-students-and-graduates-share-your-views-on-going-to-university",
     "source": "The Guardian - Higher Education",
     "publishedAt": "2026-06-02T12:13:09.000Z",
-    "scrapedAt": "2026-06-03T03:35:55.538Z",
+    "scrapedAt": "2026-06-03T10:05:25.965Z",
     "topics": [
       "Research Culture"
     ]
@@ -1610,7 +1683,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag012",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1680,7 +1753,7 @@
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00222429261426047?ai=2b4&mi=ehikzz&af=R",
     "source": "Journal of Marketing",
     "publishedAt": "2026-03-25T08:05:48.000Z",
-    "scrapedAt": "2026-06-03T03:35:39.980Z",
+    "scrapedAt": "2026-06-03T10:05:14.282Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1694,7 +1767,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag004",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-09T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1934,6 +2007,76 @@
     ]
   },
   {
+    "id": "53e0e7e2bd23",
+    "title": "A Play-by-Play on Congress’s Efforts to Regulate College Sports",
+    "summary": "A Play-by-Play on Congress’s Efforts to Regulate College Sports jessica.blake@… Wed, 06/03/2026 - 03:00 AM The House has so far failed to pass legislation to stabilize the freewheeling world of college athletics. Will the Senate be any more successful? Byline(s) Jessica Blake",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 27,
+    "url": "https://www.insidehighered.com/news/government/2026/06/03/play-play-congresss-effort-regulate-college-sports",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-06-03T07:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:25.611Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "806b352b89f7",
+    "title": "Some Federal Funds Restored to Community College Research Center",
+    "summary": "Some Federal Funds Restored to Community College Research Center Sara Weissman Wed, 06/03/2026 - 03:00 AM Byline(s) Sara Weissman",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 27,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/06/03/some-federal-funds-restored-ccrc",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-06-03T07:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:25.611Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "60913362c7bc",
+    "title": "Science: HHS Asking for Changes in NIH-Funded Research",
+    "summary": "Science: HHS Asking for Changes in NIH-Funded Research Ryan Quinn Wed, 06/03/2026 - 03:00 AM Byline(s) Ryan Quinn",
+    "whyItMatters": "Policy shaping funding and careers — affects every academic.",
+    "relevanceScore": 27,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/06/03/science-hhs-asking-changes-nih-funded-research",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-06-03T07:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:25.611Z",
+    "topics": [
+      "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "e2229ae44e03",
+    "title": "Calbright’s Start-Up Phase Is Ending. What’s Next for the Online College?",
+    "summary": "Calbright’s Start-Up Phase Is Ending. What’s Next for the Online College? Sara Weissman Wed, 06/03/2026 - 03:00 AM As state lawmakers weigh whether to increase funding for the all-online community college for adult learners, Calbright officials are hopeful but have sent layoff notices to more than half the employees just in case. Byline(s) Sara Weissman",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 27,
+    "url": "https://www.insidehighered.com/news/institutions/community-colleges/2026/06/03/calbrights-start-phase-ending-what-comes-next",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-06-03T07:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:25.611Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "9fee47ffddac",
+    "title": "Time to listen: harnessing podcasts for stakeholder engagement in circadian and sleep science",
+    "summary": "",
+    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s44323-026-00077-1",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-06-03T00:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:14.058Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "9af40ead0de7",
     "title": "Another Megachurch to Open College",
     "summary": "Another Megachurch to Open College Johanna Alonso Tue, 06/02/2026 - 03:00 AM A growing number of churches have launched colleges in recent years, focused mostly on religious training and the business of churches and ministries. The latest, Elevation Church, is based in North Carolina. Byline(s) Johanna Alonso",
@@ -1970,7 +2113,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07776-x",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-06-02T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:05.057Z",
+    "scrapedAt": "2026-06-03T10:05:14.058Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -1984,7 +2127,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07751-6",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-06-02T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:05.057Z",
+    "scrapedAt": "2026-06-03T10:05:14.058Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1998,7 +2141,7 @@
     "url": "https://www.theguardian.com/education/2026/jun/01/university-of-manchester-investigate-sexual-harassment-female-medical-students-anonymous-phone-calls",
     "source": "The Guardian - Higher Education",
     "publishedAt": "2026-06-01T19:08:27.000Z",
-    "scrapedAt": "2026-06-03T03:35:55.538Z",
+    "scrapedAt": "2026-06-03T10:05:25.965Z",
     "topics": [
       "Research Culture"
     ]
@@ -2012,7 +2155,7 @@
     "url": "https://www.highereddive.com/news/tuition-discount-rate-reaches-57-for-private-nonprofits-nacubo-says/821554/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-06-01T09:00:00.000Z",
-    "scrapedAt": "2026-06-03T03:35:55.191Z",
+    "scrapedAt": "2026-06-03T10:05:25.606Z",
     "topics": [
       "Higher Education"
     ]
@@ -2068,7 +2211,7 @@
     "url": "https://www.nature.com/articles/s44401-026-00089-w",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:04.256Z",
+    "scrapedAt": "2026-06-03T10:05:13.297Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2082,7 +2225,7 @@
     "url": "https://www.nature.com/articles/s41746-026-02832-x",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-05-30T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:04.256Z",
+    "scrapedAt": "2026-06-03T10:05:13.297Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2152,7 +2295,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag014",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-05-29T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2641,6 +2784,20 @@
     ]
   },
   {
+    "id": "49f1aeefd0ba",
+    "title": "Automated Versus Human-Operated: Impact of AI-Driven Autonomous Stores on Prosocial Behavior",
+    "summary": "Journal of Marketing, Ahead of Print. Many leading retailers have introduced AI-driven autonomous stores, sparking a trend that others are eager to follow. Although prior research has emphasized consumer acceptance of these formats and their operational advantages (e.g., reduced costs, ...",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 27,
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/00222429261445436?ai=2b4&mi=ehikzz&af=R",
+    "source": "Journal of Marketing",
+    "publishedAt": "2026-04-14T06:33:40.000Z",
+    "scrapedAt": "2026-06-03T10:05:14.282Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
     "id": "b60e0040c1fc",
     "title": "A Vision Editorial for the 2026–2029 JMR Team",
     "summary": "Journal of Marketing Research, Ahead of Print. This article is temporarily under embargo.",
@@ -2649,7 +2806,7 @@
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00222437261434156?ai=2b4&mi=ehikzz&af=R",
     "source": "Journal of Marketing Research",
     "publishedAt": "2026-03-25T08:07:51.000Z",
-    "scrapedAt": "2026-06-03T03:35:39.990Z",
+    "scrapedAt": "2026-06-03T10:05:14.361Z",
     "topics": [
       "Management & Organizations",
       "Marketing & Consumer Behaviour"
@@ -2664,7 +2821,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag006",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-25T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding",
@@ -2835,6 +2992,34 @@
     ]
   },
   {
+    "id": "c69f4f5606b2",
+    "title": "Earning while learning? You’ll be lucky",
+    "summary": "The Employment Rights Act 2025 promises to end one-sided flexibility – but Jim Dickinson finds the framework hasn't reckoned with term-time working, seasonal employment, or the structural realities of student labour",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://wonkhe.com/blogs/earning-while-learning-youll-be-lucky/",
+    "source": "Wonkhe",
+    "publishedAt": "2026-06-03T07:35:03.000Z",
+    "scrapedAt": "2026-06-03T10:05:29.183Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "777f46443147",
+    "title": "Impact of STEM Project-Based Learning on research autonomy and engineering thinking in solar energy education",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s41598-026-55791-4",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-06-03T00:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:14.058Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
     "id": "db2dbcf121b2",
     "title": "Hilton officially launches Undergraduate, furthering its push into college markets",
     "summary": "Following months of speculation, Hilton has unveiled the new upper midscale brand, a flexible, scalable complement to its Graduate offering.",
@@ -2843,7 +3028,7 @@
     "url": "https://www.highereddive.com/news/hilton-launches-undergraduate-brand-college-markets/821804/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-06-02T20:44:00.000Z",
-    "scrapedAt": "2026-06-03T03:35:55.191Z",
+    "scrapedAt": "2026-06-03T10:05:25.606Z",
     "topics": [
       "Higher Education"
     ]
@@ -2857,7 +3042,7 @@
     "url": "https://www.nature.com/articles/s41467-026-73865-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-06-02T00:00:00.000Z",
-    "scrapedAt": "2026-06-03T03:35:10.923Z",
+    "scrapedAt": "2026-06-03T10:05:13.313Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2871,7 +3056,7 @@
     "url": "https://www.highereddive.com/news/hampshire-college-may-close-earlier-than-planned/821661/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-06-01T20:21:51.000Z",
-    "scrapedAt": "2026-06-02T03:27:31.437Z",
+    "scrapedAt": "2026-06-03T10:05:25.606Z",
     "topics": [
       "Higher Education"
     ]
@@ -2885,7 +3070,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07835-3",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:05.057Z",
+    "scrapedAt": "2026-06-03T10:05:14.058Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2899,7 +3084,7 @@
     "url": "https://www.nature.com/articles/s41598-026-53099-x",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "scrapedAt": "2026-06-03T03:35:10.923Z",
+    "scrapedAt": "2026-06-03T10:05:13.313Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2913,7 +3098,7 @@
     "url": "https://wonkhe.com/blogs/its-not-just-the-curriculum-that-tells-students-of-colour-this-place-wasnt-built-for-them/",
     "source": "Wonkhe",
     "publishedAt": "2026-05-31T23:05:08.000Z",
-    "scrapedAt": "2026-06-03T03:35:58.484Z",
+    "scrapedAt": "2026-06-03T10:05:29.183Z",
     "topics": [
       "Higher Education"
     ]
@@ -2927,7 +3112,7 @@
     "url": "https://www.nature.com/articles/s42003-026-10389-4",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-05-30T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:04.268Z",
+    "scrapedAt": "2026-06-03T10:05:13.323Z",
     "topics": [
       "Higher Education"
     ]
@@ -2941,7 +3126,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07830-8",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-30T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:05.057Z",
+    "scrapedAt": "2026-06-03T10:05:14.058Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -2955,7 +3140,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07758-z",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-05-30T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:05.057Z",
+    "scrapedAt": "2026-06-03T10:05:14.058Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -3541,6 +3726,22 @@
     ]
   },
   {
+    "id": "9aee22c538a7",
+    "title": "A Double Bind: Gendered Funding, Research Topics, and Academic Performance in The Social Sciences",
+    "summary": "arXiv:2606.03742v1 Announce Type: new Abstract: While female representation in social sciences is increasing, systemic gender disparities may persist in research funding and academic performance. Some argue that female scholars now receive equal opportunities, yet evidence suggests that gender imbalances remain, particularly in specific research areas. This study examines 12,945 National Science Foundation (NSF)-funded principal investigators in social sciences from 2000 to 2019 to assess gender",
+    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
+    "relevanceScore": 23,
+    "url": "https://arxiv.org/abs/2606.03742",
+    "source": "arXiv - Digital Libraries",
+    "publishedAt": "2026-06-03T04:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:25.462Z",
+    "topics": [
+      "PhD & PostDoc Life",
+      "Research Culture",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "eed1bf0da857",
     "title": "Pell Recipients Face Higher Food Insecurity",
     "summary": "Pell Recipients Face Higher Food Insecurity Joshua.Bay Tue, 06/02/2026 - 03:00 AM New analysis from the Institute for Higher Education Policy reveals that Pell Grant recipients also show lower persistence and completion. Byline(s) Joshua Bay",
@@ -3607,7 +3808,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag008",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-04-11T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3652,7 +3853,7 @@
     "url": "https://sloanreview.mit.edu/article/why-ai-isnt-transforming-finance-yet/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-06-02T13:45:01.000Z",
-    "scrapedAt": "2026-06-03T03:35:54.933Z",
+    "scrapedAt": "2026-06-03T10:05:25.430Z",
     "topics": [
       "Management & Organizations",
       "Science Policy & Funding"
@@ -3667,7 +3868,7 @@
     "url": "https://sloanreview.mit.edu/article/three-things-to-know-about-assessing-customer-reviews/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-06-01T11:00:49.000Z",
-    "scrapedAt": "2026-06-03T03:35:54.933Z",
+    "scrapedAt": "2026-06-03T10:05:25.430Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4048,7 +4249,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag011",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-04-20T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4062,7 +4263,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag001",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-27T00:00:00.000Z",
-    "scrapedAt": "2026-06-02T22:58:10.769Z",
+    "scrapedAt": "2026-06-03T10:05:41.295Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4214,6 +4415,22 @@
     ]
   },
   {
+    "id": "4728a6fe9218",
+    "title": "Crystal: Characterizing Relative Impact of Scholarly Publications",
+    "summary": "arXiv:2603.26791v3 Announce Type: replace Abstract: Assessing a cited paper's impact is typically done by analyzing its citation context in isolation within the citing paper. While this focuses on the most directly relevant text, it prevents relative comparisons across all the works a paper cites. We propose Crystal, which instead jointly ranks all cited papers within a citing paper using large language models (LLMs). To mitigate LLMs' positional bias, we rank each list three times in a randomiz",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 16,
+    "url": "https://arxiv.org/abs/2603.26791",
+    "source": "arXiv - Digital Libraries",
+    "publishedAt": "2026-06-03T04:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:25.462Z",
+    "topics": [
+      "Research Culture",
+      "AI & Emerging Tech",
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
     "id": "3c8ed1eba67c",
     "title": "Building AI Products That Last: Lessons From SXSW",
     "summary": "Wharton’s Kartik Hosanagar and Microsoft Chief Product Officer Aparna Chennapragada offer candid lessons for builders navigating the fast-moving AI landscape.…Read More",
@@ -4222,7 +4439,7 @@
     "url": "https://knowledge.wharton.upenn.edu/article/building-ai-products-that-last-lessons-from-sxsw/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-06-02T15:14:49.000Z",
-    "scrapedAt": "2026-06-03T03:35:55.277Z",
+    "scrapedAt": "2026-06-03T10:05:25.681Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4236,7 +4453,7 @@
     "url": "https://sloanreview.mit.edu/article/how-nespresso-builds-sustainability-into-its-business-model/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-06-02T14:02:57.000Z",
-    "scrapedAt": "2026-06-03T03:35:54.933Z",
+    "scrapedAt": "2026-06-03T10:05:25.430Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4250,7 +4467,7 @@
     "url": "https://sloanreview.mit.edu/article/scaling-ai-with-adaptive-governance/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-06-02T13:41:46.000Z",
-    "scrapedAt": "2026-06-03T03:35:54.933Z",
+    "scrapedAt": "2026-06-03T10:05:25.430Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4264,7 +4481,7 @@
     "url": "https://sloanreview.mit.edu/article/create-generative-ai-value-at-scale/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-06-02T13:36:36.000Z",
-    "scrapedAt": "2026-06-03T03:35:54.933Z",
+    "scrapedAt": "2026-06-03T10:05:25.430Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -4278,7 +4495,7 @@
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00018392261442931?ai=2b4&mi=ehikzz&af=R",
     "source": "Administrative Science Quarterly",
     "publishedAt": "2026-05-30T12:23:17.000Z",
-    "scrapedAt": "2026-06-02T22:58:07.014Z",
+    "scrapedAt": "2026-06-03T10:05:25.471Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5671,7 +5888,7 @@
     "url": "https://sloanreview.mit.edu/article/our-guide-to-the-summer-2026-issue/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-06-02T13:48:06.000Z",
-    "scrapedAt": "2026-06-03T03:35:54.933Z",
+    "scrapedAt": "2026-06-03T10:05:25.430Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5685,7 +5902,7 @@
     "url": "https://sloanreview.mit.edu/article/what-wise-leaders-understand-about-business-ecosystems/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-06-02T13:47:51.000Z",
-    "scrapedAt": "2026-06-03T03:35:54.933Z",
+    "scrapedAt": "2026-06-03T10:05:25.430Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -5955,6 +6172,20 @@
     "scrapedAt": "2026-05-22T02:48:43.015Z",
     "topics": [
       "Science Policy & Funding"
+    ]
+  },
+  {
+    "id": "b63a197b10a1",
+    "title": "Explainable Forecasting of Scientific Breakthroughs from Concept Network Dynamics",
+    "summary": "arXiv:2606.03864v1 Announce Type: cross Abstract: We introduce an explainable machine-learning approach that forecasts the structural precursors of scientific breakthroughs -- the emergence and intensification of links between research concepts -- by modelling how OpenAlex concept networks evolve over time. Using 59 semantic and topological features, a two-stage LightGBM model jointly predicts the formation and the future weight of concept pairs, adding a regression stage that quantifies expecte",
+    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "relevanceScore": 5,
+    "url": "https://arxiv.org/abs/2606.03864",
+    "source": "arXiv - Digital Libraries",
+    "publishedAt": "2026-06-03T04:00:00.000Z",
+    "scrapedAt": "2026-06-03T10:05:25.462Z",
+    "topics": [
+      "Management & Organizations"
     ]
   },
   {
