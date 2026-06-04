@@ -235,6 +235,12 @@ function PostModal({
     }
   }, [editedPost])
 
+  useEffect(() => {
+    const handleEsc = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose() }
+    document.addEventListener('keydown', handleEsc)
+    return () => document.removeEventListener('keydown', handleEsc)
+  }, [onClose])
+
   const handleCopy = () => {
     navigator.clipboard.writeText(editedPost)
     setCopied(true)
@@ -243,11 +249,11 @@ function PostModal({
 
   return (
     <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">
-      <div className="bg-white dark:bg-gray-900 rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto">
+      <div role="dialog" aria-modal="true" aria-labelledby="post-modal-title" className="bg-white dark:bg-gray-900 rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto">
         <div className="p-5 sm:p-6">
           <div className="flex justify-between items-start mb-4">
             <div>
-              <h2 className="font-bold text-lg">LinkedIn Post Draft</h2>
+              <h2 id="post-modal-title" className="font-bold text-lg">LinkedIn Post Draft</h2>
               <p className="text-sm text-gray-500 mt-1">Based on: {article.title}</p>
             </div>
             <button onClick={onClose} className="text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 text-2xl leading-none">
@@ -323,11 +329,17 @@ function PostModal({
 function ApiKeyPrompt({ onSave, onClose }: { onSave: (key: string) => void; onClose: () => void }) {
   const [key, setKey] = useState('')
 
+  useEffect(() => {
+    const handleEsc = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose() }
+    document.addEventListener('keydown', handleEsc)
+    return () => document.removeEventListener('keydown', handleEsc)
+  }, [onClose])
+
   return (
     <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">
-      <div className="bg-white dark:bg-gray-900 rounded-2xl max-w-md w-full p-6">
+      <div role="dialog" aria-modal="true" aria-labelledby="api-key-prompt-title" className="bg-white dark:bg-gray-900 rounded-2xl max-w-md w-full p-6">
         <div className="flex justify-between items-start mb-2">
-          <h2 className="font-bold text-lg">Claude API Key</h2>
+          <h2 id="api-key-prompt-title" className="font-bold text-lg">Claude API Key</h2>
           <button onClick={onClose} className="text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 text-2xl leading-none">
             &times;
           </button>
@@ -685,8 +697,10 @@ export default function App() {
       )}
 
       {/* View tabs */}
-      <div className="flex gap-1 mb-4 border-b border-gray-200 dark:border-gray-700">
+      <div role="tablist" className="flex gap-1 mb-4 border-b border-gray-200 dark:border-gray-700">
         <button
+          role="tab"
+          aria-selected={view === 'feed'}
           onClick={() => setView('feed')}
           className={`px-4 py-2 text-sm font-medium border-b-2 transition-colors ${
             view === 'feed'
@@ -697,6 +711,8 @@ export default function App() {
           Feed
         </button>
         <button
+          role="tab"
+          aria-selected={view === 'history'}
           onClick={() => setView('history')}
           className={`px-4 py-2 text-sm font-medium border-b-2 transition-colors ${
             view === 'history'
@@ -718,6 +734,7 @@ export default function App() {
               <button
                 key={f}
                 onClick={() => setFilter(f)}
+                aria-pressed={filter === f}
                 className={`px-3 py-1.5 rounded-lg text-sm capitalize transition-colors ${
                   filter === f
                     ? 'bg-blue-600 text-white'
