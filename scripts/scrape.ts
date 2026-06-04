@@ -471,7 +471,7 @@ async function scrapeCrossref(journal: CrossrefJournal, maxAgeDays: number): Pro
   try {
     const url = `https://api.crossref.org/journals/${journal.issn}/works?rows=20&sort=published&order=desc&select=title,published-online,URL,abstract`
     const res = await fetch(url, {
-      headers: { 'User-Agent': 'AcademicFeed/2.0 (mailto:jonasheller89@gmail.com)' },
+      headers: { 'User-Agent': 'AcademicFeed/2.0 (mailto:j.heller@maastrichtuniversity.nl)' },
     })
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     const data = await res.json() as { message: { items: Array<{ title?: string[]; URL?: string; abstract?: string; 'published-online'?: { 'date-parts': number[][] } }> } }
