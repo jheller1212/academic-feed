@@ -1,6 +1,8 @@
 import { readFileSync, existsSync } from 'fs'
 import { join } from 'path'
 
+const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
+
 interface Article {
   title: string
   source: string
@@ -53,20 +55,21 @@ async function main() {
       const date = new Date(a.publishedAt).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })
       const pct = Math.min(100, Math.round((a.relevanceScore / (recent[0]?.relevanceScore || 1)) * 100))
       const label = pct >= 70 ? 'High' : pct >= 40 ? 'Medium' : 'Low'
+      const safeUrl = a.url.startsWith('https://') ? esc(a.url) : '#'
       return `
         <tr style="border-bottom: 1px solid #eee;">
           <td style="padding: 12px 0;">
             <div style="font-size: 13px; color: #6b7280; margin-bottom: 4px;">
-              #${i + 1} &middot; ${a.source} &middot; ${date} &middot; <span style="color: ${pct >= 70 ? '#22c55e' : pct >= 40 ? '#f97316' : '#9ca3af'}">${label}</span>
+              #${i + 1} &middot; ${esc(a.source)} &middot; ${date} &middot; <span style="color: ${pct >= 70 ? '#22c55e' : pct >= 40 ? '#f97316' : '#9ca3af'}">${label}</span>
             </div>
-            <a href="${a.url}" style="color: #1e40af; text-decoration: none; font-weight: 600; font-size: 15px; line-height: 1.4;">
-              ${a.title}
+            <a href="${safeUrl}" style="color: #1e40af; text-decoration: none; font-weight: 600; font-size: 15px; line-height: 1.4;">
+              ${esc(a.title)}
             </a>
             <div style="font-size: 13px; color: #6b7280; margin-top: 4px;">
-              ${a.summary.slice(0, 200)}${a.summary.length > 200 ? '...' : ''}
+              ${esc(a.summary.slice(0, 200))}${a.summary.length > 200 ? '...' : ''}
             </div>
             <div style="font-size: 12px; color: #ea580c; margin-top: 4px; font-style: italic;">
-              ${a.whyItMatters}
+              ${esc(a.whyItMatters)}
             </div>
           </td>
         </tr>`
