@@ -24,7 +24,7 @@
     "url": "https://www.nature.com/articles/s41598-026-44538-w",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-06-05T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.162Z",
+    "scrapedAt": "2026-06-08T15:39:10.398Z",
     "topics": [
       "PhD & PostDoc Life",
       "Human Behaviour & Cognition",
@@ -40,7 +40,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01146-4",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-05-02T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -71,7 +71,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag007",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-26T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Marketing & Consumer Behaviour",
@@ -103,7 +103,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01160-6",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-05-09T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -162,7 +162,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01143-7",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -192,7 +192,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag009",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-04-13T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -206,10 +206,26 @@
     "url": "https://doi.org/10.1093/jcr/ucag003",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-21T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "564ad4936907",
+    "title": "Explaining reported generative AI engagement in higher education: an extended TAM with ethical compatibility and reliance-based trust",
+    "summary": "",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 48,
+    "url": "https://www.nature.com/articles/s41598-026-56912-9",
+    "source": "Nature - Science, Tech & Society",
+    "publishedAt": "2026-06-08T00:00:00.000Z",
+    "scrapedAt": "2026-06-08T15:39:11.577Z",
+    "topics": [
+      "Research Culture",
+      "AI & Emerging Tech",
+      "Higher Education"
     ]
   },
   {
@@ -236,7 +252,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01165-1",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-06-03T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -284,7 +300,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01148-2",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-04-15T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -377,7 +393,7 @@
     "url": "https://www.highereddive.com/news/the-state-of-international-enrollment-in-6-charts/821753/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-06-08T09:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.022Z",
+    "scrapedAt": "2026-06-08T15:39:13.505Z",
     "topics": [
       "AI & Emerging Tech",
       "Higher Education"
@@ -407,7 +423,7 @@
     "url": "https://www.theguardian.com/money/2026/jun/03/lack-of-childcare-support-for-parents-in-higher-education",
     "source": "The Guardian - Higher Education",
     "publishedAt": "2026-06-03T16:35:53.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.311Z",
+    "scrapedAt": "2026-06-08T15:39:13.849Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -497,7 +513,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag010",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-04-16T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -615,7 +631,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01162-4",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-05-30T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Marketing & Consumer Behaviour",
@@ -691,7 +707,7 @@
     "url": "https://www.insidehighered.com/news/government/politics-elections/2026/06/08/community-colleges-advocate-nsf-program",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-06-08T07:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.112Z",
+    "scrapedAt": "2026-06-08T15:39:13.574Z",
     "topics": [
       "Higher Education",
       "Science Policy & Funding"
@@ -706,7 +722,7 @@
     "url": "https://www.highereddive.com/news/spring-enrollment-ticks-up-1-but-graduate-headcounts-take-a-hit/821957/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-06-04T09:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.022Z",
+    "scrapedAt": "2026-06-08T15:39:13.505Z",
     "topics": [
       "AI & Emerging Tech",
       "Higher Education"
@@ -806,7 +822,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01155-3",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-05-22T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -820,7 +836,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-025-01130-4",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-05-22T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -834,7 +850,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01147-3",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-04-15T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Marketing & Consumer Behaviour"
@@ -864,7 +880,7 @@
     "url": "https://wonkhe.com/blogs/higher-education-postcard-the-school-of-slavonic-and-east-european-studies/",
     "source": "Wonkhe",
     "publishedAt": "2026-06-04T23:05:14.000Z",
-    "scrapedAt": "2026-06-08T10:26:35.048Z",
+    "scrapedAt": "2026-06-08T15:39:15.929Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -879,7 +895,7 @@
     "url": "https://www.theguardian.com/education/2026/jun/04/birmingham-city-university-axe-black-studies-ma-kimberle-crenshaw",
     "source": "The Guardian - Higher Education",
     "publishedAt": "2026-06-04T09:30:58.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.311Z",
+    "scrapedAt": "2026-06-08T15:39:13.849Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -954,7 +970,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07819-3",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-06-08T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.827Z",
+    "scrapedAt": "2026-06-08T15:39:11.577Z",
     "topics": [
       "Management & Organizations",
       "Science Policy & Funding"
@@ -969,7 +985,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady8751?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-06-05T07:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.385Z",
+    "scrapedAt": "2026-06-08T15:39:11.171Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -984,7 +1000,7 @@
     "url": "https://www.nature.com/articles/s44304-026-00233-4",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-06-04T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.159Z",
+    "scrapedAt": "2026-06-08T15:39:10.369Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -999,7 +1015,7 @@
     "url": "https://www.nature.com/articles/s41598-026-53076-4",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-06-04T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.827Z",
+    "scrapedAt": "2026-06-08T15:39:11.577Z",
     "topics": [
       "AI & Emerging Tech",
       "Human Behaviour & Cognition"
@@ -1270,7 +1286,7 @@
     "url": "https://www.insidehighered.com/news/governance/trustees-regents/2026/06/05/auburn-board-takes-curricular-control-dissolves-senate",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-06-05T19:50:47.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.112Z",
+    "scrapedAt": "2026-06-08T15:39:13.574Z",
     "topics": [
       "Academic Careers"
     ]
@@ -1383,7 +1399,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag013",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-05-07T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1397,7 +1413,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01151-7",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-04-25T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "AI & Emerging Tech",
       "Marketing & Consumer Behaviour"
@@ -1412,7 +1428,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01142-8",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-04-20T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -1427,7 +1443,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag005",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-15T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Science Policy & Funding"
@@ -1637,7 +1653,7 @@
     "url": "https://wonkhe.com/blogs/governance-is-more-than-process/",
     "source": "Wonkhe",
     "publishedAt": "2026-06-05T02:14:23.000Z",
-    "scrapedAt": "2026-06-08T10:26:35.048Z",
+    "scrapedAt": "2026-06-08T15:39:15.929Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1763,7 +1779,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag012",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-05-06T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1791,7 +1807,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01157-1",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-05-01T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1805,7 +1821,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01158-0",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-04-28T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1833,7 +1849,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-025-01138-w",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-04-25T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Management & Organizations",
       "Marketing & Consumer Behaviour"
@@ -1848,7 +1864,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01144-6",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-04-20T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1862,7 +1878,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01152-6",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-04-15T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "AI & Emerging Tech",
       "Marketing & Consumer Behaviour"
@@ -1877,7 +1893,7 @@
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00222429261426047?ai=2b4&mi=ehikzz&af=R",
     "source": "Journal of Marketing",
     "publishedAt": "2026-03-25T08:05:48.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.012Z",
+    "scrapedAt": "2026-06-08T15:39:11.972Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1905,7 +1921,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6211?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-06-05T07:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.385Z",
+    "scrapedAt": "2026-06-08T15:39:11.171Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -2137,7 +2153,7 @@
     "url": "https://www.insidehighered.com/news/admissions/2026/06/08/new-report-sheds-light-students-who-dont-report-race",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-06-08T07:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.112Z",
+    "scrapedAt": "2026-06-08T15:39:13.574Z",
     "topics": [
       "Higher Education"
     ]
@@ -2151,9 +2167,37 @@
     "url": "https://www.nature.com/articles/d41586-026-01821-0",
     "source": "Nature - Society",
     "publishedAt": "2026-06-08T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.151Z",
+    "scrapedAt": "2026-06-08T15:39:10.396Z",
     "topics": [
       "Management & Organizations"
+    ]
+  },
+  {
+    "id": "d0b688c99202",
+    "title": "Equipping perinatal teams to practice climate-smart healthcare",
+    "summary": "",
+    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s41372-026-02745-3",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-06-08T00:00:00.000Z",
+    "scrapedAt": "2026-06-08T15:39:10.369Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
+    "id": "529709d257cf",
+    "title": "Reconciling how clinical reasoning is learned in the age of artificial intelligence",
+    "summary": "",
+    "whyItMatters": "AI/tech development with academic implications — trending topic.",
+    "relevanceScore": 27,
+    "url": "https://www.nature.com/articles/s41746-026-02873-2",
+    "source": "Nature - Scientific Community",
+    "publishedAt": "2026-06-08T00:00:00.000Z",
+    "scrapedAt": "2026-06-08T15:39:10.369Z",
+    "topics": [
+      "AI & Emerging Tech"
     ]
   },
   {
@@ -2165,7 +2209,7 @@
     "url": "https://www.highereddive.com/news/university-maryland-lays-off-84-employees-budget-pressures/822073/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-06-05T09:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.022Z",
+    "scrapedAt": "2026-06-08T15:39:13.505Z",
     "topics": [
       "Research Culture"
     ]
@@ -2193,7 +2237,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea0302?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-06-05T07:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.385Z",
+    "scrapedAt": "2026-06-08T15:39:11.171Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2235,7 +2279,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.adz7118?af=R",
     "source": "Science",
     "publishedAt": "2026-06-04T07:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.392Z",
+    "scrapedAt": "2026-06-08T15:39:11.179Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2249,7 +2293,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.aej3861?af=R",
     "source": "Science",
     "publishedAt": "2026-06-04T06:00:14.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.392Z",
+    "scrapedAt": "2026-06-08T15:39:11.179Z",
     "topics": [
       "Research Culture"
     ]
@@ -2263,7 +2307,7 @@
     "url": "https://www.highereddive.com/news/university-of-alabama-nabs-court-win-in-lawsuit-over-student-magazines/821948/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-06-04T00:30:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.022Z",
+    "scrapedAt": "2026-06-08T15:39:13.505Z",
     "topics": [
       "Research Culture"
     ]
@@ -2277,7 +2321,7 @@
     "url": "https://www.nature.com/articles/s41570-026-00839-2",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-06-04T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.159Z",
+    "scrapedAt": "2026-06-08T15:39:10.369Z",
     "topics": [
       "Research Culture"
     ]
@@ -2613,7 +2657,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag014",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-05-29T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3051,7 +3095,7 @@
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00222429261445436?ai=2b4&mi=ehikzz&af=R",
     "source": "Journal of Marketing",
     "publishedAt": "2026-04-14T06:33:40.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.012Z",
+    "scrapedAt": "2026-06-08T15:39:11.972Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3065,7 +3109,7 @@
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00222437261434156?ai=2b4&mi=ehikzz&af=R",
     "source": "Journal of Marketing Research",
     "publishedAt": "2026-03-25T08:07:51.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.990Z",
+    "scrapedAt": "2026-06-08T15:39:11.985Z",
     "topics": [
       "Management & Organizations",
       "Marketing & Consumer Behaviour"
@@ -3080,7 +3124,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag006",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-25T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Science Policy & Funding",
@@ -3184,7 +3228,7 @@
     "url": "https://www.theguardian.com/commentisfree/2026/jun/08/writing-is-an-exercise-in-the-art-of-persuasion-if-we-use-ai-we-lose-the-art",
     "source": "The Guardian - Higher Education",
     "publishedAt": "2026-06-08T00:54:49.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.311Z",
+    "scrapedAt": "2026-06-08T15:39:13.849Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -3198,7 +3242,21 @@
     "url": "https://www.nature.com/articles/s41746-026-02767-3",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-06-08T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.138Z",
+    "scrapedAt": "2026-06-08T15:39:10.268Z",
+    "topics": [
+      "Human Behaviour & Cognition"
+    ]
+  },
+  {
+    "id": "575291c185e9",
+    "title": "The psychology of eating requires social context",
+    "summary": "",
+    "whyItMatters": "Behavioural science finding — the kind of insight that performs well on LinkedIn.",
+    "relevanceScore": 24,
+    "url": "https://www.nature.com/articles/s44159-026-00581-y",
+    "source": "Nature - Human Behaviour",
+    "publishedAt": "2026-06-08T00:00:00.000Z",
+    "scrapedAt": "2026-06-08T15:39:10.398Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3212,7 +3270,7 @@
     "url": "https://www.nature.com/articles/s41467-026-73907-2",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-06-06T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.162Z",
+    "scrapedAt": "2026-06-08T15:39:10.398Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3226,7 +3284,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7889?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-06-05T07:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.385Z",
+    "scrapedAt": "2026-06-08T15:39:11.171Z",
     "topics": [
       "Higher Education"
     ]
@@ -3240,7 +3298,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1936?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-06-05T07:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.385Z",
+    "scrapedAt": "2026-06-08T15:39:11.171Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3254,7 +3312,7 @@
     "url": "https://www.nature.com/articles/s41599-026-07769-w",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-06-05T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.827Z",
+    "scrapedAt": "2026-06-08T15:39:11.577Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3268,7 +3326,7 @@
     "url": "https://www.nature.com/articles/s41598-026-56117-0",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-06-05T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.162Z",
+    "scrapedAt": "2026-06-08T15:39:10.398Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3282,7 +3340,7 @@
     "url": "https://www.highereddive.com/news/nebraska-law-offering-in-state-tuition-to-undocumented-students-struck-down/822060/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-06-04T19:41:28.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.022Z",
+    "scrapedAt": "2026-06-08T15:39:13.505Z",
     "topics": [
       "Higher Education"
     ]
@@ -3296,7 +3354,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.aed8630?af=R",
     "source": "Science",
     "publishedAt": "2026-06-04T07:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.392Z",
+    "scrapedAt": "2026-06-08T15:39:11.179Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3310,7 +3368,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.aea9058?af=R",
     "source": "Science",
     "publishedAt": "2026-06-04T06:00:14.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.392Z",
+    "scrapedAt": "2026-06-08T15:39:11.179Z",
     "topics": [
       "Higher Education"
     ]
@@ -3324,7 +3382,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.aeh2751?af=R",
     "source": "Science",
     "publishedAt": "2026-06-04T06:00:14.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.392Z",
+    "scrapedAt": "2026-06-08T15:39:11.179Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -3338,7 +3396,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/science.aej3864?af=R",
     "source": "Science",
     "publishedAt": "2026-06-04T06:00:14.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.392Z",
+    "scrapedAt": "2026-06-08T15:39:11.179Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -3352,7 +3410,7 @@
     "url": "https://www.nature.com/articles/s42254-026-00959-0",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-06-04T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.159Z",
+    "scrapedAt": "2026-06-08T15:39:10.369Z",
     "topics": [
       "Higher Education"
     ]
@@ -3366,7 +3424,7 @@
     "url": "https://www.nature.com/articles/s41467-026-73547-6",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-06-04T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.162Z",
+    "scrapedAt": "2026-06-08T15:39:10.398Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3380,7 +3438,7 @@
     "url": "https://www.nature.com/articles/s44271-026-00481-0",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-06-04T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.162Z",
+    "scrapedAt": "2026-06-08T15:39:10.398Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3394,7 +3452,7 @@
     "url": "https://www.nature.com/articles/s44159-026-00578-7",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-06-04T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.162Z",
+    "scrapedAt": "2026-06-08T15:39:10.398Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3408,7 +3466,7 @@
     "url": "https://www.nature.com/articles/s41537-026-00771-w",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-06-04T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:30.162Z",
+    "scrapedAt": "2026-06-08T15:39:10.398Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -3422,7 +3480,7 @@
     "url": "https://www.highereddive.com/news/arizona-state-faces-doj-investigation-over-dei-practices/821950/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-06-03T20:50:59.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.022Z",
+    "scrapedAt": "2026-06-08T15:39:13.505Z",
     "topics": [
       "Higher Education"
     ]
@@ -4168,7 +4226,7 @@
     "url": "https://arxiv.org/abs/2606.03742",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-06-08T04:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.916Z",
+    "scrapedAt": "2026-06-08T15:39:13.370Z",
     "topics": [
       "PhD & PostDoc Life",
       "Research Culture",
@@ -4242,7 +4300,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01150-8",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-04-15T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4256,7 +4314,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag008",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-04-11T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4286,7 +4344,7 @@
     "url": "https://www.insidehighered.com/news/student-success/academic-life/2026/06/08/where-first-generation-students-find-support",
     "source": "Inside Higher Ed",
     "publishedAt": "2026-06-08T07:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.112Z",
+    "scrapedAt": "2026-06-08T15:39:13.574Z",
     "topics": [
       "Higher Education"
     ]
@@ -4612,7 +4670,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag011",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-04-20T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4626,7 +4684,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag001",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-03-27T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:38.012Z",
+    "scrapedAt": "2026-06-08T15:39:17.054Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4743,7 +4801,7 @@
     "url": "https://arxiv.org/abs/2606.06915",
     "source": "arXiv - AI",
     "publishedAt": "2026-06-08T04:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.963Z",
+    "scrapedAt": "2026-06-08T15:39:13.430Z",
     "topics": [
       "AI & Emerging Tech",
       "Management & Organizations"
@@ -4758,7 +4816,7 @@
     "url": "https://arxiv.org/abs/2603.22327",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-06-08T04:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.916Z",
+    "scrapedAt": "2026-06-08T15:39:13.370Z",
     "topics": [
       "PhD & PostDoc Life",
       "AI & Emerging Tech"
@@ -4801,7 +4859,7 @@
     "url": "https://knowledge.wharton.upenn.edu/podcast/marketing-matters/creating-a-category-mike-kurtz-founder-of-mikes-hot-honey-on-brand-building-community-and-growth/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-06-04T19:14:54.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.147Z",
+    "scrapedAt": "2026-06-08T15:39:13.624Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4815,7 +4873,7 @@
     "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/how-artificial-intelligence-is-reshaping-business-and-society/",
     "source": "Knowledge at Wharton",
     "publishedAt": "2026-06-03T18:57:48.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.147Z",
+    "scrapedAt": "2026-06-08T15:39:13.624Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -5126,7 +5184,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01159-z",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-06-05T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -5140,7 +5198,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01161-5",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-05-29T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -5252,7 +5310,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01163-3",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-05-21T00:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.746Z",
+    "scrapedAt": "2026-06-08T15:39:13.168Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -5480,7 +5538,7 @@
     "url": "https://retractionwatch.com/2026/06/06/weekend-reads-moffitt-executive-steps-down-hijab-switching-scandal-nsf-watchdog-unit-empty/",
     "source": "Retraction Watch",
     "publishedAt": "2026-06-06T10:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.279Z",
+    "scrapedAt": "2026-06-08T15:39:13.680Z",
     "topics": [
       "Science Policy & Funding"
     ]
@@ -5830,7 +5888,7 @@
     "url": "https://arxiv.org/abs/2606.07332",
     "source": "arXiv - Digital Libraries",
     "publishedAt": "2026-06-08T04:00:00.000Z",
-    "scrapedAt": "2026-06-08T10:26:31.916Z",
+    "scrapedAt": "2026-06-08T15:39:13.370Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -6102,6 +6160,34 @@
     ]
   },
   {
+    "id": "ab195cd0f3b0",
+    "title": "Court dismisses biochemist’s lawsuit against MD Anderson",
+    "summary": "A Texas court has dismissed a lawsuit by a biochemist accused of research misconduct who claimed her former institution violated her due process rights during its investigation. Sonia Melo sued The University of Texas MD Anderson Cancer Center in Houston in 2025, alleging the institution failed to follow its policies during a misconduct investigation into … Continue reading Court dismisses biochemist’s lawsuit against MD Anderson",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 8,
+    "url": "https://retractionwatch.com/2026/06/08/court-dismisses-biochemists-lawsuit-against-md-anderson/",
+    "source": "Retraction Watch",
+    "publishedAt": "2026-06-08T12:32:00.000Z",
+    "scrapedAt": "2026-06-08T15:39:13.680Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
+    "id": "f23ee0447ece",
+    "title": "The Empathy Tax Female Leaders Pay",
+    "summary": "Carolyn Geason-Beissel/MIT SMR | Getty Images The consulting manager took a call at 7:30 p.m., while volunteering at her son’s soccer practice, from an employee who felt “on the verge of quitting.” Later that same week, she responded to texts sent at 2 a.m. from team members who could not sleep amid corporate restructuring and […]",
+    "whyItMatters": "Management/org science — cross-disciplinary relevance for business school audience.",
+    "relevanceScore": 8,
+    "url": "https://sloanreview.mit.edu/article/the-empathy-tax-female-leaders-pay/",
+    "source": "MIT Sloan Management Review",
+    "publishedAt": "2026-06-08T12:30:26.000Z",
+    "scrapedAt": "2026-06-08T15:39:13.338Z",
+    "topics": [
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "0afb9c544b28",
     "title": "Nasa tells astronauts to return to International Space Station as air leak repair paused – as it happened",
     "summary": "This blog is now closed, you can read more on this story here Roscosmos told journalists that the two air leaks that prompted Nasa to order five astronauts aboard the International Space Station to prepare for a possible evacuation were discovered during the pressurisation of the Zveda module’s transfer chamber, the Russian state news agency Tass reports. Specialists with the Russian segment’s main operations team detected the air leaks while pressurising the transfer chamber to the ISS chamber,",
@@ -6110,7 +6196,7 @@
     "url": "https://www.theguardian.com/science/live/2026/jun/05/international-space-station-astronauts-evacuation-air-leak-latest-news-updates",
     "source": "The Guardian - Science",
     "publishedAt": "2026-06-05T15:45:41.000Z",
-    "scrapedAt": "2026-06-08T10:26:32.084Z",
+    "scrapedAt": "2026-06-08T15:39:13.692Z",
     "topics": [
       "Management & Organizations"
     ]
