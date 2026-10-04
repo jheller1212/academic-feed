@@ -26,7 +26,7 @@ interface SourceMeta {
 // ---------------------------------------------------------------------------
 // Topic keywords – tuned for Jonas's LinkedIn audience
 // ---------------------------------------------------------------------------
-const TOPICS_KEYWORDS: Record<string, { keywords: string[]; weight: number }> = {
+const TOPICS_KEYWORDS: Record<string, { keywords: string[]; weight: number; requires?: RegExp }> = {
   'PhD & PostDoc Life': {
     keywords: [
       'phd', 'doctoral', 'dissertation', 'graduate student', 'grad school', 'thesis',
@@ -71,6 +71,31 @@ const TOPICS_KEYWORDS: Record<string, { keywords: string[]; weight: number }> = 
     ],
     weight: 4,
   },
+  // Jonas's angle: AI-forward but reflected — surface critique and evidence, not hype
+  'AI Hype & Critique': {
+    keywords: [
+      'hype', 'ai bubble', 'overhyped', 'snake oil', 'agi', 'superintelligence',
+      'ai safety', 'ai risk', 'ai harms', 'big tech', 'tech industry', 'silicon valley',
+      'productivity paradox', 'deskilling', 'automation', 'surveillance', 'datafication',
+      'hallucination', 'benchmark', 'ai skeptic', 'scepticism',
+      'skepticism', 'normal technology', 'ai literacy', 'human oversight', 'algorithmic',
+    ],
+    weight: 4,
+    // Generic words like 'hype' or 'surveillance' only count when the piece is about AI
+    requires: /\b(ai|artificial intelligence|llms?|chatgpt|generative|algorithm\w*|machine learning)\b/i,
+  },
+  'Education System Critique': {
+    keywords: [
+      'assessment', 'grading', 'grade inflation', 'exam', 'cheating', 'academic integrity',
+      'plagiarism', 'ai tutor', 'chatbot tutor', 'personalised learning', 'personalized learning',
+      'edtech', 'learning analytics', 'student wellbeing', 'student mental health',
+      'marketisation', 'marketization', 'student as consumer', 'league table', 'university rankings',
+      'casualisation', 'casualization', 'workload', 'teaching quality', 'lecture',
+      'education policy', 'learning outcomes', 'critical thinking', 'skills gap',
+      'ai in education', 'ai in the classroom', 'ai policy', 'ai ban',
+    ],
+    weight: 5,
+  },
   'Higher Education': {
     keywords: [
       'higher education', 'university policy', 'college', 'campus',
@@ -84,16 +109,18 @@ const TOPICS_KEYWORDS: Record<string, { keywords: string[]; weight: number }> = 
     keywords: [
       'psychology', 'cognitive', 'decision making', 'decision-making',
       'human behaviour', 'human behavior', 'behavioural science', 'behavioral science',
-      'social psychology', 'cognition', 'attention', 'perception',
-      'emotion', 'motivation', 'bias', 'heuristic', 'creativity',
-      'learning', 'memory', 'nudge', 'choice architecture',
+      'social psychology', 'cognition', 'cognitive bias',
+      'motivation', 'heuristic', 'creativity',
+      'nudge', 'choice architecture', 'judgment', 'persuasion',
     ],
     weight: 3,
   },
   'Marketing & Consumer Behaviour': {
     keywords: [
       'marketing', 'consumer', 'brand', 'advertising', 'retail',
-      'customer', 'purchase', 'pricing', 'promotion', 'product',
+      'customer', 'purchase', 'pricing', 'sales promotion', 'product launch',
+      'ai marketing', 'ai-generated ad', 'synthetic data', 'personalization', 'personalisation',
+      'recommendation', 'algorithmic', 'chatbot', 'virtual influencer', 'ai agent',
       'consumer behaviour', 'consumer behavior', 'consumer psychology',
       'buyer', 'shopping', 'e-commerce', 'digital marketing',
       'social media marketing', 'influencer', 'word of mouth',
@@ -107,9 +134,9 @@ const TOPICS_KEYWORDS: Record<string, { keywords: string[]; weight: number }> = 
       'management', 'organization', 'organisation', 'leadership',
       'innovation', 'entrepreneurship', 'startup', 'strategy',
       'organizational behavior', 'organisational behaviour',
-      'team', 'collaboration', 'negotiation', 'decision theory',
+      'collaboration', 'negotiation', 'decision theory',
       'corporate', 'governance', 'stakeholder', 'sustainability',
-      'supply chain', 'operations', 'performance',
+      'supply chain', 'future of work', 'workforce',
     ],
     weight: 4,
   },
@@ -135,6 +162,8 @@ const BONUS_KEYWORDS = [
   { pattern: 'dutch', weight: 3 },
   { pattern: 'maastricht', weight: 5 },
   { pattern: 'stanford', weight: 2 },
+  { pattern: 'generative ai', weight: 2 },
+  { pattern: 'students', weight: 1 },
 ]
 
 // ---------------------------------------------------------------------------
@@ -195,14 +224,17 @@ const FEEDS: FeedConfig[] = [
 
   // --- Primary: Science journals ---
   { url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science', source: 'Science' },
-  { url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv', source: 'Science Advances', maxItems: 20, minScore: 8 },
-  { url: 'https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas', source: 'PNAS', maxItems: 20, minScore: 8 },
+  { url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv', source: 'Science Advances', maxItems: 10, minScore: 12 },
+  { url: 'https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas', source: 'PNAS', maxItems: 10, minScore: 12 },
 
   // --- Primary: Top Marketing journals (wide date window — these publish monthly) ---
   { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmxa&type=etoc&feed=rss', source: 'Journal of Marketing', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
   { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=mrja&type=etoc&feed=rss', source: 'Journal of Marketing Research', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
   { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mksc', source: 'Marketing Science', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
   { url: 'https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=11747&query=*', source: 'J. of the Acad. of Marketing Science', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
+
+  // --- Marketing practice (trade press — keep only items that hit topics hard) ---
+  { url: 'https://www.marketingweek.com/feed/', source: 'Marketing Week', minScore: 10 },
 
   // --- Primary: Top Management journals ---
   { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc', source: 'Management Science', maxItems: 20, minScore: 8 },
@@ -214,11 +246,23 @@ const FEEDS: FeedConfig[] = [
   // --- Primary: Practitioner-academic bridge ---
   { url: 'https://sloanreview.mit.edu/feed/', source: 'MIT Sloan Management Review' },
 
+  // --- Reflective AI voices (critical + pragmatic, not hype) ---
+  { url: 'https://www.normaltech.ai/feed', source: 'AI as Normal Technology', forcedTopics: ['AI Hype & Critique'], alwaysInclude: true },
+  { url: 'https://garymarcus.substack.com/feed', source: 'Gary Marcus', forcedTopics: ['AI Hype & Critique'], alwaysInclude: true, maxItems: 3 },
+  { url: 'https://www.oneusefulthing.org/feed', source: 'One Useful Thing (Mollick)', forcedTopics: ['AI & Emerging Tech'], alwaysInclude: true },
+  { url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed', source: 'MIT Technology Review - AI', minScore: 10 },
+
+  // --- Critical perspectives on education & edtech ---
+  { url: 'https://codeactsineducation.wordpress.com/feed/', source: 'Code Acts in Education (Williamson)', maxAgeDays: 60, forcedTopics: ['Education System Critique'], alwaysInclude: true },
+  { url: 'https://2ndbreakfast.audreywatters.com/rss/', source: 'Second Breakfast (Audrey Watters)', forcedTopics: ['Education System Critique'], alwaysInclude: true, maxItems: 3 },
+  { url: 'https://hechingerreport.org/feed/', source: 'The Hechinger Report', minScore: 8 },
+  { url: 'https://www.edsurge.com/articles_rss', source: 'EdSurge', minScore: 12 },
+  { url: 'https://blogs.lse.ac.uk/impactofsocialsciences/feed/', source: 'LSE Impact Blog' },
+
   // --- Secondary: arXiv (tightly capped, institution-filtered) ---
   { url: 'https://rss.arxiv.org/rss/cs.AI', source: 'arXiv - AI', stanfordOnly: true, maxItems: 5 },
   { url: 'https://rss.arxiv.org/rss/cs.HC', source: 'arXiv - Human-Computer Interaction', stanfordOnly: true, maxItems: 5 },
   { url: 'https://rss.arxiv.org/rss/cs.CY', source: 'arXiv - Computers & Society', stanfordOnly: true, maxItems: 5 },
-  { url: 'https://rss.arxiv.org/rss/cs.DL', source: 'arXiv - Digital Libraries', maxItems: 5 },
   { url: 'https://rss.arxiv.org/rss/econ.GN', source: 'arXiv - Economics', stanfordOnly: true, maxItems: 5 },
 
   // --- Secondary: Higher Ed publications (US) ---
@@ -259,6 +303,19 @@ function stripAuthorBios(text: string): string {
     .replace(/\bUniversity of [A-Z][^.]+\./g, '')
 }
 
+// Word-boundary match: plain substring matching tagged 'commerce' as ERC funding and
+// 'imagine' as AGI. Short keywords must match whole words; longer ones may be stems.
+const keywordRegexCache = new Map<string, RegExp>()
+function hasKeyword(text: string, kw: string): boolean {
+  let re = keywordRegexCache.get(kw)
+  if (!re) {
+    const escaped = kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    re = new RegExp(`\\b${escaped}${kw.length <= 4 ? '\\b' : ''}`)
+    keywordRegexCache.set(kw, re)
+  }
+  return re.test(text)
+}
+
 function matchTopics(title: string, body: string): { topics: string[]; score: number } {
   const lowerTitle = title.toLowerCase()
   const lowerBody = stripAuthorBios(body).toLowerCase()
@@ -266,8 +323,9 @@ function matchTopics(title: string, body: string): { topics: string[]; score: nu
   let score = 0
 
   for (const [topic, config] of Object.entries(TOPICS_KEYWORDS)) {
-    const titleMatches = config.keywords.filter((kw) => lowerTitle.includes(kw)).length
-    const bodyMatches = config.keywords.filter((kw) => lowerBody.includes(kw)).length
+    if (config.requires && !config.requires.test(`${lowerTitle} ${lowerBody}`)) continue
+    const titleMatches = config.keywords.filter((kw) => hasKeyword(lowerTitle, kw)).length
+    const bodyMatches = config.keywords.filter((kw) => hasKeyword(lowerBody, kw)).length
 
     if (titleMatches > 0 || bodyMatches >= 2) {
       matched.push(topic)
@@ -288,6 +346,7 @@ function matchTopics(title: string, body: string): { topics: string[]; score: nu
 const MARKETING_JOURNAL_SOURCES = [
   'Journal of Marketing', 'Journal of Marketing Research', 'Marketing Science',
   'J. of the Acad. of Marketing Science', 'Journal of Consumer Research',
+  'Journal of Consumer Psychology', 'Intl. Journal of Research in Marketing', 'Journal of Retailing',
 ]
 
 function generateWhyItMatters(topics: string[], source: string): string {
@@ -295,6 +354,10 @@ function generateWhyItMatters(topics: string[], source: string): string {
   if (MARKETING_JOURNAL_SOURCES.includes(source))
     return 'Marketing research — directly relevant to your field and audience.'
 
+  if (topics.includes('Education System Critique'))
+    return 'Where education is heading (or failing) — room for a critical, evidence-based take.'
+  if (topics.includes('AI Hype & Critique'))
+    return 'AI claims vs. evidence — fits your AI-forward-but-reflected angle.'
   if (topics.includes('PhD & PostDoc Life'))
     return 'Early-career academic life — resonates strongly with your LinkedIn audience.'
   if (topics.includes('Academic Careers'))
@@ -417,6 +480,7 @@ async function scrapeFeed(
         'The Guardian - Higher Education', 'Wonkhe',
         'Journal of Marketing', 'Journal of Marketing Research', 'Marketing Science',
         'J. of the Acad. of Marketing Science', 'Journal of Consumer Research',
+        'AI as Normal Technology', 'Code Acts in Education (Williamson)', 'LSE Impact Blog',
       ]
       if (PRIORITY_SOURCES.includes(feedConfig.source)) score += 15
 
@@ -465,16 +529,19 @@ interface CrossrefJournal {
 
 const CROSSREF_JOURNALS: CrossrefJournal[] = [
   { issn: '0093-5301', source: 'Journal of Consumer Research', forcedTopics: ['Marketing & Consumer Behaviour'] },
+  { issn: '1057-7408', source: 'Journal of Consumer Psychology', forcedTopics: ['Marketing & Consumer Behaviour'] },
+  { issn: '0167-8116', source: 'Intl. Journal of Research in Marketing', forcedTopics: ['Marketing & Consumer Behaviour'] },
+  { issn: '0022-4359', source: 'Journal of Retailing', forcedTopics: ['Marketing & Consumer Behaviour'] },
 ]
 
 async function scrapeCrossref(journal: CrossrefJournal, maxAgeDays: number): Promise<Article[]> {
   try {
-    const url = `https://api.crossref.org/journals/${journal.issn}/works?rows=20&sort=published&order=desc&select=title,published-online,URL,abstract`
+    const url = `https://api.crossref.org/journals/${journal.issn}/works?rows=20&sort=published&order=desc&select=title,published-online,published-print,issued,URL,abstract`
     const res = await fetch(url, {
       headers: { 'User-Agent': 'AcademicFeed/2.0 (mailto:j.heller@maastrichtuniversity.nl)' },
     })
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    const data = await res.json() as { message: { items: Array<{ title?: string[]; URL?: string; abstract?: string; 'published-online'?: { 'date-parts': number[][] } }> } }
+    const data = await res.json() as { message: { items: Array<{ title?: string[]; URL?: string; abstract?: string; 'published-online'?: { 'date-parts': number[][] }; 'published-print'?: { 'date-parts': number[][] }; issued?: { 'date-parts': number[][] } }> } }
 
     const now = new Date()
     const cutoff = new Date(now.getTime() - maxAgeDays * 24 * 60 * 60 * 1000)
@@ -485,9 +552,10 @@ async function scrapeCrossref(journal: CrossrefJournal, maxAgeDays: number): Pro
       const link = item.URL
       if (!title || !link) continue
 
-      const dateParts = item['published-online']?.['date-parts']?.[0]
-      if (!dateParts || dateParts.length < 3) continue
-      const pubDate = new Date(dateParts[0], dateParts[1] - 1, dateParts[2])
+      // Elsevier journals often only deposit print/issued dates
+      const dateParts = (item['published-online'] ?? item['published-print'] ?? item.issued)?.['date-parts']?.[0]
+      if (!dateParts || dateParts.length < 2) continue
+      const pubDate = new Date(dateParts[0], dateParts[1] - 1, dateParts[2] ?? 1)
       if (pubDate < cutoff || pubDate > now) continue
 
       const rawAbstract = item.abstract || ''
