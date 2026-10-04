@@ -47,9 +47,9 @@ export function setApiKey(key: string) {
 
 const TONE_STORAGE = 'academic-feed-tone'
 
-export type Tone = 'Reflective' | 'Hot Take' | 'Data-Driven' | 'Question-Led' | 'Storytelling'
+export type Tone = 'Reflective' | 'Hype Check' | 'Hot Take' | 'Data-Driven' | 'Question-Led' | 'Storytelling'
 
-export const TONES: Tone[] = ['Reflective', 'Hot Take', 'Data-Driven', 'Question-Led', 'Storytelling']
+export const TONES: Tone[] = ['Reflective', 'Hype Check', 'Hot Take', 'Data-Driven', 'Question-Led', 'Storytelling']
 
 export function getTone(): Tone {
   const stored = localStorage.getItem(TONE_STORAGE)

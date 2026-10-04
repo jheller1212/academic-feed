@@ -1,5 +1,5 @@
-// Paste your best 10-15 LinkedIn posts here to train the AI on your voice.
-// Replace the placeholder examples below with your actual posts.
+// TODO(Jonas): replace these placeholders with 5-10 of your real LinkedIn posts.
+// The stance lives in generate.ts; these examples only teach rhythm and voice.
 export const STYLE_EXAMPLES = `
 ---
 Post 1:
