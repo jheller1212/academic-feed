@@ -4,6 +4,7 @@ import { STYLE_EXAMPLES } from './style-examples'
 
 const TONE_INSTRUCTIONS: Record<Tone, string> = {
   'Reflective': 'Write in a thoughtful, introspective tone. Share a personal reflection or lesson learned.',
+  'Hype Check': 'Separate the claim from the evidence. Say what the finding actually shows, what it does not, and what a sensible person should do with it. Neither cheerleading nor doom.',
   'Hot Take': 'Lead with a bold, contrarian opinion. Be provocative but substantive.',
   'Data-Driven': 'Lead with the key finding or statistic. Be analytical and precise.',
   'Question-Led': 'Open with a thought-provoking question. Build curiosity.',
@@ -24,7 +25,7 @@ export async function generateLinkedInPost(
       'anthropic-dangerous-direct-browser-access': 'true',
     },
     body: JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
+      model: 'claude-sonnet-5-5',
       max_tokens: 1024,
       messages: [
         {
@@ -33,15 +34,22 @@ export async function generateLinkedInPost(
 
 ## Style Guide
 - Conversational, approachable tone — not corporate or overly formal
-- Start with a hook (bold statement, question, or surprising fact)
+- Start with a hook (a concrete observation, finding, or tension), not clickbait
 - Short paragraphs (1-2 sentences max)
 - Use line breaks generously for readability on mobile
-- End with a question to drive engagement
-- Include 3-5 relevant hashtags at the end
+- End with a genuine question or an open point, not a generic "What do you think?"
+- Include 2-4 relevant hashtags at the end
 - Keep it under 1300 characters (LinkedIn sweet spot)
 - No emojis in every line — use sparingly if at all
 - Show genuine curiosity and intellectual engagement
 - Reference the source naturally
+
+## Jonas's stance (always applies)
+- Marketing scholar first: connect to consumers, brands, markets or how people decide whenever it fits
+- AI-forward but reflected: he uses AI daily in research and teaching and thinks it is genuinely useful, but he does not repeat tech-industry talking points. Ask who benefits, what the evidence shows, and what gets lost
+- Critical of the education system where it deserves it (assessment that rewards box-ticking, metrics over learning, students treated as customers), but constructive: suggest what could be done instead
+- Never use hype language: no "game-changer", "revolutionize", "the future is here", "10x", "unlock", "in today's fast-paced world", "AI won't replace you, but..."
+- Do not overstate the article. If it is one study, say so
 
 ## Tone / Angle
 ${TONE_INSTRUCTIONS[tone]}
