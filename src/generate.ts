@@ -26,7 +26,9 @@ export async function generateLinkedInPost(
     },
     body: JSON.stringify({
       model: 'claude-sonnet-5-5',
-      max_tokens: 1024,
+      // Sonnet 5.5 thinks by default; leave headroom so thinking can't starve the post
+      max_tokens: 16000,
+      output_config: { effort: 'low' },
       messages: [
         {
           role: 'user',
@@ -76,7 +78,13 @@ Write the LinkedIn post now. Output ONLY the post text, nothing else.`,
   }
 
   const data = await response.json()
-  const block = data.content?.[0]
-  if (block?.type === 'text') return block.text
-  throw new Error('Unexpected response format')
+  if (data.stop_reason === 'refusal') throw new Error('The model declined to draft this post')
+  // Thinking blocks come before the text, so content[0] is not the post
+  const text = (data.content ?? [])
+    .filter((b: { type: string }) => b.type === 'text')
+    .map((b: { text: string }) => b.text)
+    .join('')
+    .trim()
+  if (text) return text
+  throw new Error(`Unexpected response format (stop_reason: ${data.stop_reason ?? 'unknown'})`)
 }
