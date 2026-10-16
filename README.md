@@ -1,6 +1,6 @@
 # Academic Feed
 
-My personal daily news feed for academic life — filtered for research culture, AI in academia, science policy, and the realities of PhD/postdoc life. Includes a LinkedIn post drafter so I can turn interesting articles into posts without starting from a blank page.
+My personal daily news feed for academic life — ranked by what actually travels on my LinkedIn: PhD and supervision, academic careers and precarity, AI in assessment and research integrity, methods and data quality, and AI and consumers. Includes a LinkedIn post drafter so I can turn interesting articles into posts without starting from a blank page.
 
 **Live:** [jheller1212.github.io/academic-feed](https://jheller1212.github.io/academic-feed/)
 
