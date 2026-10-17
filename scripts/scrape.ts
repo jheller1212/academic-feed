@@ -14,7 +14,10 @@ interface Article {
   publishedAt: string
   scrapedAt: string
   topics: string[]
+  scoreVersion?: number
 }
+
+const SCORE_VERSION = 2
 
 interface SourceMeta {
   source: string
@@ -24,147 +27,130 @@ interface SourceMeta {
 }
 
 // ---------------------------------------------------------------------------
-// Topic keywords – tuned for Jonas's LinkedIn audience
+// Content pillars, rebuilt Oct 2026 from what actually performed on LinkedIn.
+// Megahits (100k-260k impressions) were all an insider take on a news or
+// career piece: leaving academia, PhD supervision, #IchBinHanna, AI vs.
+// assessment, AI bots in online surveys. Generic US higher-ed admin news,
+// management journals and marketing-journal tables of contents never travelled.
+// Weight = how strongly the pillar predicts a post that spreads.
 // ---------------------------------------------------------------------------
 const TOPICS_KEYWORDS: Record<string, { keywords: string[]; weight: number; requires?: RegExp }> = {
-  'PhD & PostDoc Life': {
+  'PhD & Supervision': {
     keywords: [
-      'phd', 'doctoral', 'dissertation', 'graduate student', 'grad school', 'thesis',
-      'phd student', 'phd candidate', 'postdoc', 'post-doc', 'postdoctoral',
-      'early-career researcher', 'junior faculty', 'early career', 'doctoral student',
-      'doctoral training', 'phd life', 'supervisor', 'supervision', 'mentoring', 'mentor',
+      'phd', 'doctoral', 'dissertation', 'thesis', 'phd student', 'phd candidate',
+      'graduate student', 'grad student', 'doctoral student', 'doctoral candidate',
+      'supervisor', 'supervision', 'supervisee', 'advisor', 'adviser', 'mentoring', 'mentor',
+      'early-career researcher', 'early career researcher', 'early-career', 'postdoc', 'post-doc', 'postdoctoral',
+    ],
+    weight: 7,
+  },
+  'Careers & Precarity': {
+    keywords: [
+      'leaving academia', 'left academia', 'quit academia', 'leave academia', 'alt-ac',
+      'academic career', 'academic job', 'job market', 'tenure', 'tenure track', 'tenure-track',
+      'temporary contract', 'fixed-term', 'short-term contract', 'precari', 'job security',
+      'ichbinhanna', 'wisszeitvg', 'hanna', 'adjunct', 'casualisation', 'casualization',
+      'salary', 'salaries', 'stipend', 'what does a phd pay', 'pay gap', 'wages', 'stay in academia', 'remain in academia', 'career outcomes', 'underpaid', 'layoff', 'redundanc', 'job cuts', 'brain drain',
+      'industry job', 'career change', 'career transition', 'career advice', 'working scientist',
+      'hiring committee', 'academic cv', 'promotion', 'recognition and rewards',
+    ],
+    weight: 7,
+  },
+  'AI & Research Integrity': {
+    keywords: [
+      'peer review', 'paper mill', 'retraction', 'misconduct', 'fabricat', 'fraud',
+      'research integrity', 'ai-generated', 'ai generated', 'llm-generated', 'written by ai',
+      'chatgpt', 'large language model', 'llm', 'generative ai', 'ai detection', 'detector',
+      'hallucinat', 'fake reference', 'citation', 'ghostwrit', 'authorship', 'ai reviewer',
+    ],
+    weight: 6,
+    requires: /\b(ai|artificial intelligence|llms?|chatgpt|generative|peer review|paper mills?|retract\w*|misconduct|fraud|integrity)\b/i,
+  },
+  'Methods & Data Quality': {
+    keywords: [
+      'online survey', 'survey research', 'survey data', 'respondent', 'participants',
+      'mturk', 'mechanical turk', 'prolific', 'online panel', 'crowdsourc', 'bots', 'bot ',
+      'synthetic participant', 'synthetic respondent', 'silicon sample', 'simulated participant',
+      'attention check', 'data quality', 'replication', 'replicat', 'reproducib', 'preregist',
+      'p-hacking', 'null result', 'effect size', 'lab study', 'field experiment',
+    ],
+    weight: 6,
+  },
+  'Academic Culture': {
+    keywords: [
+      'publish or perish', 'slow science', 'impact factor', 'h-index', 'metrics', 'research assessment',
+      'burnout', 'mental health', 'work-life balance', 'overwork', 'workload', 'imposter',
+      'academic culture', 'research culture', 'toxic', 'bullying', 'harassment', 'hierarchy',
+      'open science', 'open access', 'preprint', 'academic freedom', 'sabbatical', 'grant writing',
+      'rejection', 'reviewer 2', 'academic twitter', 'science communication',
     ],
     weight: 5,
   },
-  'Academic Careers': {
+  'AI in Teaching & Assessment': {
     keywords: [
-      'academic career', 'job market', 'tenure', 'tenure track', 'faculty',
-      'leaving academia', 'alt-ac', 'academic job', 'career column', 'career advice',
-      'career development', 'career transition', 'career fulfilment', 'working scientist',
-      'career in science', 'publish or perish', 'adjunct', 'precari',
-      'hiring committee', 'academic cv', 'academic promotion', 'scientific career',
+      'assessment', 'exam', 'grading', 'cheating', 'academic integrity', 'plagiarism',
+      'essay', 'written assignment', 'oral exam', 'ai tutor', 'ai in education', 'ai in the classroom',
+      'ai policy', 'ai ban', 'students use ai', 'critical thinking', 'deskilling', 'cognitive offloading',
+      'learning outcomes', 'grade inflation',
+    ],
+    weight: 6,
+    requires: /\b(ai|artificial intelligence|llms?|chatgpt|generative|students?|exams?|assessment)\b/i,
+  },
+  'AI & Consumers': {
+    // Jonas's own research niche: credibility with industry, recruiters and future PhDs
+    keywords: [
+      'consumer', 'shopping', 'shopper', 'purchase', 'brand', 'marketing', 'advertising', 'retail',
+      'ai agent', 'agentic', 'chatbot', 'recommendation', 'personalization', 'personalisation',
+      'virtual reality', 'augmented reality', 'mixed reality', 'extended reality', 'xr', 'metaverse',
+      'algorithm aversion', 'algorithm appreciation', 'trust in ai', 'human-ai', 'ai companion',
+      'synthetic data', 'generative engine', 'ai search', 'virtual influencer', 'ai-generated ad',
     ],
     weight: 5,
-  },
-  'Research Culture': {
-    keywords: [
-      'academia', 'academic life', 'higher education', 'university',
-      'peer review', 'research funding', 'grant', 'sabbatical',
-      'teaching load', 'scholarly', 'open access', 'open science',
-      'reproducibility', 'replication', 'preprint', 'research integrity',
-      'misconduct', 'retraction', 'impact factor', 'research assessment',
-      'work-life balance', 'burnout', 'imposter syndrome', 'academic identity',
-      'research workflow', 'scientific workflow', 'research practice',
-      'publishing', 'scholarly communication',
-    ],
-    weight: 4,
-  },
-  'AI & Emerging Tech': {
-    keywords: [
-      'artificial intelligence', 'chatgpt', 'large language model', 'llm',
-      'machine learning', 'generative ai', 'ai tools', 'ai in education',
-      'ai in research', 'ai in academia', 'ai plagiarism', 'ai detection',
-      'deep learning', 'neural network', 'ai ethics', 'ai bias', 'ai regulation',
-      'augmented reality', 'virtual reality', 'mixed reality', 'extended reality',
-      'brain-computer interface', 'bci',
-      'human-computer interaction', 'hci',
-    ],
-    weight: 4,
-  },
-  // Jonas's angle: AI-forward but reflected — surface critique and evidence, not hype
-  'AI Hype & Critique': {
-    keywords: [
-      'hype', 'ai bubble', 'overhyped', 'snake oil', 'agi', 'superintelligence',
-      'ai safety', 'ai risk', 'ai harms', 'big tech', 'tech industry', 'silicon valley',
-      'productivity paradox', 'deskilling', 'automation', 'surveillance', 'datafication',
-      'hallucination', 'benchmark', 'ai skeptic', 'scepticism',
-      'skepticism', 'normal technology', 'ai literacy', 'human oversight', 'algorithmic',
-    ],
-    weight: 4,
-    // Generic words like 'hype' or 'surveillance' only count when the piece is about AI
-    requires: /\b(ai|artificial intelligence|llms?|chatgpt|generative|algorithm\w*|machine learning)\b/i,
-  },
-  'Education System Critique': {
-    keywords: [
-      'assessment', 'grading', 'grade inflation', 'exam', 'cheating', 'academic integrity',
-      'plagiarism', 'ai tutor', 'chatbot tutor', 'personalised learning', 'personalized learning',
-      'edtech', 'learning analytics', 'student wellbeing', 'student mental health',
-      'marketisation', 'marketization', 'student as consumer', 'league table', 'university rankings',
-      'casualisation', 'casualization', 'workload', 'teaching quality', 'lecture',
-      'education policy', 'learning outcomes', 'critical thinking', 'skills gap',
-      'ai in education', 'ai in the classroom', 'ai policy', 'ai ban',
-    ],
-    weight: 5,
-  },
-  'Higher Education': {
-    keywords: [
-      'higher education', 'university policy', 'college', 'campus',
-      'tuition', 'enrollment', 'enrolment', 'student experience',
-      'online learning', 'edtech', 'curriculum', 'pedagogy',
-      'academic freedom', 'dei', 'diversity', 'inclusion',
-    ],
-    weight: 3,
-  },
-  'Human Behaviour & Cognition': {
-    keywords: [
-      'psychology', 'cognitive', 'decision making', 'decision-making',
-      'human behaviour', 'human behavior', 'behavioural science', 'behavioral science',
-      'social psychology', 'cognition', 'cognitive bias',
-      'motivation', 'heuristic', 'creativity',
-      'nudge', 'choice architecture', 'judgment', 'persuasion',
-    ],
-    weight: 3,
-  },
-  'Marketing & Consumer Behaviour': {
-    keywords: [
-      'marketing', 'consumer', 'brand', 'advertising', 'retail',
-      'customer', 'purchase', 'pricing', 'sales promotion', 'product launch',
-      'ai marketing', 'ai-generated ad', 'synthetic data', 'personalization', 'personalisation',
-      'recommendation', 'algorithmic', 'chatbot', 'virtual influencer', 'ai agent',
-      'consumer behaviour', 'consumer behavior', 'consumer psychology',
-      'buyer', 'shopping', 'e-commerce', 'digital marketing',
-      'social media marketing', 'influencer', 'word of mouth',
-      'market research', 'segmentation', 'positioning',
-      'subscription', 'loyalty', 'churn', 'satisfaction',
-    ],
-    weight: 4,
-  },
-  'Management & Organizations': {
-    keywords: [
-      'management', 'organization', 'organisation', 'leadership',
-      'innovation', 'entrepreneurship', 'startup', 'strategy',
-      'organizational behavior', 'organisational behaviour',
-      'collaboration', 'negotiation', 'decision theory',
-      'corporate', 'governance', 'stakeholder', 'sustainability',
-      'supply chain', 'future of work', 'workforce',
-    ],
-    weight: 4,
+    requires: /\b(ai|artificial intelligence|llms?|chatgpt|generative|algorithm\w*|agents?|chatbots?|virtual reality|augmented reality|vr|ar|xr)\b/i,
   },
   'Science Policy & Funding': {
     keywords: [
-      'funding cut', 'nsf', 'nih', 'erc', 'horizon europe',
-      'research policy', 'science policy', 'research budget', 'science funding',
-      'research assessment', 'research evaluation', 'dora',
+      'funding cut', 'budget cut', 'cuts to', 'bezuiniging', 'science funding', 'research budget',
+      'research policy', 'science policy', 'horizon europe', 'erc', 'nwo', 'nih', 'nsf',
+      'dutch universities', 'netherlands', 'international students', 'english-taught', 'internationalisation',
     ],
-    weight: 3,
+    weight: 5,
+  },
+  // Kept at low weight: context, rarely a post on its own
+  'Higher Education (general)': {
+    keywords: ['higher education', 'university', 'universities', 'campus', 'curriculum', 'pedagogy'],
+    weight: 1,
   },
 }
 
-// Bonus keywords that boost score
+// Bonus keywords that boost score: tension, Europe, his own context
 const BONUS_KEYWORDS = [
-  { pattern: 'linkedin', weight: 5 },
-  { pattern: 'surprising', weight: 1 },
+  { pattern: 'linkedin', weight: 4 },
   { pattern: 'counterintuitive', weight: 2 },
-  { pattern: 'debunk', weight: 2 },
-  { pattern: 'myth', weight: 1 },
-  { pattern: 'europe', weight: 1 },
-  { pattern: 'netherlands', weight: 3 },
-  { pattern: 'dutch', weight: 3 },
-  { pattern: 'maastricht', weight: 5 },
-  { pattern: 'stanford', weight: 2 },
-  { pattern: 'generative ai', weight: 2 },
-  { pattern: 'students', weight: 1 },
+  { pattern: 'myth', weight: 2 },
+  { pattern: 'europe', weight: 2 },
+  { pattern: 'netherlands', weight: 4 },
+  { pattern: 'dutch', weight: 4 },
+  { pattern: 'germany', weight: 3 },
+  { pattern: 'german', weight: 2 },
+  { pattern: 'maastricht', weight: 6 },
+  { pattern: 'business school', weight: 4 },
+  { pattern: 'ichbinhanna', weight: 6 },
 ]
+
+// Shape of a headline that travels: a number, a survey, a tension, a question.
+// Every megahit opened on one of these.
+const HOOK_PATTERNS: { re: RegExp; weight: number }[] = [
+  { re: /\b\d{1,3}(\.\d)?\s?%|\bpercent\b/i, weight: 5 },
+  { re: /\b(survey|poll|study finds|researchers found|data show|analysis finds|report finds)\b/i, weight: 4 },
+  { re: /\b(quit|leav(e|ing)|exodus|crisis|cuts?|ban(ned)?|fake|fraud|bots?|cheat\w*|broken|burn\w*out|toxic|exploit\w*)\b/i, weight: 4 },
+  { re: /\?\s*$/, weight: 3 },
+  { re: /\b(how|why) (to|do|should|can) i\b|\bmy (phd|supervisor|student)\b/i, weight: 4 },
+]
+
+function hookScore(title: string): number {
+  return HOOK_PATTERNS.reduce((s, h) => s + (h.re.test(title) ? h.weight : 0), 0)
+}
 
 // ---------------------------------------------------------------------------
 // Exclusion patterns — reject junk before scoring
@@ -175,6 +161,12 @@ const EXCLUSION_PATTERNS = [
   /\bregister now\b/i, /\bsave the date\b/i, /\brsvp\b/i,
   /\btable of contents\b/i, /\bissue highlights\b/i,
   /\bweekly round-?up\b/i,
+  // US/UK institutional admin news that never travels with his audience
+  /\bhigher education postcard\b/i, /\bbranch campus\b/i, /\bathletic/i, /\bfootball\b/i,
+  /\bcommencement\b/i, /\bboard of (trustees|regents)\b/i, /\baccreditat/i, /\bpresidential search\b/i,
+  /\bnamed (president|chancellor|provost)\b/i, /\benrollment (up|down|grows|falls|drops)\b/i,
+  /\bcollege town\b/i, /\btitle ix\b/i, /\bcommunity college\b/i, /\bstate legislat/i,
+  /\bpodcast:/i, /\bcorrection\b/i, /\berratum\b/i, /\bauthor correction\b/i,
 ]
 
 function isExcluded(title: string, body: string): boolean {
@@ -203,85 +195,69 @@ type FeedConfig = {
   forcedTopics?: string[]
   /** Skip topic keyword matching — always include (for curated journal feeds) */
   alwaysInclude?: boolean
+  /** Source-level score bonus */
+  boost?: number
 }
 
+// boost: source-level bonus. Big boosts go to sources his megahits were built on
+// (Nature news & careers pieces, career columns), not to journal prestige.
+// Journals now have to earn their place on topic + hook like everything else.
+const HOOK = 14 // the "Nature piece + insider take" sources
+const GOOD = 7
 const FEEDS: FeedConfig[] = [
-  // --- Primary: Nature (subject feeds that work) ---
-  { url: 'https://www.nature.com/careers.rss', source: 'Nature Careers' },
-  { url: 'https://www.nature.com/subjects/scientific-community.rss', source: 'Nature - Scientific Community' },
-  { url: 'https://www.nature.com/subjects/peer-review.rss', source: 'Nature - Peer Review' },
-  { url: 'https://www.nature.com/subjects/research-management.rss', source: 'Nature - Research Management' },
-  { url: 'https://www.nature.com/subjects/publishing.rss', source: 'Nature - Publishing' },
-  { url: 'https://www.nature.com/subjects/machine-learning.rss', source: 'Nature - Machine Learning' },
-  { url: 'https://www.nature.com/subjects/human-behaviour.rss', source: 'Nature - Human Behaviour' },
-  { url: 'https://www.nature.com/subjects/society.rss', source: 'Nature - Society' },
-  { url: 'https://www.nature.com/subjects/policy.rss', source: 'Nature - Policy' },
-  { url: 'https://www.nature.com/subjects/funding.rss', source: 'Nature - Funding' },
-  { url: 'https://www.nature.com/subjects/lab-life.rss', source: 'Nature - Lab Life' },
-  { url: 'https://www.nature.com/subjects/science-technology-and-society.rss', source: 'Nature - Science, Tech & Society' },
-  { url: 'https://www.nature.com/nathumbehav.rss', source: 'Nature Human Behaviour' },
-  { url: 'https://www.nature.com/nature.rss', source: 'Nature' },
+  // --- Tier 1: news & career pieces that became 100k+ posts ---
+  { url: 'https://www.nature.com/careers.rss', source: 'Nature Careers', boost: HOOK },
+  { url: 'https://www.nature.com/subjects/careers.rss', source: 'Nature - Careers', boost: HOOK },
+  { url: 'https://www.nature.com/nature/articles?type=career-column.rss', source: 'Nature - Career Column', boost: HOOK },
+  { url: 'https://www.nature.com/subjects/scientific-community.rss', source: 'Nature - Scientific Community', boost: HOOK },
+  { url: 'https://www.nature.com/subjects/lab-life.rss', source: 'Nature - Lab Life', boost: HOOK },
+  { url: 'https://www.nature.com/subjects/peer-review.rss', source: 'Nature - Peer Review', boost: HOOK },
+  { url: 'https://www.nature.com/subjects/publishing.rss', source: 'Nature - Publishing', boost: GOOD },
+  { url: 'https://www.nature.com/subjects/research-management.rss', source: 'Nature - Research Management', boost: GOOD },
+  { url: 'https://www.nature.com/subjects/funding.rss', source: 'Nature - Funding', boost: GOOD },
+  { url: 'https://www.nature.com/subjects/policy.rss', source: 'Nature - Policy', boost: GOOD, minScore: 15 },
+  { url: 'https://www.nature.com/subjects/science-technology-and-society.rss', source: 'Nature - Science, Tech & Society', minScore: 18, maxItems: 5 },
+  { url: 'https://www.nature.com/subjects/machine-learning.rss', source: 'Nature - Machine Learning', minScore: 18, maxItems: 4 },
+  { url: 'https://www.nature.com/nature.rss', source: 'Nature', boost: GOOD, minScore: 15 },
+  { url: 'https://www.science.org/rss/news_current.xml', source: 'Science News', boost: GOOD, minScore: 12 },
+  { url: 'https://retractionwatch.com/feed/', source: 'Retraction Watch', boost: GOOD },
+  { url: 'https://blogs.lse.ac.uk/impactofsocialsciences/feed/', source: 'LSE Impact Blog', boost: GOOD },
 
-  // --- Primary: Science journals ---
-  { url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science', source: 'Science' },
-  { url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv', source: 'Science Advances', maxItems: 10, minScore: 12 },
-  { url: 'https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas', source: 'PNAS', maxItems: 10, minScore: 12 },
+  // --- Tier 1b: academic-culture writers whose pieces spark debate ---
+  { url: 'https://www.experimental-history.com/feed', source: 'Experimental History (Mastroianni)', boost: GOOD, alwaysInclude: true, forcedTopics: ['Academic Culture'], maxAgeDays: 21 },
+  { url: 'https://thesiswhisperer.com/feed/', source: 'The Thesis Whisperer', boost: GOOD, alwaysInclude: true, forcedTopics: ['PhD & Supervision'], maxAgeDays: 21 },
+  { url: 'https://stuartritchie.substack.com/feed', source: 'Science Fictions (Ritchie)', boost: GOOD, maxAgeDays: 21 },
 
-  // --- Primary: Top Marketing journals (wide date window — these publish monthly) ---
-  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmxa&type=etoc&feed=rss', source: 'Journal of Marketing', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
-  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=mrja&type=etoc&feed=rss', source: 'Journal of Marketing Research', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
-  { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mksc', source: 'Marketing Science', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
-  { url: 'https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=11747&query=*', source: 'J. of the Acad. of Marketing Science', maxAgeDays: 90, alwaysInclude: true, forcedTopics: ['Marketing & Consumer Behaviour'] },
-
-  // --- Marketing practice (trade press — keep only items that hit topics hard) ---
-  { url: 'https://www.marketingweek.com/feed/', source: 'Marketing Week', minScore: 10 },
-
-  // --- Primary: Top Management journals ---
-  { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc', source: 'Management Science', maxItems: 20, minScore: 8 },
-  { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=orsc', source: 'Organization Science' },
-  { url: 'https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amj', source: 'Academy of Management Journal' },
-  { url: 'https://journals.aom.org/action/showFeed?type=etoc&feed=rss&jc=amr', source: 'Academy of Management Review' },
-  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=asqa&type=etoc&feed=rss', source: 'Administrative Science Quarterly' },
-
-  // --- Primary: Practitioner-academic bridge ---
-  { url: 'https://sloanreview.mit.edu/feed/', source: 'MIT Sloan Management Review' },
+  // --- European / Dutch higher-ed news (his home turf; US admin news never travelled) ---
+  { url: 'https://dub.uu.nl/en/rss.xml', source: 'DUB (Utrecht)', boost: GOOD, minScore: 8 },
+  { url: 'https://www.ukrant.nl/feed/', source: 'UKrant (Groningen)', boost: GOOD, minScore: 8 },
+  { url: 'https://www.theguardian.com/education/higher-education/rss', source: 'The Guardian - Higher Education', minScore: 10 },
+  { url: 'https://wonkhe.com/feed/', source: 'Wonkhe', minScore: 14, maxItems: 4 },
+  { url: 'https://www.insidehighered.com/rss.xml', source: 'Inside Higher Ed', minScore: 16, maxItems: 5 },
+  { url: 'https://www.highereddive.com/feeds/news/', source: 'Higher Ed Dive', minScore: 18, maxItems: 2 },
+  { url: 'https://hechingerreport.org/feed/', source: 'The Hechinger Report', minScore: 16, maxItems: 2 },
 
   // --- Reflective AI voices (critical + pragmatic, not hype) ---
-  { url: 'https://www.normaltech.ai/feed', source: 'AI as Normal Technology', forcedTopics: ['AI Hype & Critique'], alwaysInclude: true },
-  { url: 'https://garymarcus.substack.com/feed', source: 'Gary Marcus', forcedTopics: ['AI Hype & Critique'], alwaysInclude: true, maxItems: 3 },
-  { url: 'https://www.oneusefulthing.org/feed', source: 'One Useful Thing (Mollick)', forcedTopics: ['AI & Emerging Tech'], alwaysInclude: true },
-  { url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed', source: 'MIT Technology Review - AI', minScore: 10 },
+  { url: 'https://www.normaltech.ai/feed', source: 'AI as Normal Technology', forcedTopics: ['AI & Research Integrity'], alwaysInclude: true },
+  { url: 'https://www.oneusefulthing.org/feed', source: 'One Useful Thing (Mollick)', alwaysInclude: true, forcedTopics: ['AI in Teaching & Assessment'] },
+  { url: 'https://codeactsineducation.wordpress.com/feed/', source: 'Code Acts in Education (Williamson)', maxAgeDays: 60, forcedTopics: ['AI in Teaching & Assessment'], alwaysInclude: true, maxItems: 2 },
+  { url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed', source: 'MIT Technology Review - AI', minScore: 14, maxItems: 3 },
+  { url: 'https://garymarcus.substack.com/feed', source: 'Gary Marcus', minScore: 12, maxItems: 1 },
 
-  // --- Critical perspectives on education & edtech ---
-  { url: 'https://codeactsineducation.wordpress.com/feed/', source: 'Code Acts in Education (Williamson)', maxAgeDays: 60, forcedTopics: ['Education System Critique'], alwaysInclude: true },
-  { url: 'https://2ndbreakfast.audreywatters.com/rss/', source: 'Second Breakfast (Audrey Watters)', forcedTopics: ['Education System Critique'], alwaysInclude: true, maxItems: 3 },
-  { url: 'https://hechingerreport.org/feed/', source: 'The Hechinger Report', minScore: 8 },
-  { url: 'https://www.edsurge.com/articles_rss', source: 'EdSurge', minScore: 12 },
-  { url: 'https://blogs.lse.ac.uk/impactofsocialsciences/feed/', source: 'LSE Impact Blog' },
+  // --- His own field: only papers with an AI/tech or methods hook, max 2 per journal ---
+  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmxa&type=etoc&feed=rss', source: 'Journal of Marketing', maxAgeDays: 90, minScore: 14, maxItems: 2 },
+  { url: 'https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=mrja&type=etoc&feed=rss', source: 'Journal of Marketing Research', maxAgeDays: 90, minScore: 14, maxItems: 2 },
+  { url: 'https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mksc', source: 'Marketing Science', maxAgeDays: 90, minScore: 14, maxItems: 2 },
+  { url: 'https://link.springer.com/search.rss?search-within=Journal&facet-journal-id=11747&query=*', source: 'J. of the Acad. of Marketing Science', maxAgeDays: 90, minScore: 14, maxItems: 2 },
+  { url: 'https://www.nature.com/nathumbehav.rss', source: 'Nature Human Behaviour', minScore: 14, maxItems: 3 },
+  { url: 'https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science', source: 'Science', minScore: 16, maxItems: 3 },
+  { url: 'https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas', source: 'PNAS', maxItems: 2, minScore: 18 },
+  { url: 'https://sloanreview.mit.edu/feed/', source: 'MIT Sloan Management Review', minScore: 14, maxItems: 2 },
+  { url: 'https://knowledge.wharton.upenn.edu/feed/', source: 'Knowledge at Wharton', minScore: 14, maxItems: 2 },
 
-  // --- Secondary: arXiv (tightly capped, institution-filtered) ---
-  { url: 'https://rss.arxiv.org/rss/cs.AI', source: 'arXiv - AI', stanfordOnly: true, maxItems: 5 },
-  { url: 'https://rss.arxiv.org/rss/cs.HC', source: 'arXiv - Human-Computer Interaction', stanfordOnly: true, maxItems: 5 },
-  { url: 'https://rss.arxiv.org/rss/cs.CY', source: 'arXiv - Computers & Society', stanfordOnly: true, maxItems: 5 },
-  { url: 'https://rss.arxiv.org/rss/econ.GN', source: 'arXiv - Economics', stanfordOnly: true, maxItems: 5 },
-
-  // --- Secondary: Higher Ed publications (US) ---
-  { url: 'https://www.insidehighered.com/rss.xml', source: 'Inside Higher Ed' },
-  { url: 'https://www.highereddive.com/feeds/news/', source: 'Higher Ed Dive' },
-
-  // --- Secondary: Higher Ed publications (Europe) ---
-  { url: 'https://www.theguardian.com/education/higher-education/rss', source: 'The Guardian - Higher Education' },
-  { url: 'https://www.theguardian.com/science/rss', source: 'The Guardian - Science', minScore: 8 },
-  { url: 'https://wonkhe.com/feed/', source: 'Wonkhe' },
-
-  // --- Secondary: Research institutions ---
-  { url: 'https://knowledge.wharton.upenn.edu/feed/', source: 'Knowledge at Wharton' },
-
-  // --- Secondary: Retraction Watch ---
-  { url: 'https://retractionwatch.com/feed/', source: 'Retraction Watch' },
-
-  // --- Secondary: Working papers ---
-  { url: 'https://www.nber.org/rss/new.xml', source: 'NBER Working Papers' },
+  // --- arXiv: only synthetic-respondent / AI-in-research work from big labs ---
+  { url: 'https://rss.arxiv.org/rss/cs.CY', source: 'arXiv - Computers & Society', stanfordOnly: true, maxItems: 3, minScore: 14 },
+  { url: 'https://rss.arxiv.org/rss/cs.HC', source: 'arXiv - Human-Computer Interaction', stanfordOnly: true, maxItems: 3, minScore: 14 },
 ]
 
 // Institutions to match for arXiv Stanford-only filter
@@ -343,39 +319,24 @@ function matchTopics(title: string, body: string): { topics: string[]; score: nu
   return { topics: matched, score }
 }
 
-const MARKETING_JOURNAL_SOURCES = [
-  'Journal of Marketing', 'Journal of Marketing Research', 'Marketing Science',
-  'J. of the Acad. of Marketing Science', 'Journal of Consumer Research',
-  'Journal of Consumer Psychology', 'Intl. Journal of Research in Marketing', 'Journal of Retailing',
-]
-
+// Angle hints mirror the posts that went big. Order = priority.
 function generateWhyItMatters(topics: string[], source: string): string {
-  // Marketing journal papers always get the marketing label
-  if (MARKETING_JOURNAL_SOURCES.includes(source))
-    return 'Marketing research — directly relevant to your field and audience.'
-
-  if (topics.includes('Education System Critique'))
-    return 'Where education is heading (or failing) — room for a critical, evidence-based take.'
-  if (topics.includes('AI Hype & Critique'))
-    return 'AI claims vs. evidence — fits your AI-forward-but-reflected angle.'
-  if (topics.includes('PhD & PostDoc Life'))
-    return 'Early-career academic life — resonates strongly with your LinkedIn audience.'
-  if (topics.includes('Academic Careers'))
-    return 'Academic career navigation — high engagement topic on LinkedIn.'
-  if (topics.includes('Research Culture'))
-    return 'Research culture and how academia works — always gets engagement.'
-  if (topics.includes('AI & Emerging Tech'))
-    return 'AI/tech development with academic implications — trending topic.'
-  if (topics.includes('Higher Education'))
-    return 'Higher education trends — relevant to your academic audience.'
-  if (topics.includes('Human Behaviour & Cognition'))
-    return 'Behavioural science finding — the kind of insight that performs well on LinkedIn.'
-  if (topics.includes('Marketing & Consumer Behaviour'))
-    return 'Marketing research — directly relevant to your field and audience.'
-  if (topics.includes('Management & Organizations'))
-    return 'Management/org science — cross-disciplinary relevance for business school audience.'
+  if (topics.includes('Careers & Precarity'))
+    return 'Career/precarity story: your #IchBinHanna and leaving-academia posts hit 148k and 261k. Take the insider view, blame the system, not the people.'
+  if (topics.includes('PhD & Supervision'))
+    return 'PhD/supervision: your supervision post hit 252k. Share the decision you second-guess, not the conclusion.'
+  if (topics.includes('AI in Teaching & Assessment'))
+    return 'AI vs. assessment: your exams post hit 142k. Name what colleagues pretend not to see, then say who should pay for the fix.'
+  if (topics.includes('Methods & Data Quality'))
+    return 'Methods + AI: your online-survey post hit 75k and shows expertise industry and future PhDs look for.'
+  if (topics.includes('AI & Research Integrity'))
+    return 'AI and research integrity: claim vs. evidence, from someone who uses AI daily.'
+  if (topics.includes('AI & Consumers'))
+    return 'Your research niche: one clear finding on AI and consumers signals expertise to recruiters and prospective PhDs.'
+  if (topics.includes('Academic Culture'))
+    return 'Academic culture: your slow-science post hit 114k. Works when you are specific about one habit.'
   if (topics.includes('Science Policy & Funding'))
-    return 'Policy shaping funding and careers — affects every academic.'
+    return 'Policy and funding: strongest with a Dutch or German angle and a concrete consequence for researchers.'
   return `${topics.join(', ')}.`
 }
 
@@ -454,7 +415,7 @@ async function scrapeFeed(
         }
       }
       if (feedConfig.alwaysInclude && topics.length === 0) {
-        topics = feedConfig.forcedTopics ? [...feedConfig.forcedTopics] : ['Marketing & Consumer Behaviour']
+        topics = feedConfig.forcedTopics ? [...feedConfig.forcedTopics] : ['Academic Culture']
         baseScore = Math.max(baseScore, 5)
       }
       if (topics.length === 0) continue
@@ -467,22 +428,9 @@ async function scrapeFeed(
       const isArxiv = feedConfig.source.startsWith('arXiv')
       let score = baseScore
 
-      // Boost priority sources (Nature, Science, Higher Ed, Marketing journals)
-      const PRIORITY_SOURCES = [
-        'Nature', 'Nature Careers', 'Nature Human Behaviour',
-        'Nature - Scientific Community', 'Nature - Peer Review',
-        'Nature - Research Management', 'Nature - Publishing',
-        'Nature - Machine Learning', 'Nature - Human Behaviour',
-        'Nature - Society', 'Nature - Policy', 'Nature - Funding',
-        'Nature - Lab Life', 'Nature - Science, Tech & Society',
-        'Science', 'Science Advances', 'PNAS',
-        'Inside Higher Ed', 'Higher Ed Dive',
-        'The Guardian - Higher Education', 'Wonkhe',
-        'Journal of Marketing', 'Journal of Marketing Research', 'Marketing Science',
-        'J. of the Acad. of Marketing Science', 'Journal of Consumer Research',
-        'AI as Normal Technology', 'Code Acts in Education (Williamson)', 'LSE Impact Blog',
-      ]
-      if (PRIORITY_SOURCES.includes(feedConfig.source)) score += 15
+      // Source boost + headline shape. Topic match alone no longer wins.
+      score += feedConfig.boost ?? 0
+      score += hookScore(title)
 
       // Penalize arXiv to prevent domination
       if (isArxiv) score = Math.round(score * 0.6)
@@ -501,6 +449,7 @@ async function scrapeFeed(
         publishedAt: pubDate.toISOString(),
         scrapedAt: now.toISOString(),
         topics,
+        scoreVersion: SCORE_VERSION,
       })
     }
 
@@ -528,10 +477,10 @@ interface CrossrefJournal {
 }
 
 const CROSSREF_JOURNALS: CrossrefJournal[] = [
-  { issn: '0093-5301', source: 'Journal of Consumer Research', forcedTopics: ['Marketing & Consumer Behaviour'] },
-  { issn: '1057-7408', source: 'Journal of Consumer Psychology', forcedTopics: ['Marketing & Consumer Behaviour'] },
-  { issn: '0167-8116', source: 'Intl. Journal of Research in Marketing', forcedTopics: ['Marketing & Consumer Behaviour'] },
-  { issn: '0022-4359', source: 'Journal of Retailing', forcedTopics: ['Marketing & Consumer Behaviour'] },
+  { issn: '0093-5301', source: 'Journal of Consumer Research', forcedTopics: ['AI & Consumers', 'Methods & Data Quality'] },
+  { issn: '1057-7408', source: 'Journal of Consumer Psychology', forcedTopics: ['AI & Consumers', 'Methods & Data Quality'] },
+  { issn: '0167-8116', source: 'Intl. Journal of Research in Marketing', forcedTopics: ['AI & Consumers', 'Methods & Data Quality'] },
+  { issn: '0022-4359', source: 'Journal of Retailing', forcedTopics: ['AI & Consumers', 'Methods & Data Quality'] },
 ]
 
 async function scrapeCrossref(journal: CrossrefJournal, maxAgeDays: number): Promise<Article[]> {
@@ -561,15 +510,11 @@ async function scrapeCrossref(journal: CrossrefJournal, maxAgeDays: number): Pro
       const rawAbstract = item.abstract || ''
       const body = cleanHtml(rawAbstract)
 
-      let { topics, score: baseScore } = matchTopics(title, body)
-      for (const ft of journal.forcedTopics) {
-        if (!topics.includes(ft)) topics.push(ft)
-      }
-      if (topics.length === 0) topics = [...journal.forcedTopics]
-      baseScore = Math.max(baseScore, 5)
-
-      // Apply priority source boost
-      baseScore += 15
+      const { topics, score: topicScore } = matchTopics(title, body)
+      // Journal papers must carry an AI/tech or methods hook to make the feed
+      if (!topics.some((t) => journal.forcedTopics.includes(t))) continue
+      const baseScore = topicScore + hookScore(title)
+      if (baseScore < 14) continue
 
       articles.push({
         id: makeId(link),
@@ -582,9 +527,12 @@ async function scrapeCrossref(journal: CrossrefJournal, maxAgeDays: number): Pro
         publishedAt: pubDate.toISOString(),
         scrapedAt: now.toISOString(),
         topics,
+        scoreVersion: SCORE_VERSION,
       })
     }
 
+    articles.sort((a, b) => b.relevanceScore - a.relevanceScore)
+    if (articles.length > 2) articles.length = 2
     console.log(`  ${journal.source}: ${articles.length} relevant articles (Crossref)`)
     return articles
   } catch (err) {
@@ -804,6 +752,8 @@ async function main() {
   // Merge: new articles take priority, keep old ones up to retention window
   const retentionDays = customDays || 14
   const retentionCutoff = new Date(Date.now() - retentionDays * 24 * 60 * 60 * 1000)
+  // Items scored under an older scheme would keep their inflated scores for 14 days
+  existing = existing.filter((a) => a.scoreVersion === SCORE_VERSION)
   const existingById = new Map(existing.map((a: Article) => [a.id, a]))
   for (const article of allArticles) {
     existingById.set(article.id, article)
