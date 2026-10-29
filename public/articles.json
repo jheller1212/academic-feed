@@ -52,7 +52,7 @@
     "url": "https://doi.org/10.1002/jcpy.70044",
     "source": "Journal of Consumer Psychology",
     "publishedAt": "2026-10-20T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.463Z",
+    "scrapedAt": "2026-10-29T11:30:45.410Z",
     "topics": [
       "Higher Education",
       "Marketing & Consumer Behaviour"
@@ -67,7 +67,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01211-y",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-08T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -81,7 +81,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag033",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-08-24T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "AI Hype & Critique",
       "Marketing & Consumer Behaviour"
@@ -96,7 +96,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01207-8",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-09-28T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -111,7 +111,7 @@
     "url": "https://doi.org/10.1002/jcpy.70040",
     "source": "Journal of Consumer Psychology",
     "publishedAt": "2026-10-12T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.463Z",
+    "scrapedAt": "2026-10-29T11:30:45.410Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Marketing & Consumer Behaviour"
@@ -126,7 +126,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01210-z",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-27T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -141,7 +141,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.0964?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-09-18T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "AI Hype & Critique",
       "Marketing & Consumer Behaviour"
@@ -156,7 +156,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01206-9",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-23T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -201,7 +201,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.01.007",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "AI & Emerging Tech",
       "Marketing & Consumer Behaviour"
@@ -230,7 +230,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag030",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-08-21T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -252,6 +252,21 @@
     ]
   },
   {
+    "id": "ff5c8302cc6c",
+    "title": "The Key Podcast: Politics in Research Funding a ‘Danger’ to U.S. Innovation",
+    "summary": "The Key Podcast: Politics in Research Funding a ‘Danger’ to U.S. Innovation sara.custer@in… Thu, 10/29/2026 - 03:00 AM Byline(s) IHE Staff",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 47,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/10/29/key-politics-research-danger-innovation",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-10-29T07:00:00.000Z",
+    "scrapedAt": "2026-10-29T11:30:43.051Z",
+    "topics": [
+      "Research Culture",
+      "Management & Organizations"
+    ]
+  },
+  {
     "id": "7492dc62b6e5",
     "title": "Sustainability in marketing: A systematic analysis and future research agenda",
     "summary": "Interest in sustainability research is growing, yet fragmented definitions and piecemeal knowledge generation limit academic understanding and real-world impact. To address this confusion and advance sustainability research, this study employs a systematic literature review, science mapping, and topic modeling to analyze the history of research across academic disciplines, drawing from a final corpus of 947 articles. Through this analysis, the authors propose a holistic definition of sustainabil",
@@ -260,7 +275,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01220-x",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -290,7 +305,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01217-6",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-21T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -305,7 +320,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01209-6",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-10T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -334,7 +349,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03410-7",
     "source": "Nature Careers",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.672Z",
+    "scrapedAt": "2026-10-29T11:30:40.548Z",
     "topics": [
       "PhD & PostDoc Life"
     ]
@@ -363,7 +378,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01203-y",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-09-19T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Marketing & Consumer Behaviour"
@@ -378,7 +393,7 @@
     "url": "https://www.highereddive.com/news/week-in-review-new-accreditor-grants-approval-to-first-university/833892/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-10-26T09:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.977Z",
+    "scrapedAt": "2026-10-29T11:30:43.025Z",
     "topics": [
       "Research Culture"
     ]
@@ -392,7 +407,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01213-w",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -421,7 +436,7 @@
     "url": "https://doi.org/10.1002/jcpy.70043",
     "source": "Journal of Consumer Psychology",
     "publishedAt": "2026-10-15T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.463Z",
+    "scrapedAt": "2026-10-29T11:30:45.410Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -450,7 +465,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01208-7",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-09-23T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -465,7 +480,7 @@
     "url": "https://hechingerreport.org/proof-points-ai-education-meta-analysis/",
     "source": "The Hechinger Report",
     "publishedAt": "2026-10-26T10:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.848Z",
+    "scrapedAt": "2026-10-29T11:30:42.328Z",
     "topics": [
       "AI & Emerging Tech",
       "Education System Critique"
@@ -524,7 +539,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag039",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-09-15T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Marketing & Consumer Behaviour"
@@ -554,7 +569,7 @@
     "url": "https://www.highereddive.com/news/cornell-dei-hiring-lawsuit-lack-of-standing/873069/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-10-29T09:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.977Z",
+    "scrapedAt": "2026-10-29T11:30:43.025Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -569,7 +584,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03445-w",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-10-28T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.153Z",
+    "scrapedAt": "2026-10-29T11:30:39.713Z",
     "topics": [
       "Research Culture"
     ]
@@ -583,7 +598,7 @@
     "url": "https://www.nature.com/articles/s41598-025-14337-w",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-10-27T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.022Z",
+    "scrapedAt": "2026-10-29T11:30:39.734Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -597,7 +612,7 @@
     "url": "https://www.nature.com/articles/s43588-026-01073-y",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.022Z",
+    "scrapedAt": "2026-10-29T11:30:39.734Z",
     "topics": [
       "AI & Emerging Tech",
       "AI Hype & Critique"
@@ -612,7 +627,7 @@
     "url": "https://www.nature.com/articles/s41599-026-09577-8",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-10-25T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.836Z",
+    "scrapedAt": "2026-10-29T11:30:40.815Z",
     "topics": [
       "AI Hype & Critique",
       "Marketing & Consumer Behaviour"
@@ -701,7 +716,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.10.001",
     "source": "Journal of Retailing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "AI & Emerging Tech",
       "Marketing & Consumer Behaviour"
@@ -716,7 +731,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.09.007",
     "source": "Journal of Retailing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -730,7 +745,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.10.001",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -744,7 +759,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.10.003",
     "source": "Journal of Retailing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -759,7 +774,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.09.003",
     "source": "Journal of Retailing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -773,7 +788,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag038",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-09-30T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -787,7 +802,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag037",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-09-15T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -801,7 +816,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2025.10.001",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -815,7 +830,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.01.003",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -829,7 +844,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.08.007",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -843,7 +858,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.01.004",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -871,7 +886,7 @@
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00222429261481116?ai=2b4&mi=ehikzz&af=R",
     "source": "Journal of Marketing",
     "publishedAt": "2026-08-21T07:32:25.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.111Z",
+    "scrapedAt": "2026-10-29T11:30:40.927Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -917,7 +932,7 @@
     "url": "https://wonkhe.com/blogs/everything-in-the-2026-budget-for-higher-education-and-students",
     "source": "Wonkhe",
     "publishedAt": "2026-10-28T17:37:53.000Z",
-    "scrapedAt": "2026-10-29T09:12:45.310Z",
+    "scrapedAt": "2026-10-29T11:30:44.239Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -932,7 +947,7 @@
     "url": "https://www.nature.com/articles/s41598-026-63763-x",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.836Z",
+    "scrapedAt": "2026-10-29T11:30:40.815Z",
     "topics": [
       "Research Culture",
       "Human Behaviour & Cognition"
@@ -977,7 +992,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03476-3",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-10-28T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.153Z",
+    "scrapedAt": "2026-10-29T11:30:39.713Z",
     "topics": [
       "Research Culture",
       "Science Policy & Funding"
@@ -992,7 +1007,7 @@
     "url": "https://www.highereddive.com/news/pomona-college-strikes-deal-to-become-parent-of-claremont-graduate-universi/872970/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-10-27T22:15:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.977Z",
+    "scrapedAt": "2026-10-29T11:30:43.025Z",
     "topics": [
       "Research Culture",
       "Higher Education"
@@ -1111,7 +1126,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2025.09.006",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Marketing & Consumer Behaviour"
@@ -1210,7 +1225,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01202-z",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-02T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1224,7 +1239,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01193-x",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-09-07T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour",
       "Management & Organizations"
@@ -1282,7 +1297,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag028",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-08-14T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1325,7 +1340,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag026",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-09-18T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Research Culture",
       "Marketing & Consumer Behaviour"
@@ -1368,7 +1383,7 @@
     "url": "https://www.theguardian.com/us-news/2026/oct/27/north-carolina-at-hbcu-student-voters",
     "source": "The Guardian - Higher Education",
     "publishedAt": "2026-10-27T12:00:37.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.973Z",
+    "scrapedAt": "2026-10-29T11:30:43.242Z",
     "topics": [
       "Higher Education"
     ]
@@ -1382,7 +1397,7 @@
     "url": "https://wonkhe.com/blogs/universities-cannot-restructure-their-way-out-of-a-leadership-readiness-crisis",
     "source": "Wonkhe",
     "publishedAt": "2026-10-27T00:26:06.000Z",
-    "scrapedAt": "2026-10-29T09:12:45.310Z",
+    "scrapedAt": "2026-10-29T11:30:44.239Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -1508,7 +1523,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01216-7",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-21T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1648,7 +1663,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01214-9",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-15T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1662,7 +1677,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01218-5",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-15T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1704,7 +1719,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2025.0292?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-10-12T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1724,20 +1739,6 @@
     ]
   },
   {
-    "id": "b24746142e4f",
-    "title": "What does a PhD pay? Data reveal huge gaps across Europe",
-    "summary": "",
-    "whyItMatters": "Early-career academic life — resonates strongly with your LinkedIn audience.",
-    "relevanceScore": 31,
-    "url": "https://www.nature.com/articles/d41586-026-03181-1",
-    "source": "Nature",
-    "publishedAt": "2026-10-12T00:00:00.000Z",
-    "scrapedAt": "2026-10-15T09:53:36.253Z",
-    "topics": [
-      "PhD & PostDoc Life"
-    ]
-  },
-  {
     "id": "823fec20e478",
     "title": "From Live to Recording: Consumer Demand and Response to Price Across the Livestreaming Lifecycle",
     "summary": "Marketing Science, Ahead of Print.",
@@ -1746,7 +1747,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.1281?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-10-07T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1760,7 +1761,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2025.0618?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-09-23T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1774,7 +1775,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01205-w",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-09-21T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1788,7 +1789,7 @@
     "url": "https://doi.org/10.1002/jcpy.70038",
     "source": "Journal of Consumer Psychology",
     "publishedAt": "2026-09-10T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.463Z",
+    "scrapedAt": "2026-10-29T11:30:45.410Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1802,7 +1803,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag035",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-09-08T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1816,7 +1817,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag036",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-09-07T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1873,7 +1874,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.0900?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-08-14T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -1887,7 +1888,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag027",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-08-14T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Research Culture",
       "Marketing & Consumer Behaviour"
@@ -1930,7 +1931,7 @@
     "url": "https://www.nature.com/articles/s41586-026-11199-8",
     "source": "Nature",
     "publishedAt": "2026-10-28T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.716Z",
+    "scrapedAt": "2026-10-29T11:30:40.599Z",
     "topics": [
       "Education System Critique"
     ]
@@ -1944,7 +1945,7 @@
     "url": "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
     "source": "The Guardian - Higher Education",
     "publishedAt": "2026-10-27T15:00:34.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.973Z",
+    "scrapedAt": "2026-10-29T11:30:43.242Z",
     "topics": [
       "Higher Education"
     ]
@@ -1958,7 +1959,7 @@
     "url": "https://www.nature.com/articles/s41599-026-09564-z",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-10-27T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.836Z",
+    "scrapedAt": "2026-10-29T11:30:40.815Z",
     "topics": [
       "Education System Critique"
     ]
@@ -2056,7 +2057,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02566-6",
     "source": "Nature Human Behaviour",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.686Z",
+    "scrapedAt": "2026-10-29T11:30:40.559Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2070,7 +2071,7 @@
     "url": "https://www.nature.com/articles/s41599-026-09533-6",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-10-25T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.836Z",
+    "scrapedAt": "2026-10-29T11:30:40.815Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2084,7 +2085,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag040",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-10-19T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Human Behaviour & Cognition",
       "Marketing & Consumer Behaviour"
@@ -2113,10 +2114,24 @@
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00222437261476639?ai=2b4&mi=ehikzz&af=R",
     "source": "Journal of Marketing Research",
     "publishedAt": "2026-08-03T12:47:48.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.119Z",
+    "scrapedAt": "2026-10-29T11:30:40.870Z",
     "topics": [
       "AI & Emerging Tech",
       "Marketing & Consumer Behaviour"
+    ]
+  },
+  {
+    "id": "9354dac14231",
+    "title": "Students Push Colleges to ‘De-Flock’",
+    "summary": "Students Push Colleges to ‘De-Flock’ Emma Whitford Thu, 10/29/2026 - 03:00 AM An increasing number of colleges signed contracts with Flock Safety following the 2024 pro-Palestinian protests. As students raise privacy concerns, some institutions are abandoning surveillance cameras. Byline(s) Emma Whitford",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 28,
+    "url": "https://www.insidehighered.com/news/students/safety/2026/10/29/students-push-colleges-de-flock",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-10-29T07:00:00.000Z",
+    "scrapedAt": "2026-10-29T11:30:43.051Z",
+    "topics": [
+      "Higher Education"
     ]
   },
   {
@@ -2233,6 +2248,34 @@
     ]
   },
   {
+    "id": "97afc4ae1812",
+    "title": "Preliminary Enrollment Data Shows Slower Growth",
+    "summary": "Preliminary Enrollment Data Shows Slower Growth Katherine Knott Thu, 10/29/2026 - 03:00 AM Byline(s) Kathryn Palmer Katherine Knott",
+    "whyItMatters": "Higher education trends — relevant to your academic audience.",
+    "relevanceScore": 27,
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/10/29/preliminary-enrollment-data-shows-slower-growth",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-10-29T07:00:00.000Z",
+    "scrapedAt": "2026-10-29T11:30:43.051Z",
+    "topics": [
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "f7e5a4e0cd50",
+    "title": "University of Providence to Close",
+    "summary": "University of Providence to Close Josh Moody Thu, 10/29/2026 - 03:00 AM The Catholic university in rural Montana will close next year amid struggles with enrollment, severe financial issues and the loss of a major funder that helped subsidize costs. Byline(s) Josh Moody",
+    "whyItMatters": "Research culture and how academia works — always gets engagement.",
+    "relevanceScore": 27,
+    "url": "https://www.insidehighered.com/news/business/financial-health/2026/10/29/university-providence-close",
+    "source": "Inside Higher Ed",
+    "publishedAt": "2026-10-29T07:00:00.000Z",
+    "scrapedAt": "2026-10-29T11:30:43.051Z",
+    "topics": [
+      "Research Culture"
+    ]
+  },
+  {
     "id": "ad6723061189",
     "title": "A training-free, domain-extensible LLM-based approach for automated extraction of standardized preparation procedures",
     "summary": "",
@@ -2241,7 +2284,7 @@
     "url": "https://www.nature.com/articles/s41467-026-78605-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-10-29T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.153Z",
+    "scrapedAt": "2026-10-29T11:30:39.713Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2269,7 +2312,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef6378?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-10-28T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.048Z",
+    "scrapedAt": "2026-10-29T11:30:40.684Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2283,7 +2326,7 @@
     "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei9538?af=R",
     "source": "Science Advances",
     "publishedAt": "2026-10-28T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.048Z",
+    "scrapedAt": "2026-10-29T11:30:40.684Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2297,7 +2340,7 @@
     "url": "https://www.nature.com/articles/s44284-026-00544-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-10-28T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.153Z",
+    "scrapedAt": "2026-10-29T11:30:39.713Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2311,7 +2354,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03402-7",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-10-28T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.153Z",
+    "scrapedAt": "2026-10-29T11:30:39.713Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2325,7 +2368,7 @@
     "url": "https://www.nature.com/articles/s41467-026-79009-3",
     "source": "Nature - Machine Learning",
     "publishedAt": "2026-10-28T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.022Z",
+    "scrapedAt": "2026-10-29T11:30:39.734Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2339,7 +2382,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03260-3",
     "source": "Nature",
     "publishedAt": "2026-10-28T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.716Z",
+    "scrapedAt": "2026-10-29T11:30:40.599Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2367,7 +2410,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2023.0340?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-10-27T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "AI & Emerging Tech",
       "Marketing & Consumer Behaviour"
@@ -2382,7 +2425,7 @@
     "url": "https://www.nature.com/articles/d41586-026-03407-2",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-10-27T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.153Z",
+    "scrapedAt": "2026-10-29T11:30:39.713Z",
     "topics": [
       "Research Culture"
     ]
@@ -2396,7 +2439,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01215-8",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-27T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -2410,7 +2453,7 @@
     "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/26/clique-or-journal-community-where-does-accountability-lie-in-editorial-decision-making/",
     "source": "LSE Impact Blog",
     "publishedAt": "2026-10-26T11:00:29.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.904Z",
+    "scrapedAt": "2026-10-29T11:30:42.522Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -2424,7 +2467,7 @@
     "url": "https://www.highereddive.com/spons/scale-is-not-a-strategy-what-91-public-systems-tell-us-about-resilience/833048/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-10-26T09:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.977Z",
+    "scrapedAt": "2026-10-29T11:30:43.025Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2438,7 +2481,7 @@
     "url": "https://www.nature.com/articles/s41587-026-03369-w",
     "source": "Nature - Scientific Community",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.153Z",
+    "scrapedAt": "2026-10-29T11:30:39.713Z",
     "topics": [
       "Research Culture"
     ]
@@ -2452,7 +2495,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02620-3",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.166Z",
+    "scrapedAt": "2026-10-29T11:30:39.755Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -2466,7 +2509,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02539-9",
     "source": "Nature - Human Behaviour",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.166Z",
+    "scrapedAt": "2026-10-29T11:30:39.755Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2480,7 +2523,7 @@
     "url": "https://www.nature.com/articles/s41599-026-09557-y",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.836Z",
+    "scrapedAt": "2026-10-29T11:30:40.815Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -2494,7 +2537,7 @@
     "url": "https://www.nature.com/articles/s41599-026-09525-6",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.836Z",
+    "scrapedAt": "2026-10-29T11:30:40.815Z",
     "topics": [
       "Research Culture"
     ]
@@ -2508,7 +2551,7 @@
     "url": "https://www.nature.com/articles/s41599-026-09528-3",
     "source": "Nature - Science, Tech & Society",
     "publishedAt": "2026-10-25T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.836Z",
+    "scrapedAt": "2026-10-29T11:30:40.815Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -3237,7 +3280,7 @@
     "url": "https://doi.org/10.1002/jcpy.70041",
     "source": "Journal of Consumer Psychology",
     "publishedAt": "2026-10-04T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.463Z",
+    "scrapedAt": "2026-10-29T11:30:45.410Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3251,7 +3294,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.09.008",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3265,7 +3308,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.09.011",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3279,7 +3322,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.09.006",
     "source": "Journal of Retailing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3293,7 +3336,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.10.002",
     "source": "Journal of Retailing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3307,7 +3350,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.09.004",
     "source": "Journal of Retailing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3321,7 +3364,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2025.09.005",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3335,7 +3378,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2025.09.002",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3349,7 +3392,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2025.10.007",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3363,7 +3406,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2025.12.002",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3377,7 +3420,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.09.005",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3391,7 +3434,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2025.09.003",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3405,7 +3448,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.09.003",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3461,7 +3504,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.02.001",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3475,7 +3518,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2025.12.006",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3489,7 +3532,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.09.001",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3503,7 +3546,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.01.005",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3545,7 +3588,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag029",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-08-24T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3559,7 +3602,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2023.0308?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-08-19T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Management & Organizations",
       "Marketing & Consumer Behaviour"
@@ -3602,7 +3645,7 @@
     "url": "https://www.highereddive.com/news/undergraduate-enrollment-inched-up-this-fall-while-masters-dips-37/873114/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-10-29T05:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.977Z",
+    "scrapedAt": "2026-10-29T11:30:43.025Z",
     "topics": [
       "Higher Education"
     ]
@@ -3616,7 +3659,7 @@
     "url": "https://wonkhe.com/blogs/meeting-expectations-on-disability-inclusion",
     "source": "Wonkhe",
     "publishedAt": "2026-10-26T00:38:08.000Z",
-    "scrapedAt": "2026-10-29T09:12:45.310Z",
+    "scrapedAt": "2026-10-29T11:30:44.239Z",
     "topics": [
       "Higher Education"
     ]
@@ -3630,7 +3673,7 @@
     "url": "https://www.highereddive.com/news/louisianas-public-colleges-face-4b-deferred-maintenance-backlog/872812/",
     "source": "Higher Ed Dive",
     "publishedAt": "2026-10-26T20:28:19.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.977Z",
+    "scrapedAt": "2026-10-29T11:30:43.025Z",
     "topics": [
       "Higher Education"
     ]
@@ -3644,7 +3687,7 @@
     "url": "https://www.nature.com/articles/s41562-026-02610-5",
     "source": "Nature Human Behaviour",
     "publishedAt": "2026-10-26T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:41.686Z",
+    "scrapedAt": "2026-10-29T11:30:40.559Z",
     "topics": [
       "Higher Education"
     ]
@@ -3939,7 +3982,7 @@
     "url": "https://doi.org/10.1002/jcpy.70042",
     "source": "Journal of Consumer Psychology",
     "publishedAt": "2026-09-29T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.463Z",
+    "scrapedAt": "2026-10-29T11:30:45.410Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3967,7 +4010,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag034",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-08-24T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -3981,7 +4024,7 @@
     "url": "https://doi.org/10.1002/jcpy.70036",
     "source": "Journal of Consumer Psychology",
     "publishedAt": "2026-08-05T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.463Z",
+    "scrapedAt": "2026-10-29T11:30:45.410Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4053,7 +4096,7 @@
     "url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-10-26T11:00:29.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.246Z",
+    "scrapedAt": "2026-10-29T11:30:42.195Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4115,20 +4158,6 @@
     ]
   },
   {
-    "id": "81cc4cedf681",
-    "title": "Weekend reads: OpenAI’s preprint dump; Taylor & Francis to leave Informa; arXiv’s preprint cap",
-    "summary": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In case you missed the news, the Hijacked Journal Checker now has more than 450 entries. The Retraction Watch Database has over 67,000 retractions. Our list of COVID-19 retractions … Continue reading Weekend reads: OpenAI’s preprint dump; Taylor & Francis to leave Informa; arXiv’s preprint cap",
-    "whyItMatters": "Research culture and how academia works — always gets engagement.",
-    "relevanceScore": 20,
-    "url": "https://retractionwatch.com/2026/10/10/weekend-reads-openais-preprint-dump-taylor-francis-to-leave-informa-arxivs-preprint-cap/",
-    "source": "Retraction Watch",
-    "publishedAt": "2026-10-10T10:00:00.000Z",
-    "scrapedAt": "2026-10-15T09:53:39.226Z",
-    "topics": [
-      "Research Culture"
-    ]
-  },
-  {
     "id": "c45949b27891",
     "title": "Do relationship disruptions increase spending on product categories high in eudaimonic value?",
     "summary": "",
@@ -4137,7 +4166,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.09.005",
     "source": "Journal of Retailing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4151,7 +4180,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.09.010",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4165,7 +4194,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.09.009",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4179,7 +4208,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.10.004",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4193,7 +4222,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.10.005",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4207,7 +4236,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.10.003",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-10-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4221,7 +4250,7 @@
     "url": "https://doi.org/10.1002/jcpy.70039",
     "source": "Journal of Consumer Psychology",
     "publishedAt": "2026-09-17T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.463Z",
+    "scrapedAt": "2026-10-29T11:30:45.410Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4235,7 +4264,7 @@
     "url": "https://doi.org/10.1093/jcr/ucag031",
     "source": "Journal of Consumer Research",
     "publishedAt": "2026-09-12T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.635Z",
+    "scrapedAt": "2026-10-29T11:30:45.389Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4249,7 +4278,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2025.10.006",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4263,7 +4292,7 @@
     "url": "https://doi.org/10.1016/j.ijresmar.2026.09.004",
     "source": "Intl. Journal of Research in Marketing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.924Z",
+    "scrapedAt": "2026-10-29T11:30:45.448Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4291,7 +4320,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.01.002",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4305,7 +4334,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.02.002",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4319,7 +4348,7 @@
     "url": "https://doi.org/10.1016/s0022-4359(26)00086-2",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4333,7 +4362,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.08.008",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4347,7 +4376,7 @@
     "url": "https://doi.org/10.1016/j.jretai.2026.03.006",
     "source": "Journal of Retailing",
     "publishedAt": "2026-09-01T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:46.835Z",
+    "scrapedAt": "2026-10-29T11:30:45.424Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4404,7 +4433,7 @@
     "url": "https://arxiv.org/abs/2604.16364",
     "source": "arXiv - AI",
     "publishedAt": "2026-10-29T04:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.894Z",
+    "scrapedAt": "2026-10-29T11:30:42.443Z",
     "topics": [
       "AI & Emerging Tech"
     ]
@@ -4462,7 +4491,7 @@
     "url": "https://www.theguardian.com/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence",
     "source": "The Guardian - Science",
     "publishedAt": "2026-10-27T14:00:37.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.966Z",
+    "scrapedAt": "2026-10-29T11:30:43.093Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4476,7 +4505,7 @@
     "url": "https://retractionwatch.com/2026/10/26/joachim-schmidt-university-sydney-investigation-space-scientist-retraction/",
     "source": "Retraction Watch",
     "publishedAt": "2026-10-26T18:49:21.000Z",
-    "scrapedAt": "2026-10-29T09:12:45.068Z",
+    "scrapedAt": "2026-10-29T11:30:43.222Z",
     "topics": [
       "Research Culture"
     ]
@@ -4490,7 +4519,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2025.02928?af=R",
     "source": "Management Science",
     "publishedAt": "2026-10-26T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.606Z",
+    "scrapedAt": "2026-10-29T11:30:41.078Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4616,7 +4645,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01219-4",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-10-27T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4630,7 +4659,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2025.0394?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-10-23T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4686,7 +4715,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.0929?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-10-12T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4700,7 +4729,7 @@
     "url": "https://journals.sagepub.com/doi/abs/10.1177/00222437261491808?ai=2b4&mi=ehikzz&af=R",
     "source": "Journal of Marketing Research",
     "publishedAt": "2026-10-10T12:03:31.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.119Z",
+    "scrapedAt": "2026-10-29T11:30:40.870Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4714,7 +4743,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2025.0145?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-10-05T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4728,7 +4757,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01204-x",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-09-21T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4742,7 +4771,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.0800?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-09-18T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4756,7 +4785,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2026.eb.v45n5?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-09-11T09:43:07.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4770,7 +4799,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.1176?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-09-10T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4784,7 +4813,7 @@
     "url": "https://link.springer.com/article/10.1007/s11747-026-01201-0",
     "source": "J. of the Acad. of Marketing Science",
     "publishedAt": "2026-09-10T00:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.083Z",
+    "scrapedAt": "2026-10-29T11:30:41.975Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4798,7 +4827,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2025.0134?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-08-14T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4812,7 +4841,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mksc.2022.0437?af=R",
     "source": "Marketing Science",
     "publishedAt": "2026-08-06T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.363Z",
+    "scrapedAt": "2026-10-29T11:30:40.971Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4868,9 +4897,23 @@
     "url": "https://hechingerreport.org/when-community-colleges-close-rural-students-get-shut-out-of-the-liberal-arts/",
     "source": "The Hechinger Report",
     "publishedAt": "2026-10-27T05:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.848Z",
+    "scrapedAt": "2026-10-29T11:30:42.328Z",
     "topics": [
       "Higher Education"
+    ]
+  },
+  {
+    "id": "468ea3c00c34",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
+    "whyItMatters": "Marketing research — directly relevant to your field and audience.",
+    "relevanceScore": 12,
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "source": "MIT Technology Review - AI",
+    "publishedAt": "2026-10-29T10:11:12.000Z",
+    "scrapedAt": "2026-10-29T11:30:42.155Z",
+    "topics": [
+      "Marketing & Consumer Behaviour"
     ]
   },
   {
@@ -4882,7 +4925,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2025.03608?af=R",
     "source": "Management Science",
     "publishedAt": "2026-10-28T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.606Z",
+    "scrapedAt": "2026-10-29T11:30:41.078Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -4896,7 +4939,7 @@
     "url": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
     "source": "MIT Sloan Management Review",
     "publishedAt": "2026-10-27T11:00:35.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.246Z",
+    "scrapedAt": "2026-10-29T11:30:42.195Z",
     "topics": [
       "Management & Organizations"
     ]
@@ -4910,7 +4953,7 @@
     "url": "https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video",
     "source": "The Guardian - Science",
     "publishedAt": "2026-10-26T12:00:41.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.966Z",
+    "scrapedAt": "2026-10-29T11:30:43.093Z",
     "topics": [
       "Research Culture"
     ]
@@ -4938,7 +4981,7 @@
     "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
     "source": "MIT Technology Review - AI",
     "publishedAt": "2026-10-26T09:01:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.194Z",
+    "scrapedAt": "2026-10-29T11:30:42.155Z",
     "topics": [
       "AI Hype & Critique"
     ]
@@ -4952,7 +4995,7 @@
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2025.04854?af=R",
     "source": "Management Science",
     "publishedAt": "2026-10-26T07:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:42.606Z",
+    "scrapedAt": "2026-10-29T11:30:41.078Z",
     "topics": [
       "Marketing & Consumer Behaviour"
     ]
@@ -5106,7 +5149,7 @@
     "url": "https://journals.aom.org/doi/abs/10.5465/amr.2025.0873?af=R",
     "source": "Academy of Management Review",
     "publishedAt": "2026-10-28T06:43:59.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.294Z",
+    "scrapedAt": "2026-10-29T11:30:42.230Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -5148,7 +5191,7 @@
     "url": "https://arxiv.org/abs/2610.36341",
     "source": "arXiv - AI",
     "publishedAt": "2026-10-29T04:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:43.894Z",
+    "scrapedAt": "2026-10-29T11:30:42.443Z",
     "topics": [
       "Human Behaviour & Cognition"
     ]
@@ -5162,7 +5205,7 @@
     "url": "https://2ndbreakfast.audreywatters.com/selling-stories/",
     "source": "Second Breakfast (Audrey Watters)",
     "publishedAt": "2026-10-29T09:00:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.049Z",
+    "scrapedAt": "2026-10-29T11:30:42.466Z",
     "topics": [
       "Education System Critique"
     ]
@@ -5176,7 +5219,7 @@
     "url": "https://2ndbreakfast.audreywatters.com/heel-turn/",
     "source": "Second Breakfast (Audrey Watters)",
     "publishedAt": "2026-10-26T18:20:00.000Z",
-    "scrapedAt": "2026-10-29T09:12:44.049Z",
+    "scrapedAt": "2026-10-29T11:30:42.466Z",
     "topics": [
       "Education System Critique"
     ]
